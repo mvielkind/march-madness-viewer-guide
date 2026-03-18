@@ -1,0 +1,312 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'prairie-view-vs-lehigh-2026',
+  title: 'Prairie View A&M vs Lehigh — First Four Viewing Guide',
+  eventTag: 'NCAA Tournament • First Four • Dayton, OH',
+  date: 'Wednesday, March 18, 2026 • 6:40 PM ET',
+  round: 'First Four',
+  tipTime: '2026-03-18T18:40',
+  venue: 'UD Arena, Dayton, Ohio',
+  extraInfo: 'Winner faces <strong>#1 Florida</strong> in Tampa, FL • truTV',
+  teams: [
+    {
+      name: 'Prairie View A&M',
+      mascot: 'Panthers',
+      seed: '#16 Seed',
+      record: '18-17 • SWAC Champs',
+      colors: { primary: '#582C83', secondary: '#FFCC33', name: 'pvamu' },
+      className: 'pvamu',
+    },
+    {
+      name: 'Lehigh',
+      mascot: 'Mountain Hawks',
+      seed: '#16 Seed',
+      record: '18-16 • Patriot League Champs',
+      colors: { primary: '#502d0e', secondary: '#FFFFFF', name: 'lehigh' },
+      className: 'lehigh',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'Two conference tournament champions with sub-.500 records. Two programs that had to scratch and claw their way into this bracket. Prairie View A&M — an HBCU from small-town Texas — won <strong>four straight games as the 8-seed</strong> to claim the SWAC title. Lehigh was <strong>10-15 on February 7th</strong> before ripping off eight wins in nine games to take the Patriot League crown. Neither was supposed to be here. Both absolutely belong. And the winner gets Florida — the #1 seed in the South.',
+    cards: [
+      {
+        label: 'For Prairie View A&M',
+        value:
+          'The Panthers are <strong>0-2 all-time</strong> in the NCAA Tournament (1998, 2019). Their best players took no NIL money — they chose Prairie View for the opportunity. A win here would be program-defining for one of the oldest HBCUs in Texas.',
+      },
+      {
+        label: 'For Lehigh',
+        value:
+          'This is Lehigh\'s <strong>first NCAA Tournament appearance since 2012</strong> — the year they beat Duke. A 14-year drought is over. Coach Brett Reed has been building toward this for nearly two decades.',
+      },
+      {
+        label: 'Cinderella Watch',
+        value:
+          'Prairie View was the <strong>lowest seed in SWAC tournament history</strong> to win the title. Lehigh was 10-15 six weeks ago. Both teams are playing their best basketball right now — and that\'s exactly the kind of team you don\'t want to face in March.',
+      },
+      {
+        label: 'The Prize',
+        value:
+          'Winner gets <strong>#1 Florida</strong> in Tampa. That\'s a monster matchup. But if either of these teams can pull it off? Instant biggest story of the tournament.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Up-Tempo Guard Scorers',
+      bullets: [
+        '<strong>Offense:</strong> Prairie View scores <strong>78.9 PPG</strong> (103rd nationally) and Coach Byron Smith says it bluntly: "The scoring part is not hard for us." Three guards — Horne (20.2), Joseph (18.2), and Williams (10.1) — carry the load. This team can fill it up in a hurry.',
+        '<strong>Free throw shooting:</strong> They shoot <strong>75.3% from the line</strong> (9th nationally). In close games, that matters a lot. Lance Williams went 12-of-13 from the line in the SWAC semifinal.',
+        '<strong>Defense:</strong> Better than you\'d expect. Their adjusted defensive rating ranks <strong>76th nationally</strong>, with <strong>7.9 steals per game</strong> (29th) and 4.7 blocks per game (57th). Active hands, active rim protection.',
+        '<strong>Tempo:</strong> They want to push the pace and get into transition. The guard trio thrives in open space. They outscored Alabama A&M in the paint 44-20 in the SWAC semifinals.',
+        '<strong>Weakness:</strong> Three-point shooting is <strong>321st nationally</strong> at 33.4%. If the guards\' mid-range shots aren\'t falling and they can\'t get to the rim, the offense can stall. Their overall offensive efficiency is just 246th — they score a lot partly because they play fast, not because every possession is efficient.',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'Methodical Half-Court Attack',
+      bullets: [
+        '<strong>Offense:</strong> Lehigh doesn\'t play fast — they play smart. Coach Brett Reed runs a ball-movement system built on the extra pass. They shot <strong>47.4% from three</strong> in the Patriot League championship game. When the offense is humming, it\'s efficient and hard to stop.',
+        '<strong>Nasir Whitlock is the engine:</strong> He\'s shooting <strong>44.5% from three</strong> and averaging 21.0 PPG. The offense runs through him, and the spacing he creates opens things up for Alvey inside and Ingram on the wing.',
+        '<strong>Balanced scoring:</strong> Four players scored in double figures in the championship game. Lehigh doesn\'t rely on one guy — Alvey (15.0), Ingram (10.6), and Benoit (10.3) all contribute. That balance makes them harder to game-plan against.',
+        '<strong>Rebounding:</strong> They out-rebounded Boston University 36-31 in the title game. Alvey (6.9 RPG) and Benoit (6.0 RPG) give them legit size on the glass at 6\'9" and 6\'8".',
+        '<strong>Weakness:</strong> They allow <strong>74.0 PPG</strong> (189th nationally) — slightly more than they score (73.2). If Prairie View\'s guards get going early, Lehigh\'s defense might not be able to keep up. And the 10-15 stretch earlier this season suggests this team can go cold for extended periods.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: "Prairie View's pace vs Lehigh's patience.",
+      description:
+        "This is the fundamental clash. Prairie View wants to push tempo and score in transition. Lehigh wants to slow it down and execute in the half court. Whoever controls the pace controls the game. If it's in the 60s, advantage Lehigh. If it's in the 80s, advantage Prairie View.",
+    },
+    {
+      title: 'Can anyone stop Nasir Whitlock?',
+      description:
+        "Whitlock averaged 23.0 PPG in the Patriot League tournament and shoots 44.5% from three on the season. He's been the best player on the floor in every game Lehigh has played recently. Prairie View needs to figure out how to contain him without leaving shooters open on the kick-out.",
+    },
+    {
+      title: 'The Dontae Horne factor.',
+      description:
+        "The SWAC Tournament MVP is averaging 20.2 PPG and dropped 46 points in a single game this season. When he's cooking, Prairie View is a different team. He had 26 points and 13 rebounds against Jackson State. Lehigh hasn't faced a scorer like this in Patriot League play.",
+    },
+    {
+      title: 'Free throws in crunch time.',
+      description:
+        "Prairie View shoots 75.3% from the line — 9th nationally. That's a real edge if this game is tight in the final minutes. Lance Williams went 12-of-13 from the line in the SWAC semifinal. In a game between two evenly matched 16-seeds, free throw shooting could be the difference.",
+    },
+    {
+      title: "Lehigh's size advantage inside.",
+      description:
+        "Alvey (6'9\"), Benoit (6'8\"), and the 6'11\" centers give Lehigh a clear size edge. Prairie View's frontcourt is thinner — Cory Wells at 6'7\" is their biggest regular contributor. If Lehigh can establish an inside presence and force Prairie View into a half-court game, that length could be decisive.",
+    },
+  ],
+  players: [
+    {
+      team: 'a',
+      name: 'Dontae Horne',
+      stats: '20.2 PPG • 4.5 RPG • 1.9 SPG',
+      meta: "G • 6'4\" • Sr • SWAC Tournament MVP",
+      bio: 'The engine of everything Prairie View does. A transfer from UTSA who chose the Panthers with <strong>no NIL deal</strong> — just wanted the opportunity to lead a team. Responded by dropping <strong>46 points</strong> against Southern in February and winning SWAC Tournament MVP. From Baton Rouge, Louisiana, same as two of his backcourt partners.<br><a href="https://hbcusports.com/2026/03/15/got-our-foot-in-the-door-prairie-view-makes-history-in-swac-title-run/" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'a',
+      name: "Tai'Reon Joseph",
+      stats: '18.2 PPG • 43.0% FG',
+      meta: "G • 6'3\" • Sr • Transfer from UTSA",
+      bio: "The second piece of Prairie View's Baton Rouge-to-UTSA-to-PVAMU pipeline. Joseph is a deadly scorer who came over with Horne and immediately became one of the SWAC's most dangerous offensive players. Missed eight games this season but still averaged over 18 per game when healthy. When both he and Horne are on the floor together, defenses have to pick their poison.",
+    },
+    {
+      team: 'a',
+      name: 'Cory Wells',
+      stats: '13.1 PPG • 7.1 RPG • 2.2 APG',
+      meta: "F • 6'7\" • Sr • Pursuing MBA",
+      bio: 'The do-everything forward and the team\'s best rebounder. Transfer from Utah Valley who\'s <strong>pursuing his MBA</strong> while playing. Had <strong>16 points, 6 rebounds, and 3 blocks</strong> in the SWAC championship game. Also the team\'s secondary playmaker with 2.2 assists per game — unusual for a forward his size.',
+    },
+    {
+      team: 'a',
+      name: 'Lance Williams',
+      stats: '10.1 PPG • 3.3 APG • 3.2 RPG',
+      meta: "G • 6'1\" • Grad Student • Floor General",
+      bio: 'The point guard, the vocal leader, and the closer. Played <strong>all 40 minutes</strong> in the SWAC championship game, leading the team with 18 points. Went <strong>12-of-13 from the free throw line</strong> in the semifinal. Another Baton Rouge native with no NIL deal. After the SWAC title: "I don\'t feel like anybody deserved it but us."',
+    },
+    {
+      team: 'b',
+      name: 'Nasir Whitlock',
+      stats: '21.0 PPG • 3.5 RPG • 44.5% 3PT',
+      meta: "G • 6'2\" • Jr • Patriot League Tournament MVP",
+      bio: 'Won <strong>Minnesota Mr. Basketball</strong> in high school after scoring <strong>52 points in a single game</strong> (a DeLaSalle school record). Went from 5.3 PPG as a freshman to 21.0 as a junior — one of the biggest breakouts in the country. Averaged 23.0 PPG across three Patriot League tournament wins. The best player on the floor in this game.<br><a href="https://lehighsports.com/sports/mens-basketball/roster/nasir-whitlock/19344" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'b',
+      name: 'Hank Alvey',
+      stats: '15.0 PPG • 6.9 RPG • 2.1 APG',
+      meta: "F/C • 6'9\" • So • Academic All-Patriot League",
+      bio: 'Was <strong>valedictorian</strong> of his high school in Mapleton, Illinois. Studies Community & Global Health at Lehigh. Scored 20+ points nine times this season and made the All-Tournament Team. At 6\'9" and 251 pounds, he gives Lehigh a physical inside presence that most Patriot League teams can\'t match.',
+    },
+    {
+      team: 'b',
+      name: 'Joshua Ingram',
+      stats: '10.6 PPG • 5.1 RPG • 3.3 APG',
+      meta: "G • 6'4\" • Jr • All-Tournament Team",
+      bio: 'The versatile wing who does a little bit of everything. Had <strong>15 points, 6 rebounds, and 3 threes</strong> in the Patriot League championship game. At 6\'4" with guard skills and forward rebounding, Ingram is the connective tissue that makes Lehigh\'s offense flow.',
+    },
+    {
+      team: 'b',
+      name: 'Edouard Benoit',
+      stats: '10.3 PPG • 6.0 RPG',
+      meta: "F • 6'8\" • So • Montreal, Canada",
+      bio: 'Part of Lehigh\'s <strong>international pipeline</strong> — the roster also includes players from Cameroon and Italy. The Montreal native had <strong>15 points and 7 rebounds</strong> in the championship game. Paired with Alvey, he gives Lehigh a formidable two-big frontcourt that can score and rebound.',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '🏀',
+      title: 'The 8-Seed That Shocked the SWAC (Prairie View)',
+      body: 'Prairie View entered the SWAC tournament as the <strong>#8 seed — the lowest possible</strong>. They then won four straight games, including an upset of #1 Bethune-Cookman, to become the first 8-seed in SWAC history to win the tournament title. <a href="https://hbcusports.com/2026/03/15/got-our-foot-in-the-door-prairie-view-makes-history-in-swac-title-run/" target="_blank">More →</a>',
+    },
+    {
+      emoji: '🎵',
+      title: 'Megan Thee Stallion Was a Panther (Prairie View)',
+      body: 'Grammy-winning rapper <strong>Megan Thee Stallion</strong> attended Prairie View A&M and was a member of the <strong>Panther Dolls</strong>, the dance team that performs at basketball games, before transferring to Texas Southern.',
+    },
+    {
+      emoji: '🏆',
+      title: 'They Beat Duke (Lehigh)',
+      body: 'In 2012, Lehigh — as a <strong>#15 seed</strong> — upset <strong>#2 Duke 75-70</strong> behind C.J. McCollum\'s 30 points. McCollum went on to be the <strong>10th overall NBA Draft pick</strong> and won NBA Most Improved Player in 2016. <a href="https://www1.lehigh.edu/news/when-lehigh-beat-duke" target="_blank">More →</a>',
+    },
+    {
+      emoji: '🎤',
+      title: 'DJ Premier Went Here (Prairie View)',
+      body: '<strong>DJ Premier</strong> — one of hip-hop\'s most legendary producers, half of Gang Starr, and the man behind iconic beats for Jay-Z, Nas, and Biggie — attended Prairie View A&M.',
+    },
+    {
+      emoji: '🎓',
+      title: 'Coach With a PhD (Lehigh)',
+      body: 'Lehigh\'s Brett Reed holds a <strong>doctorate from Wayne State University</strong> — making him one of only two Division I men\'s basketball head coaches with a PhD. His son Brendan is a senior walk-on on the team.',
+    },
+    {
+      emoji: '🌍',
+      title: 'Coach Was a Globetrotter (Prairie View)',
+      body: 'Byron Smith was the <strong>head coach of the Harlem Globetrotters</strong> in 2002-03 before entering college coaching. He\'s now a three-time SWAC Coach of the Year and won the 2021 Hugh Durham Award as the nation\'s top mid-major coach.',
+    },
+    {
+      emoji: '🚗',
+      title: 'Escalators, Mustangs, and the Panama Canal (Lehigh)',
+      body: 'Lehigh alumni <strong>invented the escalator</strong>, founded the <strong>Packard Motor Car Company</strong>, and their engineering graduates <strong>built the locks of the Panama Canal</strong>. Oh, and <strong>Lee Iacocca</strong> — who created the Ford Mustang and saved Chrysler — is a Lehigh grad. <a href="https://en.wikipedia.org/wiki/Lehigh_University" target="_blank">More →</a>',
+    },
+    {
+      emoji: '🏈',
+      title: 'The 80-Game Losing Streak (Prairie View)',
+      body: 'Prairie View\'s football team holds the NCAA record for <strong>consecutive losses: 80 games</strong> (1989-1998). That makes the school\'s current multi-sport resurgence — conference titles in basketball, football, volleyball, golf, and track — all the more impressive.',
+    },
+    {
+      emoji: '🎄',
+      title: 'Christmas City USA (Lehigh)',
+      body: 'Lehigh is located in <strong>Bethlehem, Pennsylvania</strong> — known as "Christmas City USA." Moravian settlers named the town on Christmas Eve in 1741 and later established the <strong>first symphony orchestra in America</strong> (1748).',
+    },
+    {
+      emoji: '🏅',
+      title: 'Hall of Famer Zelmo Beaty (Prairie View)',
+      body: '<strong>Zelmo Beaty</strong> averaged 25 points and 20 rebounds per game at Prairie View and led the Panthers to the <strong>1962 NAIA national championship</strong>. He was inducted into the <strong>Naismith Basketball Hall of Fame</strong> in 2016. <a href="https://en.wikipedia.org/wiki/Zelmo_Beaty" target="_blank">More →</a>',
+    },
+    {
+      emoji: '🛏️',
+      title: 'Bed Races (Lehigh)',
+      body: 'During Spirit Week, Lehigh students <strong>decorate beds and drag-race them down Packer Avenue</strong>. The Lehigh-Lafayette rivalry (since 1884) is the <strong>most-played rivalry in college football history</strong>.',
+    },
+    {
+      emoji: '🏫',
+      title: 'Two Historic Firsts',
+      body: '<strong>Prairie View A&M</strong> (founded 1876) was the <strong>first state-supported college for African Americans in Texas</strong>. <strong>Lehigh</strong> (founded 1865) was created by railroad magnate <strong>Asa Packer</strong> to train the engineers building America\'s infrastructure. Two very different origin stories, both rooted in expanding access to education.',
+    },
+  ],
+  history: {
+    callout:
+      "Neither of these programs is a regular on the NCAA Tournament stage. Prairie View A&M is making just its <strong>third appearance ever</strong> (0-2 all-time). Lehigh is back for the <strong>first time since 2012</strong> — when they pulled off one of the most famous upsets in tournament history. Both programs know what it's like to be counted out. Both are here anyway.",
+    subsections: [
+      {
+        title: 'Lehigh 75, Duke 70 — March 16, 2012',
+        type: 'timeline',
+        content: '',
+        timeline: [
+          {
+            date: 'The Setup',
+            text: '#15 Lehigh vs #2 Duke in Greensboro. Duke was a 20-point favorite. C.J. McCollum — a junior guard from Canton, Ohio — had other plans.',
+          },
+          {
+            date: 'The Game',
+            text: 'McCollum scored <strong>30 points</strong>. Gabe Knutson added 17 and 8 rebounds. Lehigh led for most of the second half and held off every Duke run.',
+          },
+          {
+            date: 'Final: Lehigh 75, Duke 70',
+            text: 'Only the <strong>6th time a 15-seed had beaten a 2-seed</strong>. It happened on the same day Norfolk State upset #2 Missouri — the first time two 15-seeds won on the same day.',
+          },
+          {
+            date: 'The Aftermath',
+            text: 'McCollum was drafted <strong>10th overall</strong> by Portland in 2013 and won NBA Most Improved Player in 2016. He remains the only Patriot League player ever taken in the NBA lottery. <a href="https://www.si.com/college/2022/03/17/lehigh-duke-upset-2012-cj-mccollum-daily-cover" target="_blank">Oral history →</a>',
+          },
+        ],
+      },
+      {
+        title: "Prairie View A&M's Tournament History",
+        type: 'card',
+        content:
+          '<p>Prairie View has been to the NCAA Division I Tournament twice before — <strong>1998 and 2019</strong> — and lost both times (the 2019 loss to Fairleigh Dickinson was a First Four game, just like this one). But the program\'s basketball history goes deeper than Division I: the Panthers won the <strong>1962 NAIA national championship</strong> led by future Hall of Famer Zelmo Beaty.</p><p style="margin-top:.5rem;">Coach Byron Smith has built something real here. Three SWAC Coach of the Year awards, three conference titles, and the 2021 Hugh Durham Award as the nation\'s top mid-major coach. A first NCAA Tournament win would be the crowning achievement.</p><p style="margin-top:.5rem;"><a href="https://www.sports-reference.com/cbb/schools/prairie-view/men/" target="_blank">Prairie View basketball history →</a></p>',
+      },
+      {
+        title: 'Two Programs, Two Paths to Dayton',
+        type: 'card',
+        content:
+          "<p><strong>Prairie View A&M</strong> — founded in 1876 as the first state-supported college for African Americans in Texas — came into the SWAC tournament as the 8-seed and won four straight games to get here. <strong>Lehigh</strong> — founded in 1865 by a railroad magnate in Bethlehem, Pennsylvania — was 10-15 on February 7th before winning 8 of its last 9. Both programs had to earn this the hard way. Both are playing their best basketball at the right time.</p>",
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Prairie View A&M',
+      links: [
+        { label: 'HBCU Sports — Prairie View Makes History in SWAC Title Run', url: 'https://hbcusports.com/2026/03/15/got-our-foot-in-the-door-prairie-view-makes-history-in-swac-title-run/' },
+        { label: 'SI — Prairie View Claims 2026 SWAC Championship', url: 'https://www.si.com/college/hbcu/basketball/prairie-view-claims-2026-swac-championship' },
+        { label: 'HBCU Gameday — Prairie View SWAC Title Run', url: 'https://hbcugameday.com/2026/03/14/prairie-view-swac-title-run/' },
+        { label: 'FOX Sports — SWAC Tournament Final Recap', url: 'https://www.foxsports.com/articles/cbk/no-8-seed-prairie-view-am-beats-thirdseeded-southern-7266-to-win-swac-tournament' },
+        { label: 'Sports Reference — 2025-26 Prairie View Stats', url: 'https://www.sports-reference.com/cbb/schools/prairie-view/men/2026.html' },
+        { label: 'ESPN — Prairie View A&M Team Stats', url: 'https://www.espn.com/mens-college-basketball/team/stats/_/id/2504/prairie-view-panthers' },
+        { label: 'PVAMU Athletics — Men\'s Basketball Roster', url: 'https://pvpanthers.com/sports/mens-basketball/roster' },
+        { label: 'VSiN — Prairie View vs Lehigh First Four Preview', url: 'https://vsin.com/college-basketball/prairie-view-am-vs-lehigh-prediction-ncaa-tournament-first-four-south-region-no-16-vs-no-16-march-madness-preview/' },
+        { label: 'Wikipedia — Prairie View A&M University', url: 'https://en.wikipedia.org/wiki/Prairie_View_A%26M_University' },
+        { label: 'PVAMU Official Colors — Brand Guidelines', url: 'https://www.pvamu.edu/marcomm/resources/colors/' },
+      ],
+    },
+    {
+      heading: 'Lehigh',
+      links: [
+        { label: 'Lehigh Athletics — Championship Game Recap', url: 'https://lehighsports.com/news/2026/3/12/mens-basketball-lehigh-wins-fourth-patriot-league-championship-in-74-60-victory-over-boston-university' },
+        { label: 'Busting Brackets — Lehigh Wins the Patriot League', url: 'https://bustingbrackets.com/mountain-hawks-soar-lehigh-wins-the-patriot-league-basketball' },
+        { label: 'Patriot League — Lehigh to Meet Prairie View in First Four', url: 'https://patriotleague.org/news/2026/3/16/patriot-league-champ-lehigh-to-meet-prairie-view-am-in-ncaa-mens-basketball-tournament-first-four-3-15-26.aspx' },
+        { label: 'Morning Call — Lehigh NCAA Tournament Play-In', url: 'https://www.mcall.com/2026/03/15/ncaa-basketball-championships-lehigh-will-play-wednesday-in-a-play-in-game/' },
+        { label: 'Sports Reference — 2025-26 Lehigh Stats', url: 'https://www.sports-reference.com/cbb/schools/lehigh/men/2026.html' },
+        { label: 'Lehigh Athletics — Brett Reed Bio', url: 'https://lehighsports.com/sports/mens-basketball/roster/coaches/brett-reed/3344' },
+        { label: 'Lehigh Athletics — Nasir Whitlock Profile', url: 'https://lehighsports.com/sports/mens-basketball/roster/nasir-whitlock/19344' },
+        { label: 'SI — Lehigh-Duke Upset Oral History (2012)', url: 'https://www.si.com/college/2022/03/17/lehigh-duke-upset-2012-cj-mccollum-daily-cover' },
+        { label: 'Lehigh University — When Lehigh Beat Duke', url: 'https://www1.lehigh.edu/news/when-lehigh-beat-duke' },
+        { label: 'ESPN — March Madness 2026 Bracket', url: 'https://www.espn.com/mens-college-basketball/story/_/id/48156563/march-madness-2026-every-team-mens-ncaa-tournament-bracket-explained' },
+      ],
+    },
+  ],
+  footerText: 'Casual Fan Viewing Guide • Prairie View A&M vs Lehigh • NCAA First Four • March 18, 2026',
+}
+
+export default game

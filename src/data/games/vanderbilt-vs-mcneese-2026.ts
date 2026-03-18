@@ -1,0 +1,322 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'vanderbilt-vs-mcneese-2026',
+  title: 'Vanderbilt vs McNeese — First Round Viewing Guide',
+  eventTag: 'NCAA Tournament • First Round • Oklahoma City, OK',
+  date: 'Thursday, March 19, 2026',
+  round: 'First Round',
+  tipTime: '2026-03-19T15:10',
+  venue: 'Paycom Center, Oklahoma City, Oklahoma',
+  extraInfo: 'Winner faces <strong>#4 Maryland or #13 Yale</strong> on Saturday',
+  teams: [
+    {
+      name: 'Vanderbilt',
+      mascot: 'Commodores',
+      seed: '#5 Seed',
+      record: '26-8 • SEC At-Large',
+      colors: { primary: '#866D4B', secondary: '#000000', name: 'vanderbilt' },
+      className: 'vanderbilt',
+    },
+    {
+      name: 'McNeese',
+      mascot: 'Cowboys',
+      seed: '#12 Seed',
+      record: '28-5 • Southland Champs',
+      colors: { primary: '#005CA9', secondary: '#FFB81C', name: 'mcneese' },
+      className: 'mcneese',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'An SEC program running the <strong>fastest offense in the league</strong> against the team that <strong>forces more turnovers than anyone in America</strong>. That\'s the whole game. Vanderbilt plays up-tempo, push-the-pace basketball. McNeese plays steal-everything, chaos-ball defense. One style feeds the other — and the 5-12 upset happens <strong>almost every single year</strong>. McNeese has already won a tournament game (beat Clemson last year). They\'re not scared.',
+    cards: [
+      {
+        label: 'For Vanderbilt',
+        value:
+          'The Commodores haven\'t won an NCAA Tournament game <strong>since 2012</strong>. Their 26 wins tie the school record. This is the highest they\'ve been seeded since 2012. Tyler Tanner is a potential NBA pick. It\'s now or never for this group.',
+      },
+      {
+        label: 'For McNeese',
+        value:
+          '<strong>Three straight Southland Tournament titles. Three straight NCAA bids.</strong> They beat Clemson last year for the program\'s first-ever tournament win. A freshman just broke <strong>Joe Dumars\' 44-year-old scoring record</strong>. This program is building a dynasty.',
+      },
+      {
+        label: 'The Style Clash',
+        value:
+          'Vanderbilt averages <strong>86.4 PPG (13th nationally)</strong> in an up-tempo attack. McNeese forces turnovers at the <strong>#1 rate in America (24.6%)</strong>. Vanderbilt\'s pace could create more possessions for McNeese to disrupt — or it could overwhelm them. Both outcomes are on the table.',
+      },
+      {
+        label: 'The Upset Math',
+        value:
+          'Since 1985, the 5-12 upset has happened in <strong>all but 5 years</strong>. McNeese enters with tournament experience and a 28-5 record. Multiple analysts have flagged this as a <strong>prime upset candidate</strong>.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'D\'Antoni-Style Speedball',
+      bullets: [
+        '<strong>Pace and space:</strong> Vanderbilt averages <strong>86.4 PPG (13th nationally)</strong> with an offensive rating of 121.1 (14th). Coach Byington models his attack after <strong>Mike D\'Antoni\'s Phoenix Suns</strong>: spacing, ball movement, perimeter shooting, and constant pace. Seven 100+ point games in non-conference play.',
+        '<strong>Balanced scoring:</strong> Regularly has 4-5 players in double figures. Tyler Tanner (19.1), Duke Miles (16.5), Tyler Nickel (13.5), AK Okereke (9.7), Devin McGlockton (9.6). You can\'t just take away one player.',
+        '<strong>Steals machine:</strong> Vanderbilt ranks <strong>9th nationally in steal percentage (14.2%)</strong>. They create turnovers too — which makes the matchup with McNeese fascinating. Both teams thrive on disruption.',
+        '<strong>Free throw shooting:</strong> .793 from the line (<strong>27th nationally</strong>). In close games, this matters enormously. Vanderbilt won\'t beat themselves at the stripe.',
+        '<strong>Weakness:</strong> Rebounding is the Achilles\' heel — outside top-175 nationally. Six of eight losses came when their offensive rebounding dropped below 25%. Undersized with limited rim protection. Defensive rating only 145th nationally — when teams don\'t turn it over, they score.',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'The Best Turnover-Forcing Team in America',
+      bullets: [
+        '<strong>Chaos defense:</strong> McNeese ranks <strong>#1 nationally in defensive turnover rate (24.6%)</strong>, forcing ~19 turnovers per game. They average 10.8 steals and lead D-I with <strong>21.3 points off turnovers per game</strong>. Their defense literally creates their offense.',
+        '<strong>Tempo paradox:</strong> Here\'s what makes McNeese unique — they play the <strong>slowest adjusted defensive tempo of all 365 D-I teams</strong> (grinding in the half-court), but rank 66th in offensive pace. They suffocate you on defense, then sprint in transition.',
+        '<strong>Shot-blocking:</strong> Despite undersized lineups, McNeese ranks <strong>4th nationally in blocked shot rate (15.8%)</strong>. They don\'t just steal the ball — they contest everything at the rim too.',
+        '<strong>Ball security:</strong> They\'re not reckless. McNeese ranks <strong>33rd nationally in offensive turnover rate (14.3%)</strong>. They force turnovers without giving the ball away themselves — a rare and deadly combination.',
+        '<strong>Weakness:</strong> Three-point shooting at 31.6% is below tournament standards. All five rotation players are <strong>6\'5" or shorter</strong> (Colbert at 6\'10" comes off the bench). They\'re 0-2 against NCAA Tournament teams and lost to Michigan by 41.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'Can Vanderbilt protect the ball?',
+      description:
+        'This is the entire game. McNeese forces turnovers at the #1 rate in America. Vanderbilt\'s up-tempo style — while thrilling — means more possessions, more ball-handling in the open court, and more opportunities for McNeese to create steals. If Vanderbilt commits 18+ turnovers, McNeese will convert those into easy transition baskets and this becomes a coin flip. If Vanderbilt protects the ball (they rank 11th in offensive turnover rate — so they can), McNeese loses its biggest weapon.',
+    },
+    {
+      title: 'The size mismatch inside.',
+      description:
+        'Vanderbilt has Jalen Washington (6\'10", 7\'4" wingspan) and Devin McGlockton (6\'7", .544 FG%). McNeese\'s five rotation players are all 6\'5" or shorter — Jerrell Colbert (6\'10") comes off the bench. If Vanderbilt attacks the paint and feeds their bigs, McNeese could be in foul trouble quickly. But McNeese is 4th nationally in block rate, so the undersized thing isn\'t straightforward.',
+    },
+    {
+      title: 'Tempo control determines the outcome.',
+      description:
+        'Vanderbilt wants to play at 86 PPG pace. McNeese wants to grind defensively (slowest defensive tempo in D-I) and run in transition only off turnovers. If the game is played in the 80s with a high number of possessions and few turnovers, Vanderbilt\'s superior shooting takes over. If McNeese can slow it down to the 60s with turnovers galore, the Cowboys will be right there.',
+    },
+    {
+      title: 'Tanner vs. the McNeese press.',
+      description:
+        'Tyler Tanner averages 19.1 PPG and 5.1 APG as a sophomore — he\'s an elite ball-handler. But he\'s 6-0 and will face McNeese\'s 6\'5" point guard Garwey Dual, who earned All-Defensive Team honors with 55 steals. Tanner also ranks 10th nationally in steals himself (2.44/game). This guard matchup is the most fun individual battle in the first round.',
+    },
+    {
+      title: 'McNeese\'s tournament experience matters.',
+      description:
+        'McNeese has been here three straight years. They beat Clemson last year. Their core players have lived the tournament environment. Vanderbilt lost to Saint Mary\'s in the first round last year. McNeese won\'t be overwhelmed by the moment — and for a 12-seed, that\'s half the battle.',
+    },
+  ],
+  players: [
+    {
+      team: 'a',
+      name: 'Tyler Tanner',
+      stats: '19.1 PPG • 5.1 APG • 2.44 SPG',
+      meta: "G • 6-0 • Sophomore • First Team All-SEC",
+      bio: 'The hometown kid from Brentwood, TN — just outside Nashville. Both parents played D-I basketball at Rice. First SEC player in <strong>30+ years to average 21/5.5/2 in conference games</strong>. Ranks 10th nationally in steals. Naismith Defensive POY finalist. A devout Christian with Scripture tattoos who prays before every game: "God, help people see You through me." Projected late first-round NBA pick.<br><a href="https://sportsspectrum.com/sport/basketball/2026/02/24/tyler-tanner-spread-the-gospel-vanderbilt/" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'a',
+      name: 'Duke Miles',
+      stats: '16.5 PPG • 4.5 APG • .368 3P%',
+      meta: "G • 6-2 • Senior • SEC Tournament Star",
+      bio: 'The ultimate portal journeyman: <strong>Troy → High Point → Oklahoma → Vanderbilt</strong> (after initially committing to Virginia, then Texas A&M). His SEC Tournament semifinal against No. 1 Florida was historic: <strong>30 points, 9 assists, 1 turnover in a 91-74 demolition</strong>. He\'s peaking at exactly the right time.',
+    },
+    {
+      team: 'a',
+      name: 'Tyler Nickel',
+      stats: '13.5 PPG • 40.0% 3PT',
+      meta: "F • 6-7 • Senior • Virginia HS All-Time Leading Scorer",
+      bio: 'The <strong>all-time leading scorer in Virginia High School League history</strong> with 2,909 points in 102 games. Transferred from Virginia Tech and is having a career year as Vanderbilt\'s best shooter at 40.0% from three. Season-high 30 points with 8 threes in one game. He\'s the floor-spacing threat that opens up everything else.',
+    },
+    {
+      team: 'a',
+      name: 'Devin McGlockton',
+      stats: '9.6 PPG • 6.7 RPG • .544 FG%',
+      meta: "F • 6-7 • Senior • Boston College Transfer",
+      bio: 'Vanderbilt\'s leading rebounder and most efficient inside scorer. Transferred from Boston College and stepped into a major role when another big had health issues. His physicality on the glass is critical against a McNeese team that\'s undersized — but he\'ll need to dominate the paint for Vanderbilt to pull away.<br><a href="https://www.si.com/college/vanderbilt/basketball/story-of-my-life-inside-devin-mcglockton-s-under-the-radar-rise" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'b',
+      name: 'Larry Johnson',
+      stats: '17.5 PPG • 5.5 RPG • 50.2% FG',
+      meta: "G • 6-4 • Sophomore • SLC Freshman of the Year",
+      bio: 'Not related to the NBA\'s Larry Johnson ("Grandmama"), but making history of his own. Former 4-star recruit from Savannah, GA, who signed with Creighton before transferring. <strong>Broke Joe Dumars\' 44-year-old freshman scoring record</strong> (527 points set in 1982), finishing with 577. Named SLC Freshman of the Year and a Kyle Macy Award finalist (top freshman in D-I). Season-high 30 points.<br><a href="https://mcneesesports.com/news/2026/3/3/mens-basketball-johnson-named-this-weeks-slc-player-of-the-week.aspx" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'b',
+      name: 'Javohn Garcia',
+      stats: '12.0 PPG • 1.8 SPG • 37.3% 3PT',
+      meta: "G • Senior • Southland Tournament MVP",
+      bio: 'From Columbus, Ohio, via UMass, California community college (20.8 PPG), and McNeese. <strong>Scored 31 points in the SLC championship game</strong>. Previous Lou Henson Award finalist. Missed four February games with injury but returned for the tournament. After winning the title: <strong>"We don\'t lose at home, and we had the mindset that we weren\'t going to lose today."</strong>',
+    },
+    {
+      team: 'b',
+      name: 'Tyshawn Archie',
+      stats: '14.3 PPG • 37.4% 3PT • 90.0% FT',
+      meta: "G • Junior • First Team All-SLC",
+      bio: 'Houston native who played two seasons at Tulsa before transferring. The team\'s most dangerous perimeter shooter at 37.4% from three and a remarkable <strong>90.0% from the free throw line</strong>. In a close game, he\'s the guy McNeese wants at the line — and the guy Vanderbilt fears behind the arc.',
+    },
+    {
+      team: 'b',
+      name: 'Garwey Dual',
+      stats: '8.2 PPG • 4.3 APG • 55 steals',
+      meta: "G • 6-5 • Junior • SLC All-Defensive Team",
+      bio: 'A <strong>6\'5" point guard</strong> — unusual size that lets him see over defenders and disrupt passing lanes. Previously at Providence and Seton Hall. Named SLC All-Defensive Team after recording 55 steals. Had a career-first <strong>double-double (10 pts, 10 ast) in the triple-overtime semifinal</strong> against UTRGV. He\'s the defensive connective tissue that makes McNeese\'s chaos work.',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '🏀',
+      title: 'Joe Dumars\' Record Falls (McNeese)',
+      body: 'Freshman Larry Johnson broke <strong>Joe Dumars\' 44-year-old McNeese scoring record</strong> (527 points set in 1982). Dumars went on to become an <strong>NBA Hall of Famer, 2x champion, and Finals MVP</strong>. The NBA Sportsmanship Award is named after him. Johnson finished with 577 points.',
+    },
+    {
+      emoji: '⛵',
+      title: 'The Commodore (Vanderbilt)',
+      body: 'Vanderbilt is named after <strong>Cornelius Vanderbilt</strong>, the railroad and steamboat magnate who provided the $1 million founding endowment. The nickname "Commodore" — the highest US Navy rank at the time — was commonly used for prominent steamboat entrepreneurs. The mascot "Mr. C" carries a cutlass.',
+    },
+    {
+      emoji: '🌀',
+      title: '$230 Million in Hurricane Damage (McNeese)',
+      body: 'In 2020, <strong>Hurricane Laura</strong> (Category 4) devastated McNeese\'s campus. The brand-new $44 million basketball arena sustained $21 million in damage. Six weeks later, <strong>Hurricane Delta</strong> hit again. Total campus damage: $230 million. McNeese never missed a season. <a href="https://www.si.com/college/2020/09/25/mcneese-state-louisiana-hurricane-laura-daily-cover" target="_blank">More →</a>',
+    },
+    {
+      emoji: '🏟️',
+      title: 'Benches on the Baseline (Vanderbilt)',
+      body: 'Vanderbilt\'s Memorial Gymnasium is the <strong>only D-I arena with benches on the baselines</strong>. The elevated court was designed to double as a stage, so benches went at the ends to avoid blocking views. It\'s been this way since 1952 and it\'s gloriously weird.',
+    },
+    {
+      emoji: '🤠',
+      title: 'Three-Peat (McNeese)',
+      body: 'McNeese has won <strong>three consecutive Southland Conference Tournament championships</strong> (2024, 2025, 2026) — earning three straight NCAA bids. They beat Clemson last year for the program\'s <strong>first-ever tournament win</strong>. This is a dynasty, not a fluke.',
+    },
+    {
+      emoji: '🏠',
+      title: 'The Hometown Hero (Vanderbilt)',
+      body: 'Tyler Tanner grew up in <strong>Brentwood, TN — just outside Nashville</strong>. Both his parents played D-I basketball at Rice. He\'s a hometown kid who became the first SEC player in 30+ years to average 21/5.5/2 in conference games. Gatorade Tennessee Player of the Year in high school.',
+    },
+    {
+      emoji: '🏈',
+      title: 'From Fired to Exonerated to Champion (McNeese)',
+      body: 'Coach Bill Armstrong was <strong>fired from LSU in 2022</strong> amid recruiting violation allegations. He was <strong>fully exonerated by the IARP in June 2023</strong>. He went to prep school, won a national championship, then got the McNeese job. Now he\'s in the NCAA Tournament in his first year as a D-I head coach.',
+    },
+    {
+      emoji: '🎓',
+      title: '9 Nobel Laureates (Vanderbilt)',
+      body: 'Vanderbilt has produced <strong>9 Nobel Prize winners, 2 Vice Presidents, 2 Supreme Court Justices, and 27 Rhodes Scholars</strong>. It\'s the only private university in the SEC and ranked No. 17 nationally. US tuition: $71,226.',
+    },
+    {
+      emoji: '3️⃣',
+      title: 'Triple Overtime Thriller (McNeese)',
+      body: 'McNeese\'s SLC semifinal against UTRGV went to <strong>triple overtime (84-80)</strong> with multiple game-tying shots. Garwey Dual had a career-first double-double (10 pts, 10 ast). Then they destroyed SFA 76-59 in the final, with Garcia scoring 31.',
+    },
+    {
+      emoji: '🏀',
+      title: 'The D\'Antoni System (Vanderbilt)',
+      body: 'Coach Byington models his offense after <strong>Mike D\'Antoni\'s Phoenix Suns</strong>: fast pace, spacing, perimeter shooting. At James Madison, this system produced a 32-4 season and an NCAA Tournament upset of Wisconsin. At Vanderbilt, it\'s producing 86.4 PPG (13th nationally).',
+    },
+    {
+      emoji: '🐮',
+      title: '1,200 Acres of Farms (McNeese)',
+      body: 'McNeese has <strong>three working farms with 1,200+ acres</strong> for research, farming, and ranching. The Cowboys nickname reflects Southwest Louisiana\'s rural ranching heritage. Lake Charles is called the "Festival Capital of Louisiana" with 75+ annual festivals.',
+    },
+    {
+      emoji: '🔄',
+      title: 'Duke Miles\' Portal Odyssey (Vanderbilt)',
+      body: 'Duke Miles committed to Virginia (decommitted), committed to Texas A&M (decommitted), then committed to Vanderbilt. His college path: <strong>Troy → High Point → Oklahoma → Vanderbilt</strong>. Fourth school, third portal commitment. He dropped 30 points on No. 1 Florida in the SEC Tournament.',
+    },
+  ],
+  history: {
+    callout:
+      'Vanderbilt has <strong>17 NCAA Tournament appearances and six Sweet Sixteens</strong> but hasn\'t won a tournament game since 2012. McNeese has <strong>won a tournament game more recently</strong> (beat Clemson in 2025) despite being a Southland Conference school from Lake Charles, Louisiana. When the little guy has fresher tournament scars, that\'s when you get an upset.',
+    subsections: [
+      {
+        title: "Vanderbilt's Tournament History",
+        type: 'timeline',
+        content: '',
+        timeline: [
+          {
+            date: '1965',
+            text: 'Vanderbilt reaches the <strong>Elite Eight</strong> — the deepest run in program history.',
+          },
+          {
+            date: '2004 & 2007',
+            text: 'Back-to-back Sweet Sixteen appearances under Kevin Stallings. The 2007 team went 22-12.',
+          },
+          {
+            date: '2012',
+            text: 'Vanderbilt beats Harvard in the first round — their <strong>last NCAA Tournament win</strong>. That\'s 14 years ago.',
+          },
+          {
+            date: '2017-2024',
+            text: 'An <strong>8-year tournament drought</strong>. Jerry Stackhouse goes 70-92 over five seasons. Program hits rock bottom at 9-23 in 2023-24.',
+          },
+          {
+            date: '2024-present',
+            text: 'Mark Byington arrives from James Madison. Year 1: first bid since 2017. Year 2: 26-8, SEC Tournament finalist, No. 5 seed. The revival is real.',
+          },
+        ],
+      },
+      {
+        title: "McNeese's Three-Year Dynasty",
+        type: 'card',
+        content:
+          '<p>From 2024-2026, McNeese has won <strong>three consecutive Southland Conference Tournament championships</strong> — the most dominant stretch in program history. In 2024 (under Will Wade), they were a 13-seed and lost to Gonzaga. In 2025, they were a 12-seed and <strong>beat Clemson 69-67</strong> for the program\'s first-ever NCAA Tournament win, before falling to Purdue.</p><p style="margin-top:.5rem;">Now under Bill Armstrong — Wade\'s former LSU assistant — they\'re back as a 12-seed with an even more experienced roster. Larry Johnson broke <strong>Joe Dumars\' 44-year-old scoring record</strong>. The semifinal went to triple overtime. The championship was a 17-point blowout. This isn\'t a one-year wonder — it\'s a sustained program.</p>',
+      },
+      {
+        title: 'The 5-vs-12 Upset Tradition',
+        type: 'card',
+        content:
+          '<p>The 5-12 matchup is the <strong>most reliable upset in the tournament</strong>. Since the field expanded to 64 teams in 1985, at least one 12-seed has won in all but five years. The 2024 tournament featured <strong>James Madison</strong> — coached by Mark Byington, now Vanderbilt\'s coach — upsetting Wisconsin as a 12-seed. So Byington has been on the other side of this equation.</p><p style="margin-top:.5rem;">McNeese\'s profile — tournament experience, elite defensive disruption, mid-major confidence, 28-5 record — matches the formula for successful 12-seed upsets. The key question: can Vanderbilt protect the ball against the best turnover-forcing team in America?</p>',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Vanderbilt',
+      links: [
+        { label: 'Sports Reference — 2025-26 Vanderbilt Stats', url: 'https://www.sports-reference.com/cbb/schools/vanderbilt/men/2026.html' },
+        { label: 'ESPN — Vanderbilt Commodores', url: 'https://www.espn.com/mens-college-basketball/team/_/id/238/vanderbilt-commodores' },
+        { label: 'Rutherford Source — No. 5 Seed', url: 'https://rutherfordsource.com/vanderbilt-mens-basketball-earns-no-5-seed-in-2026-ncaa-tournament/' },
+        { label: 'SI — Don\'t Take What Byington Is Doing For Granted', url: 'https://www.si.com/college/vanderbilt/basketball/don-t-take-what-vanderbilt-basketball-mark-byington-are-doing-these-days-for-granted-column' },
+        { label: 'Sports Spectrum — Tyler Tanner Profile', url: 'https://sportsspectrum.com/sport/basketball/2026/02/24/tyler-tanner-spread-the-gospel-vanderbilt/' },
+        { label: 'Vanderbilt Hustler — Tyler Tanner', url: 'https://vanderbilthustler.com/2026/01/11/tyler-tanner-home-is-where-the-heart-is/' },
+        { label: 'SI — Devin McGlockton Rise', url: 'https://www.si.com/college/vanderbilt/basketball/story-of-my-life-inside-devin-mcglockton-s-under-the-radar-rise' },
+        { label: 'ClutchPoints — Why Vanderbilt Is On Upset Alert', url: 'https://clutchpoints.com/ncaa-basketball/why-vanderbilt-basketball-is-on-upset-alert-in-2026-ncaa-tournament' },
+        { label: 'VU Commodores — Historic Memorial Gymnasium', url: 'https://vucommodores.com/facilities/historic-memorial-gymnasium/' },
+        { label: 'Wikipedia — Vanderbilt Basketball', url: 'https://en.wikipedia.org/wiki/Vanderbilt_Commodores_men%27s_basketball' },
+        { label: 'VU Commodores — Tanner First Team All-SEC', url: 'https://vucommodores.com/tanner-named-first-team-all-sec/' },
+        { label: 'Vanderbilt Hustler — Duke Miles Transfer', url: 'https://vanderbilthustler.com/2025/05/11/mens-basketball-vanderbilt-lands-oklahoma-transfer-duke-miles/' },
+      ],
+    },
+    {
+      heading: 'McNeese',
+      links: [
+        { label: 'Sports Reference — 2025-26 McNeese Stats', url: 'https://www.sports-reference.com/cbb/schools/mcneese-state/men/2026.html' },
+        { label: 'ESPN — McNeese Cowboys', url: 'https://www.espn.com/mens-college-basketball/team/stats/_/id/2377/mcneese-cowboys' },
+        { label: 'CBB Review — Get To Know The Southland Champs', url: 'https://cbbreview.com/2026/03/16/southalnd-champs-mcneese-basketball/' },
+        { label: 'McNeese Athletics — Silencing the Doubters', url: 'https://mcneesesports.com/news/2026/3/12/mens-basketball-silencing-the-doubters-building-a-dynasty.aspx' },
+        { label: 'McNeese Athletics — Sooner State Bound', url: 'https://mcneesesports.com/news/2026/3/16/mens-basketball-sooner-state-bound-mcneese-draws-vanderbilt-in-ncaa-tourney-at-oklahoma-city.aspx' },
+        { label: 'McNeese Athletics — Bill Armstrong Hiring', url: 'https://mcneesesports.com/news/2025/3/25/mens-basketball-mcneese-names-bill-armstrong-as-new-cowboys-basketball-head-coach.aspx' },
+        { label: 'Louisiana Radio Network — Three-Peat', url: 'https://louisianaradionetwork.com/2026/03/12/45776/' },
+        { label: 'KPLC — Triple OT Thriller', url: 'https://www.kplctv.com/2026/03/11/mcneese-advances-southland-conference-championship-triple-ot-thriller-outlasts-utrgv-84-80/' },
+        { label: 'SI — Hurricane Laura and McNeese', url: 'https://www.si.com/college/2020/09/25/mcneese-state-louisiana-hurricane-laura-daily-cover' },
+        { label: 'McNeese Athletics — Larry Johnson Signs', url: 'https://mcneesesports.com/news/2025/4/14/mens-basketball-mcneese-adds-third-4-star-recruit-with-signing-of-creighton-transfer-larry-johnson.aspx' },
+        { label: 'McNeese Athletics — Joe Dumars Hall of Fame', url: 'https://mcneesesports.com/honors/hall-of-fame/joe-dumars/32' },
+        { label: 'The Advocate — McNeese Three-Peat', url: 'https://www.theadvocate.com/lake_charles/mcneese-men-s-basketball-team-to-make-3-peat-appearance-in-the-ncaa-tournament/article_339dde7b-6b70-4468-9565-9eca51a49a91.html' },
+        { label: 'Wikipedia — Bill Armstrong', url: 'https://en.wikipedia.org/wiki/Bill_Armstrong_(basketball)' },
+        { label: 'KPLC — Rise of McNeese Since Hurricane Laura', url: 'https://www.kplctv.com/2025/06/18/were-just-getting-started-rise-mcneese-athletics-since-hurricane-laura/' },
+      ],
+    },
+  ],
+  footerText: 'Casual Fan Viewing Guide • Vanderbilt vs McNeese • NCAA First Round • March 19, 2026',
+}
+
+export default game

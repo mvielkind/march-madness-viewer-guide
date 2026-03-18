@@ -1,0 +1,337 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'miami-oh-vs-smu-2026',
+  title: 'Miami (OH) vs SMU — First Four Viewing Guide',
+  eventTag: 'NCAA Tournament • First Four • Dayton, OH',
+  date: 'Wednesday, March 18, 2026',
+  round: 'First Four',
+  tipTime: '2026-03-18T21:10',
+  venue: 'UD Arena, Dayton, Ohio • 9:10 PM ET • truTV',
+  extraInfo: 'Winner faces <strong>#6 Tennessee</strong> in Philadelphia on Friday',
+  teams: [
+    {
+      name: 'Miami (OH)',
+      mascot: 'RedHawks',
+      seed: '#11 Seed',
+      record: '31-1 • AP #20',
+      colors: { primary: '#C3142D', secondary: '#f0f0f0', name: 'miami' },
+      className: 'miami',
+    },
+    {
+      name: 'SMU',
+      mascot: 'Mustangs',
+      seed: '#11 Seed',
+      record: '20-13 • ACC',
+      colors: { primary: '#0033A0', secondary: '#CC0035', name: 'smu' },
+      className: 'smu',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'Two bubble teams. Two 11-seeds. One survived a perfect regular season and a selection controversy; the other collapsed without its best player and barely made the field. This pits <strong>the nation\'s most efficient offense and winningest team</strong> against <strong>an ACC squad with elite guards and March Madness pedigree</strong> — and it\'s essentially a home game for Miami, playing one hour from campus in Dayton.',
+    cards: [
+      {
+        label: 'For Miami (OH)',
+        value:
+          'First NCAA Tournament appearance since <strong>2007</strong>. First tournament win since <strong>1999</strong> — when Wally Szczerbiak turned March into "Wally\'s World." A 31-win season needs validation against major-conference competition.',
+      },
+      {
+        label: 'For SMU',
+        value:
+          'First NCAA Tournament since <strong>2017</strong>. First at-large bid since <strong>1993</strong>. The program Andy Enfield once eliminated (his USC beat SMU 66-65 in 2017) now needs him to deliver.',
+      },
+      {
+        label: 'The Bubble Debate',
+        value:
+          'Both teams were the <strong>last two at-large bids</strong>. Miami has zero Quad 1 wins and the 363rd-ranked non-conference schedule. SMU lost its final 4 regular-season games. Critics questioned both — now they play each other.',
+      },
+      {
+        label: 'The Prize',
+        value:
+          'The winner faces <strong>#6 Tennessee</strong> in Philadelphia — where SMU\'s B.J. Edwards would play against his former team. March Madness doesn\'t script it better.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'The Unbeatable Offense — Until It Was Beaten',
+      bullets: [
+        '<strong>Scoring:</strong> 90.7 PPG (2nd nationally) with the nation\'s best FG% at <strong>52.4%</strong>. Six players average double figures. Offensive efficiency of 123.9 ranks 4th nationally.',
+        '<strong>Ball movement:</strong> Just 10.5 turnovers per game. This team creates quality looks through unselfish play, not hero ball.',
+        '<strong>Clutch:</strong> 8-0 in one-possession games this season — extraordinary composure or extraordinary luck, probably both.',
+        '<strong>Defense:</strong> Average at best — 75.3 PPG allowed (223rd nationally), KenPom defensive efficiency ranks 156th. They generate 7.4 steals and 3.3 blocks per game, but can be scored on.',
+        '<strong>The elephant in the room:</strong> KenPom ranks them 91st despite 31 wins. Strength of schedule: 274th. Zero Quad 1 wins. They\'ve dominated inferior competition — the question is whether it works against this level of talent.',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'The Firepower Gamble',
+      bullets: [
+        '<strong>Scoring:</strong> 84.2 PPG (23rd nationally). Backcourt of Boopie Miller (19.2) and Jaron Pierre Jr. (17.6) combine for nearly <strong>37 PPG</strong>. Lead the nation in transition offense off missed shots.',
+        '<strong>Shooting:</strong> .490 FG%, .374 from three. When the guards are rolling, they can outscore anyone in the country.',
+        '<strong>Defense:</strong> Atrocious. Allow 77.6 PPG (<strong>284th nationally</strong>). One of the worst defenses of any tournament team. When the offense stalls, there\'s no safety net.',
+        '<strong>Home/Away split:</strong> 15-3 at home, <strong>3-8 on the road</strong>. Playing in Dayton against a de facto home crowd for Miami is not ideal.',
+        '<strong>The injury wildcard:</strong> B.J. Edwards (12.7 PPG, 2nd in ACC in steals) missed the last 5 games with an ankle injury. SMU went 1-4 without him. He\'s expected back — but how healthy is he really?',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: "Can Miami's offense survive the competition upgrade?",
+      description:
+        "The RedHawks lead the nation in FG% at 52.4% — but they did it against the MAC. SMU's athleticism, length (7-2 Yigitoglu), and ACC-caliber guards will contest shots in ways Miami hasn't seen. If Miami shoots below 45%, this could get ugly fast.",
+    },
+    {
+      title: 'How healthy is B.J. Edwards?',
+      description:
+        "SMU went 1-4 without their do-everything guard. The selection committee put SMU in the field partly because Edwards said he'd return. If he's limited, SMU is the team that lost 4 straight. If he's healthy, SMU is the team with a NET of 37 and wins over North Carolina and Texas A&M.",
+    },
+    {
+      title: 'Transition defense.',
+      description:
+        "SMU leads the nation in transition scoring off missed shots. Miami's weakness is defense (223rd in PPG allowed). If the RedHawks miss and don't get back, Miller and Pierre Jr. will feast in the open court. Miami must limit turnovers and crash the offensive glass to prevent SMU runouts.",
+    },
+    {
+      title: 'The Dayton advantage.',
+      description:
+        'UD Arena is one hour from Miami\'s campus in Oxford. Coach Steele has warned SMU to expect a "home game" atmosphere. Miami went 11-0 in MAC home games. SMU is 3-8 on the road. The crowd could be worth 5 points.',
+    },
+    {
+      title: 'Hack-a-Samet.',
+      description:
+        "SMU center Samet Yigitoglu shoots just .495 from the free throw line. In a close game, Miami will be tempted to foul the 7-2 Turk — and it could work. If Yigitoglu can't stay on the floor in crunch time, SMU loses its interior anchor.",
+    },
+  ],
+  players: [
+    {
+      team: 'a',
+      name: 'Peter Suder',
+      stats: '14.7 PPG • .554 FG% • .429 3PT',
+      meta: "G • Senior • MAC Player of the Year • Carmel, IN",
+      bio: 'Transferred from Bellarmine, where he averaged 10 PPG. Won two <strong>Indiana state championships</strong> at Carmel High School. Now the 7th player in Miami history to win MAC Player of the Year — the first since 2009. Dropped <strong>37 points</strong> in a 105-102 thriller vs. Buffalo on New Year\'s Day. Shoots .554 from the floor and .429 from three — an elite efficiency combination that\'s rare at any level.<br><a href="https://youarecurrent.com/2026/03/05/perfect-fit-carmel-high-school-graduate-feels-at-home-on-unbeaten-miami-of-ohio-basketball-team/" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'a',
+      name: 'Brant Byers',
+      stats: '14.2 PPG • .398 3PT',
+      meta: "F • 6-8 • Sophomore • Chambersburg, PA",
+      bio: 'From a small Pennsylvania town that rarely produces D-I players. His prep school shut down; he transferred to Perkiomen School and called it "a wide awakening." Redshirted at Miami, came off the bench, and now starts on a team that went 31-0. Profiled by Basket Under Review as: <strong>"Brant Byers is \'simple,\' but he\'s become a crucial piece of college basketball\'s best story."</strong><br><a href="https://www.basketunderreview.com/brant-byers-is-simple-but-hes-become-a-crucial-piece-of-college-basketballs-best-story/" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'a',
+      name: 'Luke Skaljac',
+      stats: '10.3 PPG • 4.7 APG • 13.3 as starter',
+      meta: "G • Sophomore • Ohio Mr. Basketball Finalist • Broadview Heights, OH",
+      bio: 'When starter Evan Ipsaro tore his ACL in December, the undefeated season could have unraveled. Instead, Skaljac stepped in and <strong>Miami never lost</strong> — he averaged 13.3 PPG as a starter with double figures in 9 of 11 starts. His dad and three brothers all played at the same Ohio high school. Coach Steele recruited him as <strong>"the best guard in the state of Ohio."</strong><br><a href="https://spectrumnews1.com/oh/columbus/news/2026/02/09/miami-brecksville-skaljac-brothers-basketball" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'a',
+      name: 'Eian Elmer',
+      stats: '12.6 PPG • 6.0 RPG • .434 3PT',
+      meta: "F • 6-5 • Junior • Cincinnati, OH",
+      bio: 'His first D-I offer came from Northern Kentucky. Coach Steele signed him as part of his first recruiting class, and Elmer has developed year by year: 7.0 PPG as a freshman, 11.0 as a sophomore, now 12.6 as a junior. Sealed his high school state championship with a <strong>two-handed dunk</strong>. Shoots .434 from three while also being the team\'s best rebounder and defender.',
+    },
+    {
+      team: 'b',
+      name: 'Kevin "Boopie" Miller',
+      stats: '19.2 PPG • 6.4 APG • .410 3PT',
+      meta: "PG • 6-0 • Senior • Chicago, IL",
+      bio: 'The most electric guard in this game. Transferred from Central Michigan to Wake Forest to SMU, getting better at every stop. Hit a <strong>half-court buzzer-beater</strong> to beat Virginia Tech. Dropped 27 points and 12 assists in a blowout of #12 North Carolina, earning <strong>AP National Player of the Week</strong>. On growing up in Chicago: <em>"You got to keep your head, stay out the way."</em><br><a href="https://www.fox4news.com/sports/boopie-miller-smu-basketball-march-madness" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'b',
+      name: 'Jaron Pierre Jr.',
+      stats: '17.6 PPG • 4.9 RPG • .378 3PT',
+      meta: "G • 6-5 • Senior • New Orleans, LA • 5th college",
+      bio: 'Playing for his <strong>fifth college program</strong> — the ultimate transfer portal story. From Southern Miss to Wichita State to Jacksonville State (where he was C-USA Player of the Year averaging 21.6 PPG, 4th nationally) to SMU. Season-high: <strong>35 points</strong> in an overtime win over Texas A&M. A journeyman who kept betting on himself until the stage matched the talent.<br><a href="https://smumustangs.com/news/2025/4/17/mens-basketball-jaron-pierre-jr-nations-leading-returning-scorer-signs-with-the-mustangs.aspx" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'b',
+      name: 'B.J. Edwards',
+      stats: '12.7 PPG • 4.9 APG • 2.3 SPG',
+      meta: "G • 6-3 • Senior • Knoxville, TN • Former Tennessee Vol",
+      bio: '<strong>The X-factor.</strong> A 4-star recruit who played 14 games at Tennessee before transferring to SMU. Posted career highs across the board this season while ranking 2nd in the ACC in steals. Went down with an ankle injury Feb. 25 — SMU went <strong>1-4 without him</strong>. The selection committee cited his return as a factor in SMU making the field. If SMU advances, he faces <strong>his former team Tennessee</strong> on Friday.<br><a href="https://www.rockytopinsider.com/2026/03/15/tennessee-could-see-this-former-vol-transfer-during-first-march-madness-game/" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'b',
+      name: 'Samet Yigitoglu',
+      stats: '10.8 PPG • 7.9 RPG • 1.3 BPG',
+      meta: "C • 7-2, 265 lbs • Sophomore • Istanbul, Turkey",
+      bio: "A 7-2 center from Istanbul who played for Turkey's U20 national team. Shoots <strong>.624 from the floor</strong> and blocks 1.3 shots per game — a physical interior presence few teams can match. His Achilles' heel: a <strong>.495 free throw percentage</strong> that makes him a late-game liability. Opposing coaches will be watching the clock and the foul count.",
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '🏈',
+      title: 'The Cradle of Coaches (Miami)',
+      body: 'Miami is the <strong>only school with 3 Super Bowl-winning head coaches</strong> among its alumni — John Harbaugh, Sean McVay, and Paul Brown (who also founded the Cleveland Browns and Cincinnati Bengals). 11 bronze statues stand at the Cradle of Coaches Plaza. <a href="https://en.wikipedia.org/wiki/Cradle_of_Coaches" target="_blank">More →</a>',
+    },
+    {
+      emoji: '🏙️',
+      title: "Dunk City (SMU's Coach)",
+      body: 'Andy Enfield coached <strong>Florida Gulf Coast\'s "Dunk City" run</strong> in 2013 — the first 15-seed to reach the Sweet Sixteen. His first date with supermodel wife Amanda Marcum? An NIT game and Taco Bell. <a href="https://www.espn.com/mens-college-basketball/tournament/2013/story/_/id/9094654/" target="_blank">More →</a>',
+    },
+    {
+      emoji: '🩱',
+      title: 'The Speedo Promise (Miami)',
+      body: 'On ESPN College GameDay, coach Travis Steele promised to wear a <strong>Speedo on Selection Sunday</strong> if Miami finished undefeated and won the MAC Tournament. The swim team had been showing up to games in Speedos, caps, and goggles. Reports say he honored the promise anyway despite the MAC Tournament loss.',
+    },
+    {
+      emoji: '☠️',
+      title: 'The Death Penalty (SMU)',
+      body: 'SMU football received the <strong>only "death penalty" in NCAA Division I history</strong> in 1987 for paying players. The entire season was canceled. Basketball wasn\'t involved — but the shadow looms over all SMU athletics. <a href="https://www.cbssports.com/college-football/news/30-years-later-the-legacy-of-smus-death-penalty-and-six-teams-nearly-hit-with-one/" target="_blank">More →</a>',
+    },
+    {
+      emoji: '👨‍👦',
+      title: 'Son of an NBA Legend (SMU)',
+      body: 'Freshman <strong>Jermaine O\'Neal Jr.</strong> is the son of 6x NBA All-Star Jermaine O\'Neal, who had an 18-year career and won Most Improved Player with the Pacers. Dad will be in the Dayton stands watching his son\'s first March Madness. <a href="https://bleacherreport.com/articles/10135762-4-star-sf-jermaine-oneal-jr-commits-to-smu-son-of-former-nba-all-star" target="_blank">More →</a>',
+    },
+    {
+      emoji: '🎵',
+      title: 'The DJ Incident (Miami)',
+      body: 'During a 69-67 road win that pushed Miami to 29-0, Steele shoved <strong>"The Most Incredible DJ Chuck\'s" equipment</strong> onto the floor at halftime. Fined $2,500 by the MAC. He called to apologize and Miami reimbursed the $3,000 in damages.',
+    },
+    {
+      emoji: '🔄',
+      title: "Enfield's Full Circle (SMU)",
+      body: 'In 2017, Andy Enfield\'s USC team <strong>eliminated SMU 66-65</strong> in the first round — SMU\'s last tournament game before this season. Now he\'s the one coaching SMU back. <a href="https://www.cbssports.com/college-basketball/news/2017-ncaa-tournament-if-only-for-a-while-usc-is-l-a-s-darling-after-ousting-smu/" target="_blank">More →</a>',
+    },
+    {
+      emoji: '👬',
+      title: 'Brothers in the MAC (Miami)',
+      body: 'Travis Steele and his half-brother <strong>John Groce</strong> (Akron\'s head coach) both coach in the MAC. Steele: "I was John\'s shadow growing up." Groce is 10 years older and inspired him to coach. Akron won the MAC Tournament this year. <a href="https://sports.yahoo.com/articles/brothers-john-groce-travis-steele-100653477.html" target="_blank">More →</a>',
+    },
+    {
+      emoji: '🇹🇷',
+      title: 'Istanbul to Dayton (SMU)',
+      body: '7-2 center Samet Yigitoglu came from Istanbul via Turkey\'s U20 national team. Shoots <strong>.624 from the floor</strong> but just .495 from the line — a walking paradox and a potential tactical chess piece in crunch time.',
+    },
+    {
+      emoji: '🏛️',
+      title: 'Laura Bush & Ben Roethlisberger',
+      body: '<strong>SMU\'s</strong> most famous alum: former First Lady Laura Bush. <strong>Miami\'s</strong> most famous: 2x Super Bowl champion QB Ben Roethlisberger. Also from Miami: Paul Ryan (Speaker of the House) and NBA Hall of Famer Wayne Embry.',
+    },
+    {
+      emoji: '🐴',
+      title: 'Peruna the Pony (SMU)',
+      body: 'SMU\'s live mascot is a <strong>black Shetland pony</strong> named after a 19th-century patent medicine that was 18% alcohol. Nine Perunas have served since 1932. The name was in the fight song before the mascot even existed. <a href="https://en.wikipedia.org/wiki/Peruna" target="_blank">More →</a>',
+    },
+    {
+      emoji: '💰',
+      title: '$150K Buyout (Miami)',
+      body: 'Miami offered Steele an extension through 2033-34. He hasn\'t signed it: <em>"Honestly, I haven\'t looked at it."</em> His buyout is just <strong>$150,000</strong> — making him the cheapest coaching hire in America after a 31-win season.',
+    },
+  ],
+  history: {
+    callout:
+      'Both programs are returning from long NCAA Tournament absences. <strong>Miami (OH)</strong> last danced in 2007 and hasn\'t won a tournament game since Wally Szczerbiak\'s legendary 1999 run. <strong>SMU</strong> last appeared in 2017 — and was eliminated by their current coach\'s previous team. Two programs desperate to make the most of their return to March.',
+    subsections: [
+      {
+        title: '"Wally\'s World" — Miami\'s 1999 Tournament Run',
+        type: 'timeline',
+        content: '',
+        timeline: [
+          {
+            date: 'First Round vs. #7 Washington',
+            text: '<strong>Wally Szczerbiak scored 43 points</strong> — a career high and the highest scoring average in the tournament — in a 59-58 Miami victory. A 10-seed knocking off a 7.',
+          },
+          {
+            date: 'Second Round vs. #2 Utah',
+            text: 'Szczerbiak added 24 points as Miami <strong>upset the national runners-up</strong>. First time in program history they won two tournament games.',
+          },
+          {
+            date: 'Sweet Sixteen vs. #3 Kentucky',
+            text: 'The run ended against the defending national champions. Szczerbiak scored 23 in defeat. He was drafted <strong>6th overall</strong> by the Timberwolves that June. <a href="https://www.wcpo.com/sports/sports-from-the-vault/sports-from-the-vault-the-year-the-miami-redhawks-turned-the-ncaa-tourney-into-wallys-world" target="_blank">Full story →</a>',
+          },
+        ],
+      },
+      {
+        title: "SMU's Tournament History: Glory, Scandal, and Drought",
+        type: 'timeline',
+        content: '',
+        timeline: [
+          {
+            date: '1956 — The Final Four',
+            text: "SMU's only Final Four. Coach Doc Hayes and All-American <strong>Jim Krebs</strong> (53 points, 20 rebounds in two Final Four games) lost to Bill Russell's San Francisco in the semifinal.",
+          },
+          {
+            date: '2014 — The Snub',
+            text: 'Under Hall of Famer <strong>Larry Brown</strong>, SMU went 27-10 and won the AAC Tournament — but was <strong>left out of the NCAA field</strong> in one of Selection Sunday\'s most infamous snubs.',
+          },
+          {
+            date: '2015 — Sanctions',
+            text: 'NCAA hit SMU with a <strong>postseason ban</strong> and suspended Brown 9 games for academic fraud. The third program under Brown to face sanctions.',
+          },
+          {
+            date: '2017 — Last Dance',
+            text: '#6 seed SMU lost 66-65 to <strong>Andy Enfield\'s USC</strong> in the first round. Nine years later, Enfield is coaching SMU back. <a href="https://www.cbssports.com/college-basketball/news/2017-ncaa-tournament-if-only-for-a-while-usc-is-l-a-s-darling-after-ousting-smu/" target="_blank">Full story →</a>',
+          },
+        ],
+      },
+      {
+        title: 'Wayne Embry: Miami\'s Basketball Pioneer',
+        type: 'card',
+        content:
+          '<p>Miami\'s basketball legacy runs deeper than Szczerbiak. <strong>Wayne Embry</strong> (Class of 1958) captained Miami to back-to-back Sweet Sixteen appearances. He played alongside Oscar Robertson with the Cincinnati Royals and matched up against Bill Russell and Wilt Chamberlain. In 1972, he became the <strong>first African American general manager in professional sports history</strong> with the Milwaukee Bucks. He was inducted into the Naismith Basketball Hall of Fame in 1999. <strong>Ron Harper</strong>, who won five NBA titles sharing a backcourt with Michael Jordan and Kobe Bryant, was also a Miami RedHawk.</p><p style="margin-top:.5rem;"><a href="https://www.nba.com/news/front-office-pioneer-wayne-embrys-unappreciated-achievement-reaches-milestone" target="_blank">Wayne Embry\'s story →</a></p>',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Miami (OH)',
+      links: [
+        { label: 'Sports Reference — 2025-26 Miami (OH) Stats', url: 'https://www.sports-reference.com/cbb/schools/miami-oh/men/2026.html' },
+        { label: 'Miami Athletics — NCAA Tournament Selection', url: 'https://miamiredhawks.com/news/2026/3/15/mens-basketball-miami-ncaa-tournament-selection-sunday' },
+        { label: 'ESPN — Miami Dealt First Loss by UMass', url: 'https://www.espn.com/mens-college-basketball/story/_/id/48185630/miami-ohio-dealt-1st-loss-season-umass-mac-tourney' },
+        { label: 'NBC Sports — Last Team on the Bubble', url: 'https://www.nbcsports.com/mens-college-basketball/news/miami-oh-makes-ncaa-tournament-as-last-team-on-bubble' },
+        { label: 'NCAA.com — 31-1 and Waiting', url: 'https://www.ncaa.com/news/basketball-men/article/2026-03-12/31-1-and-waiting-miami-ohios-magical-season-faces-selection-sunday-uncertainty' },
+        { label: 'Basket Under Review — Brant Byers Profile', url: 'https://www.basketunderreview.com/brant-byers-is-simple-but-hes-become-a-crucial-piece-of-college-basketballs-best-story/' },
+        { label: 'Carmel Current — Peter Suder Feature', url: 'https://youarecurrent.com/2026/03/05/perfect-fit-carmel-high-school-graduate-feels-at-home-on-unbeaten-miami-of-ohio-basketball-team/' },
+        { label: 'Spectrum News — Skaljac Brothers', url: 'https://spectrumnews1.com/oh/columbus/news/2026/02/09/miami-brecksville-skaljac-brothers-basketball' },
+        { label: 'Wikipedia — Travis Steele', url: 'https://en.wikipedia.org/wiki/Travis_Steele' },
+        { label: 'Yahoo Sports — Brothers Groce & Steele', url: 'https://sports.yahoo.com/articles/brothers-john-groce-travis-steele-100653477.html' },
+        { label: 'ESPN — Steele Fined for DJ Equipment', url: 'https://www.espn.com/mens-college-basketball/story/_/id/48083842/miami-ohio-steele-fined-replace-dj-equipment-damaged' },
+        { label: "WCPO — Wally's World", url: 'https://www.wcpo.com/sports/sports-from-the-vault/sports-from-the-vault-the-year-the-miami-redhawks-turned-the-ncaa-tourney-into-wallys-world' },
+        { label: 'NBA.com — Wayne Embry Pioneer', url: 'https://www.nba.com/news/front-office-pioneer-wayne-embrys-unappreciated-achievement-reaches-milestone' },
+        { label: 'Wikipedia — Cradle of Coaches', url: 'https://en.wikipedia.org/wiki/Cradle_of_Coaches' },
+        { label: 'Wikipedia — Miami University', url: 'https://en.wikipedia.org/wiki/Miami_University' },
+        { label: 'HERO Sports — Miami NCAA Tournament History', url: 'https://herosports.com/cbb-miami-oh-basketball-ncaa-tournament-history-bzbz/' },
+      ],
+    },
+    {
+      heading: 'SMU',
+      links: [
+        { label: 'Sports Reference — 2025-26 SMU Stats', url: 'https://www.sports-reference.com/cbb/schools/southern-methodist/men/2026.html' },
+        { label: 'SMU Athletics — The Mustangs Are In!', url: 'https://smumustangs.com/news/2026/3/15/mens-basketball-the-mustangs-are-in.aspx' },
+        { label: 'On3 — SMU Lands First Four Matchup', url: 'https://www.on3.com/teams/smu-mustangs/news/smu-lands-ncaa-tournament-first-four-matchup-vs-miami-ohio-for-first-march-madness-appearance-since-2017/' },
+        { label: 'FOX Sports — Enfield Believes Mustangs Earned Bid', url: 'https://www.foxsports.com/articles/cbk/smu-coach-andy-enfield-believes-the-mustangs-have-done-enough-to-earn-an-ncaa-tournament-bid' },
+        { label: 'Fox4 Dallas — Boopie Miller', url: 'https://www.fox4news.com/sports/boopie-miller-smu-basketball-march-madness' },
+        { label: 'SMU Athletics — Jaron Pierre Jr. Signs', url: 'https://smumustangs.com/news/2025/4/17/mens-basketball-jaron-pierre-jr-nations-leading-returning-scorer-signs-with-the-mustangs.aspx' },
+        { label: 'On3 — B.J. Edwards Injury Update', url: 'https://www.on3.com/college/smu-mustangs/news/bj-edwards-injury-update-smu-guard-carried-off-court-during-first-half-vs-cal/' },
+        { label: 'Rocky Top Insider — Edwards vs. Tennessee', url: 'https://www.rockytopinsider.com/2026/03/15/tennessee-could-see-this-former-vol-transfer-during-first-march-madness-game/' },
+        { label: 'Bleacher Report — Jermaine O\'Neal Jr.', url: 'https://bleacherreport.com/articles/10135762-4-star-sf-jermaine-oneal-jr-commits-to-smu-son-of-former-nba-all-star' },
+        { label: 'Johns Hopkins HOF — Andy Enfield', url: 'https://hopkinssports.com/honors/hall-of-fame/andy-enfield/19' },
+        { label: 'CBS Sports — Enfield at Johns Hopkins', url: 'https://www.cbssports.com/college-basketball/news/before-he-was-a-star-he-was-a-star-andy-enfield-at-johns-hopkins/' },
+        { label: 'ESPN — FGCU 2013 Sweet 16', url: 'https://www.espn.com/mens-college-basketball/tournament/2013/story/_/id/9094654/' },
+        { label: 'CBS Sports — SMU Hires Enfield', url: 'https://www.cbssports.com/college-basketball/news/smu-hires-andy-enfield-usc-coach-leaves-trojans-after-11-seasons-to-lead-mustangs-into-acc-era/' },
+        { label: 'SMU Daily Campus — Tournament History', url: 'https://smudailycampus.com/1023708/sports/a-look-back-at-smus-ncaa-tournament-history/' },
+        { label: 'Wikipedia — SMU Basketball', url: 'https://en.wikipedia.org/wiki/SMU_Mustangs_men%27s_basketball' },
+        { label: 'Wikipedia — Southern Methodist University', url: 'https://en.wikipedia.org/wiki/Southern_Methodist_University' },
+      ],
+    },
+  ],
+  footerText: 'Casual Fan Viewing Guide • Miami (OH) vs SMU • NCAA First Four • March 18, 2026',
+}
+
+export default game
