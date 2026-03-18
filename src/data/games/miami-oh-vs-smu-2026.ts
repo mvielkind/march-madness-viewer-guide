@@ -17,6 +17,7 @@ const game: GameData = {
       record: '31-1 • AP #20',
       colors: { primary: '#C3142D', secondary: '#f0f0f0', name: 'miami' },
       className: 'miami',
+      logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/193.png',
     },
     {
       name: 'SMU',
@@ -25,6 +26,7 @@ const game: GameData = {
       record: '20-13 • ACC',
       colors: { primary: '#0033A0', secondary: '#CC0035', name: 'smu' },
       className: 'smu',
+      logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png',
     },
   ],
   tabs: [
@@ -48,7 +50,7 @@ const game: GameData = {
       {
         label: 'For SMU',
         value:
-          'First NCAA Tournament since <strong>2017</strong>. First at-large bid since <strong>1993</strong>. The program Andy Enfield once eliminated (his USC beat SMU 66-65 in 2017) now needs him to deliver.',
+          'First NCAA Tournament since <strong>2017</strong>. The program Andy Enfield once eliminated (his USC beat SMU 66-65 in 2017) now needs him to deliver.',
       },
       {
         label: 'The Bubble Debate',
@@ -175,7 +177,7 @@ const game: GameData = {
     {
       emoji: '🏈',
       title: 'The Cradle of Coaches (Miami)',
-      body: 'Miami is the <strong>only school with 3 Super Bowl-winning head coaches</strong> among its alumni — John Harbaugh, Sean McVay, and Paul Brown (who also founded the Cleveland Browns and Cincinnati Bengals). 11 bronze statues stand at the Cradle of Coaches Plaza. <a href="https://en.wikipedia.org/wiki/Cradle_of_Coaches" target="_blank">More →</a>',
+      body: 'Miami is the <strong>only school with 3 Super Bowl-winning head coaches</strong> among its alumni — John Harbaugh, Sean McVay, and Weeb Ewbank (who coached the Jets to their Super Bowl III upset over the Colts). 11 bronze statues stand at the Cradle of Coaches Plaza. <a href="https://en.wikipedia.org/wiki/Cradle_of_Coaches" target="_blank">More →</a>',
     },
     {
       emoji: '🏙️',
@@ -267,7 +269,7 @@ const game: GameData = {
           },
           {
             date: '2014 — The Snub',
-            text: 'Under Hall of Famer <strong>Larry Brown</strong>, SMU went 27-10 and won the AAC Tournament — but was <strong>left out of the NCAA field</strong> in one of Selection Sunday\'s most infamous snubs.',
+            text: 'Under Hall of Famer <strong>Larry Brown</strong>, SMU went 27-10 — but was <strong>left out of the NCAA field</strong> in one of Selection Sunday\'s most infamous snubs.',
           },
           {
             date: '2015 — Sanctions',

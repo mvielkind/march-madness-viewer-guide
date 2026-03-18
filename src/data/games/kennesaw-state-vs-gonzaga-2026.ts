@@ -214,8 +214,8 @@ const game: GameData = {
     },
     {
       emoji: '📺',
-      title: 'Ryan Seacrest Went Here (Kennesaw State)',
-      body: '<strong>Ryan Seacrest</strong> (American Idol, Live with Kelly and Ryan) attended Kennesaw State. So did <strong>Ty Pennington</strong> (Extreme Makeover: Home Edition). Not bad for a school most people haven\'t heard of.',
+      title: 'Famous Owls (Kennesaw State)',
+      body: '<strong>Ty Pennington</strong> (Extreme Makeover: Home Edition) attended Kennesaw State. So did professional wrestler <strong>AJ Styles</strong>. Not bad for a school most people haven\'t heard of.',
     },
     {
       emoji: '🏀',
@@ -230,7 +230,7 @@ const game: GameData = {
     {
       emoji: '🏀',
       title: 'The Nate Oats Connection (Kennesaw State)',
-      body: 'Coach Pettway spent <strong>15 years as an Alabama assistant under Nate Oats</strong>, recruiting/developing 8 NBA players. Gonzaga beat Alabama 95-85 this season; KSU lost to Alabama 91-82. The only common opponent — and the margin between these teams is smaller than you\'d think.',
+      body: 'Coach Pettway spent <strong>15 years as an Alabama assistant</strong>, recruiting and developing 8 NBA players across multiple coaching staffs. Gonzaga beat Alabama 95-85 this season; KSU lost to Alabama 91-82. The only common opponent — and the margin between these teams is smaller than you\'d think.',
     },
   ],
   history: {
@@ -248,7 +248,7 @@ const game: GameData = {
           },
           {
             date: '2017',
-            text: 'Gonzaga\'s <strong>first championship game</strong>. Led North Carolina at halftime but lost 71-65.',
+            text: 'Gonzaga\'s <strong>first championship game</strong>. Trailed North Carolina at halftime 35-32 and lost 71-65.',
           },
           {
             date: '2021',

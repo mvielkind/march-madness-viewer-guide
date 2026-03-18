@@ -180,7 +180,7 @@ const game: GameData = {
     {
       emoji: '🏀',
       title: 'McNamara\'s Perfect Game (Siena)',
-      body: 'Siena coach <strong>Gerry McNamara</strong> won the 2003 national championship at Syracuse, scoring 18 points in the title game against Kansas — <strong>all on three-pointers (6-for-6 from deep)</strong>. He\'s Syracuse\'s all-time leader in three-pointers made. Now he\'s coaching against the school that beat Syracuse in the 2001 title game.',
+      body: 'Siena coach <strong>Gerry McNamara</strong> won the 2003 national championship at Syracuse, scoring 18 points in the title game against Kansas — <strong>all on three-pointers (6-for-10 from deep)</strong>. He\'s Syracuse\'s all-time leader in three-pointers made. Now he\'s coaching against a program with six national championships.',
     },
     {
       emoji: '📈',

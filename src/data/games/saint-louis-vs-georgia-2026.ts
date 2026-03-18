@@ -230,7 +230,7 @@ const game: GameData = {
     {
       emoji: '🏛️',
       title: 'The Oldest Public University (Georgia)',
-      body: 'The University of Georgia was <strong>chartered in 1785</strong> — making it the <strong>oldest public university in the United States</strong> (older than Penn\'s charter!). It has produced 26 governors of Georgia, 9 Pulitzer Prize recipients, and 372,000+ living alumni.',
+      body: 'The University of Georgia was <strong>chartered in 1785</strong> — making it the <strong>oldest public university in the United States</strong>. It has produced 26 governors of Georgia, 9 Pulitzer Prize recipients, and 372,000+ living alumni.',
     },
   ],
   history: {

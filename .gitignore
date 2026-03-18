@@ -3,3 +3,7 @@ dist
 .DS_Store
 .claude
 research
+scripts/fonts/
+scripts/logos/
+images/
+scripts

@@ -205,7 +205,7 @@ const game: GameData = {
     {
       emoji: '📏',
       title: "5'3\" to the NBA Draft (TCU)",
-      body: 'Jamie Dixon was <strong>5-foot-3 as a freshman</strong> point guard at TCU. He grew 11 inches by graduation, led the Southwest Conference in assists as a senior, and was picked in the 7th round of the 1987 NBA Draft by the Washington Bullets.',
+      body: 'Jamie Dixon was <strong>5-foot-3 as a freshman</strong> point guard at TCU. He grew 11 inches by graduation and led the Southwest Conference in assists as a senior.',
     },
     {
       emoji: '🏟️',
@@ -225,7 +225,7 @@ const game: GameData = {
     {
       emoji: '🏃',
       title: 'Jesse Owens (Ohio State)',
-      body: 'Ohio State\'s most famous alum: <strong>Jesse Owens</strong>, who won four gold medals at the 1936 Berlin Olympics. He also set three world records and tied another in just 90 minutes at the 1935 Big Ten track meet — still called "the greatest 90 minutes in sports."',
+      body: 'Ohio State\'s most famous alum: <strong>Jesse Owens</strong>, who won four gold medals at the 1936 Berlin Olympics. He also set three world records and tied another in about 45 minutes at the 1935 Big Ten track meet — often called "the greatest 45 minutes in sports."',
     },
     {
       emoji: '🏠',

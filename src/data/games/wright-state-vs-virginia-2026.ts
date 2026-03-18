@@ -1,0 +1,324 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'wright-state-vs-virginia-2026',
+  title: 'Wright State vs Virginia \u2014 First Round Viewing Guide',
+  eventTag: 'NCAA Tournament \u2022 First Round \u2022 Philadelphia, PA',
+  date: 'Friday, March 20, 2026 \u2022 1:50 PM ET',
+  round: 'First Round',
+  tipTime: '2026-03-20T13:50',
+  venue: 'Xfinity Mobile Arena, Philadelphia, Pennsylvania \u2022 TBS',
+  extraInfo: 'Winner faces <strong>#6 Tennessee or #11 SMU/Miami OH</strong> on Sunday',
+  teams: [
+    {
+      name: 'Wright State',
+      mascot: 'Raiders',
+      seed: '#14 Seed',
+      record: '23-11 \u2022 Horizon Champs',
+      colors: { primary: '#007A33', secondary: '#FFB81C', name: 'wright-state' },
+      className: 'wright-state',
+    },
+    {
+      name: 'Virginia',
+      mascot: 'Cavaliers',
+      seed: '#3 Seed',
+      record: '29-5 \u2022 ACC',
+      colors: { primary: '#232D4B', secondary: '#F84C1E', name: 'virginia' },
+      className: 'virginia',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'Virginia\'s coach <strong>Ryan Odom once coached UMBC to the most famous upset in tournament history \u2014 a 74-54 demolition of #1 Virginia in 2018</strong>. Now he\'s coaching Virginia. And he\'s drawn a mid-major opponent in the first round. The irony is almost too perfect. Virginia is 29-5 with a <strong>completely rebuilt roster of 12 newcomers</strong>, led by a <strong>23-year-old Belgian professional "freshman."</strong> Wright State is the <strong>Horizon League champion</strong> that hasn\'t beaten a single higher-rated KenPom team all year. CBS Sports says Virginia is the <strong>most likely 3-seed to lose</strong>.',
+    cards: [
+      {
+        label: 'The Odom Irony',
+        value:
+          'Ryan Odom grew up as a <strong>UVA ball boy</strong>. In 2018, he coached UMBC to a <strong>74-54 upset of #1 Virginia</strong> \u2014 the first 16-over-1 in history. Seven years later, he\'s Virginia\'s head coach. Now he\'s facing a mid-major in the first round. He knows exactly what can go wrong.',
+      },
+      {
+        label: 'For Virginia',
+        value:
+          'Odom rebuilt the entire roster \u2014 <strong>12 newcomers</strong>, including 7 transfers and a Belgian pro. The result: <strong>29-5 and a 3-seed</strong>. His 29 wins are the most by a first-year UVA coach ever. But Virginia <strong>hasn\'t won a tournament game since their 2019 championship</strong>. Seven years is a long drought for a program this proud.',
+      },
+      {
+        label: 'For Wright State',
+        value:
+          'Horizon League double champions. TJ Burch won <strong>three individual conference awards</strong> in one season (Tournament MVP, Defensive POY, Newcomer of the Year). But they\'re <strong>0-4 against higher-rated KenPom teams</strong> this season \u2014 they haven\'t beaten anyone good.',
+      },
+      {
+        label: 'The "Most Likely to Lose" Label',
+        value:
+          'CBS Sports ranked Virginia as the <strong>most likely 3-seed to be upset</strong>. The reasoning: a brand-new roster that\'s never played in March together, no elite scorer, and Wright State\'s offensive efficiency (53rd in KenPom) is better than most 14-seeds.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Horizon League Champions With an Offense',
+      bullets: [
+        '<strong>Legitimate offensive efficiency:</strong> Wright State ranks <strong>53rd nationally in KenPom offensive efficiency (116.5)</strong> \u2014 far better than your typical 14-seed. They have six players averaging 8.7+ PPG and can score from multiple positions.',
+        '<strong>Freshman firepower:</strong> Michael Cooper (13.4 PPG) leads the team in scoring as a <strong>true freshman</strong>. He scored 23 of his 25 points in the second half of the Horizon League semifinal. He\'s fearless and could have a breakout performance on the national stage.',
+        '<strong>TJ Burch does everything:</strong> The sophomore averaged <strong>19.0 PPG in the Horizon League Tournament</strong> and won three individual awards (Tournament MVP, Defensive POY, Newcomer of the Year). Transferred from Ball State and immediately became the conference\'s most impactful player.',
+        '<strong>Clutch DNA:</strong> Won the Horizon League championship 66-63 after trailing Detroit Mercy. Kellen Pickett <strong>blocked a potential game-tying layup</strong> in the final seconds. This team knows how to win close games under pressure.',
+        '<strong>Weakness:</strong> They\'re <strong>0-4 against higher-rated KenPom teams</strong>. That\'s not a typo \u2014 23-7 against lower-rated teams, 0-4 against everyone else. Defense ranks <strong>155th in KenPom</strong>. Virginia is a massive step up in competition.',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'The Most Ambitious Rebuild in America',
+      bullets: [
+        '<strong>12 newcomers, 29 wins:</strong> Ryan Odom replaced <strong>the entire roster</strong> after Tony Bennett\'s retirement. Seven transfers, three freshmen, and a Belgian professional. The result: <strong>29-5, the most wins by a first-year UVA coach</strong>, and a 3-seed. It shouldn\'t have worked this well.',
+        '<strong>De Ridder is unique:</strong> Thijs De Ridder is a <strong>23-year-old Belgian who played three years of professional basketball in Spain</strong>, classified as a "freshman" by the NCAA. He\'s 6-9, 238, averages 15.5 PPG, and is the <strong>first UVA freshman ever voted First-Team All-ACC</strong>. He has pro-level composure.',
+        '<strong>Two-way profile:</strong> Virginia ranks <strong>27th in offensive efficiency and 51st in defensive efficiency</strong>. This is dramatically different from the Tony Bennett era \u2014 Odom\'s teams play faster, shoot more threes, and still defend. Sam Lewis shoots 40.7% from three. Jacari White shoots 43.0%.',
+        '<strong>Tournament pedigree (the coach):</strong> Odom has taken <strong>four different programs</strong> to the NCAA Tournament (UMBC, Utah State, VCU, Virginia). He knows what it takes to win in March. His 2018 UMBC win over Virginia is literally the most famous tournament game of the modern era.',
+        '<strong>Weakness:</strong> This roster has <strong>never played a tournament game together</strong>. There\'s no elite go-to scorer (15.5 PPG is modest for a 3-seed). De Ridder\'s free throw shooting (71.3%) could matter in a close game. And the UMBC shadow looms \u2014 Odom knows what it\'s like to be on the other side of an upset.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'Can Wright State compete against ACC-level talent?',
+      description:
+        'Wright State is 0-4 against higher-rated KenPom teams this season. Virginia is a 3-seed with transfers from BYU, San Francisco, Toledo, Kansas State, and a Belgian professional. The talent gap is real. But Wright State\'s offensive efficiency (53rd) suggests they can at least score. If they can keep this within 10 at halftime, they have a shot.',
+    },
+    {
+      title: 'The De Ridder matchup.',
+      description:
+        'Thijs De Ridder is 6-9, 238 pounds with three years of professional experience in Spain. He averages 15.5 PPG on 50.8% shooting. Wright State\'s Michael Imariagbe (6-7) and Kellen Pickett (6-9) are the only players with the size to guard him. If De Ridder gets going early, his pro-level composure could put the game away before Wright State settles in.',
+    },
+    {
+      title: 'TJ Burch vs. Virginia\'s backcourt.',
+      description:
+        'Burch averaged 19.0 PPG in the Horizon League Tournament and won Defensive Player of the Year. He\'s a two-way force. But he\'ll be guarded by Malik Thomas and Jacari White \u2014 ACC-caliber defenders. If Burch can impose his will the way he did in the conference tournament, Wright State has a chance. If Virginia\'s backcourt length bothers him, it\'s over quickly.',
+    },
+    {
+      title: 'Virginia\'s roster chemistry under pressure.',
+      description:
+        'Twelve newcomers who\'ve been together for one season. They went 29-5 in the regular season and made the ACC Tournament final. But the NCAA Tournament is different \u2014 single elimination, a neutral court, and an opponent with nothing to lose. Odom has tournament experience at four different schools. The question is whether his players do.',
+    },
+    {
+      title: 'Odom\'s ghost.',
+      description:
+        'Ryan Odom coached the most famous upset in tournament history \u2014 UMBC 74, Virginia 54, in 2018. Now he\'s on the other side, coaching Virginia as a 3-seed against a mid-major. He knows exactly what the underdog is thinking because he\'s been the underdog. That self-awareness could be Virginia\'s greatest asset \u2014 or a source of anxiety. "I\'m thankful to be home," he said. Home means the tournament, too.',
+    },
+  ],
+  players: [
+    {
+      team: 'a',
+      name: 'Michael Cooper',
+      stats: '13.4 PPG \u2022 2.8 RPG \u2022 2.2 APG \u2022 .364 3P%',
+      meta: 'G \u2022 6-3 \u2022 Freshman \u2022 Horizon All-Freshman Team',
+      bio: 'From Jeffersonville, Indiana. Leads Wright State in scoring <strong>as a true freshman</strong>. Scored <strong>23 of his 25 points in the second half</strong> of the Horizon League semifinal against Northern Kentucky, leading a 103-90 blowout. Named to the Horizon All-Freshman Team. Plays with a fearlessness that could translate to the big stage.',
+    },
+    {
+      team: 'a',
+      name: 'TJ Burch',
+      stats: '12.3 PPG \u2022 3.5 APG \u2022 2.4 RPG',
+      meta: 'G \u2022 6-1 \u2022 Sophomore \u2022 HL Tournament MVP, DPOY, Newcomer of the Year',
+      bio: 'Transferred from Ball State and immediately won <strong>three Horizon League awards</strong>: Tournament MVP, Defensive Player of the Year, and Newcomer of the Year. Scored <strong>team-high 19 in the championship game</strong>, including 8 points during a decisive 17-5 run. The best two-way guard in the Horizon League.',
+    },
+    {
+      team: 'a',
+      name: 'Michael Imariagbe',
+      stats: '11.8 PPG \u2022 7.0 RPG \u2022 .589 FG%',
+      meta: 'F \u2022 6-7 \u2022 Senior \u2022 Interior Anchor',
+      bio: 'Senior forward who shoots 58.9% from the field and averages 7.0 RPG. The most experienced player on the roster and the primary rebounder. Will need to battle Virginia\'s Ugonna Onyenso (6-11) and De Ridder (6-9) in the paint \u2014 a significant size disadvantage.',
+    },
+    {
+      team: 'a',
+      name: 'Kellen Pickett',
+      stats: '8.7 PPG \u2022 5.4 RPG \u2022 .564 FG%',
+      meta: 'F \u2022 6-9 \u2022 Freshman \u2022 Championship-Saving Block',
+      bio: 'Freshman who made the <strong>biggest play of Wright State\'s season</strong>: blocked a potential game-tying layup in the final seconds of the Horizon League championship, preserving a 66-63 win over Detroit Mercy. At 6-9, he\'s the Raiders\' tallest regular and provides interior defense.',
+    },
+    {
+      team: 'b',
+      name: 'Thijs De Ridder',
+      stats: '15.5 PPG \u2022 6.2 RPG \u2022 1.6 APG \u2022 .508 FG%',
+      meta: 'F \u2022 6-9 \u2022 Freshman (23 years old) \u2022 First-Team All-ACC',
+      bio: 'Born in <strong>Antwerp, Belgium</strong>. Played <strong>three years of professional basketball</strong> \u2014 one with Antwerp and two with Bilbao in Spain\'s Liga ACB. The NCAA granted him two seasons of eligibility. At 23, he\'s the oldest "freshman" in the tournament. <strong>First UVA freshman ever voted First-Team All-ACC.</strong> His pro-level composure is Virginia\'s biggest weapon.<br><a href="https://www.pilotonline.com/2026/03/09/thijs-de-ridder-first-uva-freshman-ever-voted-first-team-all-acc/" target="_blank">Read more \u2192</a>',
+    },
+    {
+      team: 'b',
+      name: 'Malik Thomas',
+      stats: '12.4 PPG \u2022 3.9 RPG \u2022 1.6 APG',
+      meta: 'G \u2022 6-4 \u2022 Senior \u2022 Transfer from San Francisco',
+      bio: 'Senior guard who transferred from San Francisco. Provides perimeter scoring and shot creation in the half-court. One of seven transfers who form the backbone of Odom\'s rebuilt roster.',
+    },
+    {
+      team: 'b',
+      name: 'Sam Lewis',
+      stats: '10.8 PPG \u2022 3.6 RPG \u2022 .407 3P%',
+      meta: 'G \u2022 6-6 \u2022 Junior \u2022 Transfer from Toledo',
+      bio: 'Transfer from Toledo who shoots <strong>40.7% from three</strong>. His floor-spacing ability is critical to Virginia\'s new up-tempo offense \u2014 a dramatic departure from the pack-line Bennett era. At 6-6, he has the size to defend multiple positions.',
+    },
+    {
+      team: 'b',
+      name: 'Dallin Hall',
+      stats: '5.9 PPG \u2022 4.3 APG \u2022 3.6 RPG',
+      meta: 'G \u2022 6-4 \u2022 Senior \u2022 Transfer from BYU',
+      bio: 'Transferred from BYU to run Odom\'s offense. Leads Virginia with <strong>4.3 assists per game</strong>. A facilitator who sacrifices scoring for team play. The steady hand connecting seven transfers and three freshmen into a cohesive unit.',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '\uD83D\uDE31',
+      title: 'The Coach Who Beat Virginia... Is Virginia\'s Coach',
+      body: 'Ryan Odom coached <strong>UMBC to a 74-54 win over #1 Virginia in 2018</strong> \u2014 the first 16-over-1 upset ever. He grew up as a <strong>UVA ball boy</strong>. His father Dave was a UVA assistant coach. Now Ryan is Virginia\'s head coach. You can\'t make this up.',
+    },
+    {
+      emoji: '\u2708\uFE0F',
+      title: 'Named for the Wright Brothers',
+      body: 'Wright State is named after <strong>Orville and Wilbur Wright</strong>, the aviation pioneers who lived in nearby Dayton. The campus sits next to <strong>Wright-Patterson Air Force Base</strong>, one of the largest military installations in the world.',
+    },
+    {
+      emoji: '\uD83C\uDDE7\uD83C\uDDEA',
+      title: 'The 23-Year-Old "Freshman" (Virginia)',
+      body: '<strong>Thijs De Ridder</strong> is 23 years old and classified as a freshman. He played <strong>three years of professional basketball in Belgium and Spain</strong> before the NCAA granted him two seasons of eligibility. He\'s the <strong>first UVA freshman ever voted First-Team All-ACC</strong>.',
+    },
+    {
+      emoji: '\uD83C\uDFC6',
+      title: 'Three Awards in One Season (Wright State)',
+      body: '<strong>TJ Burch</strong> won Horizon League <strong>Tournament MVP, Defensive Player of the Year, AND Newcomer of the Year</strong> \u2014 all in his first season after transferring from Ball State. That\'s a hat trick of conference awards.',
+    },
+    {
+      emoji: '\uD83C\uDFB5',
+      title: 'Guided By Voices and the Pussycat Dolls (Wright State)',
+      body: 'Wright State\'s notable alumni include <strong>Robert Pollard</strong>, founder of indie rock legends <strong>Guided By Voices</strong>, and <strong>Nicole Scherzinger</strong> of the Pussycat Dolls. Also: NASA astronaut Michael R. Barratt.',
+    },
+    {
+      emoji: '\uD83D\uDCDA',
+      title: 'Founded by Thomas Jefferson (Virginia)',
+      body: 'UVA was <strong>founded in 1819 by Thomas Jefferson</strong>, who designed the campus. Other notable attendees include <strong>Edgar Allan Poe</strong>, <strong>Tina Fey</strong>, and <strong>Katie Couric</strong>. Robert F. Kennedy attended UVA Law.',
+    },
+    {
+      emoji: '\uD83D\uDCA5',
+      title: 'The Championship Block (Wright State)',
+      body: 'Freshman <strong>Kellen Pickett blocked a potential game-tying layup</strong> in the final seconds of the Horizon League championship, preserving a 66-63 win over Detroit Mercy. Without that block, Wright State isn\'t here.',
+    },
+    {
+      emoji: '\uD83D\uDD04',
+      title: '12 Newcomers, 29 Wins (Virginia)',
+      body: 'Odom brought in <strong>12 newcomers</strong> (7 transfers, 3 freshmen, a Belgian pro, and a returning walk-on). They went <strong>29-5</strong> \u2014 the most wins by a first-year Virginia coach ever. Nobody expected this.',
+    },
+    {
+      emoji: '\uD83C\uDFD7\uFE0F',
+      title: 'The Tunnel System (Wright State)',
+      body: 'Wright State has one of the <strong>most extensive tunnel systems of any university</strong>, connecting nearly all major buildings underground. Originally designed for accessibility, the tunnels are beloved by students during brutal Ohio winters.',
+    },
+    {
+      emoji: '\uD83C\uDFC0',
+      title: 'Four Schools, Four Tournaments (Virginia)',
+      body: 'Ryan Odom has taken <strong>four different programs</strong> to the NCAA Tournament: UMBC (2018), Utah State (2023), VCU (2025), and Virginia (2026). Every school, every time, within his first two seasons.',
+    },
+    {
+      emoji: '\uD83D\uDCAA',
+      title: 'The 2019 Redemption Championship (Virginia)',
+      body: 'After the UMBC humiliation in 2018, Virginia came back the next year and <strong>won the national championship</strong> \u2014 beating Texas Tech in overtime. De\'Andre Hunter scored 27 in the title game. It was the greatest redemption arc in college basketball history.',
+    },
+    {
+      emoji: '\uD83C\uDFAF',
+      title: '0-4 Against Higher-Rated Teams (Wright State)',
+      body: 'Wright State is <strong>0-4 against KenPom higher-rated teams</strong> this season and 23-7 against lower-rated ones. They\'ve dominated the Horizon League but haven\'t beaten a quality opponent. Virginia is ranked 51 spots higher.',
+    },
+  ],
+  history: {
+    callout:
+      'Virginia won the <strong>2019 national championship</strong> one year after suffering the most humiliating loss in tournament history \u2014 to UMBC, <strong>coached by the man who is now Virginia\'s head coach</strong>. Wright State won its <strong>first D-I tournament game in 2022</strong> and is making its fourth appearance since 2018. The narrative here isn\'t about the matchup \u2014 it\'s about Ryan Odom\'s extraordinary journey from UVA ball boy to UMBC upset coach to Virginia head coach.',
+    subsections: [
+      {
+        title: "Ryan Odom's Full Circle",
+        type: 'timeline' as const,
+        content: '',
+        timeline: [
+          {
+            date: '1982-89',
+            text: 'Ryan\'s father <strong>Dave Odom</strong> serves as assistant coach at Virginia. Young Ryan rides his bike to University Hall and becomes a ball boy.',
+          },
+          {
+            date: '2016',
+            text: 'Ryan Odom hired as head coach at <strong>UMBC</strong>, a tiny school in Baltimore. The program went 7-25 the year before.',
+          },
+          {
+            date: '2018',
+            text: '<strong>UMBC 74, Virginia 54.</strong> The first 16-over-1 upset in NCAA Tournament history. Odom\'s Retrievers crush the #1 overall seed \u2014 the team Ryan grew up watching.',
+          },
+          {
+            date: '2019',
+            text: 'Virginia, motivated by the UMBC loss, <strong>wins the national championship</strong>. The redemption is complete \u2014 but the UMBC game remains the most famous upset ever.',
+          },
+          {
+            date: '2025',
+            text: 'Tony Bennett retires from Virginia. <strong>Ryan Odom hired as head coach</strong> \u2014 the man who orchestrated the program\'s worst moment is now tasked with its future.',
+          },
+          {
+            date: '2026',
+            text: '29-5 with 12 newcomers. 3-seed. First tournament for the new-look Virginia. Odom is back in March \u2014 this time, hoping not to be upset.',
+          },
+        ],
+      },
+      {
+        title: "Wright State's Tournament History",
+        type: 'card' as const,
+        content:
+          '<p>Wright State has been to the NCAA Tournament four times (2018, 2022, 2024, 2026). Their lone win came in <strong>2022</strong>, when they beat Bryant in the First Four \u2014 the program\'s first Division I tournament victory. In 2018, they lost to Tennessee. In 2024, they lost to Arizona (the same Arizona that\'s now a 1-seed this year).</p><p style="margin-top:.5rem;">The 2026 Raiders are built differently: TJ Burch\'s three individual awards, Michael Cooper\'s fearless freshman scoring, and a Horizon League championship won on a last-second block. But their 0-4 record against higher-rated KenPom teams is a reality check \u2014 they\'ve never beaten a team as good as Virginia this season.</p>',
+      },
+      {
+        title: 'The "Most Likely to Lose" 3-Seed',
+        type: 'card' as const,
+        content:
+          '<p>CBS Sports ranked Virginia as the <strong>most likely 3-seed to be upset</strong> in the first round. The reasoning is compelling: this is a brand-new roster of 12 newcomers that has never played a tournament game together. There\'s no elite scorer \u2014 De Ridder\'s 15.5 PPG is modest for a 3-seed. And the Cavaliers haven\'t won a tournament game since their 2019 championship run \u2014 a seven-year drought.</p><p style="margin-top:.5rem;">But there\'s a counterargument: Ryan Odom has taken four different programs to the tournament. He knows what it takes. Thijs De Ridder has played in Spanish professional leagues \u2014 the NCAA Tournament won\'t faze him. And this Virginia team went 29-5 against ACC competition, including games against Duke, North Carolina, and Clemson. Wright State hasn\'t faced anything close to that level.</p>',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Wright State',
+      links: [
+        { label: 'Wright State Athletics \u2014 Set to Face Virginia', url: 'https://wsuraiders.com/news/2026/3/15/mens-basketball-raiders-set-to-face-virginia-to-open-ncaas-friday' },
+        { label: 'Wright State Athletics \u2014 Horizon League Championship', url: 'https://wsuraiders.com/news/2026/3/10/mens-basketball-champs-raiders-rally-to-claim-horizon-league-crown' },
+        { label: 'Sports Reference \u2014 2025-26 Wright State Stats', url: 'https://www.sports-reference.com/cbb/schools/wright-state/men/2026.html' },
+        { label: 'Basket Under Review \u2014 Wright State Preview', url: 'https://www.basketunderreview.com/ticket-punched-previewing-the-wright-state-raiders-for-the-2026-ncaa-tournament/' },
+        { label: 'Dayton Daily News \u2014 Raiders NCAA Bound', url: 'https://www.daytondailynews.com/sports/wright-state-basketball-raiders-are-ncaa-bound-after-comeback-victory/HUOACBGAXBEHXKQRTQ5CPMLN4I/' },
+        { label: 'Dayton Daily News \u2014 "Shows the Heart of Wright State"', url: 'https://www.daytondailynews.com/sports/archdeacon-this-really-shows-the-heart-of-wright-state/XXQD3CXCTNC3XGESWFTIHXCLOE/' },
+        { label: 'Wright State Athletics \u2014 Cooper Bio', url: 'https://wsuraiders.com/sports/mens-basketball/roster/michael-cooper/6492' },
+        { label: 'Wikipedia \u2014 Clint Sargent', url: 'https://en.wikipedia.org/wiki/Clint_Sargent' },
+        { label: 'Wikipedia \u2014 Wright State University', url: 'https://en.wikipedia.org/wiki/Wright_State_University' },
+        { label: 'Wright State Alumni \u2014 Notable Alumni', url: 'https://www.wrightstatealumni.com/about-us/notable-alumni' },
+        { label: 'Augusta Free Press \u2014 What UVA Fans Need to Know', url: 'https://augustafreepress.com/news/march-madness-what-uva-basketball-fans-need-to-know-about-wright-state/' },
+        { label: 'Fairborn Daily Herald \u2014 Horizon League First Round', url: 'https://www.fairborndailyherald.com/2026/03/04/no-1-wright-state-beats-no-10-cleveland-state-90-61-in-horizon-league-championship-first-round/' },
+      ],
+    },
+    {
+      heading: 'Virginia',
+      links: [
+        { label: 'Virginia Athletics \u2014 Earns No. 3 Seed', url: 'https://virginiasports.com/news/2026/03/15/virginia-earns-no-3-seed-in-ncaa-tournament' },
+        { label: 'Sports Reference \u2014 2025-26 Virginia Stats', url: 'https://www.sports-reference.com/cbb/schools/virginia/men/2026.html' },
+        { label: 'Virginia Athletics \u2014 Odom Named Head Coach', url: 'https://virginiasports.com/news/2025/03/23/ryan-odom-named-dean-and-markel-families-mens-head-basketball-coach' },
+        { label: 'CBS Sports \u2014 Odom\'s Arc Comes Full Circle', url: 'https://www.cbssports.com/college-basketball/news/virginia-opens-vs-wright-state-as-ryan-odoms-arc-comes-full-circle/' },
+        { label: 'SI \u2014 The Ryan Odom Story', url: 'https://www.si.com/college/virginia/the-ryan-odom-story-tracing-the-journey-of-uva-basketball-new-head-coach' },
+        { label: 'UVA Newsroom \u2014 7 Years After the Stunner', url: 'https://news.virginia.edu/content/7-years-after-stunner-ryan-odoms-story-comes-full-circle-uvas-coach' },
+        { label: 'Pilot Online \u2014 De Ridder First-Team All-ACC', url: 'https://www.pilotonline.com/2026/03/09/thijs-de-ridder-first-uva-freshman-ever-voted-first-team-all-acc/' },
+        { label: 'SI \u2014 Odom Tournament Record', url: 'https://www.si.com/college/virginia/basketball/virginia-s-ryan-odom-ncaa-tournament-record-and-most-memorable-finish-01kkvb80h5b5' },
+        { label: 'CBS Sports \u2014 Virginia Most Likely 3-Seed to Lose', url: 'https://www.cbssports.com/college-basketball/news/14-vs-3-upset-rankings-virginia-most-likely-ncaa-tournament-no-3-seed-to-lose-faces-dangerous-wright-state/' },
+        { label: 'Wikipedia \u2014 Ryan Odom', url: 'https://en.wikipedia.org/wiki/Ryan_Odom' },
+        { label: 'Wikipedia \u2014 2018 UMBC vs Virginia', url: 'https://en.wikipedia.org/wiki/2018_UMBC_vs._Virginia_men%27s_basketball_game' },
+        { label: 'Fox Sports \u2014 Odom Seeks First UVA Tournament Win in 7 Years', url: 'https://www.foxsports.com/articles/cbk/firstyear-coach-ryan-odom-and-virginia-seek-first-ncaa-tournament-win-in-7-years' },
+      ],
+    },
+  ],
+  footerText: 'Casual Fan Viewing Guide \u2022 Wright State vs Virginia \u2022 NCAA First Round \u2022 March 20, 2026',
+}
+
+export default game

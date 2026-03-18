@@ -180,7 +180,7 @@ const game: GameData = {
     {
       emoji: '⛵',
       title: 'The Commodore (Vanderbilt)',
-      body: 'Vanderbilt is named after <strong>Cornelius Vanderbilt</strong>, the railroad and steamboat magnate who provided the $1 million founding endowment. The nickname "Commodore" — the highest US Navy rank at the time — was commonly used for prominent steamboat entrepreneurs. The mascot "Mr. C" carries a cutlass.',
+      body: 'Vanderbilt is named after <strong>Cornelius Vanderbilt</strong>, the railroad and steamboat magnate who provided the $1 million founding endowment. The nickname "Commodore" was a title of respect commonly used for prominent steamboat and shipping entrepreneurs. The mascot "Mr. C" carries a cutlass.',
     },
     {
       emoji: '🌀',
@@ -248,7 +248,7 @@ const game: GameData = {
           },
           {
             date: '2004 & 2007',
-            text: 'Back-to-back Sweet Sixteen appearances under Kevin Stallings. The 2007 team went 22-12.',
+            text: 'Sweet Sixteen appearances under Kevin Stallings in both 2004 and 2007. The 2007 team went 22-12.',
           },
           {
             date: '2012',

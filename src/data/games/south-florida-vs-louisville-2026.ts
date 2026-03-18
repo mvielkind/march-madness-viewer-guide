@@ -209,8 +209,8 @@ const game: GameData = {
     },
     {
       emoji: '🎬',
-      title: 'Burt Reynolds Was a Bull (USF)',
-      body: '<strong>Burt Reynolds</strong> attended USF on a football scholarship and played halfback before an injury ended his athletic career. Other notable USF alumni include Baseball Hall of Fame manager <strong>Tony La Russa</strong>.',
+      title: 'Notable Bulls (USF)',
+      body: 'Baseball Hall of Fame manager <strong>Tony La Russa</strong> earned his law degree at USF. Other notable alumni include journalist and TV host <strong>Chris Hansen</strong>.',
     },
     {
       emoji: '🏛️',
@@ -220,7 +220,7 @@ const game: GameData = {
     {
       emoji: '🏟️',
       title: 'The Biggest Basketball Arena (Louisville)',
-      body: 'Louisville plays at the <strong>KFC Yum! Center</strong> — at 22,090 seats, it\'s the largest arena in the United States designed primarily for basketball. The court is named <strong>Denny Crum Court</strong> after the Hall of Fame coach who won two national titles there.',
+      body: 'Louisville plays at the <strong>KFC Yum! Center</strong> — at 22,090 seats, it\'s the largest arena in the United States designed primarily for basketball. The court is named <strong>Denny Crum Court</strong> after the Hall of Fame coach who won two national titles for the program (1980, 1986).',
     },
     {
       emoji: '🐂',

@@ -215,7 +215,7 @@ const game: GameData = {
     {
       emoji: '🎨',
       title: 'The Arts School (VCU)',
-      body: 'VCU\'s School of the Arts is <strong>consistently ranked among the top public arts programs nationally</strong>. Notable alumni include <strong>Erin Brockovich</strong> (environmental activist), <strong>David Baldacci</strong> (author), and <strong>Sally Yates</strong> (former acting U.S. Attorney General).',
+      body: 'VCU\'s School of the Arts is <strong>consistently ranked among the top public arts programs nationally</strong>. Notable alumni include bestselling author <strong>David Baldacci</strong> and rapper/producer <strong>Pharrell Williams</strong>.',
     },
     {
       emoji: '🇲🇪',

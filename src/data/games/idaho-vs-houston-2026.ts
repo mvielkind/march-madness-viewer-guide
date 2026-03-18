@@ -180,7 +180,7 @@ const game: GameData = {
     {
       emoji: '💀',
       title: 'The Ghost of Don Monson',
-      body: 'Legendary coach <strong>Don Monson</strong> (100-41 at Idaho, Sweet Sixteen in 1982) <strong>died October 2, 2025, at 92</strong> — months before this run. He\'s credited with recruiting Magic Johnson to Michigan State. His son Dan Monson coaches Eastern Washington — <strong>the team Idaho beat in the Big Sky Tournament semifinals</strong>. The symmetry is haunting.',
+      body: 'Legendary coach <strong>Don Monson</strong> (100-41 at Idaho, Sweet Sixteen in 1982) <strong>died October 2, 2025, at 92</strong> — months before this run. His son Dan Monson coaches Eastern Washington — <strong>the team Idaho beat in the Big Sky Tournament semifinals</strong>. The symmetry is haunting.',
     },
     {
       emoji: '😤',

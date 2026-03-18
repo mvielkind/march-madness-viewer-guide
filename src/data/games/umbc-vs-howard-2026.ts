@@ -197,8 +197,8 @@ const game: GameData = {
     },
     {
       emoji: '🎭',
-      title: 'Kathleen Turner Went Here (UMBC)',
-      body: '<strong>Kathleen Turner</strong> (Body Heat, Romancing the Stone) is a UMBC alumna. So is the 20th U.S. Surgeon General <strong>Jerome Adams</strong>. Not bad for a school most people only know from a basketball game. <a href="https://edurank.org/uni/university-of-maryland-baltimore-county/alumni/" target="_blank">More →</a>',
+      title: 'More Than a Basketball Game (UMBC)',
+      body: 'UMBC was <strong>Maryland\'s first public college inclusive of all races when it opened in 1966</strong>. The school is a top producer of Fulbright scholars and is nationally ranked for undergraduate teaching. Not bad for a school most people only know from a basketball game.',
     },
     {
       emoji: '💰',

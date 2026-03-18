@@ -38,7 +38,7 @@ const game: GameData = {
   ],
   stakes: {
     callout:
-      'A team from Fargo with <strong>two NBA sons, an NAIA-to-D1 bench shooter, and five guys shooting 37%+ from three</strong> against <strong>Mr. March himself</strong> — Tom Izzo\'s Michigan State program making its <strong>28th consecutive NCAA Tournament appearance</strong>. NDSU upset Oklahoma as a 14-seed in 2014. Michigan State has 10 Final Fours. But the Spartans lost their last two games coming in. If NDSU\'s shooters catch fire...',
+      'A team from Fargo with <strong>two NBA sons, an NAIA-to-D1 bench shooter, and five guys shooting 37%+ from three</strong> against <strong>Mr. March himself</strong> — Tom Izzo\'s Michigan State program making its <strong>28th consecutive NCAA Tournament appearance</strong>. NDSU upset Oklahoma as a 14-seed in 2014. Michigan State has eight Final Fours. But the Spartans lost their last two games coming in. If NDSU\'s shooters catch fire...',
     cards: [
       {
         label: 'For NDSU',
@@ -48,7 +48,7 @@ const game: GameData = {
       {
         label: 'For Michigan State',
         value:
-          'Izzo\'s <strong>28th straight tournament appearance</strong> — the all-time record. He has <strong>10 Final Fours</strong> and a national championship (2000). But MSU <strong>lost its last two games</strong> and enters without momentum. "Mr. March" needs to prove the nickname still fits.',
+          'Izzo\'s <strong>28th straight tournament appearance</strong> — the all-time record. He has <strong>eight Final Fours</strong> and a national championship (2000). But MSU <strong>lost its last two games</strong> and enters without momentum. "Mr. March" needs to prove the nickname still fits.',
       },
       {
         label: 'The Shooting Matchup',
@@ -110,7 +110,7 @@ const game: GameData = {
     {
       title: 'Izzo in March is a different animal.',
       description:
-        'Tom Izzo is 54-23 in NCAA Tournament games (.701) with 10 Final Fours. He\'s earned the "Mr. March" nickname over three decades. His teams consistently outperform their seeds. Even entering on a two-game losing streak, history says don\'t bet against Izzo in the tournament. He\'ll have his team prepared, focused, and tough. NDSU coach Richman is 1-2 in the tournament.',
+        'Tom Izzo is 54-23 in NCAA Tournament games (.701) with eight Final Fours. He\'s earned the "Mr. March" nickname over three decades. His teams consistently outperform their seeds. Even entering on a two-game losing streak, history says don\'t bet against Izzo in the tournament. He\'ll have his team prepared, focused, and tough. NDSU coach Richman is 1-2 in the tournament.',
     },
   ],
   players: [
@@ -190,7 +190,7 @@ const game: GameData = {
     {
       emoji: '🏀',
       title: '28 Straight Tournaments (Michigan State)',
-      body: '<strong>Tom Izzo has led Michigan State to 28 consecutive NCAA Tournament appearances</strong> — the longest active streak in the nation and the longest ever by a coach at one school. He\'s 54-23 in tournament games with <strong>10 Final Fours</strong>.',
+      body: '<strong>Tom Izzo has led Michigan State to 28 consecutive NCAA Tournament appearances</strong> — the longest active streak in the nation and the longest ever by a coach at one school. He\'s 54-23 in tournament games with <strong>eight Final Fours</strong>.',
     },
     {
       emoji: '👩‍🏫',
@@ -208,9 +208,9 @@ const game: GameData = {
       body: '<strong>Tay Smith</strong> spent five years at NAIA Brescia University (16.5 PPG) and D-II Lenoir-Rhyne (D2 Elite Eight) before getting his one shot at Division I at NDSU. He believed his "years would run out" before he\'d ever play in the Big Dance. He scored 28 on Senior Night.',
     },
     {
-      emoji: '🏆',
-      title: 'Phil Jackson Went Here (NDSU)',
-      body: '<strong>Phil Jackson</strong> — the 11-time NBA champion head coach of the Bulls and Lakers — is an NDSU alum. He played basketball for the Bison before his legendary coaching career with Michael Jordan and Kobe Bryant.',
+      emoji: '🏛️',
+      title: 'D-II to D-I in Record Time (NDSU)',
+      body: 'NDSU only completed its transition from <strong>Division II to Division I in 2008</strong>. They made the NCAA Tournament in their <strong>very first year of eligibility (2009)</strong> — the first team to accomplish that since 1972. Now they\'re back for their fourth tournament appearance in just 18 years as a D-I program.',
     },
     {
       emoji: '💔',
@@ -235,7 +235,7 @@ const game: GameData = {
   ],
   history: {
     callout:
-      'Michigan State has <strong>2 national championships, 10 Final Fours, and 28 consecutive tournament appearances</strong>. North Dakota State has <strong>upset a 5-seed before</strong> (Oklahoma in 2014) and has nothing to lose. Tom Izzo is "Mr. March." But NDSU has five shooters who can catch fire at any moment. In a single-elimination tournament, that\'s all you need.',
+      'Michigan State has <strong>2 national championships, eight Final Fours, and 28 consecutive tournament appearances</strong>. North Dakota State has <strong>upset a 5-seed before</strong> (Oklahoma in 2014) and has nothing to lose. Tom Izzo is "Mr. March." But NDSU has five shooters who can catch fire at any moment. In a single-elimination tournament, that\'s all you need.',
     subsections: [
       {
         title: "Michigan State's Tournament Legacy",
@@ -260,7 +260,7 @@ const game: GameData = {
           },
           {
             date: '2025-26',
-            text: '<strong>28th consecutive tournament appearance</strong>. Izzo has 750+ wins and 10 Final Fours. Jeremy Fears Jr. broke Cassius Winston\'s assists record. The standard remains.',
+            text: '<strong>28th consecutive tournament appearance</strong>. Izzo has 750+ wins and eight Final Fours. Jeremy Fears Jr. broke Cassius Winston\'s assists record. The standard remains.',
           },
         ],
       },

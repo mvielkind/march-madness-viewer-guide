@@ -11,6 +11,7 @@ export interface TeamInfo {
   record: string
   colors: TeamColors
   className: string
+  logoUrl?: string
 }
 
 export interface StakeCard {

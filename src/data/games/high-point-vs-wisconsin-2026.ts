@@ -248,7 +248,7 @@ const game: GameData = {
           },
           {
             date: '2000',
-            text: 'As an <strong>8-seed</strong>, the Badgers upset No. 1 Arizona, No. 4 LSU, and No. 6 Purdue to reach the Final Four. Lost to eventual champion Michigan State.',
+            text: 'As an <strong>8-seed</strong>, the Badgers upset No. 1 Arizona, No. 6 LSU, and No. 1 Purdue to reach the Final Four. Lost to eventual champion Michigan State.',
           },
           {
             date: '2014',
