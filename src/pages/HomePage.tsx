@@ -4,7 +4,7 @@ import { games } from '../data/games/index.ts'
 export default function HomePage() {
   return (
     <div className="home-landing">
-      <h1>Sports Viewing Guides</h1>
+      <h1>March Madness Viewing Guides</h1>
       <p className="home-subtitle">Select a game above to get started</p>
       <div className="home-games">
         {games.map((game) => {
