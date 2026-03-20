@@ -19,6 +19,21 @@ export default function ScoreBanner() {
     [selectedRound],
   )
 
+  const closestSlug = useMemo(() => {
+    if (filteredGames.length === 0) return null
+    const now = Date.now()
+    let best = filteredGames[0]
+    let bestDiff = Math.abs(Date.parse(best.tipTime) - now)
+    for (const g of filteredGames) {
+      const diff = Math.abs(Date.parse(g.tipTime) - now)
+      if (diff < bestDiff) {
+        best = g
+        bestDiff = diff
+      }
+    }
+    return best.slug
+  }, [filteredGames])
+
   const updateArrows = useCallback(() => {
     const el = gamesRef.current
     if (!el) return
@@ -39,14 +54,25 @@ export default function ScoreBanner() {
     }
   }, [updateArrows])
 
+  const isInitialMount = useRef(true)
+
   useEffect(() => {
-    if (gamesRef.current) {
-      gamesRef.current.scrollLeft = 0
-    }
-    // Small delay to let the DOM update before recalculating arrows
-    const t = setTimeout(updateArrows, 50)
+    const targetSlug = slug || closestSlug
+    if (!targetSlug || !gamesRef.current) return
+
+    const behavior = isInitialMount.current ? 'instant' as const : 'smooth' as const
+    isInitialMount.current = false
+
+    // Small delay to let the DOM update after filter change
+    const t = setTimeout(() => {
+      const el = gamesRef.current?.querySelector(`[data-slug="${targetSlug}"]`)
+      if (el) {
+        el.scrollIntoView({ inline: 'center', block: 'nearest', behavior })
+      }
+      updateArrows()
+    }, 50)
     return () => clearTimeout(t)
-  }, [selectedRound, updateArrows])
+  }, [selectedRound, slug, closestSlug, updateArrows])
 
   const scroll = (dir: number) => {
     gamesRef.current?.scrollBy({ left: dir * 200, behavior: 'smooth' })
@@ -85,7 +111,8 @@ export default function ScoreBanner() {
                 <Link
                   key={game.slug}
                   to={`/games/${game.slug}`}
-                  className={`score-bug${active ? ' score-bug--active' : ''}`}
+                  data-slug={game.slug}
+                  className={`score-bug${active ? ' score-bug--active' : ''}${!slug && game.slug === closestSlug ? ' score-bug--now' : ''}`}
                 >
                   <div className="bug-teams">
                     <div className="bug-team">

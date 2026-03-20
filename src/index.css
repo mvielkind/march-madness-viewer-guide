@@ -149,6 +149,10 @@ a:hover { color: var(--howard); text-decoration: underline; }
 .score-bug--active:hover {
   border-color: var(--umbc);
 }
+.score-bug--now {
+  border-color: var(--text-dim);
+  box-shadow: 0 0 0 1px var(--text-dim);
+}
 
 .bug-teams {
   display: flex;
@@ -623,6 +627,44 @@ a:hover { color: var(--howard); text-decoration: underline; }
 }
 .source-list a:hover { color: var(--text); text-decoration-color: var(--text-muted); }
 
+/* ===== SWIPE NAV LINKS ===== */
+.swipe-nav-link {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 48px;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  color: var(--text-dim);
+  text-decoration: none;
+  transition: border-color .2s, background .2s, color .2s;
+}
+.swipe-nav-link--prev {
+  left: 0;
+  border-radius: 0 6px 6px 0;
+  border-left: none;
+}
+.swipe-nav-link--next {
+  right: 0;
+  border-radius: 6px 0 0 6px;
+  border-right: none;
+}
+.swipe-nav-link:hover {
+  border-color: var(--text-dim);
+  background: var(--bg-elevated);
+  color: var(--text);
+  text-decoration: none;
+}
+.swipe-nav-arrow {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
 /* ===== FOOTER ===== */
 footer {
   text-align: center;
@@ -717,6 +759,7 @@ footer {
 /* ===== MOBILE ===== */
 @media (max-width: 600px) {
   :root { --banner-h: 64px; }
+  .swipe-nav-link { display: none; }
   .score-bug { min-width: 140px; padding: .4rem .6rem; }
   .bug-name { font-size: .65rem; }
   .banner-brand { display: none; }
