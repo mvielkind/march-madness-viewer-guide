@@ -57,7 +57,7 @@ export default function ScoreBanner() {
   const isInitialMount = useRef(true)
 
   useEffect(() => {
-    const targetSlug = slug || closestSlug
+    const targetSlug = (slug && filteredGames.some((g) => g.slug === slug)) ? slug : closestSlug
     if (!targetSlug || !gamesRef.current) return
 
     const behavior = isInitialMount.current ? 'instant' as const : 'smooth' as const
