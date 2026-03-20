@@ -33,5 +33,14 @@ import queensVsPurdue from './queens-vs-purdue-2026.ts'
 import furmanVsUconn from './furman-vs-uconn-2026.ts'
 import missouriVsMiami from './missouri-vs-miami-2026.ts'
 import calBaptistVsKansas from './cal-baptist-vs-kansas-2026.ts'
+import miamiOhVsTennessee from './miami-oh-vs-tennessee-2026.ts'
+import saintLouisVsMichigan from './saint-louis-vs-michigan-2026.ts'
+import louisvilleVsMichiganState from './louisville-vs-michigan-state-2026.ts'
+import tcuVsDuke from './tcu-vs-duke-2026.ts'
+import texasAmVsHouston from './texas-am-vs-houston-2026.ts'
+import texasVsGonzaga from './texas-vs-gonzaga-2026.ts'
+import vcuVsIllinois from './vcu-vs-illinois-2026.ts'
+import vanderbiltVsNebraska from './vanderbilt-vs-nebraska-2026.ts'
+import highPointVsArkansas from './high-point-vs-arkansas-2026.ts'
 
-export const games: GameData[] = [umbcVsHoward, texasVsNcState, prairieViewVsLehigh, miamiOhVsSmu, tcuVsOhioState, troyVsNebraska, southFloridaVsLouisville, highPointVsWisconsin, sienaVsDuke, vanderbiltVsMcneese, northDakotaStateVsMichiganState, hawaiiVsArkansas, vcuVsNorthCarolina, texasAmVsSaintMarys, pennVsIllinois, saintLouisVsGeorgia, kennesawStateVsGonzaga, idahoVsHouston, howardVsMichigan, texasVsByu, santaClaraVsKentucky, akronVsTexasTech, liuVsArizona, wrightStateVsVirginia, tennesseeStateVsIowaState, hofstraVsAlabama, utahStateVsVillanova, iowaVsClemson, northernIowaVsStJohns, ucfVsUcla, queensVsPurdue, furmanVsUconn, missouriVsMiami, calBaptistVsKansas].sort((a, b) => a.tipTime.localeCompare(b.tipTime))
+export const games: GameData[] = [umbcVsHoward, texasVsNcState, prairieViewVsLehigh, miamiOhVsSmu, tcuVsOhioState, troyVsNebraska, southFloridaVsLouisville, highPointVsWisconsin, sienaVsDuke, vanderbiltVsMcneese, northDakotaStateVsMichiganState, hawaiiVsArkansas, vcuVsNorthCarolina, texasAmVsSaintMarys, pennVsIllinois, saintLouisVsGeorgia, kennesawStateVsGonzaga, idahoVsHouston, howardVsMichigan, texasVsByu, santaClaraVsKentucky, akronVsTexasTech, liuVsArizona, wrightStateVsVirginia, tennesseeStateVsIowaState, hofstraVsAlabama, utahStateVsVillanova, iowaVsClemson, northernIowaVsStJohns, ucfVsUcla, queensVsPurdue, furmanVsUconn, missouriVsMiami, calBaptistVsKansas, miamiOhVsTennessee, saintLouisVsMichigan, louisvilleVsMichiganState, tcuVsDuke, texasAmVsHouston, texasVsGonzaga, vcuVsIllinois, vanderbiltVsNebraska, highPointVsArkansas].sort((a, b) => a.tipTime.localeCompare(b.tipTime))

@@ -1,0 +1,334 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'louisville-vs-michigan-state-2026',
+  title: 'Louisville vs Michigan State — Round of 32 Viewing Guide',
+  eventTag: 'NCAA Tournament • Round of 32 • Buffalo, NY',
+  date: 'Saturday, March 21, 2026',
+  round: 'Round of 32',
+  tipTime: '2026-03-21T14:30',
+  venue: 'KeyBank Center, Buffalo, NY • 2:30 PM ET • CBS',
+  extraInfo: 'Winner advances to the <strong>Sweet 16</strong> to face <strong>#2 UConn or #10 Iowa</strong>',
+  teams: [
+    {
+      name: 'Louisville',
+      mascot: 'Cardinals',
+      seed: '#6 Seed',
+      record: '25-10 • Beat USF 83-79',
+      colors: { primary: '#AD0000', secondary: '#000000', name: 'louisville' },
+      className: 'louisville',
+      logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/97.png',
+    },
+    {
+      name: 'Michigan State',
+      mascot: 'Spartans',
+      seed: '#3 Seed',
+      record: '26-7 • Beat NDSU 92-67',
+      colors: { primary: '#18453B', secondary: '#FFFFFF', name: 'michigan-state' },
+      className: 'michigan-state',
+      logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/127.png',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'Louisville just won its <strong>first NCAA Tournament game since 2017</strong> — but barely survived, blowing a 23-point lead before holding off South Florida 83-79. Michigan State looked like a machine, <strong>demolishing North Dakota State 92-67</strong> with 26 assists (a program NCAA Tournament record) and 58.9% shooting. Louisville will be without five-star freshman Mikel Brown Jr. (back injury). MSU has Mr. March, momentum, and the best ball movement in the field. Can Louisville\'s three-point shooting pull another upset — or will 22 turnovers catch up with them?',
+    cards: [
+      {
+        label: 'For Louisville',
+        value:
+          'Just won their <strong>first tournament game since 2017</strong> — but it was ugly. Led South Florida by 23, then committed a <strong>season-high 22 turnovers</strong> as USF\'s press nearly erased the lead. Isaac McKneely went 7-of-10 from three <strong>one day after getting staples removed from his head</strong>. Kelsey called the final 10 minutes "the longest of my life." A Sweet 16 would announce Louisville\'s return.',
+      },
+      {
+        label: 'For Michigan State',
+        value:
+          '<strong>Demolished NDSU 92-67</strong> with 26 assists (program NCAA Tournament record) and 58.9% shooting. Carson Cooper had 20 and 10. Fears dished 11 assists. The late-season wobble (two straight losses) is gone. Izzo after the win: <em>"You\'d better bring your lunch bucket and your defense and your rebounding."</em> Classic Mr. March.',
+      },
+      {
+        label: 'The Brown Question',
+        value:
+          'Brown <strong>did not play against South Florida</strong> and is <strong>not expected back</strong> for this game. Louisville will need to beat Michigan State without their 18.2 PPG scorer. McKneely (23 points, 7-of-10 from three vs. USF) and Conwell will have to carry the load — and they\'ll need to do it against a defense far better than South Florida\'s.',
+      },
+      {
+        label: 'Two Programs, Two Turnarounds',
+        value:
+          'Louisville went from <strong>12-52 to 24-10</strong> in two years under Kelsey. Michigan State has been a model of sustained excellence — 750+ wins, never a losing season under Izzo. This is scrappy upstart energy vs. blue-blood composure.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Three-Point Barrage or Bust',
+      bullets: [
+        '<strong>Volume shooting:</strong> Louisville makes 11.6 threes per game (<strong>3rd nationally</strong>) with the 2nd-most attempts in the country. Two players (Conwell, McKneely) have 100+ makes. Philosophy: dunks, layups, or quality threes — no midrange.',
+        '<strong>When it works:</strong> In 19 wins, Louisville averaged 11.79 made threes at 39%. They score 84.8 PPG (20th nationally) with an offensive rating of 124.9 (KenPom 13th). When the threes fall, they\'re nearly unbeatable.',
+        '<strong>First-round warning:</strong> Shot 52% from three against USF (13-25) but committed a <strong>season-high 22 turnovers</strong> and nearly blew a 23-point lead. Shot just 56% from the line (14-25). The threes fell — but the turnovers against pressure were alarming. MSU\'s defense creates far more pressure than USF\'s.',
+        '<strong>Offensive rebounding:</strong> Top 5 nationally. Louisville generates extra possessions at an elite rate, which matters against Michigan State\'s glass-dominant defense.',
+        '<strong>Defense is real:</strong> KenPom 28th in defensive efficiency. Opponents shoot 40.3% (19th nationally). This isn\'t just a shooting team — Kelsey demands defensive effort too.',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'Defend, Rebound, Run',
+      bullets: [
+        '<strong>Elite defense:</strong> KenPom 8th in adjusted defensive efficiency. Allow 68.0 PPG (38th nationally). Opponents shoot 38.9% (2nd in Big Ten). They contest everything and give up nothing easy.',
+        '<strong>Rebounding machine:</strong> <strong>3rd nationally in rebound margin (+11.7)</strong>. 2nd in Big Ten in offensive rebounding, 1st in limiting opponent offensive boards. The glass is where Michigan State wins or loses games.',
+        '<strong>Transition offense:</strong> 1st in Big Ten in fast-break points (16.3 PPG, 13th nationally). Defense → rebound → run. This is the Izzo formula for 31 years.',
+        '<strong>Fears runs the show:</strong> Jeremy Fears Jr. (15.7 PPG, 9.2 APG) broke Cassius Winston\'s single-season assists record. He orchestrates everything and has recorded five consecutive double-doubles.',
+        '<strong>First-round dominance:</strong> Beat NDSU 92-67 with <strong>26 assists</strong> (program NCAA Tournament record) and 58.9% shooting. The late-season wobble is erased. Cooper had 20/10, Fears had 11 assists. This team is clicking at the right time.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'Louisville shot 52% from three against USF — can they repeat it against MSU?',
+      description:
+        'Louisville went 13-of-25 from three against South Florida — McKneely alone was 7-of-10. But MSU\'s defense (KenPom 8th) is a universe apart from USF. Michigan State contests perimeter shots aggressively and held opponents to the 2nd-best FG% in the Big Ten all season. If Louisville shoots 36%+ from deep, they can win. If MSU\'s length smothers those looks, Louisville has no Plan B — especially without Brown.',
+    },
+    {
+      title: 'Louisville\'s 22 turnovers against pressure — and MSU is much better.',
+      description:
+        'Louisville committed a season-high 22 turnovers against South Florida\'s full-court press and nearly blew a 23-point lead. Michigan State\'s defense is KenPom 8th and far more disciplined than USF. If MSU\'s pressure creates the same turnover problems, those become fast-break points for a team that\'s already 1st in the Big Ten in transition scoring. Louisville cannot afford 22 turnovers against Mr. March.',
+    },
+    {
+      title: 'The battle of the boards.',
+      description:
+        'Louisville ranks top 5 nationally in offensive rebounding. Michigan State ranks 3rd nationally in rebound margin and 1st in the Big Ten in limiting opponent offensive boards. Something has to give. If Louisville generates second-chance threes off offensive rebounds, they can extend possessions and find their rhythm. If Michigan State controls the glass, Louisville gets one look per trip — and one look against this defense may not be enough.',
+    },
+    {
+      title: 'Fears had 11 assists against NDSU — and MSU had 26 total.',
+      description:
+        'Michigan State\'s ball movement was historic against NDSU: 26 assists on 33 made baskets, a program NCAA Tournament record. Fears orchestrated it with 11 assists. Louisville\'s perimeter defense is strong (KenPom 28th), but MSU\'s passing is next-level. If Fears gets into the paint and finds Kohler, Cooper, or Carr on kick-outs, Louisville\'s defense will be scrambling. Disrupting Fears is Louisville\'s best defensive strategy.',
+    },
+    {
+      title: 'Kelsey\'s first tournament win vs. Izzo\'s 60th.',
+      description:
+        'Pat Kelsey earned his first career NCAA Tournament victory on Thursday — he was 0-5 entering. Tom Izzo improved to 60-26 all-time. The experience gap is enormous. But Kelsey\'s Cardinals just proved they can win in March without their best player. Izzo called the USF collapse a "wake-up moment" for Louisville: "They\'ll be a much tougher team having gone through that." He may be right.',
+    },
+  ],
+  players: [
+    {
+      team: 'a',
+      name: 'Ryan Conwell',
+      stats: '18.7 PPG • 4.8 RPG • .342 3PT',
+      meta: 'G • Senior • Four Schools (USF → Indiana State → Xavier → Louisville)',
+      bio: 'A three-star recruit from Pike High School in Indianapolis who developed into an elite scorer through the portal. Scored <strong>31 points alongside Brown\'s 45 against NC State</strong> — the first 30-point scoring duo in Louisville history. Previously played at South Florida. Shoots .407/.342/.853. Louisville\'s go-to scorer — especially if Brown is out.<br><a href="https://en.wikipedia.org/wiki/Ryan_Conwell" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'a',
+      name: 'Mikel Brown Jr.',
+      stats: '18.2 PPG • 4.7 APG • ACC Freshman Record 45 pts',
+      meta: 'G • Freshman • Five-Star (#7 in 2025) • McDonald\'s All-American • DAY-TO-DAY',
+      bio: 'The biggest X-factor in this game. Scored <strong>45 points against NC State on Feb. 9</strong> — breaking the ACC freshman scoring record and tying Louisville\'s 59-year program record. But a <strong>lingering back injury</strong> cost him eight games and the entire ACC Tournament. Kelsey says he\'s "really close." If he plays, Louisville\'s ceiling is a Sweet 16. If not, they\'re a different team.',
+    },
+    {
+      team: 'a',
+      name: 'Isaac McKneely',
+      stats: '10.6 PPG • 100+ made threes',
+      meta: 'G • Senior • Virginia Transfer • Poca, WV',
+      bio: 'From Poca, West Virginia — a <strong>two-time Gatorade State Player of the Year</strong> who led Poca HS to a state title. Led the ACC in three-point percentage (42.1%) at Virginia. One of two Cardinals with 100+ made threes this season. The kind of shooter who forces Michigan State to extend its defense and opens driving lanes for Conwell.<br><a href="https://www.si.com/college/louisville/basketball/isaac-mckneely-commits" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'a',
+      name: 'Sananda Fru',
+      stats: '9.2 PPG • 6.0 RPG • .759 FG%',
+      meta: 'F/C • 6-11, 250 • Freshman • Berlin, Germany • Former Pro',
+      bio: 'A 6-11, 250-pound forward from <strong>Berlin, Germany</strong> who played <strong>four professional seasons in the German Bundesliga</strong> before coming to Louisville for his first college season. Shoots <strong>.759 from the field</strong> — an elite finishing presence around the rim. Competed with Germany\'s U20 national team. His size and experience make him a matchup problem inside.',
+    },
+    {
+      team: 'b',
+      name: 'Jeremy Fears Jr.',
+      stats: '15.7 PPG • 9.2 APG • First Team All-Big Ten',
+      meta: 'G • 6-2 • Sophomore • Joliet, IL • Shot Survivor',
+      bio: 'One of the most remarkable stories in college basketball. <strong>Shot in the left leg on December 23, 2023</strong> — required a three-hour surgery to remove a bullet from his thigh. Received a medical redshirt. Now he\'s one of the best point guards in America: broke <strong>Cassius Winston\'s single-season assists record</strong> (294+). Career-high 29 points in a comeback OT win over Rutgers. Career-high 17 assists vs. Maryland. Naismith Trophy watch list.<br><a href="https://en.wikipedia.org/wiki/Jeremy_Fears_Jr." target="_blank">Read more →</a>',
+    },
+    {
+      team: 'b',
+      name: 'Jaxon Kohler',
+      stats: '12.7 PPG • 9.0 RPG • 39.4% 3PT',
+      meta: 'F/C • 6-10 • Junior • American Fork, UT • Team Captain',
+      bio: 'The first player from Utah to play at Michigan State. Izzo has compared him to <strong>Zach Randolph</strong> — tremendous footwork, good hands, multi-dimensional scorer. Shoots 39.4% from three at 6-10, stretching defenses that load up on MSU\'s interior game. Named team captain. Draft-eligible in 2026.',
+    },
+    {
+      team: 'b',
+      name: 'Coen Carr',
+      stats: '11.6 PPG • 5.4 RPG • 50.6% FG',
+      meta: 'F • Junior • Stockbridge, GA • USA Basketball',
+      bio: 'One of the best in-game dunkers in the NCAA — capable of <strong>highlight-reel plays every night</strong>. From Stockbridge, Georgia. USA Basketball 3x3 U18 World Cup team member. Named team captain. Scored 21 against Rutgers. The kind of athlete who can take over a game with sheer explosiveness.',
+    },
+    {
+      team: 'b',
+      name: 'Carson Cooper',
+      stats: '10.8 PPG • 7.1 RPG • 57.2% FG',
+      meta: 'C • 6-11 • Sophomore • Jackson, MI',
+      bio: 'From Jackson, Michigan. <strong>Played soccer as a goalkeeper</strong> before focusing on basketball. Attended IMG Academy. Anchors the interior with career-high <strong>19 points on 8-of-10 shooting with 4 blocks</strong> against Oregon. Efficient rim protector who Michigan State needs against Louisville\'s offensive rebounds.',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '🔫',
+      title: 'Shot — Then Broke a Record (Michigan State)',
+      body: 'Jeremy Fears Jr. was <strong>shot in the left leg in December 2023</strong>. A three-hour surgery removed a bullet from his thigh. He received a medical redshirt. Two years later, he broke <strong>Cassius Winston\'s single-season assists record</strong> and is a First Team All-Big Ten point guard.',
+    },
+    {
+      emoji: '🏆',
+      title: 'The Vacated Championship (Louisville)',
+      body: 'Louisville won the <strong>2013 national championship under Rick Pitino</strong> — then the NCAA <strong>vacated it in 2018</strong> due to an escort scandal. It was the first vacated basketball national championship in history. Louisville hasn\'t won a tournament game since 2017.',
+    },
+    {
+      emoji: '🪄',
+      title: 'Magic vs. Bird — the Game That Started It All (Michigan State)',
+      body: 'In 1979, <strong>Magic Johnson\'s Michigan State beat Larry Bird\'s Indiana State</strong> for the national championship — the <strong>most-watched college basketball game ever</strong>. It\'s credited with creating the modern March Madness phenomenon. <a href="https://en.wikipedia.org/wiki/1979_NCAA_Division_I_basketball_tournament" target="_blank">More →</a>',
+    },
+    {
+      emoji: '🇩🇪',
+      title: 'From the Bundesliga (Louisville)',
+      body: '<strong>Sananda Fru</strong> played <strong>four professional seasons in the German Bundesliga</strong> before coming to Louisville for his first college season. He shoots .759 from the field. A 6-11 freshman who\'s already been a pro is a unique March Madness participant.',
+    },
+    {
+      emoji: '📈',
+      title: '12-52 to Back-to-Back Tournaments (Louisville)',
+      body: 'Under Kenny Payne, Louisville went <strong>12-52 over two seasons — last in the ACC both years</strong>. Pat Kelsey\'s arrival produced a 19-win improvement in Year 1 (the largest in program history). Now they\'re in the tournament for the second straight year for the first time since 2019.',
+    },
+    {
+      emoji: '🏀',
+      title: '"Mr. March" — 10 Final Fours (Michigan State)',
+      body: 'Tom Izzo has reached <strong>10 Final Fours</strong> — more than any coach not named John Wooden or Mike Krzyzewski. His NCAA Tournament record is <strong>54-23 (.701)</strong>. He\'s made <strong>28 consecutive tournaments</strong> — the longest active streak by a coach at one school. Don\'t bet against him.',
+    },
+    {
+      emoji: '⚽',
+      title: 'The Goalkeeper (Michigan State)',
+      body: 'Carson Cooper played <strong>soccer as a goalkeeper</strong> before switching to basketball. Now the 6-11 center anchors Michigan State\'s interior. His shot-blocking instincts — timing, positioning, reading the shooter — may trace back to reading opposing strikers.',
+    },
+    {
+      emoji: '🏟️',
+      title: 'Biggest Basketball Arena in America (Louisville)',
+      body: 'Louisville plays at the <strong>KFC Yum! Center</strong> — at 22,090 seats, it\'s the <strong>largest arena in the United States designed primarily for basketball</strong>. The court is named Denny Crum Court after the Hall of Fame coach who won two national titles.',
+    },
+    {
+      emoji: '🏈',
+      title: 'Famous Cardinals (Louisville)',
+      body: 'Louisville alumni include <strong>Johnny Unitas</strong> (Hall of Fame QB), <strong>Lamar Jackson</strong> (Heisman Trophy, NFL MVP), <strong>Mitch McConnell</strong> (longest-serving Senate party leader), and <strong>Gina Haspel</strong> (first female CIA Director).',
+    },
+    {
+      emoji: '🇺🇸',
+      title: 'First Land-Grant College (Michigan State)',
+      body: 'Michigan State, founded in 1855, was the <strong>first land-grant college in the United States</strong> — the model for the Morrill Act that created the nationwide public university system. It enrolls 50,000+ students.',
+    },
+    {
+      emoji: '🔥',
+      title: '45-Point Game (Louisville)',
+      body: 'Mikel Brown Jr. scored <strong>45 points against NC State on Feb. 9</strong> — breaking the ACC freshman scoring record and tying Louisville\'s 59-year-old program record. Then he hurt his back. His availability is the single biggest variable in this game.',
+    },
+    {
+      emoji: '💬',
+      title: '"Can\'t Guard My Mother" (Michigan State)',
+      body: 'Izzo told sophomore Kur Teng he <strong>"can\'t guard my mother in a nursing home"</strong> to motivate better defense. Classic Izzo tough love. Teng responded with a career-high 15 against Kentucky.',
+    },
+  ],
+  history: {
+    callout:
+      'Two programs with championship pedigrees meeting in a second-round clash. <strong>Michigan State</strong> has two national titles (1979, 2000), 10 Final Fours, and the most iconic player in college basketball history (Magic Johnson). <strong>Louisville</strong> has two acknowledged titles (1980, 1986), a vacated one (2013), and is trying to reclaim its place among the sport\'s elite after years of scandal and losing.',
+    subsections: [
+      {
+        title: 'Michigan State: Magic, Mateen, and Mr. March',
+        type: 'timeline',
+        content: '',
+        timeline: [
+          {
+            date: '1979 — Magic vs. Bird',
+            text: '<strong>Magic Johnson</strong> beat Larry Bird\'s Indiana State for the national championship — the <strong>most-watched college basketball game ever</strong>. Johnson went No. 1 to the Lakers.',
+          },
+          {
+            date: '2000 — Izzo\'s Title',
+            text: 'Mateen Cleaves played through a badly sprained ankle as the Spartans beat Florida 89-76 for <strong>Izzo\'s national championship</strong>. The "Flintstones" delivered three consecutive Final Fours.',
+          },
+          {
+            date: '2009-2019 — Mr. March',
+            text: 'Izzo reached <strong>four more Final Fours</strong> in this decade. His teams consistently outperformed their seeds. The "Mr. March" nickname became gospel.',
+          },
+          {
+            date: '2025 — Elite Eight',
+            text: 'Michigan State reached the Elite Eight as a #2 seed before falling to Auburn. Fears emerged as a star. The 28-year tournament streak continued.',
+          },
+        ],
+      },
+      {
+        title: 'Louisville: Glory, Scandal, and Rebirth',
+        type: 'timeline',
+        content: '',
+        timeline: [
+          {
+            date: '1980, 1986 — Denny Crum\'s Titles',
+            text: 'Hall of Fame coach Denny Crum won <strong>two national championships</strong> and reached six Final Fours. He built Louisville into a national powerhouse.',
+          },
+          {
+            date: '2013 — The Vacated Title',
+            text: 'Rick Pitino led Louisville to the national championship over Michigan. But the <strong>NCAA vacated it in 2018</strong> due to an escort scandal — the first vacated basketball title in history.',
+          },
+          {
+            date: '2022-24 — Rock Bottom',
+            text: 'Under Kenny Payne, Louisville went <strong>12-52 over two seasons</strong> — last in the ACC both years. The program appeared dead.',
+          },
+          {
+            date: '2024-26 — The Kelsey Revival',
+            text: 'Pat Kelsey produced a <strong>19-win improvement in Year 1</strong>. Now Louisville is in the tournament for the second straight year, with a five-star freshman and a Sweet 16 within reach.',
+          },
+        ],
+      },
+      {
+        title: 'The Izzo Tournament Record',
+        type: 'card',
+        content:
+          '<p>Tom Izzo\'s NCAA Tournament résumé is staggering: <strong>54-23 (.701) with 10 Final Fours, 28 consecutive appearances, and 1 national championship</strong>. He\'s taken a 7-seed to the Final Four (2015), upset a 1-seed as a 5-seed (2009 vs. Louisville), and consistently outperformed expectations. Only John Wooden (12) and Mike Krzyzewski (13) have more Final Fours. At 71, every March adds to the legend of "Mr. March."</p>',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Louisville',
+      links: [
+        { label: 'Sports Reference — 2025-26 Louisville Stats', url: 'https://www.sports-reference.com/cbb/schools/louisville/men/2026.html' },
+        { label: 'SI — Louisville NCAA Tournament Hub', url: 'https://www.si.com/college/louisville/basketball/2026-ncaa-tournament-hub' },
+        { label: 'SI — Louisville All-Time Tournament History', url: 'https://www.si.com/college/louisville/basketball/all-time-ncaa-tournament-history' },
+        { label: 'SI — Mikel Brown Jr. Day-to-Day', url: 'https://www.si.com/college/louisville/basketball/mikel-brown-jr-day-to-day-ahead-of-ncaa-tournament' },
+        { label: 'SI — Isaac McKneely Commits to Louisville', url: 'https://www.si.com/college/louisville/basketball/isaac-mckneely-commits' },
+        { label: 'ClutchPoints — Louisville\'s Fatal Flaw', url: 'https://clutchpoints.com/ncaa-basketball/louisville-basketball-fatal-flaw-2026-acc-conference-title-race' },
+        { label: 'WDRB — Louisville Draws No. 6 Seed', url: 'https://www.wdrb.com/sports/u-of-l-sports/louisville-draws-no-6-seed-returns-to-ncaa-tournament-for-second-straight-year/article_fcbca427-ac63-45b1-993a-1533dbd1431b.html' },
+        { label: 'GoCards — Pat Kelsey Bio', url: 'https://gocards.com/sports/mens-basketball/roster/coaches/pat-kelsey/2890' },
+        { label: 'Wikipedia — Pat Kelsey', url: 'https://en.wikipedia.org/wiki/Pat_Kelsey' },
+        { label: 'Wikipedia — Ryan Conwell', url: 'https://en.wikipedia.org/wiki/Ryan_Conwell' },
+        { label: 'Wikipedia — Mikel Brown Jr.', url: 'https://en.wikipedia.org/wiki/Mikel_Brown_Jr.' },
+        { label: 'Wikipedia — University of Louisville', url: 'https://en.wikipedia.org/wiki/University_of_Louisville' },
+      ],
+    },
+    {
+      heading: 'Michigan State',
+      links: [
+        { label: 'Sports Reference — 2025-26 MSU Stats', url: 'https://www.sports-reference.com/cbb/schools/michigan-state/men/2026.html' },
+        { label: 'MSU Athletics — No. 3 Seed Announcement', url: 'https://msuspartans.com/news/2026/3/15/mens-basketball-spartans-earn-no-3-seed-in-east-region-extend-ncaa-tournament-streak-to-28-straight' },
+        { label: 'MSU Athletics — Fears All-Big Ten First Team', url: 'https://msuspartans.com/news/2026/3/10/mens-basketball-jeremy-fears-jr-all-big-ten-conference-first-team-honors' },
+        { label: 'MSU Athletics — Izzo Wins 750th Career Game', url: 'https://msuspartans.com/news/2026/1/5/mens-basketball-carr-leads-three-in-double-figures-as-no-12-michigan-state-beats-usc-80-51' },
+        { label: 'ClutchPoints — Why MSU Can Win the Tournament', url: 'https://clutchpoints.com/editorials/why-michigan-state-basketball-win-2026-ncaa-tournament' },
+        { label: 'SI — MSU Tournament History by the Numbers', url: 'https://www.si.com/college/michiganstate/basketball/msu-spartans-history-success-march-madness-by-the-numbers' },
+        { label: 'Detroit News — Big Ten Tournament Loss to UCLA', url: 'https://www.detroitnews.com/story/sports/college/michigan-state-university/2026/03/13/michigan-state-basketball-is-one-and-done-in-big-ten-tournament-with-loss-to-ucla/89133124007/' },
+        { label: 'Naismith Hall of Fame — Tom Izzo', url: 'https://www.hoophall.com/hall-of-famers/tom-izzo' },
+        { label: 'Wikipedia — Tom Izzo', url: 'https://en.wikipedia.org/wiki/Tom_Izzo' },
+        { label: 'Wikipedia — Jeremy Fears Jr.', url: 'https://en.wikipedia.org/wiki/Jeremy_Fears_Jr.' },
+        { label: 'Wikipedia — Michigan State Spartans Basketball', url: 'https://en.wikipedia.org/wiki/Michigan_State_Spartans_men%27s_basketball' },
+      ],
+    },
+  ],
+  footerText: 'Casual Fan Viewing Guide • Louisville vs Michigan State • NCAA Round of 32 • March 21, 2026',
+}
+
+export default game
