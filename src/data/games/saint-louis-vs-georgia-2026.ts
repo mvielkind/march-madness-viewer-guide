@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Georgia hasn\'t won an NCAA Tournament game since 2002. They got blown out by Gonzaga in the first round last year. This is a program that lives in football\'s shadow and desperately wants a basketball moment. The emotional stakes are enormous — but pressure can work both ways. SLU, playing in their first tournament in 7 years with nothing to lose, might be the looser, more relaxed team.',
     },
   ],
+  prediction: {
+    summary: 'This is going to be the most entertaining game of the first round — 177 combined PPG, two teams that can\'t stop each other, and diametrically opposed styles. SLU\'s elite shooting (40.1% from three, four players at 40%+) against Georgia\'s "Dunkyard Dawgs" who lead the nation in dunks (193) and blocks (6.1/game). The fascinating individual matchup is Robbie Avila vs. Somto Cyril — one cerebral, one physical. If Avila can stretch Cyril to the perimeter with his three-point shooting (41.6%), Georgia\'s rim protection evaporates and SLU\'s shooters feast. But SLU\'s late-season slide (3-4 in final 7 after starting 24-1) is concerning, and Georgia\'s chaos defense — 2nd in steals, 2nd in blocks — can create the kind of disruptive plays that swing momentum in a single-elimination game. Georgia\'s pace will be the tiebreaker: if this game gets into the 80s and 90s, the Dawgs\' superior athleticism and transition game take over.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'SLU looks like the 24-1 version, not the 3-4 version. Green hits two early threes, Avila finds Sharma cutting for a layup, and the ball movement is beautiful. But Georgia matches them basket for basket — Wilkinson scores 7 quick points and Cyril throws down two alley-oop dunks. It\'s 22-20 SLU and the pace is blistering.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Georgia\'s chaos defense creates problems. Cyril blocks an Avila layup attempt, and Millender picks up a steal that leads to a fast-break dunk. But Avila adjusts — he pulls Cyril out to the three-point line and drills a three over him. Dion Brown adds a tough and-one. Halftime: 44-42 Georgia. Both teams are scoring at will.',
+      },
+      {
+        title: 'Second Half — Track Meet',
+        description: 'The pace accelerates. Georgia goes on a 10-3 run fueled by transition dunks from Cyril and a Catchings three (the kid who dropped 32 on Alabama). SLU answers with a Green three-pointer barrage — he hits three in four minutes. Avila dishes 4 assists in the half. The lead changes eight times. The crowd in Buffalo is losing its mind.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Georgia\'s tempo wins the tiebreaker. The Dawgs\' superior athleticism in transition produces two consecutive fast-break dunks that SLU can\'t match with half-court threes. Millender hits a clutch floater — the same guy who hit game-winners against Xavier and Missouri. Avila\'s last-ditch three rims out. Georgia breaks the 24-year tournament win drought in the highest-scoring 8-9 game in years.',
+      },
+    ],
+    projectedScore: {
+      teamA: 79,
+      teamB: 84,
+      rationale: 'Georgia\'s pace, athleticism, and transition game prove to be too much in a track meet. SLU\'s shooting keeps them within range, but the Dunkyard Dawgs\' physical dominance at the rim and in transition gives them the edge in the final minutes.',
+    },
+  },
   players: [
     {
       team: 'a',

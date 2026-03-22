@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Michigan is favored by 31.5 points for a reason. They have the #1 defense, #8 offense, and #2 KenPom rating in America. Their roster is full of former blue-chip recruits and high-major transfers. Howard\'s best hope is to keep the game in the 50s or 60s, force turnovers, and make it a rock fight. If this becomes a full-court, up-and-down, 40-minute track meet, Michigan\'s depth and talent will overwhelm Howard. The Bison need to shorten the game.',
     },
   ],
+  prediction: {
+    summary: 'Let\'s be honest: Michigan is favored by 31.5 points and has the #1 defense in America. Only two 16-seeds have ever beaten a 1-seed in 151+ tries. Howard just expended enormous emotional energy beating UMBC for their first-ever tournament win, and now they face a Michigan team that went from 8-24 to 31-3 with the best defense in the country. Howard\'s turnover-forcing ability (7th nationally) is their one realistic path — but Michigan also has Elliot Cadeau running the point and Aday Mara at 7-3 erasing everything at the rim. This is a game where Howard competes hard for 15 minutes before the talent gap becomes overwhelming.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Howard comes out with First Four energy, pressing and trapping. Bryce Harris and Cedric Taylor III use their guard size (6\'4" and 6\'7") to create a couple of turnovers. The crowd in Buffalo makes some noise. But Aday Mara\'s 7-3 frame completely changes the paint — Howard\'s drives get swatted or altered. Michigan leads 18-12 but Howard is competing.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime',
+        description: 'Michigan\'s defense locks in. The #1 defense in America starts taking away Howard\'s driving lanes and forcing contested jumpers. Lendeborg (assuming his ankle holds up) and Morez Johnson Jr. attack in transition off Howard turnovers. Cam Gillus tries to keep Howard in it with his playmaking, but at 5\'11" he\'s swimming against Michigan\'s length. Michigan leads by 15-18 at the half.',
+      },
+      {
+        title: 'Second Half — The Separation',
+        description: 'Michigan\'s depth takes over. Trey McKenney (Mr. Basketball of Michigan) and Nimari Burnett (who dropped 31 against Penn State) come off the bench with energy that Howard\'s shorter rotation can\'t match. The Bison stop forcing turnovers as Michigan adjusts — Cadeau\'s steady ball-handling neutralizes the press. The lead balloons to 20+. Howard keeps fighting — this is an HBCU playing for something bigger than a basketball game — but the talent gap is simply too wide.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Both benches are mostly emptied. Howard\'s starters get a well-deserved ovation from the crowd that recognizes what this program accomplished — a first-ever tournament win against UMBC, and competitive minutes against the #1 overall seed. Harris and Taylor finish with respectable stat lines. Michigan moves on comfortably, but Howard leaves Buffalo with their heads held high.',
+      },
+    ],
+    projectedScore: {
+      teamA: 56,
+      teamB: 82,
+      rationale: 'Michigan\'s #1 defense, 7-3 rim protector, and overwhelming depth prove to be too much for Howard, who competes admirably in the first half before the talent gap takes over.',
+    },
+  },
   players: [
     {
       team: 'a',

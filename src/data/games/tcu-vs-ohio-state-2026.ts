@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         "A 12:15 PM ET tip on a Thursday is tricky. Both teams are used to evening games in loud arenas. The early slot at a neutral site tends to produce flat starts and lower energy. The team that comes out locked in from the opening tip — and handles the weird energy of a half-empty arena at lunch — has an advantage.",
     },
   ],
+  prediction: {
+    summary: 'This is a classic 8-9 coin flip between two portal-rebuilt teams that caught fire late. TCU won 9 of 10 down the stretch with an interior-first attack; Ohio State has the 16th-best offense nationally driven by Bruce Thornton\'s historic scoring. The key clash is TCU\'s interior muscle (Edmonds and Punch) against Ohio State\'s guard-driven attack (Thornton and Mobley). TCU\'s "no middle" defensive scheme is designed to stop exactly what Thornton does — drive and create. But Thornton has seen every defense in the Big Ten for four years, and his 20.2 PPG on .558 shooting suggests he\'ll find a way. The swing factor is free-throw shooting: TCU\'s bigs are terrible at the line (Punch .648, Harding .646, Edmonds .650), and Ohio State shoots 77.5% as a team. In a tight late-game situation, that gap is decisive.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'The noon tip produces a sluggish start for both teams in a half-empty arena. TCU\'s interior game takes a few possessions to establish against Bynum\'s 6-8, 240-pound frame. Thornton comes out aggressive, driving into the teeth of TCU\'s "no middle" defense — he scores 7 early points but turns it over twice. It\'s 14-12 Ohio State.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'TCU\'s frontcourt asserts itself. Edmonds hits a three from the top of the key (he shoots .412 from deep), then Punch blocks a Thornton driving layup. TCU goes on an 8-0 run powered by paint dominance. Mobley answers with a pair of threes — fingers taped together, no hesitation. Halftime: 33-31 TCU in a tight, physical half.',
+      },
+      {
+        title: 'Second Half — The Thornton Show',
+        description: 'This is Bruce Thornton\'s one shot at March Madness after four years, and he plays like it. He scores 12 second-half points on a mix of pull-up jumpers, drives, and free throws. Ohio State takes a 5-point lead with 8 minutes left. TCU answers with a Punch and-one dunk, and Pierre nails a three to tie it. The crowd finally wakes up.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'TCU\'s free-throw shooting becomes the story. Punch misses the front end of a one-and-one. Edmonds goes 1-for-2 at the line. Ohio State capitalizes — Thornton hits two free throws, Mobley sinks two more, and the Buckeyes convert 8-of-10 from the stripe in the final four minutes while TCU goes 3-of-7. Thornton finally gets his March moment.',
+      },
+    ],
+    projectedScore: {
+      teamA: 67,
+      teamB: 72,
+      rationale: 'Ohio State\'s free-throw advantage and Bruce Thornton\'s determination to make his only NCAA Tournament count prove decisive in a tight game. TCU\'s interior dominance keeps them close, but their inability to convert at the line costs them down the stretch.',
+    },
+  },
   players: [
     {
       team: 'a',

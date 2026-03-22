@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         'If Houston wins, they play their Sweet 16 and Elite Eight at Toyota Center — the Houston Rockets\' arena, minutes from campus. That\'s as close to a home-court advantage as you\'ll find in the tournament. A&M would love to spoil it. The Aggies\' fans will make the 3-hour drive from College Station to OKC, but this isn\'t Reed Arena. The stakes go beyond this game — they\'re playing for location advantage in the next round.',
     },
   ],
+  prediction: {
+    summary: 'This is "Bucky Ball" chaos vs. Kelvin Sampson\'s machine — and the machine is built to handle chaos. A&M forced 18 turnovers against Saint Mary\'s, but Houston\'s veteran guards (Uzan, Sharp) have been through a national championship game. They don\'t rattle. The fundamental problem for A&M: they allow 79.6 PPG, and Houston has the KenPom #6 offense with Flemings averaging 16.4. If A&M can\'t force turnovers, Houston\'s talent advantage — Flemings, Sharp, Cenac, Tugler — is overwhelming. The Aggies\' best chance is to push tempo, hit threes early (Dominguez, Isaacs, Griffen all shoot 39%+), and make this a frantic, up-and-down game where Houston\'s defense never gets set. But Tugler\'s rim protection (77 blocks, 7\'6" wingspan) will make it very hard for Agee to replicate his Saint Mary\'s performance inside.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'A&M comes out pressing and pushing pace. Dominguez hits an early three, and the Aggies\' ball pressure creates two quick Houston turnovers. But Flemings calmly scores 7 points in the first 5 minutes, and Tugler blocks an Agee layup attempt. Houston\'s poise settles the game — Cougars lead 18-15.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Houston tightens the screws defensively. Tugler and Cenac wall off the paint, and A&M\'s 79.6 PPG-allowed defense starts leaking. Sharp hits two threes in transition, and Houston goes on a 14-4 run. A&M\'s ball pressure generates a couple steals, but Uzan and Flemings handle it cleanly otherwise. Houston leads 38-27 at halftime.',
+      },
+      {
+        title: 'Second Half — A&M\'s Push',
+        description: 'McMillan goes small and pushes pace. Isaacs and Griffen hit back-to-back threes. Agee muscles in a putback. A 10-2 A&M run cuts it to 44-39, and the Aggie fans in OKC are on their feet. Houston calls timeout. Sampson steadies the ship — Flemings drives and draws a foul, and Cenac grabs an offensive rebound.',
+      },
+      {
+        title: 'Final 8 Minutes',
+        description: 'Houston\'s championship experience shows. Sharp, who missed the title-winning shot last year, hits a dagger three. Tugler blocks another A&M attempt. The Cougars\' defense holds A&M to 2-of-9 shooting in the final 5 minutes. Houston pulls away and advances to a Sweet 16 at Toyota Center — exactly where they want to be.',
+      },
+    ],
+    projectedScore: {
+      teamA: 62,
+      teamB: 75,
+      rationale: 'Houston\'s defense suffocates "Bucky Ball" after an early A&M push, and the Cougars\' championship-tested veterans pull away in the second half behind Flemings and Tugler.',
+    },
+  },
   players: [
     {
       team: 'a',

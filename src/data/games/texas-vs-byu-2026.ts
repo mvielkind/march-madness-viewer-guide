@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Texas\'s Matas Vokietaitis (15.5 PPG) is a physical, skilled big man who can control games in the paint. BYU\'s Keba Keita is an interior anchor with improved free throw shooting. Whoever wins the battle on the glass, in the post, and at the free throw line in crunch time could swing this toss-up game. In a contest this close, the margins inside matter.',
     },
   ],
+  prediction: {
+    summary: 'This is a genuine toss-up — BYU is favored by just 1.5-2.5 points, and Texas just proved it can win a must-win game with Tramon Mark\'s last-second heroics against NC State. The question is whether Texas\'s defense, which held NC State to 66 points, can contain AJ Dybantsa — a player who scored 93 points in three Big 12 Tournament games. Dybantsa is a different level of talent, and at 6\'9" with guard skills, Texas doesn\'t have a clean answer for him. But Texas\'s physicality, SEC-tested toughness, and Dailyn Swain\'s all-around game make this a rock fight. Expect a low-scoring, physical game where one or two plays at the end decide it.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Texas comes out physical, just like they did against NC State. Sean Miller\'s game plan is clear: make Dybantsa work for every touch, force BYU\'s supporting cast to beat them. Kennard Davis Jr., the lockdown defender with four state titles at Vashon HS, draws the Swain assignment. Both defenses set the tone early — it\'s 12-10 after eight minutes. This is going to be a grind.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime',
+        description: 'Dybantsa starts finding his spots. At 6\'9" with his skill set, you can slow him but you can\'t stop him — he hits a step-back three and finishes through contact at the rim. But Swain responds with 8 first-half points, including a vintage isolation bucket. Vokietaitis muscles Keita for a couple of post scores. BYU leads 30-28 at the half in a game that feels like it could go either way.',
+      },
+      {
+        title: 'Second Half — Rob Wright III Heats Up',
+        description: 'Wright III, the Baylor transfer who averaged 22 PPG over his final six regular-season games, comes alive. He hits a pair of threes that stretch the BYU lead to 6-7. Texas\'s offense stalls — the late-season inconsistency rears its head. But Tramon Mark steadies things with a tough mid-range bucket, and Jordan Pope (who dropped 28 on NC State in Maui) hits a three to cut it to 2. The tension in Portland is palpable.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'This is where the game lives up to the toss-up billing. Dybantsa hits a pull-up to put BYU up 4 with three minutes left. Texas responds — Swain drives and draws a foul, Vokietaitis tips in a miss. Under a minute, it\'s a one-possession game. Mark, who has four career game-winners under five seconds, gets the ball. But this time, Dybantsa\'s length contests the shot. BYU survives — barely.',
+      },
+    ],
+    projectedScore: {
+      teamA: 62,
+      teamB: 65,
+      rationale: 'Dybantsa\'s individual brilliance and Wright III\'s second-half shooting give BYU just enough to survive Texas\'s physical, defense-first approach in a game decided in the final minute.',
+    },
+  },
   players: [
     {
       team: 'a',

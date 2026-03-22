@@ -5,6 +5,7 @@ import Callout from './Callout.tsx'
 import StakeCard from './StakeCard.tsx'
 import StyleOfPlayCard from './StyleOfPlayCard.tsx'
 import KeyItem from './KeyItem.tsx'
+import PredictionSection from './PredictionSection.tsx'
 import PlayerCard from './PlayerCard.tsx'
 import FactCard from './FactCard.tsx'
 import Timeline from './Timeline.tsx'
@@ -59,6 +60,11 @@ export default function GameGuide({ game }: { game: GameData }) {
         {game.keys.map((k, i) => (
           <KeyItem key={i} item={k} index={i} />
         ))}
+      </section>
+
+      <section className="guide-section guide-prediction">
+        <h2>Prediction</h2>
+        <PredictionSection prediction={game.prediction} teamAName={teamA.name} teamBName={teamB.name} />
       </section>
 
       <section className="guide-section guide-players">

@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         'The late-season wobble is officially over. SLU went on a 23-0 run spanning halftime against Georgia, turning a competitive game into a 102-77 rout. They shot 58.3%, scored 66 points in the paint, and got 43 bench points. This is the 24-1 version of Saint Louis — confident, deep, and clicking. The question is whether that translates against the best defense in America or whether Michigan\'s length turns a 23-0 run into a 23-0 memory.',
     },
   ],
+  prediction: {
+    summary: 'The Avila-Mara chess match defines everything. If Avila pulls the 7-3 Mara out to the three-point line, Michigan loses its rim protector and SLU\'s four 40%+ shooters feast inside. If Mara stays home, Avila — shooting 41.6% from deep — punishes Michigan from the perimeter and kicks to Green, Sharma, and Brown. Michigan allowed 14 threes to Howard, a 33% shooting team. SLU shoots 40.1%. That\'s the math that keeps Dusty May up at night. The counterargument: Lendeborg\'s health. If the Big Ten Player of the Year is truly limited — 9 points against Howard suggests he might be — Michigan needs Johnson and Mara to carry the load again. SLU\'s defense (opponents shoot 35.8%, best nationally) is also elite, so this isn\'t just a shootout. It\'s a battle between the two best defenses either team has faced all year.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Michigan\'s defense clamps down early, contesting SLU\'s three-point looks and forcing Avila into tougher decisions. Mara\'s length bothers everything near the rim. SLU starts 1-of-5 from three. But Michigan\'s own offense sputters without a healthy Lendeborg, and the game starts in a 12-10 rock fight.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Trey Green heats up. He hits two pull-up threes in a 90-second span, and suddenly SLU\'s confidence is back. Avila finds Brown cutting to the basket off Mara\'s over-help. Michigan responds with Johnson attacking inside and Cadeau pushing pace. Halftime is tight — Michigan leads 31-29, but SLU is shooting better from deep and the Billikens\' bench is keeping legs fresh.',
+      },
+      {
+        title: 'Second Half — SLU Makes Its Run',
+        description: 'The 23-0 run that buried Georgia? SLU has another one in them. Green, Avila, and Sharma hit three consecutive threes in a 4-minute stretch, and the Billikens take a 5-point lead. Michigan\'s perimeter defense, exposed against Howard, is struggling again. May calls timeout and switches to a zone. SLU\'s ball movement picks it apart.',
+      },
+      {
+        title: 'Final 8 Minutes',
+        description: 'Michigan\'s championship DNA kicks in. Johnson and Mara dominate inside, and Cadeau finds driving lanes against SLU\'s scrambling defense. The Wolverines erase the deficit and take a 1-point lead with 3 minutes left. It comes down to execution — and Michigan\'s road-tested composure (10-0 in Big Ten road games) gives them the edge in a possession-by-possession finish.',
+      },
+    ],
+    projectedScore: {
+      teamA: 71,
+      teamB: 74,
+      rationale: 'Michigan\'s defensive identity and clutch composure survive SLU\'s shooting barrage in a thriller, but the Billikens prove they belong — Avila and Green combine for 35+.',
+    },
+  },
   players: [
     {
       team: 'a',

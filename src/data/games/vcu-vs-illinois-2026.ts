@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         'UNC\'s downfall was a short rotation that ran out of gas. Illinois goes 9-10 deep and rested starters against Penn. But VCU\'s pressure is designed to create fatigue — physical, extended, switching defense that wears on legs and minds. If VCU can force turnovers and keep Illinois uncomfortable for 40 minutes, the Illini\'s defensive weaknesses could compound in the final stretch.',
     },
   ],
+  prediction: {
+    summary: 'This game is going to be a shootout — and the question is whether VCU\'s depth can overcome Illinois\'s sheer firepower. The Illini have the #1 offense in KenPom (125.5 adjusted) with Wagler, Mirkovic, and Stojakovic all capable of dropping 25+. But their perimeter defense (KenPom ~105th) is exactly the kind of weakness Hill exploits — he just went 7-of-10 from three against North Carolina, a better defensive team. VCU\'s strategy is clear: play seven deep, wear Illinois down with waves of fresh bodies, and bet that Hill stays hot. Illinois\'s counter: dominate the glass with the twin 7-footers and Mirkovic (17 rebounds vs. Penn), and bury VCU with second-chance points before the depth advantage matters. The emotional hangover from VCU\'s 19-point comeback and overtime win is the wild card nobody can predict.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Both offenses come out firing. Hill hits two early threes, and the VCU bench goes wild. Wagler answers with 8 quick points, including a pull-up three that draws comparisons to his 46-point Purdue game. The Ivisic twins and Mirkovic dominate the offensive glass — 4 offensive rebounds in the first 10 minutes. Score: Illinois 22, VCU 19. This is going to be a high-scoring affair.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'VCU\'s depth starts showing. Martelli rotates 7 players, and Illinois\'s perimeter defense breaks down against fresh legs. Belle comes off the bench and hits two threes (50% from deep on the season). Djokovic draws fouls on Tomislav Ivisic. But Mirkovic is unstoppable inside — 14 points at the half. Illinois leads 42-39 in a game that\'s living up to the billing.',
+      },
+      {
+        title: 'Second Half — VCU\'s Depth vs. Illinois\'s Talent',
+        description: 'VCU ties it at 55 on a Hill stepback three — shades of the UNC dagger. The Rams\' pressure forces 3 turnovers in a 4-minute stretch. Lewis pushes pace and finds Djokovic for a layup. VCU takes a 4-point lead. But Stojakovic — Peja\'s son with his father\'s shooting DNA — hits back-to-back threes to reclaim the lead for Illinois. The teams trade blows.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'The overtime fatigue finally catches VCU. Hill misses two threes he\'d normally hit, and the Rams\' energy dips. Wagler gets to the line and converts. Mirkovic grabs a critical offensive rebound and scores on a putback. Illinois pulls ahead by 6 with 2 minutes left, and VCU can\'t summon another miracle comeback. The Cinderella run ends — but Hill and the Rams leave Greenville as one of the tournament\'s best stories.',
+      },
+    ],
+    projectedScore: {
+      teamA: 74,
+      teamB: 82,
+      rationale: 'Illinois\'s offensive firepower and rebounding advantage ultimately overwhelm VCU after the emotional and physical toll of the overtime UNC comeback — Wagler and Mirkovic combine for 45+.',
+    },
+  },
   players: [
     {
       team: 'a',

@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Both teams generate tons of free throws. But Miami has a free-throw shooting problem: Udeh (.512) and Henderson (.588) are both liabilities at the line. Missouri shoots .686 as a team \u2014 not great either. In a game this physical, there will be 40+ free-throw attempts combined. The team that converts at a higher rate in the final five minutes will win. It\'s that simple.',
     },
   ],
+  prediction: {
+    summary: 'This is going to be a bruising, physical, low-three-point-attempt slugfest decided at the rim and the free-throw line. Both teams are paint-first — Missouri ranks #2 nationally in free-throw rate, Miami ranks 331st in three-point attempts — so expect a lot of whistles, a lot of contact, and a combined 50+ free-throw attempts. Missouri\'s de facto home crowd in St. Louis (just 100 miles from campus) gives them a real edge, especially at the free-throw line in a game this physical. But Miami is the better team on paper (KenPom 31st vs. Missouri\'s 51st), and Tre Donaldson\'s proven clutch gene — scoring all 15 of Miami\'s final points against Virginia Tech — gives the Hurricanes a closer that Missouri lacks. The key wildcard is Trent Pierce: if his three-point shot is falling (.404 since returning from injury), it opens driving lanes for Mitchell and forces Miami out of their pack-the-paint defense. If Pierce is cold, Miami can load up inside and smother Mitchell.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'The crowd is overwhelmingly gold and black as Missouri feeds off the St. Louis energy. Mitchell attacks the rim early and draws two quick fouls on Reneau. T.O. Barrett\'s physicality at 6-4, 205 surprises Miami\'s guards. Missouri leads 16-12 as both teams grind through half-court possessions.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Miami\'s size starts asserting itself. Udeh cleans up on the offensive glass with a pair of putback dunks, and Donaldson finds his rhythm with a series of driving layups. Reneau scores through contact despite foul trouble. Pierce hits a three to keep Missouri\'s spacing alive, and the half ends 32-30 Miami in a rock fight.',
+      },
+      {
+        title: 'Second Half — The Physical War',
+        description: 'The foul count climbs. Both teams are in the bonus early in the second half, and free-throw shooting becomes the story. Udeh goes 1-for-4 at the line (.512 FT%) and Henderson misses a pair (.588 FT%). Missouri capitalizes at the stripe and ties it at 50 with 8 minutes left. Shelton Henderson\'s freshman physicality at 240 pounds is keeping Miami in it inside, but his free-throw woes limit his impact.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Donaldson takes over. The man who scored all of Miami\'s final 15 against Virginia Tech drives through Missouri\'s 237th-ranked defense for a pair of tough finishes. Mitchell answers with a contested jumper, but Reneau draws a foul on Shawn Phillips Jr. and sinks both free throws. The crowd wills Missouri back, but Donaldson hits the dagger — a pull-up jumper with 30 seconds left that seals it. Miami\'s "Monster" culture holds up under the hostile St. Louis atmosphere.',
+      },
+    ],
+    projectedScore: {
+      teamA: 65,
+      teamB: 69,
+      rationale: 'Miami\'s superior KenPom profile and Donaldson\'s closing ability edge out Missouri despite the hostile crowd. Free-throw shooting — Miami\'s weakness and the game\'s most common play — keeps it tight, but the Hurricanes\' talent prevails in a physical, gritty affair.',
+    },
+  },
   players: [
     {
       team: 'a',

@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         'Pat Kelsey earned his first career NCAA Tournament victory on Thursday — he was 0-5 entering. Tom Izzo improved to 60-26 all-time. The experience gap is enormous. But Kelsey\'s Cardinals just proved they can win in March without their best player. Izzo called the USF collapse a "wake-up moment" for Louisville: "They\'ll be a much tougher team having gone through that." He may be right.',
     },
   ],
+  prediction: {
+    summary: 'Louisville\'s three-point barrage meets Michigan State\'s rebounding machine, and the question is whether the Cardinals can survive without Mikel Brown Jr. Louisville shot 52% from three against South Florida — but also committed 22 turnovers and nearly blew a 23-point lead. MSU\'s defense (KenPom 8th) is light years beyond USF. Jeremy Fears\'s 26-assist orchestration against NDSU was historic, and Izzo\'s teams are built for exactly this kind of game: physical, disciplined, and ruthless in transition. The path for Louisville is clear — McKneely and Conwell need to catch fire from deep, and the Cardinals need to cut their turnovers in half. Without Brown\'s 18.2 PPG, the margin for error is razor-thin.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Michigan State\'s length bothers Louisville\'s shooters early. Fears pushes pace and finds Kohler on a pair of mid-range jumpers. But McKneely hits two early threes to keep Louisville within 4. The pace is fast — both teams want to run, and the first 10 minutes feel like a track meet.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Louisville\'s turnover problem resurfaces. MSU\'s ball pressure creates 5-6 first-half turnovers, and Carr converts two of them into highlight dunks in transition. Conwell answers with a personal 8-0 run, but MSU\'s rebounding dominance (3rd nationally in margin) limits Louisville to one-shot possessions. Spartans lead 38-31 at the half.',
+      },
+      {
+        title: 'Second Half — Louisville Makes Its Stand',
+        description: 'Kelsey adjusts. Louisville slows down, runs sets, and McKneely and Conwell start finding rhythm from three. A 10-2 run cuts the lead to 1. The game becomes a half-court battle — exactly what Louisville needs without Brown. Sananda Fru\'s interior presence (shooting .759 from the field) gives them an unexpected lift inside.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Izzo\'s experience takes over. Fears, who broke Cassius Winston\'s assists record, makes the right play every possession. Cooper and Kohler secure critical defensive rebounds. Louisville goes cold from three in the final 3 minutes — 0-for-4 — and MSU\'s free throw shooting closes it out. Mr. March advances.',
+      },
+    ],
+    projectedScore: {
+      teamA: 70,
+      teamB: 78,
+      rationale: 'Michigan State\'s ball movement, rebounding dominance, and Izzo\'s tournament experience prove decisive against a Louisville team that can\'t overcome Brown\'s absence and the turnover problem.',
+    },
+  },
   players: [
     {
       team: 'a',

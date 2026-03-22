@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'The winner almost certainly faces #1 Arizona on Sunday. Arizona is 32-2 with the best team in the West Region. Does either team subconsciously look ahead? Or does the 8-9 game serve as its own season \u2014 win or go home? Teams that play like they have nothing to lose tend to perform better in these matchups.',
     },
   ],
+  prediction: {
+    summary: 'The analytics clearly favor Utah State — their offense ranks 20th in KenPom compared to Villanova\'s 76th, and their guard tandem of Falslev and Collins is one of the best outside power conferences. But Villanova has Duke Brennan, a 6-10 double-double machine who gives them a physical identity Utah State can\'t easily match. The Aggies\' tallest regular is 6-8. This game comes down to whether Utah State can shoot over and around Brennan\'s interior presence, or whether Villanova can slow the game enough to let Brennan\'s physicality control the pace. Both teams have free throw problems, which could make the ending ugly.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Utah State comes out pushing tempo — they thrive in transition with 8.8 steals per game. Collins and Falslev attack early, and the Aggies\' ball movement creates open threes. But Brennan is a problem immediately — he grabs three offensive rebounds in the first five minutes and converts two putbacks. It\'s 14-12 Utah State in a fast-paced start.',
+      },
+      {
+        title: 'Mid-First Half',
+        description: 'Villanova settles into their half-court offense. Lewis (5.3 APG) finds Brennan on the block repeatedly, and Askew stretches the defense with his 40.8% three-point shooting. Utah State\'s defense (70th KenPom) holds but doesn\'t dominate. Falslev answers with a pull-up three — he shoots 41.1% — and the teams trade baskets. Halftime: tied in the low 30s.',
+      },
+      {
+        title: 'Second Half',
+        description: 'Collins takes over. The MW Tournament MVP starts attacking the basket and getting to the line (82.4% FT shooter). Falslev adds a couple of assists and steals. Utah State pushes the lead to 6. But Lewis — the freshman Big East POY — shows composure beyond his years, orchestrating a 7-0 run with a three and two assists. Perkins hits a contested jumper. The game tightens.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Free throw shooting decides this coin-flip game. Both teams are shaky from the line, and a couple of critical misses swing momentum back and forth. Brennan picks up his fourth foul and has to sit for two minutes — Utah State attacks the paint in his absence. But he returns for the final 90 seconds and grabs a critical rebound. Collins hits a go-ahead floater. Utah State\'s transition defense gets a stop, and they advance.',
+      },
+    ],
+    projectedScore: {
+      teamA: 71,
+      teamB: 68,
+      rationale: 'Utah State\'s superior offensive efficiency and the Falslev-Collins backcourt are the difference. Brennan keeps Villanova close, but the Aggies\' pace and shooting win out in a tight finish.',
+    },
+  },
   players: [
     {
       team: 'a',

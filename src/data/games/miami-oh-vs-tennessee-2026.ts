@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         'The Vols lost 4 of their last 6, all by 7 points or fewer. In close games, they\'ve struggled to execute down the stretch. Miami is 8-0 in one-possession games. If this game is tight with 5 minutes left, Miami\'s composure could be the difference against a Tennessee team that has been tightening up.',
     },
   ],
+  prediction: {
+    summary: 'Miami\'s 52.4% shooting meets Tennessee\'s top-15 defense, and that\'s the whole ballgame. The RedHawks built their 32-1 record by getting clean looks against MAC defenses — but Okpara\'s rim protection and Tennessee\'s length will make those looks harder to come by. The X-factor is fatigue: Miami played two days ago in Dayton, and Tennessee has been resting since Saturday. If Suder, Elmer, and Byers can shoot even 46-47% against Tennessee\'s defense, the RedHawks\' composure in close games (8-0 in one-possession games) makes this dangerous. But Gillespie and Ament are a different caliber of scorer than anything Miami has seen, and Tennessee\'s offensive rebounding (2nd nationally) will generate extra possessions that a tired Miami team can\'t afford to give up.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Tennessee\'s defense sets the tone, contesting everything and holding Miami below 40% shooting early. Gillespie gets going with two quick baskets. But Miami\'s ball movement keeps them within striking distance — Suder finds a couple open threes, and the RedHawks trail by only 3-4.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Ament starts asserting himself inside, drawing fouls and getting to the line. Okpara and Carey dominate the offensive glass, giving Tennessee second-chance points. Miami\'s efficiency dips below 45% as the defensive upgrade from MAC opponents becomes clear. Tennessee takes a 7-9 point lead into halftime.',
+      },
+      {
+        title: 'Second Half Push',
+        description: 'Miami comes out with a burst — Skaljac and Byers hit back-to-back threes, and suddenly it\'s a 3-point game. The RedHawks\' poise in tight moments shows. Tennessee starts tightening up, and their late-season closing problems resurface. With 8 minutes left, it\'s anyone\'s game.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'This is where the First Four fatigue catches up. Miami\'s legs go, and their shooting percentages crater. Tennessee\'s offensive rebounding creates a critical putback, and Gillespie hits a dagger mid-range jumper. The Vols survive, but Miami makes them earn every inch.',
+      },
+    ],
+    projectedScore: {
+      teamA: 67,
+      teamB: 73,
+      rationale: 'Tennessee\'s defensive talent and offensive rebounding edge overcome Miami\'s composure and efficiency, with fatigue from the First Four ultimately sapping the RedHawks in the final stretch.',
+    },
+  },
   players: [
     {
       team: 'a',

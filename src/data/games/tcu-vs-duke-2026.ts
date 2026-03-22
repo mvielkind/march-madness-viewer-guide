@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         'Dixon has coached in 16 NCAA Tournaments, reached the Elite Eight, and won a gold medal as a USA Basketball coach. Scheyer has a .834 career winning percentage but has never won a championship. Dixon\'s experience in preparation and in-game adjustments is a real advantage — especially against a Duke team that looked unprepared for Siena\'s unconventional strategy. Can Dixon scheme something that catches Scheyer off guard again?',
     },
   ],
+  prediction: {
+    summary: 'Duke is vulnerable — and TCU has the frontcourt to exploit it. Without Caleb Foster (.402 3PT) and Ngongba (10.7 PPG, 6.0 RPG), the Blue Devils are missing their best shooter and their interior complement to Cameron Boozer. Duke shot 5-of-26 from three against Siena. TCU blocks 4.5 shots per game. If Duke can\'t hit threes, their offense becomes Boozer in the post — and Punch (1.9 BPG) and Edmonds are physical enough to make him work. The Siena scare is real: Duke trailed a 16-seed by 11 at halftime. Dixon has 16 tournament appearances and knows how to scheme against talent. But Boozer is the best player in college basketball, and when he decides to take over — 22 and 13 against Siena on 13-of-14 from the line — there\'s not much anyone can do.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'TCU attacks the paint immediately. Punch and Edmonds combine for 10 early points, bullying Duke\'s thin frontcourt without Ngongba. Harding distributes efficiently. Duke looks sluggish again from three — 0-for-4 to start. TCU leads 16-12, and the Greenville crowd senses an upset.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Boozer wakes up. He demands the ball in the post and scores 8 straight, drawing fouls on Punch. Maliq Brown\'s defense disrupts Harding\'s passing lanes. Isaiah Evans hits his first three, and Duke takes a 33-29 halftime lead. But the margin is small — nothing like the blowouts a 1-seed expects.',
+      },
+      {
+        title: 'Second Half — TCU\'s Run',
+        description: 'Dixon makes his adjustment. TCU switches to a zone that clogs the paint and dares Duke to shoot threes — the one thing they can\'t do without Foster. Evans and Cayden Boozer go 1-of-6 from deep. Edmonds hits a mid-range jumper and Pierre nails a clutch three. TCU takes the lead at the 10-minute mark.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Boozer takes over. He scores 8 of Duke\'s final 12 points — including a spin move and-one that gives Duke a 3-point lead with 1:30 left. TCU\'s free throw woes (Punch at .648, Harding at .646) cost them at the line. Duke survives, but barely — and the cracks in the 1-seed are undeniable heading into the Sweet 16.',
+      },
+    ],
+    projectedScore: {
+      teamA: 64,
+      teamB: 69,
+      rationale: 'Cameron Boozer\'s individual brilliance rescues Duke again, but TCU\'s interior physicality and Dixon\'s coaching keep it tight throughout — Duke\'s shooting woes continue without Foster.',
+    },
+  },
   players: [
     {
       team: 'a',

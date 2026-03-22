@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Wisconsin has 8 Quad-1 wins, three victories over top-10 teams, and a Big Ten Tournament run. High Point has a 342nd-ranked schedule, zero Quad-1 wins, and lost both Quad-2 games by 17. But High Point has NCAA Tournament experience from last year\'s loss to Purdue, a roster ranked 36th nationally in experience, and a 14-game winning streak. Confidence matters in March.',
     },
   ],
+  prediction: {
+    summary: 'This is the 12-over-5 upset everyone\'s circling, and the statistical collision at its heart is irresistible: High Point leads the nation in steals (11.1/game), Wisconsin has the lowest steal rate against in the entire country. Something has to give. The smart money says Wisconsin\'s ball security wins this battle — Boyd and Blackwell are too experienced and poised to get rattled by full-court pressure they\'ve never seen in the Big Ten. But High Point\'s havoc defense creates a different kind of chaos, and if the Panthers can force even 3-4 extra turnovers in transition, they\'ll generate the easy baskets that keep this close. The size mismatch with Nolan Winter (7-0) is real — High Point has no one above 6\'8" — but Aquino\'s 45.5% three-point shooting from the 4-spot can pull Winter out to the perimeter and neutralize the interior advantage. Wisconsin\'s 236th-ranked defense (75.9 PPG allowed) is genuinely vulnerable to a team that scores 90.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'High Point comes out pressing and the pace is frenetic. Martin picks up a steal and scores in transition. Fletcher grabs an offensive rebound and dunks it. The Panthers score 20 in the first 8 minutes and lead 20-16. Wisconsin looks uncomfortable with the tempo, and Boyd has his first turnover against the press.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Wisconsin settles in. Boyd and Blackwell start exploiting High Point\'s 161st-ranked half-court defense, hitting pull-up threes and finding Winter inside. Carrington comes off the bench and hits two quick threes. The Badgers close the half on a 14-6 run and lead 41-38 at halftime. Both teams are scoring at will.',
+      },
+      {
+        title: 'Second Half — The Shootout',
+        description: 'High Point refuses to go away. Anderson bullies his way to 6 quick points inside, and Martin orchestrates the offense with poise. Aquino drills a three that pulls Winter out to the perimeter and opens the lane. High Point ties it at 58 with 10 minutes left. The upset is very much alive. Wisconsin calls timeout.',
+      },
+      {
+        title: 'Final 8 Minutes',
+        description: 'Boyd takes over. The first Badger to average 20 since Michael Finley scores 10 points in the final 8 minutes, including a step-back three and two free throws. High Point answers with Fletcher\'s athleticism and Martin\'s floaters, but Winter\'s 7-foot frame produces two crucial blocks down the stretch that High Point\'s undersized lineup can\'t overcome. Wisconsin survives, but the Panthers push them to the absolute limit.',
+      },
+    ],
+    projectedScore: {
+      teamA: 78,
+      teamB: 82,
+      rationale: 'Wisconsin\'s ball security neutralizes High Point\'s steals, and Boyd\'s late-game scoring proves decisive. But High Point\'s tempo and balanced attack keep this terrifyingly close — exactly the kind of 5-12 game that ages you ten years.',
+    },
+  },
   players: [
     {
       team: 'a',

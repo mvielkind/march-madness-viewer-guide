@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Phil Martelli Jr. is coaching with generational basketball knowledge — his father coached Saint Joseph\'s for 24 years and is now at Michigan. Three generations of Martellis cut down the nets after the A-10 title. On the other side, Hubert Davis played under Dean Smith, had a 12-year NBA career, and is trying to uphold the legacy of six national championships. But Davis is 26-42 in Quad 1 games. Legacy cuts both ways.',
     },
   ],
+  prediction: {
+    summary: 'This is the most dangerous game in the entire first round. VCU is 16-1 in their last 17, riding an A-10 tournament championship, and facing a UNC team that lost Caleb Wilson (19.8 PPG) for the season and enters on a 2-game losing streak. The Rams\' "layups, threes, and free throws" approach — 80.8% of shots from three-point range or at the rim — is a smart strategy against UNC\'s 343rd-ranked opponent turnover rate, because VCU doesn\'t need steals to win; they just need efficient shots and free throws. Henri Veesaar is the best player on the floor (16.7 PPG, 61.4% FG, 42.0% from three), and UNC\'s size advantage is real. But without Wilson, UNC lacks a true point guard, and VCU\'s depth (7 players at 20+ minutes, bench averaging 34 PPG) could wear down a Tar Heel team that plays slow and doesn\'t go deep. The spread is 2.5 for a reason — this is essentially a coin flip, and VCU\'s momentum gives them a slight edge.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'VCU\'s extended defensive pressure disrupts UNC\'s ball-handling early. Without Wilson to create, the Tar Heels struggle to initiate offense and turn it over three times in the first 6 minutes. Djokovic draws two quick fouls on a UNC big man. Hill Jr. comes off the bench and hits a three. VCU leads 16-11 and the 2011 Final Four vibes are buzzing.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Veesaar steadies UNC. The Estonian stretch-5 hits a three from the top of the key, then finishes a post move over Djokovic. Trimble adds a tough mid-range jumper. UNC\'s size starts to assert itself on the glass, and they tie it at 28. The half ends 32-30 UNC — a grinding, half-court affair played at UNC\'s preferred slow tempo.',
+      },
+      {
+        title: 'Second Half — VCU\'s Depth vs. UNC\'s Size',
+        description: 'This is where VCU\'s seven-deep rotation pays dividends. Fresh legs from the bench produce a 9-2 run — Lewis hits a three, Hill Jr. finishes a layup, and a VCU reserve draws a charge. UNC\'s lack of a point guard becomes glaring as they struggle to break VCU\'s pressure with tired legs. VCU leads 52-47 with 10 minutes left.',
+      },
+      {
+        title: 'Final 8 Minutes',
+        description: 'Veesaar refuses to let UNC lose. He scores 8 points in the final 8 minutes including a huge three-pointer. Trimble hits a game-tying jumper with 3 minutes left. But VCU gets to the free-throw line (25.4 FTA/game) and converts when it matters — Djokovic draws two more fouls and makes 3-of-4 from the line. UNC misses a potential tying free throw (68.4% FT team) with a minute left. VCU hangs on for the biggest upset of the first round.',
+      },
+    ],
+    projectedScore: {
+      teamA: 67,
+      teamB: 64,
+      rationale: 'VCU\'s depth, free-throw hunting, and 16-1 momentum overcome a UNC team that\'s a shell of itself without Caleb Wilson. The Tar Heels\' poor free-throw shooting and lack of a true point guard prove fatal in crunch time.',
+    },
+  },
   players: [
     {
       team: 'a',

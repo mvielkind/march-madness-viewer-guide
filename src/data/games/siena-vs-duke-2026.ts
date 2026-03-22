@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Gerry McNamara played in and won a national championship. He coached in Final Fours at Syracuse. His staff includes former Syracuse players who\'ve been in NCAA Tournament environments. This isn\'t a coaching staff that will be overwhelmed by the moment — and that matters more than you think for a 16-seed.',
     },
   ],
+  prediction: {
+    summary: 'The talent gap here is enormous — Duke has five projected first-round NBA picks, Siena has players from D-II Lock Haven and a walk-on from Niskayuna. But Siena\'s 97th-percentile rim protection and McNamara\'s championship pedigree as a coach give the Saints tools to make this competitive for a half. The Folefac/Mulvey frontcourt can make Cameron Boozer work for his buckets inside, and Gavin Doty has the fearlessness (21.7 PPG in the MAAC Tournament) to score in bunches. The problem is sustaining it for 40 minutes against this level of athleticism. Duke\'s rebounding advantage (40.3 RPG vs. opponents\' 29.4) will be devastating, and without Caleb Foster, the Blue Devils will lean heavily on Cameron Boozer and Isaiah Evans — both of whom are simply too talented for MAAC-level defenders to contain for a full game.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Siena\'s game plan works early. They grind possessions, force Duke into half-court sets, and the Folefac/Mulvey duo contests Boozer\'s first few looks. Doty hits a mid-range jumper and Justice Shoats gets to the lane. Duke leads 15-10 but Siena is competing. The crowd is impressed.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Duke\'s athletes start imposing their will. Maliq Brown picks up two steals, Evans hits a pair of threes, and Boozer muscles through for a layup-and-one. Siena\'s offensive rebounding (33.3% rate) keeps them alive with a few second-chance baskets. Halftime: Duke 38, Siena 24. The Saints are hanging in, but the talent gap is showing.',
+      },
+      {
+        title: 'Early Second Half',
+        description: 'This is where 16-seed upsets die or are born. Doty comes out firing — he scores 8 quick points including a stepback three, just like he did in the MAAC championship. Siena cuts it to 10. The building gets loud. Duke calls timeout. Scheyer settles his young team.',
+      },
+      {
+        title: 'Final 12 Minutes',
+        description: 'Boozer takes the game over. He posts up, drives baseline, kicks to Evans for threes, and finishes with a double-double before the 8-minute mark. Duke\'s rebounding dominance (they outboard Siena by 15) produces too many second chances. The lead balloons to 20+. Brendan Coyle hits a late three — the walk-on from Niskayuna getting his moment on the national stage — and Siena\'s fans stand and cheer a team that went from 4-28 to dancing against the #1 overall seed.',
+      },
+    ],
+    projectedScore: {
+      teamA: 55,
+      teamB: 79,
+      rationale: 'Duke\'s overwhelming talent, rebounding dominance, and five NBA-caliber players are simply too much. Siena competes for a half and Doty provides a few highlight-reel moments, but the Blue Devils pull away in the second half.',
+    },
+  },
   players: [
     {
       team: 'a',

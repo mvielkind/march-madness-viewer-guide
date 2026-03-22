@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Randy Bennett has coached 12 NCAA Tournament teams over 25 years at Saint Mary\'s. Bucky McMillan is in his first year as a Power 4 coach, with a roster he assembled in weeks. Bennett\'s teams are always prepared, always disciplined, always in the game late. But McMillan\'s SEC-tested roster has players from Alabama\'s Final Four, Kansas, and NC State — they\'ve been in big moments at big programs. Experience vs. pedigree.',
     },
   ],
+  prediction: {
+    summary: 'The tempo war is the entire game. A&M wants 75+ possessions and chaos. Saint Mary\'s wants 55-60 possessions and control. Bennett has been running this exact playbook for 25 years — slow it down, execute in the half court, win at the free throw line (81.1%, best in America). The problem for A&M is that their pressure defense (13.6 turnovers forced per game) may not rattle a Saint Mary\'s team that is fundamentally disciplined and experienced in big moments. Expect a game that starts fast as A&M pushes tempo, then gradually slows as Bennett\'s system takes hold. The final 10 minutes will be a half-court chess match — and that\'s Saint Mary\'s territory.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'A&M comes out pressing and pushing. "Bucky Ball" at full speed — Griffen and Dominguez launch early threes, Agee bullies his way inside. Saint Mary\'s looks a half-step slow adjusting to the SEC athleticism. A&M builds a quick 6-8 point lead and forces a couple of turnovers. The OKC crowd is loud.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime',
+        description: 'Bennett\'s adjustments kick in. Saint Mary\'s starts controlling possessions, using the shot clock, and finding Murauskas (18.8 PPG) in the post. McKeever at 7-2 alters shots at the rim. Joshua Dent and Mikey Lewis (who dropped 31 on Gonzaga) knock down threes on kick-outs. The Gaels chip away and take a 1-2 point lead at the half. The tempo has shifted to Saint Mary\'s preferred pace.',
+      },
+      {
+        title: 'Second Half — The Grind',
+        description: 'This is where Bennett\'s experience shows. Saint Mary\'s dominates the glass (3rd nationally in rebound margin) with McKeever and Murauskas cleaning up. A&M\'s pressure stops generating turnovers — the Gaels are too disciplined. Rashaun Agee fights for double-double numbers, but the Gaels\' team rebounding neutralizes his interior impact. The game settles into the mid-50s to low-60s — exactly where Saint Mary\'s wants it.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'A&M tries to speed it up with full-court pressure, but Dent (.918 FT%) and Lewis handle the ball calmly. Saint Mary\'s goes to the line repeatedly and converts — 81.1% from the stripe is a weapon, not just a stat. Dominguez hits a late three to make it interesting, but Murauskas seals it with a strong post move and a pair of free throws. Bennett\'s patience outlasts McMillan\'s energy.',
+      },
+    ],
+    projectedScore: {
+      teamA: 63,
+      teamB: 68,
+      rationale: 'Saint Mary\'s tempo control, elite free throw shooting, and rebounding dominance grind down A&M\'s fast-paced attack in a game that finishes in the 60s — exactly where Bennett wants it.',
+    },
+  },
   players: [
     {
       team: 'a',

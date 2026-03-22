@@ -432,8 +432,9 @@ a:hover { color: var(--howard); text-decoration: underline; }
 /* Per-section spacing */
 .guide-stakes  { padding-top: 3rem;   padding-bottom: 2rem; }
 .guide-styles  { padding-top: 1.5rem; padding-bottom: 2.5rem; }
-.guide-keys    { padding-top: 2.5rem; padding-bottom: 2.5rem; }
-.guide-players { padding-top: 2rem;   padding-bottom: 3rem; }
+.guide-keys       { padding-top: 2.5rem; padding-bottom: 2.5rem; }
+.guide-prediction { padding-top: 2rem;   padding-bottom: 2.5rem; }
+.guide-players    { padding-top: 2rem;   padding-bottom: 3rem; }
 .guide-facts   { padding-top: 2rem;   padding-bottom: 2rem; }
 .guide-history { padding-top: 3rem;   padding-bottom: 3rem; }
 .guide-sources { padding-top: 2rem;   padding-bottom: 1.5rem; opacity: .7; font-size: .9em; }
@@ -514,6 +515,44 @@ a:hover { color: var(--howard); text-decoration: underline; }
 }
 .key-entry strong { color: var(--text); }
 .key-entry p { color: var(--text-muted); }
+
+/* ===== PREDICTION SCORE BLOCK ===== */
+.prediction-score {
+  margin-top: 1.5rem;
+  padding: 1.25rem 1.5rem;
+  background: var(--bg-elevated);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+}
+.prediction-score-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: .25rem 0;
+}
+.prediction-team {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--text);
+}
+.prediction-number {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 900;
+  color: var(--text);
+}
+.prediction-rationale {
+  font-size: .85rem;
+  font-style: italic;
+  color: var(--text-muted);
+  margin-top: .75rem;
+  padding-top: .75rem;
+  border-top: 1px solid var(--rule);
+  line-height: 1.6;
+}
 
 /* ===== PLAYER ENTRIES (prose) ===== */
 .player-entry {
@@ -780,8 +819,9 @@ footer {
   .style-blocks-row { grid-template-columns: 1fr; }
   .guide-stakes  { padding-top: 2.25rem; padding-bottom: 1.5rem; }
   .guide-styles  { padding-top: 1.125rem; padding-bottom: 1.875rem; }
-  .guide-keys    { padding-top: 1.875rem; padding-bottom: 1.875rem; }
-  .guide-players { padding-top: 1.5rem;   padding-bottom: 2.25rem; }
+  .guide-keys       { padding-top: 1.875rem; padding-bottom: 1.875rem; }
+  .guide-prediction { padding-top: 1.5rem;   padding-bottom: 1.875rem; }
+  .guide-players    { padding-top: 1.5rem;   padding-bottom: 2.25rem; }
   .guide-facts   { padding-top: 1.5rem;   padding-bottom: 1.5rem; }
   .guide-history { padding-top: 2.25rem;  padding-bottom: 2.25rem; }
   .guide-sources { padding-top: 1.5rem;   padding-bottom: 1.125rem; }

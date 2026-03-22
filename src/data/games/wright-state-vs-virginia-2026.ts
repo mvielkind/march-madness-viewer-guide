@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Ryan Odom coached the most famous upset in tournament history \u2014 UMBC 74, Virginia 54, in 2018. Now he\'s on the other side, coaching Virginia as a 3-seed against a mid-major. He knows exactly what the underdog is thinking because he\'s been the underdog. That self-awareness could be Virginia\'s greatest asset \u2014 or a source of anxiety. "I\'m thankful to be home," he said. Home means the tournament, too.',
     },
   ],
+  prediction: {
+    summary: 'Virginia\'s rebuilt roster has the talent edge at every position, and Thijs De Ridder\'s pro-level composure should anchor the Cavaliers through any early jitters. Wright State\'s offensive efficiency (53rd in KenPom) is legit, but they\'re 0-4 against higher-rated KenPom teams for a reason — they haven\'t seen anything close to this level of length and athleticism. The Raiders will keep it respectable early by attacking in the mid-range and getting Michael Cooper and TJ Burch into rhythm, but Virginia\'s defensive size — especially De Ridder at 6-9 and Ugonna Onyenso at 6-11 — will gradually smother Wright State\'s interior looks.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Wright State comes out energized from the Horizon League championship run, and Burch\'s two-way presence keeps things tight. Virginia\'s 12 newcomers take a few possessions to settle into the tournament environment. The Raiders hang around, trailing by just 3-5 points.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'De Ridder starts imposing his will inside against Imariagbe and Pickett. His size advantage at 6-9, 238 is too much for Wright State\'s frontcourt. Sam Lewis and Jacari White start hitting threes as Virginia builds a double-digit cushion heading into the break.',
+      },
+      {
+        title: 'Second Half — The Push',
+        description: 'Wright State makes a run behind Cooper\'s fearless scoring — the freshman who put up 23 second-half points in the Horizon semis isn\'t afraid of this stage. Burch adds a few buckets and the deficit shrinks to 7-8. The CBS "most likely 3-seed to lose" narrative starts buzzing.',
+      },
+      {
+        title: 'Final 8 Minutes',
+        description: 'This is where Odom\'s tournament experience at four schools and De Ridder\'s three years of Spanish professional basketball pay off. Virginia executes half-court sets, draws fouls, and converts at the line. Wright State\'s 0-4 record against quality teams proves prophetic — they run out of answers against ACC-caliber defense.',
+      },
+    ],
+    projectedScore: {
+      teamA: 61,
+      teamB: 74,
+      rationale: 'Virginia\'s size, De Ridder\'s pro composure, and the sheer talent gap prove too much. Wright State keeps it interesting into the second half but never seriously threatens the lead.',
+    },
+  },
   players: [
     {
       team: 'a',

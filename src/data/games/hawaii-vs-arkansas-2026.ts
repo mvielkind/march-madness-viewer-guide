@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'The 4-13 upset happens regularly — it\'s one of the more common first-round upsets. Calipari\'s teams have been upset by Oakland (14-seed, 2024) and Saint Peter\'s (15-seed, 2022) in recent years. His Kentucky squads were famously talented but sometimes lacked the grittiness to handle physical, defense-first mid-majors. Hawaii is exactly that kind of team. Calipari knows the danger — the question is whether his Arkansas team is built differently.',
     },
   ],
+  prediction: {
+    summary: 'Hawaii\'s "no-help" defense is genuinely unconventional — it funnels opponents into the mid-range dead zone where most teams struggle. But Darius Acuff Jr. is not most players. The guy scored 49 against Alabama and shoots .445 from three. He\'s uniquely equipped to solve what Hawaii does. The real question is whether Hawaii can score enough on the other end. Their offense ranks 211th in KenPom and they shoot just 31.5% from three. Isaac "Big Fish" Johnson has been on a tear (16 PPG on 64% twos since February), but Arkansas\'s length with Brazile and the freshmen will contest everything at the rim. This is a game where Hawaii hangs around for 30 minutes before Arkansas\'s talent separates.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Hawaii\'s defense does what it does — funnels Arkansas into contested mid-range looks. Acuff forces a couple of tough shots early as he adjusts to the scheme. Meleek Thomas struggles with the physicality. Meanwhile, Johnson bullies his way to a couple of easy baskets inside, and Harry Rouhliadeff crashes the offensive glass. Hawaii leads by 3-4 and the upset vibes are real.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime',
+        description: 'Acuff figures it out. He starts pulling up from three instead of driving into the no-help zone — and at .445 from deep, those are good shots. Trevon Brazile, the senior who made clutch threes to seal the SEC title, spaces the floor. Arkansas goes on a 10-2 run to grab a 5-7 point halftime lead. Hawaii\'s offense sputters — the 31.5% three-point shooting makes it hard to keep pace when the defense gives up a run.',
+      },
+      {
+        title: 'Second Half — Hawaii\'s Final Push',
+        description: 'This is where Dre Bullock decides the game. If it\'s "boom" Bullock (26, 22, 27 point games), Hawaii has a chance to claw back. If it\'s "bust" Bullock (4, 5 point games), the deficit grows. Hawaii\'s rebounding depth — four starters at 5+ RPG — keeps them in it on the glass. Gytis Nemeiksa provides a spark off the bench with physical defense. But Arkansas\'s superior athletes start getting to the rim in transition, and Billy Richmond III converts a couple of tough finishes.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Arkansas\'s depth advantage shows. Hawaii\'s starters are gassed from the grind — they run a tight rotation — and Acuff takes over in crunch time. He\'s been here before: 30 points and 11 assists in the SEC Championship. Hawaii makes it interesting with a late Johnson bucket, but Brazile and Acuff close the door from the free throw line. Calipari avoids the mid-major upset this time.',
+      },
+    ],
+    projectedScore: {
+      teamA: 59,
+      teamB: 72,
+      rationale: 'Hawaii\'s defense keeps it close through the first half, but Acuff\'s ability to shoot over the no-help scheme and Arkansas\'s depth wear the Rainbow Warriors down in the second half.',
+    },
+  },
   players: [
     {
       team: 'a',

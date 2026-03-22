@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         "UMBC ranks 340th nationally in offensive rebounding. So if Howard's defense forces misses — and it will — UMBC likely isn't getting second chances. Howard just needs to make sure they finish possessions on the defensive glass.",
     },
   ],
+  prediction: {
+    summary: 'This figures to be a grind. Howard\'s elite defense (14th nationally in adjusted efficiency) will make life difficult for UMBC\'s three-guard attack, especially early as the Retrievers adjust to the length of Harris (6\'4") and Taylor (6\'7"). But UMBC\'s mid-range game — 94th percentile in non-rim paint twos — gives them a release valve when the three-point line is contested. Expect a low-possession, physical game where every run matters.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Howard\'s length disrupts UMBC\'s rhythm early. The Retrievers settle for contested threes while adjusting to the defensive pressure. Howard builds a small lead through Taylor and Harris attacking in transition.',
+      },
+      {
+        title: 'Mid-First Half',
+        description: 'UMBC\'s guards find their footing in the mid-range, and Tanchyn\'s presence in the paint starts to anchor the defense. The Retrievers claw back and the game tightens heading into halftime.',
+      },
+      {
+        title: 'Second Half',
+        description: 'This is where the three-point shooting decides it. If Armstrong and King start hitting from deep, UMBC pulls ahead. Howard counters with their balanced scoring — four guys in double figures keeps them within striking distance.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'It comes down to free throws and composure. Howard\'s Cam Gillus is a proven closer (6-of-7 from the line to seal the MEAC title), and that experience in tight games gives the Bison a slight edge in crunch time.',
+      },
+    ],
+    projectedScore: {
+      teamA: 68,
+      teamB: 71,
+      rationale: 'Howard\'s defensive identity and clutch free-throw shooting edge out UMBC\'s shooting in a tight, physical game.',
+    },
+  },
   players: [
     {
       team: 'a',

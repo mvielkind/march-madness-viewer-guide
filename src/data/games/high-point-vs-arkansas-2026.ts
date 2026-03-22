@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         'Chase Johnston — a three-point specialist who hadn\'t made a two-point basket all season — hit a go-ahead fast-break layup with 11.7 seconds left to beat Wisconsin. Owen Aquino then blocked the potential game-winner. These are the kind of improbable moments that define Cinderella runs. High Point plays loose, with nothing to lose, and they\'ve already proven they can deliver in the biggest moments. Arkansas has to respect that.',
     },
   ],
+  prediction: {
+    summary: 'High Point has the formula to make this interesting — they lead the nation in steals and forced turnovers, and Calipari has a documented weakness against mid-major chaos (Saint Peter\'s 2022, Oakland 2024). Rob Martin\'s 23-and-10 performance against Wisconsin proves the Panthers can perform on this stage. But the size mismatch is brutal. High Point\'s tallest starter is 6\'8". Arkansas has Brazile (6-10), Ewin (6-10), and athletic wings who outscored Hawaii 64-40 in the paint with 11 dunks. If High Point can\'t replicate the 15 threes they hit against Wisconsin, they don\'t have the interior game to compete. The Cinderella needs another shooting performance for the ages — and Acuff, the best freshman guard Calipari says he\'s ever coached, is the kind of talent that makes that very difficult to pull off.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'High Point comes out fearless. Martin pushes pace, and the Panthers\' ball pressure creates two early Arkansas turnovers — fast-break threes from Johnston and Anderson. Acuff settles things down with 6 quick points, but High Point\'s energy is undeniable. Panthers trail just 18-16. The Cinderella crowd is buzzing.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Arkansas\'s size takes over. Brazile and Ewin dominate the paint — 3 dunks in a 4-minute stretch. Aquino picks up his second foul trying to defend Ewin, limiting High Point\'s rim protection and best three-point shooter. Thomas locks down Martin on the perimeter. Arkansas goes on a 16-4 run. Halftime: Arkansas 42, High Point 30. The talent gap is showing.',
+      },
+      {
+        title: 'Second Half — One Last Push',
+        description: 'High Point isn\'t done. Martin orchestrates a 10-2 run — finding Anderson for a putback and hitting a pull-up three. Johnston drains a deep three and the deficit is 6. Arkansas fans get nervous. Calipari calls a timeout and reminds his freshmen about Saint Peter\'s. Acuff responds with back-to-back buckets, including a step-back three that silences the Cinderella crowd.',
+      },
+      {
+        title: 'Final 8 Minutes',
+        description: 'Acuff puts the game away. He scores 12 in the final 8 minutes — driving past tired High Point defenders and finishing through contact. Brazile adds a put-back dunk. High Point keeps shooting threes but goes 2-of-8 down the stretch as the legs from two intense games catch up. The Cinderella story ends, but the Furniture Capital of the World has nothing to hang its head about.',
+      },
+    ],
+    projectedScore: {
+      teamA: 71,
+      teamB: 85,
+      rationale: 'Arkansas\'s interior dominance and Acuff\'s brilliance prove too much for the undersized Panthers, though High Point\'s three-point shooting and turnover creation keep it entertaining longer than the final score suggests.',
+    },
+  },
   players: [
     {
       team: 'a',

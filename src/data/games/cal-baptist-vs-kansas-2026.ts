@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         "Cal Baptist has size: 7-0 Bradey Henige, 6-11 Jonathan Griman, 6-10 Thomas Ndong. Kansas counters with 6-10 Flory Bidunga (9.2 RPG, 2.7 BPG) and 6-10 Bryson Tiller. The rebounding matchup could decide this game — both teams rank in the top 20 nationally in offensive rebounding.",
     },
   ],
+  prediction: {
+    summary: 'This comes down to tempo. Cal Baptist wants to grind this into a 60-possession half-court game where Dominique Daniels Jr. can go to work in pick-and-roll. Kansas wants to push pace, get out in transition, and let their superior athleticism take over. The Lancers\' elite three-point defense (29.6% allowed, 7th nationally) gives them a real shot at neutralizing Tre White and Peterson from deep. But Kansas has Flory Bidunga at the rim, and Cal Baptist\'s offense beyond Daniels is shaky — .328 from three as a team and ranked 191st in KenPom offensive efficiency. The wild cards: Peterson\'s health and the San Diego crowd. If Peterson is truly 100%, Kansas pulls away in the second half. If he\'s limited, this stays tight into the final minutes.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Cal Baptist controls tempo early, milking the shot clock and leaning on Daniels in pick-and-roll. Kansas adjusts to the slow pace and Bidunga contests everything at the rim. The Lancers keep it close — maybe 14-12 — as the San Diego crowd roars.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Kansas starts pushing pace and finds transition baskets off Cal Baptist turnovers. Peterson and White hit a couple threes to stretch the lead to 6-8 points. But Daniels answers with a personal 7-0 run, and the Lancers\' offensive rebounding (6th nationally) generates second chances. Halftime: Kansas leads by 4-5.',
+      },
+      {
+        title: 'Second Half — The Talent Gap',
+        description: 'This is where the depth disparity shows. Melvin Council Jr. orchestrates the offense with 5+ assists, and Bidunga dominates the interior against Henige and Griman. Cal Baptist\'s supporting cast goes cold from three. Daniels keeps it competitive single-handedly, but Kansas extends the lead to double digits around the 8-minute mark.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Daniels makes one last push — he\'s capable of a personal 8-0 run — and the crowd gets into it. But Kansas\'s free throw shooting and Peterson\'s composure close it out. The Lancers go down fighting in the program\'s first-ever tournament game.',
+      },
+    ],
+    projectedScore: {
+      teamA: 61,
+      teamB: 72,
+      rationale: 'Kansas\'s talent depth and Bidunga\'s interior dominance prove too much, but Daniels keeps it respectable with 25+ points in a tempo-controlled game.',
+    },
+  },
   players: [
     {
       team: 'a',

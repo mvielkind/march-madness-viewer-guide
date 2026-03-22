@@ -1,0 +1,352 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'st-johns-vs-kansas-2026',
+  title: 'St. John\'s vs Kansas — Round of 32 Viewing Guide',
+  eventTag: 'NCAA Tournament • Round of 32 • San Diego, CA',
+  date: 'Sunday, March 22, 2026',
+  round: 'Round of 32',
+  tipTime: '2026-03-22T17:15',
+  venue: 'Viejas Arena, San Diego, CA • 5:15 PM ET • CBS',
+  extraInfo: 'Winner advances to the <strong>Sweet 16</strong> in Newark',
+  teams: [
+    {
+      name: 'St. John\'s',
+      mascot: 'Red Storm',
+      seed: '#5 Seed',
+      record: '29-6 • Beat N. Iowa 79-53',
+      colors: { primary: '#BA0C2F', secondary: '#FFFFFF', name: 'st-johns' },
+      className: 'st-johns',
+    },
+    {
+      name: 'Kansas',
+      mascot: 'Jayhawks',
+      seed: '#4 Seed',
+      record: '24-10 • Beat Cal Baptist 68-60',
+      colors: { primary: '#0051BA', secondary: '#E8000D', name: 'kansas' },
+      className: 'kansas',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'Two Hall of Fame coaches. A former Kansas player who became the <strong>Big East Player of the Year</strong> returning to face his old team. A <strong>projected top-2 NBA Draft pick</strong> who just dropped 28 in his March Madness debut. And a Sweet 16 berth on the line. St. John\'s hasn\'t been to the second weekend since <strong>1999</strong>. Kansas hasn\'t been there since their <strong>2022 national championship</strong>. Someone\'s drought ends Sunday. Someone\'s season ends too.',
+    cards: [
+      {
+        label: 'For St. John\'s',
+        value:
+          'The Red Storm haven\'t reached the <strong>Sweet 16 since 1999</strong> — 27 years ago, when Ron Artest was leading the program. Pitino lost in the Round of 32 to Arkansas last year as a 2-seed. At 73, he needs a deep run. They just <strong>demolished Northern Iowa 79-53</strong>, scoring the first 13 points and making 10 threes. This team is rolling — winners of <strong>21 of their last 22</strong>.',
+      },
+      {
+        label: 'For Kansas',
+        value:
+          'The Jayhawks haven\'t reached the <strong>Sweet 16 since their 2022 championship run</strong>. First-round exits in 2023, 2024, and 2025 have raised questions about Self\'s program. Peterson\'s <strong>28-point explosion</strong> against Cal Baptist answered the health question — for now. But they nearly blew a <strong>26-point lead</strong> and Self admitted his team "played not to lose."',
+      },
+      {
+        label: 'The Ejiofor Factor',
+        value:
+          '<strong>Zuby Ejiofor</strong> spent his freshman year at Kansas, averaging 4.3 PPG behind KJ Adams. Hunter Dickinson\'s arrival made his path clear — he transferred to St. John\'s. Now he\'s the <strong>unanimous Big East Player of the Year</strong> and faces his old school with a Sweet 16 on the line. Self: <em>"I love Zuby… Rick was a great fit for him."</em>',
+      },
+      {
+        label: 'Hall of Fame Collision',
+        value:
+          'Bill Self and Rick Pitino are two of only <strong>four active Hall of Fame coaches</strong>. They\'ve only met <strong>once before</strong> — Kansas beat Pitino\'s Iona team by 13 in 2021. Between them: <strong>4 national championships, 113 tournament wins, 8 Final Fours</strong>. This is the most accomplished coaching matchup in the Round of 32.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Big East Champions Rolling on All Cylinders',
+      bullets: [
+        '<strong>Dominant first-round performance:</strong> St. John\'s scored the <strong>first 13 points</strong> against Northern Iowa, led <strong>47-28 at halftime</strong>, and cruised to a 79-53 win. They made <strong>10 three-pointers</strong> while holding UNI to 3-of-14 from deep. Ejiofor had 14 points, 11 rebounds, and 4 blocks. Pitino said the key was getting out in transition off their defense.',
+        '<strong>Seven-deep scoring:</strong> Seven players average 7+ PPG — Ejiofor (16.3), Hopkins (13.5), Sellers (10.7), Jackson (10.2), Mitchell (8.2), and more. Against UNI, Hopkins had 13 and Sellers had 11. Kansas can\'t focus on one player. This is a <strong>team</strong>, not a star.',
+        '<strong>Ejiofor is a problem:</strong> The unanimous Big East POY averages <strong>16.3 PPG, 7.1 RPG, 3.5 APG, and 2.0 BPG</strong>. He\'s a projected first-round NBA pick who does everything — scores in the post, passes out of doubles, blocks shots, and shoots 55.4% from the floor. He knows Kansas\'s system from the inside.',
+        '<strong>Defense translates:</strong> KenPom 25th in defensive efficiency (98.2). They held UConn to 52 in the Big East final and Northern Iowa to 53 in the first round. If they can limit Kansas\'s transition game and make Peterson work for every shot, this defense can suffocate anyone.',
+        '<strong>The concern:</strong> KenPom offensive efficiency ranks just 80th (114.5). Against an elite defensive team like Kansas (.387 opponent FG%), St. John\'s could struggle to score in the half-court. If Peterson goes nuclear like he did against Cal Baptist, the three-point shooting from the first round may not be enough.',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'Peterson\'s Coming-Out Party Meets a Reality Check',
+      bullets: [
+        '<strong>Peterson answered the question:</strong> After missing 11 games with injuries, Darryn Peterson <strong>scored 28 points on 4 threes</strong> in his March Madness debut — the most by a Kansas freshman in a tournament game. He missed his first 6 shots, got subbed out, then returned and hit a buzzer-beating three to close the half. When healthy, he\'s a <strong>projected top-2 NBA pick</strong>.',
+        '<strong>Bidunga anchors the defense:</strong> Flory Bidunga averages <strong>13.5 PPG, 9.2 RPG, and 2.7 BPG</strong> with a 7\'4" wingspan. Named <strong>Big 12 Defensive Player of the Year</strong> and Naismith DPOY semifinalist. He\'ll be the primary matchup against Ejiofor — the best individual battle of the Round of 32.',
+        '<strong>White and Council provide stability:</strong> Tre White (.421 from three, All-Big 12 First Team) had 12 points and 7 assists vs. Cal Baptist. Melvin Council Jr. (Big 12 Newcomer of the Year) leads with 5.1 APG. These veterans keep Kansas composed when Peterson runs hot or cold.',
+        '<strong>Best defense in the Big 12:</strong> Opponents shoot just <strong>.387 from the field</strong> against Kansas — the best mark in the conference. KenPom 49th in defensive efficiency. They can grind games into ugly affairs, which is exactly how they\'ll try to neutralize St. John\'s seven-man attack.',
+        '<strong>The concern:</strong> Kansas <strong>blew a 26-point lead</strong> against 13-seed Cal Baptist before surviving 68-60. They\'ve <strong>lost 5 of their last 10</strong> games. Self said they "played not to lose." The offensive efficiency ranks <strong>167th in KenPom</strong>. If Peterson goes cold, who scores? And the late collapse against CBU revealed a fragility that St. John\'s will attack.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'Ejiofor vs. Bidunga is the game within the game.',
+      description:
+        'The best individual matchup of the Round of 32: Zuby Ejiofor (16.3 PPG, 7.1 RPG, 2.0 BPG) against Flory Bidunga (13.5 PPG, 9.2 RPG, 2.7 BPG). Ejiofor is a polished scorer with a complete game. Bidunga is a physical marvel with a 7\'4" wingspan who blocks everything. If Ejiofor uses his craftiness and knowledge of Kansas\'s system to score 18+, St. John\'s wins. If Bidunga makes him uncomfortable and holds him under 12, Kansas takes control.',
+    },
+    {
+      title: 'Can Kansas hold their lead this time?',
+      description:
+        'Kansas built a 26-point lead against Cal Baptist, then nearly gave it all back in an 18-2 collapse. Self admitted his team "played not to lose." St. John\'s is significantly more talented than Cal Baptist — if Kansas goes up big and relaxes, the Red Storm won\'t need a miraculous run to come back. They\'ll do it with depth, poise, and a 73-year-old Hall of Famer who\'s seen everything. Kansas has to play 40 minutes.',
+    },
+    {
+      title: 'Does Peterson stay hot — or is there a crash coming?',
+      description:
+        'Peterson scored 28 against Cal Baptist, but he also missed his first 6 shots and has missed 11 games this season with injuries. He\'s a projected top-2 pick who can take over any game — but St. John\'s defense (KenPom 25th) is a massive step up from Cal Baptist. If Peterson scores 20+, Kansas probably wins. If he goes 4-for-15 and his legs aren\'t fully there, Kansas doesn\'t have enough offensive firepower to compensate.',
+    },
+    {
+      title: 'Three-point shooting in a defensive battle.',
+      description:
+        'St. John\'s made 10 threes against Northern Iowa. Kansas made 8 (Peterson had 4, White had 2). Both teams held their opponents to dismal three-point shooting. In a game between two strong defensive teams, the team that hits 2-3 more threes wins. Sellers (.350), Jackson (.358), White (.421), and Peterson (.384) are the key shooters to watch.',
+    },
+    {
+      title: 'Depth vs. star power.',
+      description:
+        'St. John\'s has seven players averaging 7+ PPG. Kansas has Darryn Peterson (19.8) and then a significant drop. If this becomes a game of runs — and March games always are — St. John\'s can cycle fresh, capable scorers while Kansas depends on Peterson and hopes White or Council get hot. The Red Storm\'s depth wore down Northern Iowa early. Can it do the same to Kansas in the second half?',
+    },
+  ],
+  prediction: {
+    summary:
+      'This game comes down to whether Kansas can sustain the Peterson magic from the Cal Baptist game against a vastly superior opponent. St. John\'s destroyed Northern Iowa from the jump — 13-0 run, 10 threes, Ejiofor with a double-double — and they\'ve won 21 of 22. Kansas nearly coughed up a 26-point lead to a 13-seed. The Red Storm\'s depth (seven guys at 7+ PPG) should grind Kansas down over 40 minutes, especially if Peterson hits the cold stretches that plagued his first half against Cal Baptist. The Ejiofor-Bidunga matchup is a toss-up, but St. John\'s has the supporting cast advantage everywhere else. Pitino is 2.5-point favorites for a reason — this is the better team. But Peterson is the kind of singular talent who can override everything. If he goes for 25+, Kansas wins this. More likely: St. John\'s balanced attack wears Kansas down in the final 10 minutes.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes — Feeling Out',
+        description:
+          'Both defenses set the tone. Ejiofor and Bidunga battle to a draw early — each gets a block and a tough bucket. Peterson probes St. John\'s defense, hitting one three but missing two others. Sellers knocks down an early triple for St. John\'s. It\'s tight, physical basketball — 14-12 St. John\'s.',
+      },
+      {
+        title: 'Mid-First Half to Halftime — The St. John\'s Depth Edge',
+        description:
+          'St. John\'s goes seven deep and the balanced scoring starts to show. Hopkins hits a mid-range jumper, Mitchell gets an offensive rebound and putback, and Jackson attacks in transition off a steal. Kansas answers through White\'s shooting (.421 from three) and Peterson finds his rhythm with a pull-up jumper. But Council picks up his second foul, limiting Kansas\'s playmaking. Halftime: St. John\'s leads 34-30.',
+      },
+      {
+        title: 'Second Half — Kansas Makes Its Run',
+        description:
+          'Peterson catches fire — just like he did in the second half against Cal Baptist. He hits back-to-back threes and a driving layup to give Kansas the lead. The crowd at Viejas Arena is electric. But St. John\'s doesn\'t flinch — Ejiofor posts up Bidunga and draws a foul, Sellers hits free throws (85.9%), and Mitchell finds Hopkins for a corner three. The lead swings back and forth. With 8 minutes left, it\'s 52-50 St. John\'s.',
+      },
+      {
+        title: 'Final 8 Minutes — Depth Wins',
+        description:
+          'This is where St. John\'s depth takes over. Kansas\'s legs start to show — they nearly collapsed against Cal Baptist 48 hours ago, and Peterson\'s shot starts going short. Ejiofor finishes through contact in the paint. Sellers hits clutch free throws. Pitino uses seven players seamlessly while Self relies heavily on Peterson, White, and Bidunga. St. John\'s pulls away by 6 with 2 minutes left and closes it out at the line. The Red Storm are heading to the Sweet 16 for the first time since 1999.',
+      },
+    ],
+    projectedScore: {
+      teamA: 71,
+      teamB: 65,
+      rationale:
+        'St. John\'s depth and Ejiofor\'s all-around dominance prove to be the difference. Peterson keeps Kansas in it with 22 points, but he goes cold down the stretch, and Kansas doesn\'t have enough secondary scoring to keep up with seven St. John\'s players contributing.',
+    },
+  },
+  players: [
+    {
+      team: 'a',
+      name: 'Zuby Ejiofor',
+      stats: '16.3 PPG \u2022 7.1 RPG \u2022 3.5 APG \u2022 2.0 BPG',
+      meta: 'F \u2022 6-9 \u2022 Senior \u2022 Unanimous Big East POY, DPOY, Scholar-Athlete',
+      bio: 'The revenge game personified. Ejiofor spent his freshman year at Kansas, averaging 4.3 PPG behind KJ Adams before Hunter Dickinson\'s arrival made his path clear. He transferred to St. John\'s and became a different player entirely — now the <strong>unanimous Big East Player of the Year, Defensive Player of the Year, and Scholar-Athlete of the Year</strong>. In the first round: <strong>14 points, 11 rebounds, 4 blocks</strong> in 26 minutes of a blowout. His old coach Bill Self said: <em>"I love Zuby... Rick was a great fit for him. I\'ve enjoyed watching him grow into a complete player."</em> Projected first-round NBA pick.<br><a href="https://redstormsports.com/news/2026/3/11/mens-basketball-unanimous-zuby-ejiofor-named-big-east-player-of-the-year-and-scholar-athlete-of-the-year" target="_blank">Read more \u2192</a>',
+    },
+    {
+      team: 'a',
+      name: 'Bryce Hopkins',
+      stats: '13.5 PPG \u2022 6.2 RPG \u2022 2.0 APG',
+      meta: 'F \u2022 6-6 \u2022 Senior \u2022 Two-Way Forward',
+      bio: 'Senior forward and St. John\'s second-leading scorer. Had <strong>13 points and 6 rebounds</strong> in the first-round demolition of Northern Iowa. Hopkins gives Pitino a two-way forward who can score inside and outside, and his production alongside Ejiofor gives St. John\'s a frontcourt advantage over most teams in the tournament.',
+    },
+    {
+      team: 'a',
+      name: 'Oziyah Sellers',
+      stats: '10.7 PPG \u2022 2.9 RPG \u2022 .350 3P% \u2022 .859 FT%',
+      meta: 'G \u2022 6-5 \u2022 Senior \u2022 Clutch Perimeter Scorer',
+      bio: 'Hit <strong>3 three-pointers and scored 11 points</strong> against Northern Iowa. Shoots <strong>85.9% from the free throw line</strong> — the kind of late-game weapon that decides tournament games. If this gets tight in the final 4 minutes, Sellers is the guy Pitino trusts at the stripe.',
+    },
+    {
+      team: 'a',
+      name: 'Ian Jackson',
+      stats: '10.2 PPG \u2022 2.5 RPG \u2022 .358 3P% \u2022 .900 FT%',
+      meta: 'G \u2022 6-5 \u2022 Sophomore \u2022 NBA Draft Prospect',
+      bio: 'An explosive sophomore guard with elite athleticism — a projected NBA first-round pick who attacks the rim relentlessly and creates turnovers defensively. Had <strong>9 points on 3-of-5 shooting</strong> in limited minutes against UNI. If the game goes to a second gear, Jackson\'s transition scoring and quick-twitch speed can blow it open.',
+    },
+    {
+      team: 'b',
+      name: 'Darryn Peterson',
+      stats: '19.8 PPG \u2022 4.4 RPG \u2022 .384 3PT',
+      meta: 'G \u2022 6-6 \u2022 Freshman \u2022 Projected Top-2 NBA Pick',
+      bio: 'Answered every health question with <strong>28 points and 4 threes</strong> in his March Madness debut — the most points by a Kansas freshman in a tournament game. Missed his first 6 shots, got subbed out, then returned and hit a <strong>buzzer-beating three to close the half</strong>. When he\'s on, he\'s the best player on the floor — a 6\'6" guard with a <strong>6\'10.5" wingspan</strong> and three-level scoring. The question: can he do it against a defense ranked 25th in KenPom instead of a Cal Baptist team ranked 191st offensively?<br><a href="https://www.espn.com/mens-college-basketball/story/_/id/48266218/peterson-scores-28-ncaa-tournament-debut-kansas-holds-on" target="_blank">Read more \u2192</a>',
+    },
+    {
+      team: 'b',
+      name: 'Flory Bidunga',
+      stats: '13.5 PPG \u2022 9.2 RPG \u2022 2.7 BPG',
+      meta: 'C \u2022 6-10 \u2022 Sophomore \u2022 Big 12 Defensive POY',
+      bio: 'Born in Kinshasa, Congo. Grew up playing soccer before discovering basketball. Has a <strong>7\'4" wingspan</strong> and <strong>84 blocks this season</strong> (2nd nationally). Named <strong>Big 12 Defensive Player of the Year</strong> and Naismith DPOY semifinalist. His matchup with Ejiofor — a player he practiced against at Kansas — is the game within the game. Made a massive sophomore leap from 5.9 PPG last year to 13.5 this year. Shoots .645 from the field.<br><a href="https://www.si.com/college/kansas/basketball/kansas-flory-bidunga-earns-big-12-defensive-player-of-the-year" target="_blank">Read more \u2192</a>',
+    },
+    {
+      team: 'b',
+      name: 'Tre White',
+      stats: '13.8 PPG \u2022 6.7 RPG \u2022 .421 3PT',
+      meta: 'G \u2022 6-5 \u2022 Senior \u2022 All-Big 12 First Team',
+      bio: 'Has been at <strong>four schools in four years</strong> — USC, Louisville, Illinois, and now Kansas. Originally committed to Kansas out of high school before flipping to USC, making this a full-circle moment. The team\'s best perimeter shooter at <strong>.421 from three</strong>. Had <strong>12 points and 7 assists</strong> vs. Cal Baptist, including an emphatic dunk to seal the win. When Peterson\'s shot isn\'t falling, White becomes Kansas\'s most important player.',
+    },
+    {
+      team: 'b',
+      name: 'Melvin Council Jr.',
+      stats: '12.9 PPG \u2022 5.1 APG \u2022 4.8 RPG',
+      meta: 'G \u2022 Senior \u2022 Big 12 Newcomer of the Year',
+      bio: 'The ultimate transfer portal success story — <strong>four schools</strong>: Monroe College (2x JUCO All-American), Wagner (All-NEC), St. Bonaventure (All-A10), and now Kansas (<strong>Big 12 Newcomer of the Year</strong>). The veteran floor general who leads with 5.1 assists per game. His experience and composure are critical — when Peterson missed his first 6 shots against Cal Baptist, Council kept Kansas organized until the freshman found his rhythm.',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '\uD83D\uDD04',
+      title: 'The Kansas Connection (St. John\'s)',
+      body: '<strong>Zuby Ejiofor</strong> spent his freshman year at Kansas — the same team he faces Sunday. He averaged 4.3 PPG behind KJ Adams before transferring. Three years later: <strong>unanimous Big East Player of the Year</strong>. Bill Self said he still loves him. Ejiofor may love beating him more.',
+    },
+    {
+      emoji: '\uD83C\uDFC6',
+      title: 'Two Hall of Famers, Four Championships',
+      body: 'Bill Self (2008, 2022) and Rick Pitino (1996, 2013) have combined for <strong>4 national championships and 113 NCAA Tournament wins</strong>. This is only the <strong>second time they\'ve ever coached against each other</strong>. Kansas won the first meeting by 13 when Pitino was at Iona.',
+    },
+    {
+      emoji: '\uD83D\uDCA5',
+      title: 'The 26-Point Collapse (Kansas)',
+      body: 'Kansas led Cal Baptist <strong>48-22</strong> four minutes into the second half. Then they stopped scoring. CBU went on an <strong>18-2 run</strong> and pulled within 66-60 with 1:16 left. Self: "Don\'t apologize for winning a game in the NCAA Tournament." He shouldn\'t have to apologize — but he shouldn\'t be comfortable, either.',
+    },
+    {
+      emoji: '\uD83D\uDD25',
+      title: '13-0 to Start (St. John\'s)',
+      body: 'St. John\'s scored the <strong>first 13 points</strong> against Northern Iowa. The Panthers missed 9 of their first 10 shots and didn\'t reach 10 points until midway through the first half. St. John\'s led <strong>47-28 at halftime</strong> — tied for the largest first-half margin in program NCAA Tournament history.',
+    },
+    {
+      emoji: '\uD83C\uDFDB\uFE0F',
+      title: '1952 Championship Connection',
+      body: 'Kansas beat St. John\'s <strong>80-63 in the 1952 NCAA Championship game</strong> — Kansas\'s first national title under Phog Allen. Clyde Lovellette was named Most Outstanding Player. 74 years later, they meet again in March.',
+    },
+    {
+      emoji: '\u23F0',
+      title: '27-Year Drought (St. John\'s)',
+      body: 'St. John\'s hasn\'t been to the <strong>Sweet 16 since 1999</strong> — when Ron Artest (now Metta World Peace) led them to the Elite Eight. An entire generation of St. John\'s fans has never seen their team play in the second weekend.',
+    },
+    {
+      emoji: '\uD83C\uDFC0',
+      title: '28 in His Debut (Kansas)',
+      body: '<strong>Darryn Peterson</strong> scored 28 points in his March Madness debut — the most ever by a Kansas freshman in the NCAA Tournament. He missed his first 6 shots, got pulled, then returned and went nuclear. He\'s a <strong>projected top-2 NBA Draft pick</strong> with a 6\'10.5" wingspan.',
+    },
+    {
+      emoji: '\uD83C\uDFDB\uFE0F',
+      title: 'Madison Square Garden Meets Allen Fieldhouse',
+      body: 'St. John\'s plays at <strong>Madison Square Garden</strong> — "The World\'s Most Famous Arena." Kansas plays at <strong>Allen Fieldhouse</strong> — ranked the #1 college basketball venue by Sports Illustrated. Neither team has home court today. They\'re both 1,700+ miles from their arenas, playing in San Diego.',
+    },
+    {
+      emoji: '\uD83C\uDF0D',
+      title: 'From Kinshasa to Kansas (Kansas)',
+      body: '<strong>Flory Bidunga</strong> was born in Kinshasa, Democratic Republic of the Congo. Grew up playing soccer. Moved to Kokomo, Indiana. Became a five-star recruit with a <strong>7\'4" wingspan</strong>. Now he\'s the Big 12 Defensive Player of the Year with 84 blocks, and he\'ll guard his former Kansas teammate.',
+    },
+    {
+      emoji: '\uD83C\uDFAF',
+      title: '10 Threes (St. John\'s)',
+      body: 'St. John\'s hit <strong>10 three-pointers</strong> against Northern Iowa while holding the Panthers to <strong>3-of-14 from deep</strong>. The three-point differential (+21 from beyond the arc) was the story of the first round. If they shoot like that against Kansas, it\'s over early.',
+    },
+    {
+      emoji: '\uD83D\uDCDA',
+      title: 'Scholar-Athlete-Baller (St. John\'s)',
+      body: '<strong>Zuby Ejiofor</strong> won the Big East Player of the Year <em>and</em> the Scholar-Athlete of the Year. Born to Nigerian parents in Dallas, he didn\'t pick up a basketball until eighth grade. His five brothers include Ugo, who plays at Coastal Bend College.',
+    },
+    {
+      emoji: '\uD83D\uDD04',
+      title: 'Four Schools, Four Years (Kansas)',
+      body: '<strong>Tre White</strong> has played at four schools in four years: USC, Louisville, Illinois, Kansas. He originally committed to Kansas out of high school, flipped to USC, and now he\'s back — shooting .421 from three and earning All-Big 12 First Team honors. Life comes full circle.',
+    },
+  ],
+  history: {
+    callout:
+      'Kansas and St. John\'s have met in the NCAA Tournament before — and the stakes were even higher. In the <strong>1952 NCAA Championship game</strong>, Kansas beat St. John\'s 80-63 to win its first national title. 74 years later, they meet again in March with a Sweet 16 on the line. Kansas has <strong>4 national championships and 16 Final Fours</strong>. St. John\'s has <strong>2 Final Fours and 6 Elite Eights</strong>. Both programs are royalty — but one hasn\'t been to the second weekend since the Bill Clinton administration.',
+    subsections: [
+      {
+        title: 'Kansas vs. St. John\'s: A Historic Rivalry Renewed',
+        type: 'timeline' as const,
+        content: '',
+        timeline: [
+          {
+            date: '1952',
+            text: 'Kansas beats St. John\'s <strong>80-63 in the NCAA Championship game</strong>. Clyde Lovellette is named Most Outstanding Player. It\'s Kansas\'s first national title under legendary coach Phog Allen.',
+          },
+          {
+            date: '2021',
+            text: 'Bill Self\'s Kansas defeats Rick Pitino\'s Iona <strong>96-83</strong> at the ESPN Events Invitational — the only previous meeting between Self and Pitino.',
+          },
+          {
+            date: '2023',
+            text: 'Zuby Ejiofor <strong>transfers from Kansas to St. John\'s</strong> after his freshman year, where he averaged just 4.3 PPG. Hunter Dickinson\'s arrival to Kansas made Ejiofor\'s path to playing time clear.',
+          },
+          {
+            date: 'March 20, 2026',
+            text: 'St. John\'s destroys Northern Iowa <strong>79-53</strong> (Ejiofor: 14 pts, 11 reb, 4 blk). Kansas survives Cal Baptist <strong>68-60</strong> after blowing a 26-point lead (Peterson: 28 pts, 4 threes). They\'ll meet Sunday for a Sweet 16 berth.',
+          },
+        ],
+      },
+      {
+        title: 'St. John\'s: 27 Years Since the Sweet 16',
+        type: 'card' as const,
+        content:
+          '<p>The last time St. John\'s played in the Sweet 16, <strong>Ron Artest</strong> (now Metta World Peace) was their best player, <strong>Bill Clinton</strong> was president, and the Big East had 13 teams. In 1999, the Red Storm reached the Elite Eight under coach Mike Jarvis before losing to Ohio State. Since then: long stretches of irrelevance, coaching carousel, NIT appearances. Last year\'s Round of 32 loss to Arkansas as a 2-seed was devastating.</p><p style="margin-top:.5rem;">At 73, Rick Pitino has rebuilt St. John\'s into the <strong>first school in Big East history to win back-to-back regular season and tournament titles</strong>. But he hasn\'t gotten past the second round. Sunday is the breakthrough game — or another chapter in a 27-year drought.</p>',
+      },
+      {
+        title: 'Kansas: The Championship Standard',
+        type: 'card' as const,
+        content:
+          '<p>Kansas invented basketball. Literally — James Naismith, the inventor of the game, was their first coach. They have <strong>4 national championships, 16 Final Fours, and the longest active tournament streak in the country (36 consecutive appearances)</strong>. Bill Self has 58 NCAA Tournament wins.</p><p style="margin-top:.5rem;">But the recent history is humbling. Since winning it all in 2022, Kansas has lost in the <strong>Round of 64 in 2025, Round of 32 in 2024, and Round of 32 in 2023</strong> (when Self was hospitalized with heart issues). Three straight years without reaching the Sweet 16. For a program that considers anything less than the Final Four a disappointment, this drought is alarming. Self\'s health — three heart procedures in three years — adds urgency to every March.</p>',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'St. John\'s',
+      links: [
+        { label: 'ESPN — St. John\'s 79-53 Northern Iowa Recap', url: 'https://www.espn.com/mens-college-basketball/recap/_/gameId/401856494' },
+        { label: 'Big East — St. John\'s Coasts Past Northern Iowa', url: 'https://www.bigeast.com/news/2026/3/21/mens-basketball-fifth-seeded-st-johns-coasts-past-12th-seeded-northern-iowa-to-open-ncaa-tournament-79-53.aspx' },
+        { label: 'Sports Reference — 2025-26 St. John\'s Stats', url: 'https://www.sports-reference.com/cbb/schools/st-johns-ny/men/2026.html' },
+        { label: 'St. John\'s Athletics — Ejiofor Unanimous Big East POY', url: 'https://redstormsports.com/news/2026/3/11/mens-basketball-unanimous-zuby-ejiofor-named-big-east-player-of-the-year-and-scholar-athlete-of-the-year' },
+        { label: 'CNN — Pitino\'s Masterpiece at 73', url: 'https://www.cnn.com/2026/03/14/sport/rick-pitino-st-johns-big-east-tournament' },
+        { label: 'ESPN — St. John\'s Wins Big East Title', url: 'https://www.espn.com/mens-college-basketball/story/_/id/44071093/rick-pitino-coached-st-john-wins-outright-big-east-title' },
+        { label: 'Rumble in the Garden — St. John\'s Pummels Northern Iowa', url: 'https://www.rumbleinthegarden.com/st-johns-red-storm-mens-basketball/21689/st-johns-mens-basketball-pummels-northern-iowa-in-ncaa-tournament-opener' },
+        { label: 'amNewYork — Pitino\'s New Golden Age', url: 'https://www.amny.com/sports/rick-pitino-stjohns-godage-3-15-26/' },
+        { label: 'Hoops HQ — Back-to-Back Big East Titles', url: 'https://www.hoopshq.com/big-east/st-johns-claims-second-straight-big-east-tournament-title-with-dominant-victory-over-uconn' },
+        { label: 'Wikipedia — St. John\'s Red Storm Basketball', url: 'https://en.wikipedia.org/wiki/St._John%27s_Red_Storm_men%27s_basketball' },
+        { label: 'Wikipedia — Rick Pitino', url: 'https://en.wikipedia.org/wiki/Rick_Pitino' },
+        { label: 'Wikipedia — Zuby Ejiofor', url: 'https://en.wikipedia.org/wiki/Zuby_Ejiofor' },
+      ],
+    },
+    {
+      heading: 'Kansas',
+      links: [
+        { label: 'ESPN — Kansas 68-60 Cal Baptist Recap', url: 'https://www.espn.com/mens-college-basketball/recap/_/gameId/401856495' },
+        { label: 'KU Athletics — Peterson Scores 28 in NCAA Opener', url: 'https://kuathletics.com/news/2026/3/20/mens-basketball-peterson-scores-28-points-kansas-holds-off-cal-baptist-in-ncaa-opener' },
+        { label: 'KU Athletics — Kansas to Face St. John\'s in Round of 32', url: 'https://kuathletics.com/news/2026/3/21/mens-basketball-kansas-to-face-st-johns-in-ncaa-tournament-round-of-32-sunday-in-san-diego' },
+        { label: 'Sports Reference — 2025-26 Kansas Stats', url: 'https://www.sports-reference.com/cbb/schools/kansas/men/2026.html' },
+        { label: 'SI — Hall of Fame Showdown: Self and Pitino', url: 'https://www.si.com/college/kansas/basketball/hall-of-fame-showdown-bill-self-and-rick-pitino-meet-for-second-time-ever-st-johns-kansas' },
+        { label: 'SI — Flory Bidunga Big 12 DPOY', url: 'https://www.si.com/college/kansas/basketball/kansas-flory-bidunga-earns-big-12-defensive-player-of-the-year' },
+        { label: 'SI — Melvin Council Jr. Proved Rankings Wrong', url: 'https://www.si.com/college/kansas/basketball/kansas-guard-melvin-council-jr-big-12-newcomer-of-the-year-proved-transfer-portal-rankings-wrong' },
+        { label: 'ESPN — Peterson Scores 28 in NCAA Debut', url: 'https://www.espn.com/mens-college-basketball/story/_/id/48266218/peterson-scores-28-ncaa-tournament-debut-kansas-holds-on' },
+        { label: 'CBS Sports — Peterson 28, Kansas Holds Off Cal Baptist', url: 'https://www.cbssports.com/college-basketball/news/peterson-scores-28-points-as-kansas-hangs-on-to-beat-march-madness-newcomer-cal-baptist-68-60/' },
+        { label: 'Yahoo Sports — Bill Self on Facing Ejiofor', url: 'https://sports.yahoo.com/articles/bill-self-thinks-potentially-facing-080423457.html' },
+        { label: 'KU Sports — Pitino, Ejiofor Stand in KU\'s Way', url: 'https://www2.kusports.com/sports/college/basketball-men/2026/mar/21/preview-pitino-ejiofor-st-johns-stand-in-kus-way-as-jayhawks-look-for-second-weekend-spot/' },
+        { label: 'Wikipedia — Kansas Jayhawks Basketball', url: 'https://en.wikipedia.org/wiki/Kansas_Jayhawks_men%27s_basketball' },
+        { label: 'Wikipedia — Bill Self', url: 'https://en.wikipedia.org/wiki/Bill_Self' },
+        { label: 'Wikipedia — Darryn Peterson', url: 'https://en.wikipedia.org/wiki/Darryn_Peterson' },
+        { label: 'Wikipedia — Flory Bidunga', url: 'https://en.wikipedia.org/wiki/Flory_Bidunga' },
+      ],
+    },
+  ],
+  footerText: 'Casual Fan Viewing Guide \u2022 St. John\'s vs Kansas \u2022 NCAA Round of 32 \u2022 March 22, 2026',
+}
+
+export default game

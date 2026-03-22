@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Tennessee State hasn\'t been in the tournament since 1994. Some of these players weren\'t alive then. The weight of that history could inspire or overwhelm. Nolan Smith\'s championship pedigree \u2014 his calm, his experience, his Duke DNA \u2014 is the antidote to tournament anxiety. If TSU plays loose and aggressive, their defensive identity could create problems. If they play tight, it\'s over fast.',
     },
   ],
+  prediction: {
+    summary: 'The talent gap is real, but Tennessee State\'s defensive identity gives them a puncher\'s chance of keeping this competitive. TSU ranks 56th in defensive efficiency — that\'s no joke — and their trio of Nkrumah, Harper, and Harris have all played through adversity that makes tournament pressure feel familiar. The problem? Iowa State\'s offense ranks 21st, Momcilovic is shooting nearly 50% from three, and Jefferson does everything at 16.9/7.6/4.9. Iowa State should pull away in the second half, but don\'t be surprised if TSU is within single digits at halftime.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Tennessee State comes out with energy and emotion — 32 years of waiting will do that. Nkrumah\'s defensive pressure creates a couple of early turnovers, and Harper hits an early three. But Momcilovic answers from deep, and Jefferson\'s all-around game keeps Iowa State composed. It\'s a tight 15-12 type start.',
+      },
+      {
+        title: 'Mid-First Half',
+        description: 'Iowa State\'s defense (6th nationally) starts to clamp down on TSU\'s guards. Harris, despite his four-school experience, struggles against Lipsey\'s elite on-ball defense. Buchanan\'s 6-11 frame creates problems inside that Lorick can\'t solve. Iowa State pushes the lead to 8-10 by halftime.',
+      },
+      {
+        title: 'Early Second Half',
+        description: 'TSU makes a run. Nolan Smith\'s Duke DNA shows in halftime adjustments — he switches to more ball-screen action to free Harper, who starts hitting mid-range pull-ups. Nkrumah gets a couple of steals that turn into transition baskets. The lead shrinks to 5. The crowd gets into it.',
+      },
+      {
+        title: 'Final 10 Minutes',
+        description: 'This is where Iowa State\'s talent separates. Momcilovic hits a dagger three from the wing. Jefferson controls the glass. TSU\'s lack of size becomes fatal as Buchanan converts easy looks inside. Iowa State\'s free throw shooting (67.2%) keeps the door slightly ajar, but not enough for TSU to walk through it.',
+      },
+    ],
+    projectedScore: {
+      teamA: 62,
+      teamB: 78,
+      rationale: 'Iowa State\'s size, Momcilovic\'s shooting, and the 6th-ranked defense are too much for TSU. Tennessee State keeps it respectable behind Nkrumah and Harper, but the talent gap shows in the second half.',
+    },
+  },
   players: [
     {
       team: 'a',

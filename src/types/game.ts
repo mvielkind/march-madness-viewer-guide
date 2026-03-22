@@ -30,6 +30,21 @@ export interface KeyToGame {
   description: string
 }
 
+export interface PredictionPhase {
+  title: string
+  description: string
+}
+
+export interface Prediction {
+  summary: string
+  phases: PredictionPhase[]
+  projectedScore: {
+    teamA: number
+    teamB: number
+    rationale: string
+  }
+}
+
 export interface Player {
   team: 'a' | 'b'
   name: string
@@ -86,6 +101,7 @@ export interface GameData {
   }
   styles: StyleOfPlay[]
   keys: KeyToGame[]
+  prediction: Prediction
   players: Player[]
   funFacts: FunFact[]
   history: HistorySection

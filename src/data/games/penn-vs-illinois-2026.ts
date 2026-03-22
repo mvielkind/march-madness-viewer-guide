@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Fran McCaffery has taken 5 different programs to March Madness — one of only 5 coaches in D-I history to do so. He\'s a tournament veteran who knows how to prepare for these moments. Underwood has six straight tournament appearances but lost in the second round last year and the year before that reached the Elite Eight before falling to UConn. Both coaches have something to prove.',
     },
   ],
+  prediction: {
+    summary: 'Penn has the shooting (five players at 39%+ from three), the redemption narrative (TJ Power\'s 44-point championship), and the zone defense that could throw Illinois off early. But Illinois has the #1 offense in America, twin 7-footers, and the best freshman in the Big Ten in Keaton Wagler. The talent gap is significant — Illinois\'s offensive rebounding (4th nationally at 39.7%) will be devastating against Penn\'s smaller lineup. McCaffery\'s zone will buy Penn 10-12 competitive minutes, and if Power gets hot, this stays interesting into the second half. But the Ivisic twins and Illinois\'s depth should take over once they solve the zone.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'McCaffery rolls out the zone defense, and Illinois looks confused. They haven\'t seen this look — Penn\'s zone disrupts passing lanes and forces Illinois into perimeter jumpers. TJ Power hits an early three and AJ Levine gets a steal in transition. Penn leads by 4-5 and the Greenville crowd starts buzzing about an upset.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime',
+        description: 'Underwood adjusts. He puts Tomislav Ivisic (7-1) in the middle of the zone and feeds him — the Ivisic twins create size mismatches Penn simply cannot handle. Wagler starts finding seams, and Andrej Stojakovic (carrying his father Peja\'s shooting DNA) knocks down a pair of mid-range pull-ups. Illinois goes on a 12-3 run to take an 8-10 point halftime lead. The offensive rebounds start piling up — second-chance points are killing Penn.',
+      },
+      {
+        title: 'Second Half — Power\'s Response',
+        description: 'TJ Power refuses to go quietly. The former five-star who averaged 1.7 PPG at Duke and Virginia starts creating from the mid-range and hitting threes. Michael Zanoni (92% FT) converts at the line. Penn cuts the lead to 5-6. The question is Ethan Roberts — if he\'s available (concussion status uncertain), Penn gets a 17-point scorer back and the calculus changes. Without him, Power has to carry too heavy a load.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Illinois\'s depth and David Mirkovic\'s toughness (27 points, 21 rebounds against Colgate) wear Penn down on the glass. Wagler — the "silent killer" who scored 46 against Purdue — takes over with a series of pull-up jumpers and dishes. Cam Thrower (the Wharton student who never transferred) hits a late three to make the final score respectable, but Illinois\'s talent advantage is too much over 40 minutes.',
+      },
+    ],
+    projectedScore: {
+      teamA: 66,
+      teamB: 79,
+      rationale: 'Penn\'s zone and Power\'s shooting keep it interesting through halftime, but Illinois\'s offensive rebounding, twin-tower size advantage, and Wagler\'s shot-making pull away in the second half.',
+    },
+  },
   players: [
     {
       team: 'a',

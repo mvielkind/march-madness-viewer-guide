@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Tom Izzo is 54-23 in NCAA Tournament games (.701) with eight Final Fours. He\'s earned the "Mr. March" nickname over three decades. His teams consistently outperform their seeds. Even entering on a two-game losing streak, history says don\'t bet against Izzo in the tournament. He\'ll have his team prepared, focused, and tough. NDSU coach Richman is 1-2 in the tournament.',
     },
   ],
+  prediction: {
+    summary: 'NDSU has the shooting to make this interesting, but the size mismatch is brutal. Michigan State ranks 3rd nationally in rebound margin (+11.7), and NDSU ranks 339th in average height. Kohler (6-10) and Cooper (6-11) will feast on the glass. The Bison need to bomb threes to stay in it — and they have five guys who can do it. But MSU\'s defense ranks 8th in KenPom, and Izzo in March is a different animal. The Spartans enter on a two-game losing streak, which actually might make them more dangerous — Izzo thrives when his team has something to prove.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'NDSU comes out firing. Wheeler-Thomas, the Summit League Tournament MVP, hits an early three, and Carson adds another. The Bison\'s confidence is sky-high after a 27-win season. But Michigan State\'s size starts to show — Kohler grabs offensive boards that lead to second-chance points, and Fears Jr. pushes the pace in transition. MSU leads by 5.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'NDSU\'s shooting goes cold — they hit 38.1% from three in wins but 26.6% in losses, and this stretch looks like the latter. Michigan State\'s defense clamps down on the perimeter while dominating the glass. Fears Jr. (15.7 PPG, 9.2 APG) starts finding Carr for easy dunks in transition. The lead grows to 12-15 by halftime.',
+      },
+      {
+        title: 'Early Second Half',
+        description: 'NDSU makes a push. Strickland, the NBA son who\'s been through four schools, hits back-to-back threes. Stefonowicz feeds Wheeler-Thomas for another. Suddenly it\'s a 7-point game and Michigan State calls timeout. Izzo\'s halftime adjustments haven\'t fully kicked in yet, and MSU\'s turnover issues (216th nationally) give NDSU extra possessions.',
+      },
+      {
+        title: 'Final 10 Minutes',
+        description: 'This is where "Mr. March" earns his nickname. Izzo tightens the rotation, Fears Jr. takes over with his 89.3% free throw shooting, and MSU\'s rebounding advantage reasserts itself. NDSU gets good looks but can\'t convert enough of them against the Spartans\' length. Coen Carr throws down a dunk that puts a bow on it. Michigan State pulls away.',
+      },
+    ],
+    projectedScore: {
+      teamA: 63,
+      teamB: 75,
+      rationale: 'Michigan State\'s size and rebounding dominance overcome NDSU\'s three-point shooting. Fears Jr. controls the game, and Izzo\'s tournament pedigree shows in the second half. NDSU keeps it closer than the seed line suggests.',
+    },
+  },
   players: [
     {
       team: 'a',

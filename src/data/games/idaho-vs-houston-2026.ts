@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Idaho hasn\'t been here since 1990. Don Monson died in October. Five Idaho kids are playing for their home state. The entire Big Sky Tournament was called "Starch Madness." This team has the narrative fuel that 15-seed upsets are built on. Houston has their own weight — a two-point championship loss, a 70-year-old coach\'s legacy. But never underestimate a team that believes this is their moment.',
     },
   ],
+  prediction: {
+    summary: 'This is a buzzsaw matchup for Idaho. The Vandals live and die by the three — 38.6% in wins, 29.2% in losses — and Houston\'s defense is specifically built to kill perimeter shooters (opponents shoot 32.1% from deep). JoJo Tugler\'s 7-6 wingspan and 77 blocks will alter shots even when Idaho does get clean looks, and Chris Cenac Jr.\'s 7-4 wingspan alongside Tugler creates a frontcourt that makes the paint a no-fly zone. Idaho\'s elite defensive rebounding (top 5 nationally) is their best chance to stay competitive — if they can deny Houston second chances, they limit the damage. But Houston averages 12.8 offensive rebounds per game, and the physical mismatch will show up on the glass eventually. The emotional fuel is real — 36 years, a dead coaching legend, five homegrown Idaho kids — but Houston lost the national championship by 2 points last year. Kelvin Sampson\'s team is not in a merciful mood.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Idaho comes out with nothing to lose and the adrenaline of a 36-year drought. Brickner hits an early three (42.2% shooter), Mitchell drives and finishes, and Idaho hangs within 5. Houston\'s defense is locked in but the Vandals\' four-headed attack forces the Cougars to guard all four shooters. It\'s 18-14 Houston.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Houston\'s defense tightens the screws. Tugler blocks two shots at the rim and his presence deters three more drives. Idaho\'s threes start rimming out — they go 2-for-9 from deep over a 7-minute stretch. Flemings scores 10 first-half points, and Sharp hits two threes of his own. Houston leads 34-22 at halftime as Idaho shoots 28% from three.',
+      },
+      {
+        title: 'Early Second Half',
+        description: 'Idaho makes one last push. Rasmussen hits back-to-back threes, Johnson scores on a fast break, and the deficit shrinks to 8. The Oklahoma City crowd, mostly neutral fans who love an underdog, gets loud. But Houston answers immediately — Cenac throws down a dunk, Tugler blocks a Brickner three-point attempt at the top of his release, and Flemings hits a step-back jumper. The run is over.',
+      },
+      {
+        title: 'Final 12 Minutes',
+        description: 'Houston\'s physicality on the boards takes over. They grab 6 offensive rebounds in the final 12 minutes and convert them into easy putbacks and free throws. Idaho\'s defensive rebounding — their calling card all season — finally cracks against Houston\'s relentless crashing. The lead grows to 20. Idaho\'s five homegrown kids play to the final buzzer, and the bench stands to applaud them. The 36-year wait was worth it, even if the ending was inevitable.',
+      },
+    ],
+    projectedScore: {
+      teamA: 57,
+      teamB: 76,
+      rationale: 'Houston\'s suffocating perimeter defense shuts down Idaho\'s three-point-dependent attack, and the rebounding mismatch proves decisive. Idaho keeps it close for a half before the Cougars\' talent and physicality take over.',
+    },
+  },
   players: [
     {
       team: 'a',

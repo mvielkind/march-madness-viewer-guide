@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Dent shoots 63.6% from the free throw line. Bol shoots 68.1%. In a close game decided by 1-3 points, free throw shooting will matter. UCF\'s guards (Kugel 77.1%, Fulks 79.5%) have an edge at the line. If this game goes to the wire, the team that makes its free throws wins.',
     },
   ],
+  prediction: {
+    summary: 'Neither team can defend, so buckle up. UCLA ranks 179th in defensive efficiency, UCF ranks 262nd — this is the worst combined defensive matchup in the first round and it\'s going to play out exactly like you\'d expect: a shootout in the upper 70s or low 80s. The difference-maker is Tyler Bilodeau. Shooting 46.4% from three at 6-9 is a matchup problem UCF simply can\'t solve with their 262nd-ranked perimeter defense. Fulks and Kugel will keep UCF in it with their own scoring, and John Bol\'s 7-2 frame gives UCF an interior edge that could matter. But UCLA\'s trio of 40%+ three-point shooters — Bilodeau, Clark, and Perry — gives them more margin for error in a game that\'s going to come down to who hits more shots in the final five minutes.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Both teams score easily in their first few possessions and it becomes clear this game will be played in the 80s. Fulks finds Bol inside for a couple of easy finishes, while Dent hits Perry and Clark for open threes. The score is 22-20 UCLA after the first media timeout.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Bilodeau heats up. He hits two contested threes that Kugel and Stillwell can\'t do anything about — the 6-9 frame makes his release point nearly unblockable. But Fulks answers with his own three-ball and a pair of assists to Burks. The half ends with UCLA up 42-39 in a track meet.',
+      },
+      {
+        title: 'Second Half — The Runs',
+        description: 'UCF goes on an 8-0 run behind Bol dominating the paint and Kugel hitting a three. UCF leads by 3. Then UCLA answers with a 10-2 run — Clark hits two threes off the bench and Dent finds Bilodeau for an easy layup. The lead changes hands six times in eight minutes.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'It comes down to free throws and shot-making. Dent\'s 63.6% from the line haunts UCLA — he misses two crucial free throws. But Bilodeau hits a step-back three with 90 seconds left that pushes UCLA ahead for good. UCF\'s last-ditch effort falls short when Kugel\'s contested three rims out.',
+      },
+    ],
+    projectedScore: {
+      teamA: 75,
+      teamB: 79,
+      rationale: 'UCLA\'s superior three-point shooting — led by Bilodeau\'s absurd 46.4% — edges out UCF in a high-scoring affair where neither defense makes much of an impact.',
+    },
+  },
   players: [
     {
       team: 'a',

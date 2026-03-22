@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Furman shocked Virginia three years ago. Bob Richey\'s program knows what it feels like to play in and win an NCAA Tournament game. The current players watched that moment and came to Furman because of it. UConn, meanwhile, has the ultimate tournament pedigree \u2014 Karaban has played in two title games. But fear of the moment won\'t be what beats Furman. They\'ve been here before.',
     },
   ],
+  prediction: {
+    summary: 'Furman is the most interesting 15-seed in the field because of their size — they rank 5th nationally in average height and shoot 60%+ from two-point range. Cooper Bowser\'s right hook in the post is nearly unstoppable in the SoCon. But UConn has Tarris Reed Jr. (6-10, 260) and Eric Reibe (7-1, 260) — that\'s a combined 520 pounds of rim protection. Furman\'s 32% three-point shooting is the fatal flaw. UConn will pack the paint, dare the Paladins to shoot from outside, and let their championship DNA handle the rest. Alex Wilkins is peaking at the right time, but the talent gap is too wide.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Furman comes out physical, as expected from the 5th-tallest roster in America. Bowser gets a couple of early post touches and converts with that 77% accuracy. Wilkins pushes the pace and finds Johnston on a lob. But UConn\'s pressure defense forces turnovers — Furman\'s SoCon-caliber ball-handling hasn\'t faced anything like this. Reed Jr. dominates the glass. UConn leads by 6.',
+      },
+      {
+        title: 'Mid-First Half',
+        description: 'UConn packs the paint and dares Furman to shoot threes. Asa Thomas (38.9% from deep) hits one, but the other Paladins can\'t find the range. Demary Jr. (41.6% from three, 6.2 APG) starts finding cutters, and Karaban — the two-time national champion — steadies the offense with mid-range jumpers. The lead grows to 12.',
+      },
+      {
+        title: 'Second Half',
+        description: 'Furman refuses to go quietly. Wilkins has a stretch where he scores 8 straight — he put up 65 in three SoCon tournament games for a reason. The Bowser brothers combine for a couple of put-backs on the offensive glass. The lead shrinks to 8. Dan Hurley calls a fiery timeout. But UConn\'s depth is the difference — Mullins and Ball provide scoring off the bench that Furman simply can\'t match.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'UConn\'s turnover problem (Hurley called it a potential "nightmare") keeps the door cracked — a couple of sloppy passes give Furman extra possessions. But Reed Jr. and Karaban close it out with free throws and defensive stops. Furman\'s three-point shooting (32%) never catches fire, and that\'s ultimately what keeps the upset from materializing.',
+      },
+    ],
+    projectedScore: {
+      teamA: 61,
+      teamB: 74,
+      rationale: 'UConn\'s interior defense neutralizes Furman\'s post game, and the Paladins\' cold three-point shooting prevents them from stretching the floor. Karaban\'s championship experience and Reed\'s physical dominance carry the Huskies.',
+    },
+  },
   players: [
     {
       team: 'a',

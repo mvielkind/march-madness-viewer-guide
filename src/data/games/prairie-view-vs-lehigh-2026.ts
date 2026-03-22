@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         "Alvey (6'9\"), Benoit (6'8\"), and the 6'11\" centers give Lehigh a clear size edge. Prairie View's frontcourt is thinner — Cory Wells at 6'7\" is their biggest regular contributor. If Lehigh can establish an inside presence and force Prairie View into a half-court game, that length could be decisive.",
     },
   ],
+  prediction: {
+    summary: 'This is a classic pace-vs-patience matchup between two hot 16-seeds. Prairie View wants to push the ball and let Horne and Joseph create in transition. Lehigh wants to slow it down and run their methodical half-court offense through Whitlock. The truth is, both teams are playing their best basketball right now — Prairie View won four straight as the 8-seed in the SWAC, and Lehigh won eight of nine after being 10-15. Expect a competitive, scrappy game where the team that controls the tempo in the second half pulls away.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Prairie View\'s guards come out aggressive, pushing the pace and trying to get Lehigh\'s bigs running. Horne attacks early. But Lehigh\'s Alvey and Benoit anchor the paint, and Whitlock answers with a couple of early threes. The game is tight — neither team separates by more than 4.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime',
+        description: 'Lehigh settles into its half-court offense, and Whitlock starts finding a rhythm. Prairie View\'s three-point shooting (321st nationally at 33.4%) works against them as they settle for contested looks instead of getting to the rim. But Lance Williams steadies the ship with smart ball-handling and free throw shooting. Lehigh leads by 3-5 at the half in a game in the low 30s.',
+      },
+      {
+        title: 'Second Half Surge',
+        description: 'Prairie View\'s depth and athleticism at guard start to wear on Lehigh. Joseph, who missed eight games this season but is healthy now, gets hot from mid-range. Cory Wells — the MBA student doing everything — grabs key offensive rebounds and keeps possessions alive. Prairie View ties it or takes a small lead.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'This is where Prairie View\'s free throw shooting (75.3%, 9th nationally) becomes the story. Williams, who went 12-of-13 from the line in the SWAC semifinal, is ice cold at the stripe. Whitlock keeps Lehigh close with a late three, but Prairie View\'s guard trio makes enough plays down the stretch to hold on.',
+      },
+    ],
+    projectedScore: {
+      teamA: 69,
+      teamB: 65,
+      rationale: 'Prairie View\'s guard play, free throw shooting, and second-half pace adjustment give them the edge over Lehigh\'s methodical approach in a tight, low-scoring game.',
+    },
+  },
   players: [
     {
       team: 'a',

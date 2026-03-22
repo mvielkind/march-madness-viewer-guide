@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         'Both teams just experienced program-defining moments. Nebraska won its first tournament game ever — Hoiberg cried on the podium. Vanderbilt won for the first time since 2012 — Byington called it validation. The question is whether the emotional peak carries forward or creates a letdown. Nebraska\'s fans traveled in force to OKC (Sandfort called it "the best environment I\'ve ever played in"). Vanderbilt acknowledged it will feel like "basically a road game."',
     },
   ],
+  prediction: {
+    summary: 'This is a classic style clash: D\'Antoni Ball vs. elite defense. Vanderbilt wants to play in the 80s with pace, spacing, and Tanner-Miles running the show. Nebraska wants this in the 60s, grinding possessions and leaning on Sandfort\'s shooting and Mast\'s physicality. The key stat: Vanderbilt ranks 9th nationally in steal percentage, and Nebraska\'s late-season slide included a spike in turnovers. If Tanner and Miles can create chaos and push tempo, the Commodores\' offensive firepower (86.4 PPG) is tough to match. But Sam Hoiberg\'s 6.0:1 assist-to-turnover ratio suggests Nebraska won\'t give the ball away cheaply, and the Huskers\' rebounding advantage — Mast and Buyuktuncel are both 245+ pounds — could negate Vanderbilt\'s weak boards. This feels like a game that stays tight into the final 5 minutes.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Vanderbilt pushes pace from the opening tip. Miles attacks downhill and finds Nickel for a corner three. Tanner gets a steal and finishes in transition. Nebraska\'s defense bends but doesn\'t break — Sam Hoiberg calms things down, running deliberate half-court sets. Sandfort hits a three from the wing. Score: Vanderbilt 18, Nebraska 15. Tempo is in Vanderbilt\'s favor early.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Nebraska settles in defensively. Hoiberg guards Tanner and makes him work for every touch. Mast bullies McGlockton inside for two baskets and 4 free throws. The pace slows to Nebraska\'s liking. Sandfort hits another three to give the Huskers a 2-point lead. Frager comes off the bench and drains a corner three. Halftime: Nebraska 34, Vanderbilt 32. The Huskers\' defense is winning the style battle.',
+      },
+      {
+        title: 'Second Half — Vanderbilt\'s Offensive Explosion',
+        description: 'Byington adjusts. Vanderbilt goes small, spaces the floor with four shooters, and lets Tanner go to work. He scores 10 in a 4-minute stretch — two threes and a pair of driving layups. Miles adds a floater. A 14-4 Vanderbilt run opens an 8-point lead. Nebraska\'s late-season closing problems flash — Sandfort misses two threes, and the offense goes stagnant.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Nebraska responds with what got them here: toughness. Mast hits a hook shot, Hoiberg threads a perfect bounce pass to Buyuktuncel for a layup, and Frager hits a transition three. The lead shrinks to 2. Tanner is fouled on a drive — hits both free throws. Sandfort answers with a deep three to cut it to 1 with 40 seconds left. Vanderbilt inbounds, Tanner runs down the clock, and hits a pull-up mid-ranger with 4 seconds left. Nebraska\'s final three rims out.',
+      },
+    ],
+    projectedScore: {
+      teamA: 72,
+      teamB: 69,
+      rationale: 'Vanderbilt\'s backcourt speed and Tanner\'s clutch shotmaking edge Nebraska in a tight, emotional game between two programs that have already made history this week.',
+    },
+  },
   players: [
     {
       team: 'a',

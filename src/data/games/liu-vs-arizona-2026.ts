@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Burries, Peat, and Kharchenkov are all freshmen in their first NCAA Tournament game. They\'ve been dominant all year, but the tournament is different. UMBC beat Virginia in 2018 partly because Virginia\'s players tightened up under the 1-seed pressure. If Arizona\'s freshmen play tight in the first half, LIU\'s veterans could capitalize. It\'s unlikely \u2014 but it\'s the only door.',
     },
   ],
+  prediction: {
+    summary: 'Let\'s be honest: Arizona is going to win this game. The Wildcats are 32-2, ranked 2nd in KenPom, and have three freshman lottery picks plus a 7-2 center. LIU\'s offensive efficiency ranks 210th — against the NEC. Arizona allows 68.8 PPG against Big 12 competition. The math simply doesn\'t work. The only question is whether LIU can keep it competitive enough to make Rod Strickland\'s first tournament as a coach a proud moment, and whether Jamal Fuller can put on a show from deep.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Arizona\'s athleticism and length are immediately apparent. Burries and Peat attack in transition, and Krivas (7-2, 260) establishes position inside against LIU\'s overmatched frontcourt. But Fuller hits an early three and Gordon\'s two-way energy keeps LIU engaged. Arizona leads by 8-10 but LIU hasn\'t folded.',
+      },
+      {
+        title: 'Mid-First Half',
+        description: 'Arizona goes on a run. Bradley orchestrates the offense with his 4.5 APG and .404 three-point accuracy, finding Peat on back-cuts and Burries in transition. LIU\'s defense, respectable at 109th in KenPom, can\'t contain Arizona\'s movement and the lead balloons to 15-18. Strickland calls a timeout to settle his team.',
+      },
+      {
+        title: 'Second Half Start',
+        description: 'LIU comes out with nothing to lose. Fuller launches from deep and hits a couple, and Davis creates off the dribble for a mini-run. The Sharks cut it to 14 for a moment. But Arizona\'s depth is crushing — Kharchenkov, Awaka, and Tobe off the bench are better than most of LIU\'s starters. The Wildcats re-establish control.',
+      },
+      {
+        title: 'Final 10 Minutes',
+        description: 'Arizona empties the bench with a comfortable lead. The freshman trio — Burries, Peat, and Kharchenkov — all finish in double figures. LIU\'s players soak in the moment, knowing they earned their way here. Strickland shakes Tommy Lloyd\'s hand knowing his 17 NBA seasons prepared him for this coaching journey. Arizona advances easily.',
+      },
+    ],
+    projectedScore: {
+      teamA: 58,
+      teamB: 84,
+      rationale: 'Arizona\'s talent advantage is simply too large. Krivas dominates inside, the freshman trio scores at will, and LIU\'s NEC-level offense can\'t generate enough against the 9th-ranked defense in America.',
+    },
+  },
   players: [
     {
       team: 'a',

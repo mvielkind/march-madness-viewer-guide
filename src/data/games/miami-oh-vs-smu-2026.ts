@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         "SMU center Samet Yigitoglu shoots just .495 from the free throw line. In a close game, Miami will be tempted to foul the 7-2 Turk — and it could work. If Yigitoglu can't stay on the floor in crunch time, SMU loses its interior anchor.",
     },
   ],
+  prediction: {
+    summary: 'This comes down to one question: can Miami\'s nation-leading 52.4% shooting survive the jump from MAC competition to ACC-caliber athletes? SMU has Boopie Miller (19.2 PPG) and Jaron Pierre Jr. (17.6 PPG) — a backcourt that can outscore almost anyone. But SMU\'s defense is awful (284th nationally, allowing 77.6 PPG), and Miami is playing what amounts to a home game in Dayton, just one hour from campus. The B.J. Edwards health question looms over everything. If he\'s truly back, SMU\'s complete backcourt trio is too much. If he\'s limited, Miami\'s efficiency, composure (8-0 in one-possession games), and crowd advantage could pull the upset.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'The Dayton crowd is electric — this is essentially a Miami home game. Suder (MAC Player of the Year, .554 FG%) hits his first two shots, and Byers stretches the floor at 39.8% from three. Miami\'s ball movement (just 10.5 turnovers per game) keeps SMU\'s defense on its heels. But Miller answers with a flashy drive and Pierre Jr. hits a pull-up three. It\'s 16-15 Miami in a fast-paced start.',
+      },
+      {
+        title: 'Mid-First Half',
+        description: 'SMU\'s transition offense — best in the nation off missed shots — starts to click. Miller pushes the pace, and Pierre Jr. converts in the open court. The problem for Miami: when they miss (and they will more against this level of defense), SMU sprints the other way. Edwards, if healthy, adds a defensive spark with his 2.3 steals per game. SMU takes a 4-5 point lead into halftime.',
+      },
+      {
+        title: 'Early Second Half',
+        description: 'Miami makes adjustments. Skaljac, who averaged 13.3 PPG as a starter after Ipsaro\'s ACL tear, attacks the basket. Elmer (.434 from three) stretches SMU\'s defense. The RedHawks\' shooting efficiency holds up better than expected — they\'re not just a MAC mirage. The game is tied midway through the second half. The crowd erupts.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'This is where experience matters. Miller and Pierre Jr. have played on bigger stages, and SMU\'s raw scoring talent starts to separate. Miami\'s defense (223rd in PPG allowed) can\'t get enough stops when it matters most. But the RedHawks keep fighting — Suder hits a contested three with 90 seconds left. In the end, SMU\'s guard play is just a tick better, and Yigitoglu\'s size (7-2) helps protect the rim on Miami\'s final possessions.',
+      },
+    ],
+    projectedScore: {
+      teamA: 73,
+      teamB: 77,
+      rationale: 'SMU\'s backcourt firepower (Miller + Pierre Jr.) edges Miami\'s efficient but untested offense. Edwards\' return is the difference-maker — if he\'s limited, this flips to Miami. The Dayton crowd keeps it close throughout.',
+    },
+  },
   players: [
     {
       team: 'a',

@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         "An 11:40 AM CT tip on a Thursday at a neutral site produces lower energy and flatter starts. Troy, as the underdog with nothing to lose, may benefit from the quieter atmosphere — it neutralizes Nebraska's crowd advantage and reduces the intensity gap between a Big Ten team and a Sun Belt team. If the game is close at the first TV timeout, the pressure shifts entirely to Nebraska.",
     },
   ],
+  prediction: {
+    summary: 'Nebraska\'s 0-8 tournament record is the elephant in the arena, but this team is genuinely good — they started 20-0 for a reason. The problem is the late-season slide (6-6 in the final 12) and the psychological weight of history. Troy is battle-tested from last year\'s tournament and has the clutch gene (7 game-tying or go-ahead shots in the final 30 seconds, most in the nation). Thomas Dowd is a legitimate star who elevates against quality opponents (17.3 PPG, 11.3 RPG vs. Quad 1-2). Expect Nebraska\'s defense to control the first half, then Troy to make a run that tests Nebraska\'s composure down the stretch.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Nebraska\'s defense — 22nd nationally in efficiency — clamps down early. Troy struggles to find rhythm against the length and switching. Pryce Sandfort hits a couple of early threes, and Sam Hoiberg\'s steady hand (6.0 assist-to-turnover ratio, 2nd nationally) keeps Nebraska organized. The Huskers build an 8-10 point lead and UD Arena starts to feel like it\'s Nebraska\'s game.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime',
+        description: 'Dowd starts asserting himself on the offensive boards — Troy\'s 34.5% offensive rebound rate gives them second chances Nebraska\'s defense doesn\'t usually allow. Victor Valdes ("Mexico\'s Luka") finds a couple of slick passes to cutting teammates. Troy chips the lead to 5-6 at halftime. The Campbell brothers haven\'t gotten going yet from three, but it feels like it\'s coming.',
+      },
+      {
+        title: 'Second Half — Troy Makes Its Move',
+        description: 'Cooper and Cobi Campbell start hitting from deep — when they combine for 5+ threes, Troy is a different team. Jerrell Bellamy comes off the bench with a burst of energy (remember: 22 points, 6 blocks in the Sun Belt semis). The lead shrinks to 1-2 possessions. Nebraska\'s late-season turnover issues (up 2.2 per game during the skid) start creeping back in. The pressure of 0-8 gets louder with every Troy bucket.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'This is where it\'s decided. Troy has the clutch DNA — 7 go-ahead baskets in the final 30 seconds this year. But Nebraska has Sandfort (3.6 threes per game) and Rienk Mast, who came back from cadaver cartilage knee surgery and dropped 31 in his first game back. Mast\'s experience and toughness steadies the ship. Nebraska finally — finally — grinds out a tournament win, but it takes everything they have.',
+      },
+    ],
+    projectedScore: {
+      teamA: 66,
+      teamB: 70,
+      rationale: 'Nebraska\'s elite defense and Sandfort\'s three-point shooting hold off Troy\'s late-game heroics, but the Huskers need every bit of the final five minutes to break the 0-8 curse.',
+    },
+  },
   players: [
     {
       team: 'a',

@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         "Texas lost five of six. NC State lost six of seven. Both teams are in freefall coming into Dayton. The one that can flip the switch and treat this as a clean slate — as Miller put it, \"a brand new season\" — has the edge. Tournament experience might matter here.",
     },
   ],
+  prediction: {
+    summary: 'This game comes down to whether NC State can get enough open threes against a Texas defense that has been one of the worst in the country at defending the arc. The Wolfpack shoot 38.8% from deep with four balanced scorers all around 13.9 PPG — they don\'t need any one guy to go off. Texas, meanwhile, wants to make this ugly: attack the rim, draw fouls (they\'re #1 nationally in free throw attempt rate), and turn it into a grind at the free throw line. Expect a high-scoring first half as both teams feel each other out, then a tighter second half as the stakes settle in.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Both offenses come out hot — these are two teams that can score, and neither plays much defense. NC State\'s shooters, especially McNeil (42.9% from three), find early looks against Texas\'s porous perimeter D. Texas responds by attacking the paint with Swain and Vokietaitis, drawing fouls and getting to the line. The score is in the low 20s for both teams by the first TV timeout.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime',
+        description: 'Dailyn Swain starts imposing his will. As the best isolation scorer in the country (1.641 points per possession), he finds mismatches and creates separation. NC State counters with Lubin\'s interior efficiency (67.6% FG) and the Copeland-to-shooter connection. Texas leads by 2-4 at the half, but NC State has hit enough threes to stay right there.',
+      },
+      {
+        title: 'Second Half Tug-of-War',
+        description: 'This is where the Maui rematch familiarity kicks in. NC State adjusts and starts finding Darrion Williams in pick-and-pop situations — his Texas Tech experience in big games shows. Texas\'s offensive rebounding (15th nationally) gives them crucial second-chance points. The lead changes hands four or five times.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'It comes down to execution. Texas wants to foul and get to the line; NC State wants to spread the floor and shoot threes. Tramon Mark — the sixth-year senior who has been in every big moment imaginable — makes a clutch play. Jordan Pope, who dropped 28 on NC State in Maui, hits a dagger three. Texas\'s free throw shooting and Swain\'s closing ability give the Longhorns the edge in a frantic finish.',
+      },
+    ],
+    projectedScore: {
+      teamA: 74,
+      teamB: 71,
+      rationale: 'Texas\'s ability to get to the free throw line and Swain\'s isolation scoring give them just enough to survive NC State\'s three-point barrage in a high-scoring, back-and-forth game.',
+    },
+  },
   players: [
     {
       team: 'a',

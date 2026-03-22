@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'McNeese has been here three straight years. They beat Clemson last year. Their core players have lived the tournament environment. Vanderbilt lost to Saint Mary\'s in the first round last year. McNeese won\'t be overwhelmed by the moment — and for a 12-seed, that\'s half the battle.',
     },
   ],
+  prediction: {
+    summary: 'This is the upset special everyone is circling. McNeese forces turnovers at the #1 rate in America, and Vanderbilt\'s up-tempo style creates exactly the kind of possessions where turnovers happen — more dribbles in the open court, more passes in transition, more chances for Garwey Dual and the Cowboys to pounce. But Vanderbilt\'s ball security is actually strong (11th in offensive turnover rate), and their size advantage with Jalen Washington and McGlockton could be decisive against McNeese\'s undersized lineup. The 5-12 upset happens almost every year — but Tanner and Miles are peaking at the right time.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'McNeese\'s defensive pressure rattles Vanderbilt early. Dual\'s 6\'5" frame at point guard disrupts passing lanes, and the Cowboys\' suffocating half-court defense slows Vandy\'s D\'Antoni-style attack. Larry Johnson gets a couple of easy buckets in transition off turnovers. McNeese leads by 3-4.',
+      },
+      {
+        title: 'Mid-First Half',
+        description: 'Vanderbilt adjusts. Tanner starts attacking downhill instead of settling for threes, and his steals (2.44 per game, 10th nationally) start creating transition opportunities for the Commodores. McGlockton bullies McNeese\'s undersized frontcourt inside. Nickel hits a three to put Vandy ahead. The game seesaws heading into halftime.',
+      },
+      {
+        title: 'Second Half',
+        description: 'This is where depth and talent separate the teams. Byington goes deeper into his bench — Vandy has 4-5 guys who score in double figures regularly. McNeese\'s five-man rotation starts to fatigue from the pace Vanderbilt imposes. Archie keeps the Cowboys in it with his 90% free throw shooting and perimeter accuracy, but Garcia\'s returning from injury and starts to fade.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'McNeese makes one final push — Johnson and Archie combine for a quick 5 points to cut it to 3. But Vanderbilt\'s free throw shooting (79.3%, 27th nationally) seals it. Tanner goes to the line four times in the final two minutes and doesn\'t miss. Vandy survives, but McNeese proved they belong.',
+      },
+    ],
+    projectedScore: {
+      teamA: 74,
+      teamB: 67,
+      rationale: 'Vanderbilt\'s size, depth, and free throw shooting overcome McNeese\'s elite turnover-forcing defense. Tanner leads the way, but the Cowboys keep it within striking distance until the final minutes.',
+    },
+  },
   players: [
     {
       team: 'a',

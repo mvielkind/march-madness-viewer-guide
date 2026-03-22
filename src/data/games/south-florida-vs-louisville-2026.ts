@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Louisville\'s defense ranks 28th in efficiency, and they\'re used to facing ACC-caliber scorers. But have they faced five guys who can all go for 15+ on any given night? USF\'s offensive balance is unusual. Louisville can\'t just take away one player and feel safe. The Cardinals need to be locked in on all five.',
     },
   ],
+  prediction: {
+    summary: 'Everything hinges on Mikel Brown Jr.\'s health. With Brown, Louisville has the backcourt firepower (Conwell + Brown = 37 PPG) to outscore anyone. Without him, USF\'s speed, depth, and 12-game winning streak become overwhelming advantages. Even at less than full strength, Louisville\'s three-point shooting (11.6 makes per game, 3rd nationally) and 28th-ranked defense make them the slight favorite. But USF\'s five double-figure scorers and league-best tempo create the kind of chaos that Louisville\'s three-point-dependent offense struggles with. The Conwell revenge angle adds an emotional wild card.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'USF pushes the pace immediately — 78.8 possessions per game, the fastest in Division I. Nelson (15.7 PPG, 9.6 RPG) attacks the glass, and Enis scores in transition off a Louisville turnover. But Louisville answers with threes — McKneely and Hadley (45.6% from deep) both connect. The game is played in the 80s and both teams are comfortable. It\'s 18-17 Louisville.',
+      },
+      {
+        title: 'Mid-First Half',
+        description: 'Conwell heats up against his former program. There\'s extra juice in his step, and he hits two contested threes. Louisville\'s offensive rebounding (top five nationally) generates second chances that compensate for their 35.7% three-point average. But USF\'s rebounding (3rd nationally) fights back, and Omojafo and Pinion combine for 10 quick points. Halftime is a toss-up: Louisville by 3.',
+      },
+      {
+        title: 'Early Second Half',
+        description: 'USF\'s late-season defensive improvement (top-25 since February 1) shows up. They tighten the screws on Louisville\'s perimeter shooters, and the Cardinals go cold from three — in losses, Conwell and Brown Jr. drop to 27% and 25% respectively. CJ Brown — the only player who stayed after the coach\'s death — steadies the offense with his 4.8 APG and USF takes the lead.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Louisville\'s defense (28th KenPom) locks in. Hadley guards multiple positions, and the Cardinals force a couple of USF turnovers. The three-point barrage returns — McKneely hits a dagger from the wing. If Brown Jr. is playing, even at 70%, he provides the late-game scoring punch that tips it to Louisville. USF\'s pace keeps them in it until the very end, but Louisville\'s shooting volume eventually breaks through.',
+      },
+    ],
+    projectedScore: {
+      teamA: 72,
+      teamB: 75,
+      rationale: 'Louisville\'s three-point volume and Conwell\'s revenge-game performance narrowly edge USF\'s balanced attack. The Brown Jr. injury situation keeps this a coin flip — if he\'s out, flip these scores.',
+    },
+  },
   players: [
     {
       team: 'a',

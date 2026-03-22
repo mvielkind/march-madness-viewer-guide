@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Speedy Claxton won an NBA championship with the Spurs in 2003. He played alongside Tim Duncan and Tony Parker. He knows what it\'s like to perform in the biggest games imaginable. That composure \u2014 transferred to his players, manifested in timeout calls and adjustments \u2014 is Hofstra\'s secret weapon. Alabama\'s players are more talented. But Hofstra\'s coach has won a ring.',
     },
   ],
+  prediction: {
+    summary: 'This is the most dangerous 4-13 matchup in the bracket, and it\'s not close. Alabama scores 91.7 PPG but ranks 291st in defensive efficiency. Hofstra ranks 40th in defense but only 82nd in offense. The question is simple: can Hofstra slow this game down enough to make Alabama\'s defense the deciding factor? If this game is played in the 80s, Alabama wins by 15. If it\'s played in the 60s, Hofstra has a real shot. Speedy Claxton — an NBA champion — will have his team prepared to grind, and Cruz Davis has the road wins (Syracuse, Pittsburgh) to prove he can handle the stage.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Alabama tries to push pace immediately. Philon attacks in transition and Holloway launches threes. But Hofstra\'s defense (40th KenPom) is ready — Sunday\'s 7-0 frame contests shots at the rim, and Davis matches Philon bucket-for-bucket from the perimeter. Hofstra keeps it within 3-4 points by controlling tempo.',
+      },
+      {
+        title: 'Mid-First Half',
+        description: 'Alabama\'s athletes start to overwhelm in transition. A couple of turnovers by Hofstra lead to easy Philon dunks, and Bediako finishes two alley-oops with that absurd 77.3% accuracy. The Tide push the lead to 10. But Davis answers with a pull-up three and Edmead attacks the rim fearlessly. Halftime: Alabama leads by 7-8.',
+      },
+      {
+        title: 'Second Half',
+        description: 'Claxton\'s championship composure shows. Hofstra comes out in a more deliberate half-court set, and Alabama\'s 291st-ranked defense can\'t get stops. Davis (39.9% from three) hits two straight from deep. Plotnikov adds another. Suddenly Hofstra is within 3. Alabama calls timeout, and the crowd starts buzzing about the upset.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'This is where it gets tense. Philon takes over — he\'s an All-American for a reason — and hits a contested step-back jumper. But Hofstra responds through Davis, who goes to the line and converts. The free throw battle hurts both teams — Sunday (64.9% FT) and Bediako (69.6% FT) both miss key free throws. Alabama\'s firepower ultimately proves too much, as Holloway hits a late three that provides the final separation.',
+      },
+    ],
+    projectedScore: {
+      teamA: 68,
+      teamB: 74,
+      rationale: 'Alabama\'s offensive talent is too deep for Hofstra to contain for 40 minutes. But Hofstra\'s defense keeps it close, and Davis puts up a 25+ point performance. This one is closer than the seed line suggests.',
+    },
+  },
   players: [
     {
       team: 'a',

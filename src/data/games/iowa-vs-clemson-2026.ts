@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'McCollum has never coached an NCAA Tournament game at the DI level with Iowa (his Drake team did play). Brownell has made 10 tournament appearances across four schools, including an Elite Eight. Experience in March matters \u2014 timeouts, adjustments, and knowing when to call plays vs. let players play. Brownell\'s 16 years of ACC battles give Clemson an edge in the chess match.',
     },
   ],
+  prediction: {
+    summary: 'This is the quintessential 8-9 grind — the kind of game where style determines the outcome more than talent. Iowa\'s offense (39th KenPom) wants to flow, move the ball, and let Stirtz create. Clemson\'s defense (53rd KenPom) wants to suffocate, rotate, and limit clean looks. Stirtz is the best player on the floor at 20 PPG, but Clemson has the depth and experience of an Elite Eight program under Brownell. Expect a game in the mid-60s where every possession matters and the team that gets to the free throw line wins.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Clemson sets the defensive tone early. Dillon Hunter and the Tiger backcourt make Stirtz work for every touch, and Iowa settles for a few contested jumpers. Clemson builds a small lead through Godfrey\'s efficient interior work and Welling\'s size advantage inside.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Iowa\'s ball movement starts to crack Clemson\'s defense. Banks hits a couple of threes at 47.2% accuracy, and Folgueiras finds cutters with his playmaking from the forward spot. The game tightens up heading into halftime, likely knotted in the low 30s.',
+      },
+      {
+        title: 'Second Half Adjustments',
+        description: 'McCollum makes halftime adjustments — the man is 426-95 for a reason. Stirtz finds more space in pick-and-roll actions with Manyawu, who converts at 64% around the rim. But Brownell counters with his balanced scoring — Davidson and Buckner chip in buckets to keep Clemson within striking distance.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'This comes down to Stirtz vs. Clemson\'s scheme. If Stirtz can get to the line (he shoots 84.5% FT), Iowa has the edge. But Brownell\'s 16 years of March experience show in late-game execution — Clemson runs sets to get Godfrey easy looks inside, and the Tigers\' collective composure from the 2024 Elite Eight run gives them a slight edge in crunch time.',
+      },
+    ],
+    projectedScore: {
+      teamA: 65,
+      teamB: 67,
+      rationale: 'Clemson\'s defensive identity and Brownell\'s tournament experience edge out Iowa in a tight, physical game. Stirtz gets his 20, but Clemson\'s balanced scoring and defensive rotations are just enough.',
+    },
+  },
   players: [
     {
       team: 'a',

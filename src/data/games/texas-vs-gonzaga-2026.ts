@@ -33,6 +33,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -115,6 +116,32 @@ const game: GameData = {
         'Mario Saint-Supery is Gonzaga\'s best perimeter shooter (43.4% from three) and a key offensive weapon — but he fouled out against a 14-seed and shot 2-of-11. If he picks up early fouls against Texas, Gonzaga loses their floor-spacing threat and their offense becomes one-dimensional through Ike. Keeping Saint-Supery on the court and in rhythm is Gonzaga\'s most important task.',
     },
   ],
+  prediction: {
+    summary: 'Texas has the offense — KenPom #18 with five scoring threats — and the momentum of two wins in four days. But Gonzaga has the #1 defense in the country and a Portland crowd that will feel like a home game. The critical question is whether Gonzaga\'s shooting woes continue. They went 1-of-9 from three in the first half against Kennesaw State, and Saint-Supery fouled out on a 2-of-11 night. Texas\'s defense (KenPom #95) isn\'t going to scare anyone, so this becomes a test of whether Gonzaga can generate enough offense to keep up with Swain, Vokietaitis, and Mark. The fatigue factor looms large: Texas is playing its third game in five days. Fresh legs vs. hot hands — and in a defensive slugfest, fresh legs usually win.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Gonzaga\'s defense is locked in from the jump, contesting every Texas look. Vokietaitis faces a wall of bodies near the rim. But Graham Ike picks up two early fouls, and Gonzaga\'s offense stalls again — 1-of-5 from three. Texas\'s Swain attacks in transition for 6 quick points. The game starts 14-11 Texas in a grinding pace.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Saint-Supery starts hitting. Two threes in a 3-minute stretch give Gonzaga life, and the Portland crowd erupts. Warley\'s versatile defense bothers Mark on the perimeter. Vokietaitis fights for interior position and scores 6 points, but Gonzaga\'s defense holds Texas to 39% shooting. Halftime: Gonzaga 30, Texas 27. A rock fight.',
+      },
+      {
+        title: 'Second Half — Fatigue Sets In',
+        description: 'Here\'s where the three-games-in-five-days catches up. Texas\'s ball movement slows, and turnovers creep up — 4 in the first 8 minutes of the half. Ike dominates inside with Vokietaitis tiring, scoring 8 second-half points. Fogle hits a pull-up jumper. Gonzaga extends the lead to 8. Texas calls timeout, but the legs aren\'t there.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Tramon Mark — the sixth-year veteran who hit the First Four game-winner — refuses to go quietly. He scores 7 straight to cut it to 3. But Gonzaga\'s free throw shooting (87% against Kennesaw State) closes the door. Ike goes 4-of-4 from the line in the final minute. The Bulldogs\' defense and Texas\'s fatigue combine to end the Longhorns\' Cinderella run.',
+      },
+    ],
+    projectedScore: {
+      teamA: 61,
+      teamB: 67,
+      rationale: 'Gonzaga\'s elite defense and Texas\'s fatigue from three games in five days prove decisive in a low-scoring grind, though Mark and Swain keep it competitive until the final minutes.',
+    },
+  },
   players: [
     {
       team: 'a',

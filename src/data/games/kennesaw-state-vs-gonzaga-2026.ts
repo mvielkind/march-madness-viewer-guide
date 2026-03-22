@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Kennesaw State is playing through a federal point-shaving scandal, the loss of their best player, and the memory of a beloved coach who died at 43. That kind of emotional fuel is impossible to quantify. Teams playing for something bigger than basketball have pulled upsets before. Gonzaga has the talent advantage. KSU has the narrative.',
     },
   ],
+  prediction: {
+    summary: 'Gonzaga is the only team in America ranked top 5 in both offensive and defensive efficiency — even without Braden Huff, they went 12-1 after his injury. Graham Ike is the best interior scorer Kennesaw will face all season, and the Bulldogs\' defense will be a massive step up from C-USA competition. But KSU plays Alabama-style chaos ball — they draw 27 free throws per game, crash the offensive glass (39th nationally), and create havoc at a pace Gonzaga rarely sees. RJ Johnson\'s emergence (18.2 PPG post-Cottle) gives them a legitimate go-to scorer. This game will be louder and more competitive than people expect, but Gonzaga\'s completeness should ultimately prevail.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Kennesaw State comes out with the reckless energy of a team playing for a deceased coach and through a federal scandal. They push pace (19th-fastest tempo nationally), attack the rim, and draw early fouls. Ike picks up two quick fouls on KSU\'s aggressive drives — that\'s a problem for Gonzaga without Huff. But Saint-Supery (43.4% from three) hits two early threes, and Gonzaga\'s defense forces turnovers. It\'s 18-14 Gonzaga.',
+      },
+      {
+        title: 'Mid-First Half',
+        description: 'With Ike on the bench in foul trouble, Kennesaw attacks the paint. Amir Taylor (6-9, 250) scores on consecutive possessions, and Simpson adds a transition bucket. KSU\'s offensive rebounding (35.5% rate) creates second chances. The game tightens. But Warley\'s defense (team leader in steals) disrupts KSU\'s ball-handling, and Fogle scores 6 quick points off the bench. Gonzaga leads by 5 at halftime.',
+      },
+      {
+        title: 'Early Second Half',
+        description: 'Ike returns and dominates. He posts up against Taylor and converts at his 57.3% clip — there\'s simply no one in C-USA who prepared KSU for this. Gonzaga pushes the lead to 12. But KSU keeps battling — Johnson hits a step-back three (42.4% since taking over) and Lue adds a long jumper. The lead stays in the 8-12 range.',
+      },
+      {
+        title: 'Final 10 Minutes',
+        description: 'Kennesaw\'s free throw shooting (69.1%) becomes their undoing. They draw fouls at an elite rate but convert at one of the worst rates in the country. Three missed free throws in the final five minutes cost them any chance of a comeback. Gonzaga\'s 78.7% from the line provides the separation. Few\'s team advances, but KSU earns respect — and the emotional toll of their journey resonates far beyond the scoreboard.',
+      },
+    ],
+    projectedScore: {
+      teamA: 66,
+      teamB: 79,
+      rationale: 'Gonzaga\'s dual-elite efficiency and Ike\'s interior dominance are too much for KSU, despite the Owls\' relentless pace and emotional fuel. Kennesaw\'s poor free throw shooting prevents the upset from materializing.',
+    },
+  },
   players: [
     {
       team: 'a',

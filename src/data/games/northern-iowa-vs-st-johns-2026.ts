@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'UNI won four MVC Tournament games in four days to get here. That\'s a lot of basketball in a short window. Either they\'re exhausted \u2014 or they\'re battle-hardened. Campbell and Bond played 35+ minutes in each of those games. If their legs are fresh, their defense will be suffocating. If fatigue sets in, St. John\'s superior depth (7 players at 7+ PPG) will wear them down in the second half.',
     },
   ],
+  prediction: {
+    summary: 'This is the 5-12 upset everyone\'s circling, and for good reason. UNI\'s #1 scoring defense (61.3 PPG allowed) is tailor-made to neutralize St. John\'s 81.6 PPG attack. Jacobson has done this before — his 2010 team held Kansas to 37.5% shooting — and the defensive blueprint is the same: suffocating half-court defense, contest every shot, refuse to let the game get into the 70s. The question is whether UNI\'s 194th-ranked offense can generate enough points to capitalize. If Campbell and Hornseth are hitting threes and the Panthers can score 65-68, this is a genuine coin flip. But Ejiofor is the best player on either team, and Pitino\'s depth (seven guys at 7+ PPG) gives St. John\'s the firepower to outlast a team that just played four games in four days.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'UNI\'s defense sets the tone early. They pack the paint, contest Ejiofor\'s looks, and force St. John\'s into contested perimeter shots. Sellers and Ian Jackson miss early threes against the swarming defense. The Panthers lead 14-11 and the Viejas Arena crowd stirs.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Ejiofor starts finding his rhythm through sheer physicality — Smith and Hornseth don\'t have his size. He gets to double figures. But Campbell answers with a couple of threes and Hornseth\'s 44.4% shooting from deep keeps UNI in it. Halftime: a tight, grinding affair in the low 30s.',
+      },
+      {
+        title: 'Second Half — The Grind',
+        description: 'This is where the four-games-in-four-days factor shows up. Campbell and Bond played 35+ minutes in each of those MVC Tournament games. Their legs start to tire in the second half. Pitino\'s depth — Hopkins, Mitchell, Sellers rotating in — gives St. John\'s fresh bodies. The Red Storm build a 6-8 point lead through the middle of the half.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'UNI makes one last push — Campbell hits a deep three, Bond comes up with a steal — and cuts it to 4. But Sellers hits his free throws (85.9%) and Ejiofor finishes a crucial and-one in the paint. St. John\'s survives, but Jacobson\'s defense made them earn every single point.',
+      },
+    ],
+    projectedScore: {
+      teamA: 60,
+      teamB: 66,
+      rationale: 'UNI\'s defense keeps this ugly and close, but St. John\'s depth and Ejiofor\'s dominance ultimately prove to be too much for a Panthers team running on fumes after four games in four days.',
+    },
+  },
   players: [
     {
       team: 'a',

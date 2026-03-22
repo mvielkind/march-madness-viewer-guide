@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Akron has never won an NCAA Tournament game. Eight appearances, seven losses. At some point, the weight of that history matters \u2014 or maybe it doesn\'t. This team has won 14 straight, including a come-from-behind MAC championship. They\'ve proven they can handle pressure. But the tournament is different. The first five minutes will reveal whether this team plays loose or tight.',
     },
   ],
+  prediction: {
+    summary: 'This has 5-12 upset written all over it. Akron has the 5th-best offense in America, a 14-game winning streak, and three consecutive MAC titles. Texas Tech lost its All-American (Toppin, 21.8 PPG and 10.8 RPG) to a torn ACL and enters on a three-game losing streak with a defense that has cratered to 169th in KenPom without him. The Zips have never won a tournament game in eight tries \u2014 but they\'ve also never had a team this good. Tavari Johnson vs. Christian Anderson is a point guard duel for the ages, and the three-point shooting on both sides (Tech at 39.3%, Akron at 37.9%) means this could turn into a shootout. In a shootout without Toppin\'s interior presence, Akron has the edge.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Both teams trade threes early. Donovan Atwell (45.4% from three, 121 made this season) buries one from the wing. Shammah Scott (42.2%) answers for Akron. The pace is fast \u2014 exactly what Akron wants. Tavari Johnson gets into the lane and finds Amani Lyles for an easy finish. Texas Tech misses Toppin\'s rebounding already \u2014 Akron grabs a couple of offensive boards. It\'s 20-18 Akron.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime',
+        description: 'Christian Anderson tries to impose his will. The 236-assist point guard finds Atwell and LeJuan Watts in rhythm. But Akron\'s offense (88.4 PPG, 7th nationally) keeps answering. Johnson is masterful \u2014 at 5-11 and 51.2% shooting, he gets wherever he wants. Bowen Hardman (40.7% from three) knocks one down. The Mahaffey brothers \u2014 Evan defending and Eric stretching the floor \u2014 give Akron versatility Texas Tech can\'t match without Toppin. Akron leads 42-39 at the half.',
+      },
+      {
+        title: 'Second Half \u2014 Texas Tech\'s Push',
+        description: 'McCasland adjusts \u2014 Texas Tech starts attacking Akron\'s smaller defenders in the post with Watts and their remaining bigs. Anderson goes on a personal 8-0 run with a three and a driving layup. Texas Tech takes a 3-point lead. But Akron has been here before \u2014 they trailed Toledo by 12 at halftime in the MAC championship and came back. Scott hits a three. Johnson finds Lyles on the pick-and-roll. The lead swings back to Akron. Neither team can pull away.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'It comes down to the point guard battle. Johnson (MAC Tournament MVP) and Anderson (Big 12 assist leader) trade buckets. Atwell hits a clutch three for Texas Tech \u2014 but Scott, who hit the game-winning three with 6.4 seconds left in the MAC championship, answers with one of his own. With Toppin\'s rebounding and shot-blocking absent, Akron controls the glass down the stretch. Johnson converts a layup, Lyles grabs the key rebound, and Akron finally \u2014 finally \u2014 wins an NCAA Tournament game.',
+      },
+    ],
+    projectedScore: {
+      teamA: 78,
+      teamB: 74,
+      rationale: 'Akron\'s elite offense, three-point depth, and Johnson\'s brilliance overcome Texas Tech\'s Toppin-less roster in a high-scoring shootout that delivers the 5-12 upset.',
+    },
+  },
   players: [
     {
       team: 'a',

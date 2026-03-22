@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'In 2023, Purdue lost to Fairleigh Dickinson as a 1-seed. It was only the second 16-over-1 upset ever. Painter has lived through this nightmare. His preparation for Queens will be intense precisely because of that memory. But the psychological scar is real — and if Queens makes a run in the second half, the pressure on Purdue intensifies.',
     },
   ],
+  prediction: {
+    summary: 'Queens is the most dangerous 15-seed in the bracket because they actually have an offense — 31st in efficiency, 84.9 PPG, six players averaging 10+. But their 349th-ranked defense faces Purdue\'s #2 offense in America, and that math is brutal. Braden Smith\'s 9.1 assists against the worst defensive team he\'ll see all year could produce a highlight reel. Kaufman-Renn and Cluff will feast inside against Queens\' undersized frontcourt. The Royals will score — they always do — but they simply can\'t stop Purdue from scoring more. The FDU ghost looms, and Matt Painter will be ultra-prepared, but Queens\' lack of defense makes the upset path nearly impossible even with their offensive firepower.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Queens comes out firing and scores on four of their first six possessions — Mann hits a three, Parker finishes at the rim, and the crowd murmurs about FDU. But Purdue answers every basket. Smith finds Kaufman-Renn for easy post-ups and Loyer knocks down two open threes. It\'s 22-18 Purdue and both teams are scoring at will.',
+      },
+      {
+        title: 'Mid-First Half to Halftime',
+        description: 'Purdue\'s interior dominance takes over. Kaufman-Renn scores on three consecutive possessions over Queens\' undersized defenders. Cluff adds an and-one dunk. Smith starts hitting pull-up jumpers. The Boilermakers build a 15-point halftime lead, but Queens is still scoring in the 30s — just not fast enough.',
+      },
+      {
+        title: 'Second Half — The Shootout',
+        description: 'Queens makes it entertaining. Schweiger hits two threes, Watford drives and finishes, and the deficit briefly shrinks to 10. The six-player scoring attack shows why they average 85 a game. But every time they score, Smith finds an open shooter or feeds Kaufman-Renn inside. Purdue\'s offense is just too efficient.',
+      },
+      {
+        title: 'Final 8 Minutes',
+        description: 'Purdue pulls away as Queens\' defense can\'t get stops in crunch time. Loyer hits a dagger three, Smith adds a tough layup, and the lead balloons to 18-20. Queens scores into the 70s — impressive for a 15-seed — but Purdue cruises past 90. The Royals\' historic season ends, but scoring 70+ against a 2-seed is a program-defining moment for a team that was DII nine months ago.',
+      },
+    ],
+    projectedScore: {
+      teamA: 72,
+      teamB: 91,
+      rationale: 'Queens\' offense keeps the game entertaining and they put up a respectable number, but Purdue\'s #2 offense exploits the 349th-ranked defense for a comfortable win. Smith flirts with a triple-double.',
+    },
+  },
   players: [
     {
       team: 'a',

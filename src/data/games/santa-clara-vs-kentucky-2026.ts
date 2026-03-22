@@ -31,6 +31,7 @@ const game: GameData = {
     { id: 'stakes', label: 'The Stakes' },
     { id: 'styles', label: 'Styles of Play' },
     { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
     { id: 'players', label: 'Players to Watch' },
     { id: 'facts', label: 'Fun Facts' },
     { id: 'history', label: 'History' },
@@ -113,6 +114,32 @@ const game: GameData = {
         'Herb Sendek spent four years on Kentucky\'s bench as a Pitino assistant. He knows the program, the pressure, the atmosphere. He\'s coached against Pope\'s teams in the WCC — and won three straight, including a buzzer-beater. Sendek won\'t be intimidated by the Kentucky name. His players have heard him talk about Rupp Arena for a decade. This is a coach who has been preparing for this moment.',
     },
   ],
+  prediction: {
+    summary: 'This is the upset everyone is picking, and for good reason. Santa Clara is actually ranked higher on KenPom (35th) than their seed suggests, they shoot 29.2 threes per game with eight capable shooters, and Kentucky has struggled to defend the arc all season (152nd in defensive efficiency). Sendek knows the Kentucky program from his years on the bench, he\'s already beaten Pope\'s BYU teams three straight times, and his squad plays with the discipline of a team that\'s been building toward this for a decade. Kentucky\'s path to winning is through Otega Oweh taking over and Moreno controlling the paint. But the Broncos have too many shooters for Kentucky\'s defense to handle.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes',
+        description: 'Santa Clara\'s balanced attack tests Kentucky immediately. Hammond (15.8 PPG, .400 from three) hits an early three. Elijah Mahi, the Canadian senior who has started every game, finds a mid-range look. Kentucky\'s perimeter defense scrambles to contest — and leaves Allen Graves open on the wing. He buries it. Santa Clara leads 18-14 as Kentucky\'s three-point defense problem shows up on cue.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime',
+        description: 'Kentucky responds through Oweh, who scores in double figures in 33 of 34 games for a reason. He attacks the basket and draws fouls. Collin Chandler (42.7% from three), who followed Pope from BYU, hits a corner three. Moreno (58.3% FG) finishes a couple of plays at the rim that Santa Clara\'s perimeter-heavy lineup can\'t contest. But Santa Clara\'s offensive rebounding (19th nationally at 36.7%) creates second chances. It\'s tied at the half or Santa Clara leads by 1-2.',
+      },
+      {
+        title: 'Second Half — Graves Takes Over',
+        description: 'Allen Graves is the X-factor. The NBA Draft prospect shoots 41.6% from three and 51.5% overall — at 6\'9", he\'s a matchup nightmare. If he stays out of foul trouble (8.9 fouls per 100 possessions is his Achilles heel), he opens up the entire Santa Clara offense. Jake Ensminger, the German-born Swiss Army knife, makes a couple of crafty plays. Kentucky\'s Denzel Aberdeen (the former Florida national champion) tries to stabilize, but the Broncos keep finding open looks from three.',
+      },
+      {
+        title: 'Final 5 Minutes',
+        description: 'Kentucky makes its push — Oweh drives and scores, Chandler hits another three, and the Wildcats cut it to 1. But Santa Clara\'s composure holds. Sendek has prepared his team for this exact moment for a decade. Hammond converts a late free throw, Mahi makes a smart pass to a cutting Graves for a layup. Kentucky has one last possession trailing by 3 — Oweh\'s three rims out. Santa Clara completes the upset, and Sendek, the former Pitino assistant, takes down his mentor\'s protege.',
+      },
+    ],
+    projectedScore: {
+      teamA: 74,
+      teamB: 70,
+      rationale: 'Santa Clara\'s three-point volume overwhelms Kentucky\'s porous perimeter defense, and Sendek\'s preparation and Graves\'s versatile scoring deliver the 7-10 upset.',
+    },
+  },
   players: [
     {
       team: 'a',
