@@ -1,0 +1,349 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'arkansas-vs-arizona-2026',
+  title: 'Arkansas vs Arizona — Sweet 16 Viewing Guide',
+  eventTag: 'NCAA Tournament • Sweet 16 • West Region • San Jose, CA',
+  date: 'Thursday, March 26, 2026',
+  round: 'Sweet 16',
+  tipTime: '2026-03-26T21:45',
+  venue: 'SAP Center, San Jose, California • 9:45 PM ET • CBS',
+  extraInfo: 'Winner advances to the <strong>Elite Eight</strong> to face <strong>#2 Texas or #3 Purdue</strong>',
+  teams: [
+    {
+      name: 'Arkansas',
+      mascot: 'Razorbacks',
+      seed: '#4 Seed',
+      record: '28-8 • SEC Champs',
+      colors: { primary: '#9D2235', secondary: '#FFFFFF', name: 'arkansas' },
+      className: 'arkansas',
+      logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/8.png',
+    },
+    {
+      name: 'Arizona',
+      mascot: 'Wildcats',
+      seed: '#1 Seed',
+      record: '34-2 • Big 12 Champs',
+      colors: { primary: '#003366', secondary: '#CC0033', name: 'arizona' },
+      className: 'arizona',
+      logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/12.png',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'Two programs that have won national championships. Two coaches with something to prove. <strong>John Calipari\'s rebuilt Arkansas juggernaut</strong> — the SEC Tournament champions led by the most electric freshman in the country — against <strong>Tommy Lloyd\'s 34-2 Arizona machine</strong>, the overall #1 seed with three lottery picks and a 7-foot-2 Lithuanian center. The last time these two met in the NCAA Tournament, Arkansas beat Arizona in the <strong>1994 Final Four</strong> on its way to its only national title. Now, 32 years later, they meet again with an Elite Eight on the line. Calipari has never lost to Lloyd. Lloyd has never made it past the Sweet 16. Something has to give.',
+    cards: [
+      {
+        label: 'For Arkansas',
+        value:
+          'Calipari\'s revenge tour continues. After being pushed out of Kentucky, he\'s won the SEC Tournament, hit <strong>905 career wins</strong>, and taken Arkansas to back-to-back Sweet 16s. Darius Acuff just scored <strong>36 points against High Point</strong> — a program NCAA Tournament record — and broke Todd Day\'s single-season scoring record. The 4-seed has beaten a 13 and a 12. Now comes a 1-seed. Calipari has been here 17 times. He knows the path.',
+      },
+      {
+        label: 'For Arizona',
+        value:
+          'The <strong>34-2 Wildcats are chasing their first championship since 1997</strong>. Tommy Lloyd has the most wins through five seasons of any coach in NCAA history (145+), but he\'s <strong>0-3 in the Sweet 16</strong> — losing in 2022, 2024, and 2025. This is the best team he\'s ever had, and the Sweet 16 is his wall. Three freshman lottery picks. A 7-2 center. An 11-game winning streak. If not now, when?',
+      },
+      {
+        label: 'The Style Clash',
+        value:
+          'Arkansas scores <strong>90.3 PPG</strong> and ranks 10th nationally in three-point percentage (38.7%). Arizona allows just <strong>68.4 PPG</strong> and ranks 2nd in two-point defense. Arkansas wants to sprint; Arizona wants to suffocate. The Razorbacks attack from the perimeter. The Wildcats dominate inside — they had <strong>22 offensive rebounds</strong> against Utah State. Tempo and the interior vs. perimeter battle will decide this.',
+      },
+      {
+        label: 'Championship Pedigree',
+        value:
+          'Arkansas won the title in <strong>1994</strong> under Nolan Richardson\'s "40 Minutes of Hell." Arizona won in <strong>1997</strong>, beating three #1 seeds. These are the only two programs in this Sweet 16 quadrant with a national championship on their resume. The historical weight is real — and Arkansas beat Arizona in the \'94 Final Four, 91-82, on its way to the trophy.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Calipari\'s Perimeter Firepower Machine',
+      bullets: [
+        '<strong>Elite offensive output:</strong> Arkansas scores <strong>90.3 PPG</strong> — among the highest in the country. They shoot 50.2% from the field and a blistering <strong>38.7% from three</strong> (10th nationally). The offense runs through Darius Acuff (23.3 PPG, 6.5 APG), but four other starters average double figures. This isn\'t a one-man team — it\'s a five-man offensive ecosystem.',
+        '<strong>Tournament-tested guards:</strong> Acuff scored 24 against Hawaii and <strong>36 against High Point</strong> (a program NCAA Tournament record, 11-of-13 from the free throw line). Thomas added 21 and 19 in the two games. Together, these freshmen have scored <strong>100 points in two tournament games</strong>. They attack all three levels and draw fouls at an elite rate.',
+        '<strong>Transition offense:</strong> Arkansas forces <strong>12 turnovers per game</strong> and scores over 19 points in transition. Against High Point, they created 15 lead changes in a back-and-forth war. They want pace, chaos, and open-floor opportunities — the opposite of what Arizona wants to play.',
+        '<strong>Size concerns:</strong> Arizona\'s frontcourt is massive — Krivas (7-2), Peat (6-8), Awaka (6-8). Arkansas counters with Brazile (6-10) and Ewin (6-10), who had <strong>14 points and 12 rebounds</strong> against High Point. But Arizona out-rebounded Utah State by <strong>28 boards</strong>. The glass is Arkansas\'s biggest vulnerability.',
+        '<strong>Defensive weakness:</strong> Arkansas ranks <strong>275th in two-point percentage defense</strong>. Against Arizona\'s paint dominance, that\'s alarming. They also allow 80.3 PPG. If Arizona can establish Krivas inside early, Arkansas has to send help — which opens three-point looks for a team that shoots 36.3% from deep.',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'The Most Complete Team in the Country',
+      bullets: [
+        '<strong>Historically dominant two-way team:</strong> Arizona ranks <strong>top-5 in offensive efficiency and top-10 in defensive efficiency</strong> — one of a handful of teams in the last decade to do both. They\'re 34-2, opened with 23 straight wins, and have the highest KenPom composite rating in the tournament. Only two teams beat them all season: Kansas (road) and Texas Tech.',
+        '<strong>Rebounding machine:</strong> Arizona out-rebounded Utah State <strong>54-26</strong>, collecting 22 offensive rebounds and generating 21 second-chance points. Krivas (14 rebounds vs. USU) and Awaka (9.5 RPG, 1st nationally in rebounding percentage) are the best glass-crashing duo in the country. Against Arkansas\'s inconsistent interior defense, expect Arizona to pound the offensive boards.',
+        '<strong>Three freshman lottery picks:</strong> Burries (16.0 PPG), Peat (13.7 PPG, 5.4 RPG), and Kharchenkov (10.2 PPG) have combined for 99+ starts. Against LIU: Burries 18, Peat 15, Kharchenkov 14/10 double-double. Against Utah State: Burries 16, Peat 14/10 double-double. They\'ve answered the nerves question twice now.',
+        '<strong>Bradley is the steady hand:</strong> The Big 12 Player of the Year (13.1 PPG, 4.5 APG, .404 3P%) scored 12 of his 18 points in the second half against Utah State when the lead got tight. A former Alabama transfer who spent a year on Arizona\'s bench before becoming an All-American. He won\'t be shaken by Calipari\'s pressure.',
+        '<strong>Vulnerability:</strong> Arizona shot <strong>29% in the first half</strong> against Utah State and needed rebounding and free throws to survive. They also <strong>struggle defending the three-point line</strong> — Utah State hit 8 threes. Arkansas shoots 38.7% from deep. If the Razorbacks get hot from outside, Arizona\'s defensive identity gets tested.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'Can anyone slow Darius Acuff?',
+      description:
+        'Acuff has scored <strong>60 points in two tournament games</strong> (24 vs. Hawaii, 36 vs. High Point). He\'s broken Todd Day\'s single-season scoring record and is the program\'s all-time single-season leader in both points (817) and assists (229). ESPN called him "the best player in this college basketball postseason." Arizona\'s defense is elite — 2nd in two-point defense — but Acuff scores at all three levels: pull-up threes, mid-range, at the rim, and from the line (11-of-13 FT vs. High Point). Lloyd needs to contain him <strong>without sending help</strong> — because if Arizona doubles, Acuff finds Thomas or Brazile for open threes. This is the chess match of the game.',
+    },
+    {
+      title: 'Arizona\'s rebounding dominance vs. Arkansas\'s tempo.',
+      description:
+        'Arizona out-rebounded Utah State <strong>54-26</strong> with 22 offensive rebounds. Krivas grabbed 14 boards, including 9 offensive. That\'s suffocating. Arkansas, by contrast, won the rebounding battle only 37-36 against undersized High Point. If Arizona controls the glass like they did against Utah State, they\'ll generate 15-20 second-chance points and limit Arkansas\'s transition game. Arkansas needs to box out and get the ball up the floor before Arizona can set its half-court defense.',
+    },
+    {
+      title: 'The three-point battle could decide everything.',
+      description:
+        'Arkansas shoots <strong>38.7% from three</strong> (10th nationally) and went 9-of-16 (56%) against High Point. Arizona\'s weakness? <strong>Three-point defense</strong> — Utah State hit 8 threes, and the SI scouting report flagged this as Arizona\'s biggest vulnerability. If Arkansas can launch and connect from deep, they stretch Arizona\'s defense and open driving lanes for Acuff. If Arizona forces contested twos instead — and Arkansas ranks 275th in two-point defense on the other end — the Wildcats\' size advantage takes over.',
+    },
+    {
+      title: 'Krivas vs. Arkansas\'s interior.',
+      description:
+        'Motiejus Krivas is <strong>7-2, 260 pounds</strong> with 14 rebounds and 3 blocks against Utah State. He collected 6 rebounds in a crucial three-minute stretch when the lead got tight. Malique Ewin (6-10, 14 pts/12 reb vs. High Point) and Trevon Brazile (6-10, 13.2 PPG) are solid, but neither has faced a center this dominant this tournament. If Krivas establishes deep position early, Arkansas may need to send double teams — which opens the floor for Burries and Peat. This is where Arizona\'s size advantage could be decisive.',
+    },
+    {
+      title: 'Lloyd\'s Sweet 16 wall vs. Calipari\'s Sweet 16 pedigree.',
+      description:
+        'Tommy Lloyd is <strong>0-3 in the Sweet 16</strong> (2022, 2024, 2025). It\'s the one blemish on an otherwise historic coaching start. Calipari, meanwhile, is making his <strong>17th Sweet 16 appearance</strong> — he\'s been to six Final Fours and won a national championship in 2012. Experience in these moments matters. Calipari survived a chaotic 15-lead-change game against High Point. Lloyd ground out a physical win over Utah State. Can Lloyd finally break through? Or does Calipari\'s tournament mastery give Arkansas an invisible edge?',
+    },
+  ],
+  prediction: {
+    summary: 'This is the most compelling Sweet 16 matchup in the bracket — two championship programs, two elite coaches, and a genuine style clash. Arizona is the better team on paper: 34-2, elite defense, dominant rebounding, three lottery picks. But Darius Acuff is playing at a level that transcends matchups. He\'s scored 60 points in two tournament games and looks like the best player in the entire postseason. Arkansas shoots 38.7% from three — and Arizona\'s perimeter defense is their one weakness. The key question: Can Arizona\'s rebounding dominance (they out-rebounded Utah State by 28) and interior size offset Arkansas\'s perimeter firepower? Calipari has been to 17 Sweet 16s. Lloyd is 0-3. That experience gap matters in a game that will likely come down to the final five minutes.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes — Arkansas Tests Arizona\'s Perimeter',
+        description: 'Arkansas comes out aggressive from three, knowing it\'s Arizona\'s weakness. Thomas hits an early corner three, and Acuff pulls up from 25 feet. The Razorbacks score 18 in the first 8 minutes — but Arizona answers through Krivas, who scores on two post-ups against Ewin. Peat grabs two offensive rebounds for putbacks. Arizona\'s size is apparent immediately. It\'s 20-18 Arizona, and the SAP Center is electric.',
+      },
+      {
+        title: 'Rest of First Half — The Rebounding Problem',
+        description: 'Arizona\'s offensive rebounding takes over. Krivas and Awaka combine for 7 offensive boards in the half, generating 10 second-chance points. Bradley hits a pull-up three to extend the lead to 8. But Acuff refuses to let it get away — he drives into the teeth of Arizona\'s defense and draws fouls, going 5-of-6 from the line. Brazile hits a corner three to cut it to 5. Halftime: Arizona 38, Arkansas 33. Arizona is shooting just 41% but winning the rebounding battle 22-13.',
+      },
+      {
+        title: 'Second Half — Acuff Takes Over',
+        description: 'Calipari adjusts at halftime — Arkansas switches to smaller, faster lineups to push pace. It works. Acuff scores 10 points in a four-minute stretch: a pull-up three, a driving layup through Krivas, and four free throws after drawing contact. Thomas hits back-to-back threes. Arkansas ties it at 52. Lloyd calls timeout. Burries answers with a transition layup. Peat converts an and-one. The lead seesaws — five lead changes in four minutes. With 8 minutes left, it\'s 60-58 Arizona.',
+      },
+      {
+        title: 'Final 8 Minutes — Lloyd\'s Wall or Calipari\'s Experience?',
+        description: 'This is where the game is won and lost. Krivas fouls out with 4:30 remaining after picking up his fifth on a charge call — a huge moment. Without their 7-2 anchor, Arizona\'s interior defense softens. Acuff attacks the rim for two quick baskets. But Bradley, the veteran, responds with a step-back three. Peat grabs a critical offensive rebound with 90 seconds left. Arizona\'s free throw shooting (69% vs. Utah State) becomes an issue — Peat misses the front end of a one-and-one. Acuff drives, gets fouled, and sinks both. It\'s a one-possession game in the final minute. Arizona\'s depth and size have kept them in front — barely — but Arkansas has the best closer in the tournament.',
+      },
+    ],
+    projectedScore: {
+      teamA: 74,
+      teamB: 78,
+      rationale: 'Arizona\'s rebounding advantage and interior dominance create just enough separation to survive Acuff\'s brilliance. The Wildcats\' depth, size, and defensive identity make the difference in a game that goes down to the final two minutes. Lloyd finally breaks through the Sweet 16 wall — but barely. Arkansas\'s three-point shooting keeps it close, and Acuff finishes with 28+ points, but Arizona\'s 15+ offensive rebounds are the quiet stat that decides it.',
+    },
+  },
+  players: [
+    {
+      team: 'a',
+      name: 'Darius Acuff Jr.',
+      stats: '23.3 PPG • 6.5 APG • .445 3P% • 36 pts vs High Point',
+      meta: 'G • 6-3 • Freshman • SEC POY • AP First-Team All-American',
+      bio: 'The best freshman in the country is playing like the best <em>player</em> in the country. Scored <strong>36 points against High Point</strong> — the most by a Razorback in NCAA Tournament history — going 11-of-13 from the line while breaking Todd Day\'s single-season scoring record. Had <strong>24 points and 7 assists</strong> against Hawaii before that. Season totals: <strong>817 points and 229 assists</strong>, both program single-season records. Scored 49 against Alabama. SEC Tournament MVP. ESPN calls him "the best player in this postseason." Calipari says he\'s better than Derrick Rose and John Wall. Against Arizona\'s elite defense, this is the ultimate test of a generational talent.<br><a href="https://www.espn.com/mens-college-basketball/player/_/id/5082173/darius-acuff-jr" target="_blank">Read more &rarr;</a>',
+    },
+    {
+      team: 'a',
+      name: 'Meleek Thomas',
+      stats: '15.6 PPG • .421 3P% • 21 pts vs Hawaii • 19 pts vs High Point',
+      meta: "G • 6-5 • Freshman • McDonald's All-American",
+      bio: 'The second half of Arkansas\'s five-star freshman backcourt. Scored <strong>21 points with 8 rebounds against Hawaii</strong> and <strong>19 points (3-of-5 from three) against High Point</strong>. Combined with Acuff for <strong>100 points in two tournament games</strong>. Pittsburgh native who chose Arkansas over Pitt and UConn. A lockdown defender who can also score 20 on any given night. Calipari on the duo: <em>"They have otherworldly confidence."</em>',
+    },
+    {
+      team: 'a',
+      name: 'Trevon Brazile',
+      stats: '13.2 PPG • 7.4 RPG • 1.6 BPG • 19 pts vs Hawaii',
+      meta: 'F • 6-10 • Senior • SEC Championship Hero',
+      bio: 'The breakout senior having the year of his career. Had <strong>19 points and 3 blocks against Hawaii</strong>, then <strong>hit a critical corner three</strong> after taking a hard fall against High Point. Earlier in the year, he hit <strong>back-to-back clutch threes</strong> to seal the SEC Championship over Vanderbilt. Three straight 20+ games against Auburn, Alabama, and Missouri. At 6-10, he\'s Arkansas\'s best answer to Arizona\'s size — but he\'ll need to match the physicality of Peat and Awaka without fouling.',
+    },
+    {
+      team: 'a',
+      name: 'Malique Ewin',
+      stats: '9.9 PPG • 5.7 RPG • .591 FG% • 14/12 vs High Point',
+      meta: 'C • 6-10 • Senior • Interior Anchor',
+      bio: 'The man tasked with guarding Motiejus Krivas. Transfer path: Ole Miss to South Plains CC to Florida State (led ACC in FG%) to Arkansas. Had a <strong>16-point, 12-rebound double-double against Hawaii</strong> and <strong>14 points, 12 rebounds against High Point</strong> — back-to-back double-doubles in the tournament. Shoots .591 from the field. But Krivas is 7-2, 260 and had 14 rebounds against Utah State. This is the toughest matchup of Ewin\'s career.',
+    },
+    {
+      team: 'b',
+      name: 'Jaden Bradley',
+      stats: '13.1 PPG • 4.5 APG • .404 3P% • 18 pts vs Utah State',
+      meta: 'G • 6-3 • Senior • Big 12 Player of the Year',
+      bio: 'The ultimate redemption story. Five-star who started at Alabama, fell out of the rotation, transferred to Arizona, spent a year as a reserve — and is now the <strong>Big 12 Player of the Year and a Third-Team All-American</strong>. Scored <strong>12 of his 18 points in the second half against Utah State</strong> when the lead was shrinking. Shoots 40.4% from three. The steady veteran guiding three elite freshmen through March. <em>"Arizona turned my career around."</em> Against Acuff, this is a battle of the two best guards left in the West Region.',
+    },
+    {
+      team: 'b',
+      name: 'Brayden Burries',
+      stats: '16.0 PPG • 4.7 RPG • .367 3P% • 18 pts vs LIU • 16 pts vs USU',
+      meta: 'G • 6-4 • Freshman • Big 12 Newcomer of the Year • Projected Top-10 Pick',
+      bio: 'Five-star from California who scored 44 to win the state championship. <strong>18 points on 4-of-5 from three</strong> against LIU, then <strong>16 points and 9 rebounds</strong> against Utah State. Projected <strong>top-10 pick in the 2026 NBA Draft</strong>. Played through bronchitis to clinch the Big 12 title. Two tournament games, two dominant performances. Now faces Meleek Thomas in a freshman vs. freshman perimeter showdown that could define the game.',
+    },
+    {
+      team: 'b',
+      name: 'Motiejus Krivas',
+      stats: '10.4 PPG • 8.0 RPG • 1.8 BPG • 14 reb vs Utah State',
+      meta: 'C • 7-2 • Junior • First-Team All-Big 12 • First-Round NBA Prospect',
+      bio: 'The <strong>7-2, 260-pound Lithuanian center</strong> who may be the most physically imposing player in the tournament. Had <strong>11 points, 14 rebounds (9 offensive), and 3 blocks against Utah State</strong>. Grabbed 6 rebounds in a crucial three-minute stretch when the lead was shrinking. 4 blocks vs. LIU. First-Team All-Big 12 and All-Defensive Team. His presence alone changes how Arkansas can attack the rim — and his offensive rebounding creates extra possessions Arizona desperately needs when shots aren\'t falling.',
+    },
+    {
+      team: 'b',
+      name: 'Koa Peat',
+      stats: '13.7 PPG • 5.4 RPG • 15 pts vs LIU • 14/10 vs Utah State',
+      meta: 'F • 6-8 • Freshman • USA Basketball Gold Medalist',
+      bio: 'His name means <strong>"strong warrior" in Hawaiian</strong>. Son of former NFL guard Todd Peat. The first player in USA Basketball history to win four junior gold medals. Scored <strong>30 in his college debut</strong> against defending champion Florida. Had <strong>15 points and 7 rebounds vs. LIU</strong>, then a <strong>14-point, 10-rebound double-double vs. Utah State</strong>. Back-to-back excellent tournament games. His versatility at 6-8 — scoring, passing, rebounding — gives Arizona a matchup advantage against every Arkansas forward. The weakness: <strong>59.7% free throw shooting</strong>, which Arkansas should exploit.',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '🏆',
+      title: 'Championship Collision Course',
+      body: 'This is a matchup of <strong>two national championship programs</strong>. Arkansas won the title in <strong>1994</strong> (beating Duke 76-72) under Nolan Richardson\'s "40 Minutes of Hell." Arizona won in <strong>1997</strong> (beating three #1 seeds) under Lute Olson. Only one other Sweet 16 matchup this year features two programs with a national championship.',
+    },
+    {
+      emoji: '🏀',
+      title: 'The 1994 Final Four Connection',
+      body: 'The last time these two met in the NCAA Tournament, <strong>Arkansas beat Arizona 91-82 in the 1994 Final Four</strong> in Charlotte. Corliss Williamson had 29 points and 13 rebounds. Arizona\'s star guards Damon Stoudamire and Khalid Reeves went a combined <strong>11-of-43 from the field</strong>. Arkansas went on to win the national championship.',
+    },
+    {
+      emoji: '📊',
+      title: '30 Years Between Games',
+      body: 'Arkansas and Arizona haven\'t played each other since <strong>November 17, 1995</strong> — over 30 years ago — when Arizona won 83-73 in the Preseason NIT. Arkansas leads the all-time series <strong>6-2</strong>. Five of the eight meetings were in the 1990s. This Sweet 16 game is their first meeting in three decades.',
+    },
+    {
+      emoji: '🔥',
+      title: '36 Points and a Broken Record (Arkansas)',
+      body: 'Darius Acuff scored <strong>36 points against High Point</strong> — the most by a Razorback in NCAA Tournament history. He went 11-of-13 from the free throw line and <strong>broke Todd Day\'s single-season scoring record</strong> from 1990-91. He now owns the program records for points (817) and assists (229) in a season.',
+    },
+    {
+      emoji: '💪',
+      title: '54-26 on the Glass (Arizona)',
+      body: 'Arizona out-rebounded Utah State <strong>54-26</strong> — a staggering 28-board advantage. They had <strong>22 offensive rebounds</strong> leading to 21 second-chance points. Tommy Lloyd called offensive rebounding "a key component to our success." Arkansas was outrebounded by High Point 36-37. The glass could decide this game.',
+    },
+    {
+      emoji: '🧱',
+      title: 'Lloyd\'s Sweet 16 Wall (Arizona)',
+      body: 'Tommy Lloyd is <strong>0-3 in the Sweet 16</strong> — losing in 2022, 2024, and 2025 despite having top seeds. He has the most wins through five seasons of any coach in NCAA history (145+), but the Sweet 16 has been his ceiling. Meanwhile, Calipari is making his <strong>17th Sweet 16 appearance</strong> and has reached six Final Fours.',
+    },
+    {
+      emoji: '🐗',
+      title: '"Woo, Pig! Sooie!" (Arkansas)',
+      body: 'Arkansas\'s "Calling the Hogs" chant dates to the 1920s and is one of the most recognizable traditions in college sports. In 2014, the university <strong>trademarked the sound itself</strong> (Registration No. 4,558,864). The live mascot "Tusk" is a Russian boar cared for on a farm near Dardanelle.',
+    },
+    {
+      emoji: '🇱🇹',
+      title: 'The Lithuanian Giant (Arizona)',
+      body: 'Motiejus Krivas is <strong>7-2, 260 pounds from Siauliai, Lithuania</strong>. He was recruited through Tommy Lloyd\'s Gonzaga international pipeline — Lloyd spent 22 years at Gonzaga building international recruiting networks. Krivas had <strong>9 offensive rebounds</strong> against Utah State. His father was a professional basketball player in Lithuania.',
+    },
+    {
+      emoji: '👨‍👦',
+      title: 'The Calipari Legacy Player (Arkansas)',
+      body: 'Billy Richmond III\'s <strong>father Billy Jr. played for Calipari at Memphis</strong> (2002-04). Now Billy III is contributing <strong>15 points and 10 rebounds</strong> off the bench in the High Point win. The family connection to Calipari spans two decades and two programs.',
+    },
+    {
+      emoji: '🇭🇼',
+      title: '"Strong Warrior" (Arizona)',
+      body: 'Koa Peat\'s name means <strong>"strong warrior" in Hawaiian</strong> — he\'s of Native Hawaiian descent through his mother. Son of former NFL guard Todd Peat. Youngest of seven children. <strong>First player in USA Basketball history to win four junior international gold medals.</strong> Committed to Arizona on The Pat McAfee Show.',
+    },
+    {
+      emoji: '😈',
+      title: '40 Minutes of Hell Meets the Lloyd Machine',
+      body: 'In 1994, Nolan Richardson\'s <strong>"40 Minutes of Hell"</strong> smothered Arizona in the Final Four. Now, 32 years later, the programs meet again in the tournament. A <strong>statue honoring Richardson</strong> is being built outside Bud Walton Arena in 2026 — while Lloyd is trying to build his own legacy by finally breaking through the Sweet 16.',
+    },
+    {
+      emoji: '🏟️',
+      title: 'Neutral Site in the Bay (SAP Center)',
+      body: 'The SAP Center in San Jose seats <strong>18,543 for basketball</strong>. It\'s home to the NHL\'s San Jose Sharks. Tucson to San Jose is about 700 miles; Fayetteville to San Jose is about 1,700 miles. Arizona will have a <strong>significant crowd advantage</strong> — and being the 1-seed doesn\'t hurt either.',
+    },
+  ],
+  history: {
+    callout:
+      'This is a matchup dripping with history. Arkansas (<strong>1994 national champions</strong>) and Arizona (<strong>1997 national champions</strong>) are two of only 37 programs to have won an NCAA title. They\'ve played eight times — Arkansas leads <strong>6-2</strong> — including a <strong>1994 Final Four semifinal</strong> that Arkansas won 91-82 on its way to the championship. They haven\'t played in over 30 years. Now they meet with an Elite Eight on the line.',
+    subsections: [
+      {
+        title: 'Head-to-Head: A 1990s Rivalry Renewed',
+        type: 'timeline' as const,
+        content: '',
+        timeline: [
+          {
+            date: '1990',
+            text: 'Arkansas and Arizona meet during a stretch of frequent games in the early 1990s. Five of their eight all-time meetings take place in this decade.',
+          },
+          {
+            date: '1994 — Final Four',
+            text: '<strong>Arkansas 91, Arizona 82</strong> in the national semifinal at Charlotte. <strong>Corliss Williamson: 29 points, 13 rebounds.</strong> Arizona\'s star guards Damon Stoudamire and Khalid Reeves combined to shoot just 11-of-43. Arkansas went on to beat Duke for the national championship two days later. This remains the only NCAA Tournament meeting between the programs — until now.',
+          },
+          {
+            date: '1995',
+            text: 'Arizona wins <strong>83-73</strong> in the Preseason NIT — the last time these two programs played. Over 30 years ago.',
+          },
+          {
+            date: '2026 — Sweet 16',
+            text: '#4 Arkansas (28-8) faces #1 Arizona (34-2) at SAP Center in San Jose. Arkansas leads the all-time series 6-2. Both programs have won national championships. Both are coached by men with something to prove.',
+          },
+        ],
+      },
+      {
+        title: 'Two Championship Programs, Two Eras of Dominance',
+        type: 'card' as const,
+        content:
+          '<p><strong>Arkansas, 1994:</strong> Nolan Richardson\'s "40 Minutes of Hell" was the most relentless system in college basketball — full-court pressure for the entire game. In the championship, Scotty Thurman\'s three-pointer with 52 seconds left beat Duke 76-72. Corliss Williamson was the Final Four MVP. It remains Arkansas\'s only national title. A statue honoring Richardson is being built outside Bud Walton Arena in 2026.</p><p style="margin-top:.5rem;"><strong>Arizona, 1997:</strong> Lute Olson\'s Wildcats became the <strong>only team ever to beat three No. 1 seeds in a single tournament</strong> — Kansas, North Carolina, and Kentucky (84-79 in OT in the championship). Miles Simon was the Final Four MVP. The team had no seniors among its top eight players. Sound familiar? Arizona\'s 2026 team also relies heavily on underclassmen — three freshman starters — and is chasing its first title since that legendary run.</p>',
+      },
+      {
+        title: 'Calipari vs. Lloyd: A Study in Contrasts',
+        type: 'card' as const,
+        content:
+          '<p><strong>John Calipari</strong> has <strong>905 career wins</strong>, a Naismith Hall of Fame induction (2015), a national championship (2012 at Kentucky), and 17 Sweet 16 appearances. He pioneered the "one-and-done" model. After being pushed out of Kentucky, he rebuilt Arkansas into SEC champions in two years. His teams have been upset by mid-majors (Saint Peter\'s 2022, Oakland 2024) but have also reached six Final Fours. He\'s 66 years old and coaching with the urgency of a man proving his doubters wrong.</p><p style="margin-top:.5rem;"><strong>Tommy Lloyd</strong> has <strong>145+ wins in five seasons</strong> — the most for any NCAA coach in history at the same point. He spent 22 years as Mark Few\'s assistant at Gonzaga before taking over at Arizona. He\'s taken the Wildcats to four Sweet 16s in five years — but he\'s <strong>0-3 in the Sweet 16</strong>. This is his best team ever: 34-2, the #1 overall seed, three lottery picks. If he can\'t break through now, the narrative becomes a permanent stain on an otherwise brilliant career.</p>',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Arkansas',
+      links: [
+        { label: 'Whole Hog Sports — Arkansas Outlasts High Point, Advances to Sweet 16', url: 'https://www.wholehogsports.com/news/2026/mar/21/arkansas-high-point-basketball-ncaa-tournament-march-madness-score-live-update-john-calipari-razorbacks-darius-acuff/' },
+        { label: 'ESPN — Arkansas 94-88 High Point Final Score', url: 'https://www.espn.com/mens-college-basketball/game/_/gameId/401856536/high-point-arkansas' },
+        { label: 'NBA.com — Acuff Scores 36 to Lift Arkansas Over High Point', url: 'https://www.nba.com/news/ncaa-tournament-2026-arkansas-vs-highpoint' },
+        { label: 'Arkansas Athletics — Hogs Survive High Point', url: 'https://arkansasrazorbacks.com/hogs-survive-high-point-advance-to-sweet-16/' },
+        { label: 'Whole Hog Sports — Acuff\'s Otherworldly Confidence', url: 'https://www.wholehogsports.com/news/2026/mar/22/arkansas-basketballs-darius-acuff-shows-otherworldly-confidence-ability-in-ncaa-tournament-win-over-high-point/' },
+        { label: 'Whole Hog Sports — Arkansas vs Arizona Sweet 16 Preview', url: 'https://www.wholehogsports.com/news/2026/mar/22/arkansas-basketball-vs-arizona-in-ncaa-tournament-sweet-16-how-to-watch-and-listen-game-time-team-stats/' },
+        { label: 'SI — Scouting Report: Arkansas Faces Size Test vs Arizona', url: 'https://www.si.com/college/arkansas/men-s-basketball/scouting-report-razorbacks-face-test-arizona-wildcats-sweet-16-acuff-calipari' },
+        { label: 'ESPN — Acuff 49 Points vs Alabama', url: 'https://www.espn.com/mens-college-basketball/story/_/id/47972538/arkansas-darius-acuff-jr-49-points-nearly-delivers-2ot-win' },
+        { label: 'CBS Sports — Acuff Best Freshman Guard Calipari Coached', url: 'https://www.cbssports.com/college-basketball/news/college-basketball-darius-acuff-jr-arkansas-basketball-best-freshmen-guard-john-calipari-has-coached/' },
+        { label: 'Arkansas Athletics — SEC Tournament Champions', url: 'https://arkansasrazorbacks.com/sec-champs-hogs-win-first-sec-tournament-since-2000/' },
+        { label: 'Sports Reference — 2025-26 Arkansas Stats', url: 'https://www.sports-reference.com/cbb/schools/arkansas/men/2026.html' },
+        { label: 'ESPN — Sweet 16 Preview: Keys to Advancing', url: 'https://www.espn.com/mens-college-basketball/story/_/id/48289381/mens-sweet-16-preview-keys-advance-ncaa-tournament-2026' },
+        { label: 'HogStats — Arkansas vs Arizona Series History', url: 'https://www.hogstats.com/seriesresults.php?opponent=Arizona' },
+        { label: 'Wikipedia — 1994 NCAA Tournament', url: 'https://en.wikipedia.org/wiki/1994_NCAA_Division_I_men%27s_basketball_tournament' },
+      ],
+    },
+    {
+      heading: 'Arizona',
+      links: [
+        { label: 'AZ Desert Swarm — Arizona Holds Off Utah State Recap', url: 'https://www.azdesertswarm.com/basketball/77575/arizona-wildcats-utah-state-aggies-ncaa-tournament-recap-final-score-stats-highlights-sandiego-2026' },
+        { label: 'ESPN — Arizona 78-66 Utah State Final Score', url: 'https://www.espn.com/mens-college-basketball/game/_/gameId/401856565/utah-state-arizona' },
+        { label: 'Tucson.com — Krivas Helps Arizona Hold Off Utah State', url: 'https://tucson.com/sports/college/basketball/wildcats/men/article_a01bd4bf-5444-4839-a1ef-19876c9cd7c3.html' },
+        { label: 'AZ Desert Swarm — Sweet 16 Tip Time, Odds vs Arkansas', url: 'https://www.azdesertswarm.com/basketball/77585/arizona-wildcats-ncaa-tournament-arkansas-razorbacks-sweet16-tv-info-channel-odds-fanduel-2026-tommy-lloyd-john-calipari' },
+        { label: 'SI — Previewing Arizona vs Arkansas Sweet 16', url: 'https://www.si.com/college/arizona/wildcats-previewing-arkansas-before-sweet-16-showdown' },
+        { label: 'Arizona Sports — Arizona-Arkansas Sweet 16 Tip Time Set', url: 'https://arizonasports.com/ncaa/uofa-basketball/arizona-sweet-16/3615372/' },
+        { label: 'Deseret News — Utah State vs Arizona Analysis', url: 'https://www.deseret.com/sports/2026/03/22/analysis-utah-state-arizona-ncaa-tournament-mens-basketball/' },
+        { label: 'Arizona Athletics — Topples LIU in Opening Round', url: 'https://arizonawildcats.com/news/2026/3/20/mens-basketball-moving-on-arizona-topples-liu-in-opening-round-of-ncaa-tournament.aspx' },
+        { label: 'Tucson.com — Jaden Bradley\'s Long Road', url: 'https://tucson.com/sports/subscriber/article_9834a534-5ce0-49fa-beb4-528956929a64.html' },
+        { label: 'Sports Reference — 2025-26 Arizona Stats', url: 'https://www.sports-reference.com/cbb/schools/arizona/men/2026.html' },
+        { label: 'Wikipedia — Tommy Lloyd', url: 'https://en.wikipedia.org/wiki/Tommy_Lloyd' },
+        { label: 'Wikipedia — Arizona Wildcats Basketball', url: 'https://en.wikipedia.org/wiki/Arizona_Wildcats_men%27s_basketball' },
+        { label: 'Arizona Wildcats — Series History vs Arkansas', url: 'https://arizonawildcats.com/sports/mens-basketball/opponent-history/university-of-arkansas/187' },
+        { label: 'FOX Sports — Arkansas vs Arizona Sweet 16 Live Score', url: 'https://www.foxsports.com/college-basketball/ncaa-tournament-sweet-16-arkansas-razorbacks-vs-arizona-wildcats-mar-26-2026-game-boxscore-264120' },
+      ],
+    },
+  ],
+  footerText: 'Casual Fan Viewing Guide • Arkansas vs Arizona • NCAA Sweet 16 • March 26, 2026',
+}
+
+export default game

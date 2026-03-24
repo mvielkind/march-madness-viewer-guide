@@ -1,0 +1,343 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'alabama-vs-michigan-2026',
+  title: 'Alabama vs Michigan — Sweet 16 Viewing Guide',
+  eventTag: 'NCAA Tournament • Sweet 16 • Chicago, IL',
+  date: 'Friday, March 27, 2026 • 7:35 PM ET',
+  round: 'Sweet 16',
+  tipTime: '2026-03-27T19:35',
+  venue: 'United Center, Chicago, Illinois • TBS/truTV',
+  extraInfo: 'Winner advances to the <strong>Elite Eight</strong> on Sunday in Chicago',
+  teams: [
+    {
+      name: 'Alabama',
+      mascot: 'Crimson Tide',
+      seed: '#4 Seed',
+      record: '25-9 • Beat Texas Tech 90-65',
+      colors: { primary: '#9E1B32', secondary: '#FFFFFF', name: 'alabama' },
+      className: 'alabama',
+    },
+    {
+      name: 'Michigan',
+      mascot: 'Wolverines',
+      seed: '#1 Seed',
+      record: '33-3 • Beat Saint Louis 95-72',
+      colors: { primary: '#00274C', secondary: '#FFCB05', name: 'michigan' },
+      className: 'michigan',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'The <strong>#1 scoring team in America (91.7 PPG)</strong> against the <strong>#1 defense in America</strong>. Alabama made <strong>19 three-pointers</strong> to destroy Texas Tech by 25 — the largest 4-vs-5 margin in tournament history. Michigan\'s Yaxel Lendeborg came back from a bum ankle to score 25 and dismantle Saint Louis. Alabama is playing without <strong>Aden Holloway</strong>, arrested on drug charges days before the tournament. Michigan went from <strong>8-24 to 33-3 in two years</strong> under Dusty May. This is the unstoppable force versus the immovable object — except both just proved they\'re real in the first weekend. Michigan is favored by 10.5.',
+    cards: [
+      {
+        label: 'For Alabama',
+        value:
+          'A <strong>fourth consecutive Sweet 16</strong> and a shot at a third straight Elite Eight. Nate Oats has joined Houston\'s Kelvin Sampson as the only coaches with four straight Sweet 16s. They scored 90 in both tournament games — <strong>without</strong> their second-leading scorer Aden Holloway (16.8 PPG, arrested). Latrell Wrightsell Jr. exploded for 24 against Texas Tech. Philon had a near triple-double (9 pts, 12 ast, 6 reb). This team has <strong>436 three-pointers this season — 5th most in NCAA history</strong>. They believe they can shoot anyone out of the gym.',
+      },
+      {
+        label: 'For Michigan',
+        value:
+          'The <strong>greatest turnaround in college basketball history</strong> continues. From 8-24 (last in the Big Ten) to 33-3 and a #1 seed in two years. Dusty May — who took FAU to the Final Four in 2023 — has built the <strong>best defense in America</strong>. Lendeborg\'s ankle looks healthy after his 25-point explosion against Saint Louis. Mara is one block from Michigan\'s all-time season record. They scored 95+ in consecutive tournament games — a program first. A national championship is the only destination that matches the story.',
+      },
+      {
+        label: 'The Unstoppable Force vs. Immovable Object',
+        value:
+          'Alabama leads the nation in three-pointers made per game, three-point attempts per game, and three-point attempt rate. They hit 19 threes against Texas Tech at 45.2%. Michigan holds the <strong>#1 KenPom defensive efficiency</strong> and a +39.43 KenPom rating — the <strong>second-highest of all time</strong>, behind only 1999 Duke. Something has to give. Either Alabama shoots Michigan out of the gym, or Michigan\'s defense makes Alabama look mortal.',
+      },
+      {
+        label: 'The Holloway Shadow',
+        value:
+          'Aden Holloway — 16.8 PPG, 43.8% from three — was arrested for felony drug possession days before the tournament. Alabama has gone <strong>2-0 without him</strong>, scoring 90 in both games. Wrightsell (who returned from an Achilles injury) and Houston Mallette (Pepperdine transfer, 5-of-7 from three vs. Texas Tech) have filled the void. But Michigan is a different animal than Hofstra or Texas Tech. Can Alabama\'s depth hold against the best team in America?',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Three-Point Tsunami, Pace, and Chaos',
+      bullets: [
+        '<strong>The nation\'s #1 scoring team:</strong> Alabama averages <strong>91.7 PPG</strong> and has scored 90+ in <strong>22 games this season</strong> — the most in the country by five. They rank <strong>10th in KenPom offensive efficiency</strong>. Against Texas Tech, they led 49-25 at halftime. Against Hofstra, Philon scored 21 in the second half to break it open. This offense is relentless.',
+        '<strong>Three-point volume is historic:</strong> Alabama leads the nation in three-pointers made, attempted, and attempt rate. They\'ve made <strong>436 threes this season (5th in NCAA history)</strong>. Against Texas Tech, they went <strong>19-of-42 (45.2%)</strong> — the third-most threes in a single NCAA Tournament game ever. Seven different players hit a three. You can\'t just guard one guy.',
+        '<strong>Philon creates for everyone:</strong> Labaron Philon scored 29 against Hofstra, then pivoted to a <strong>9-point, 12-assist, 6-rebound</strong> near triple-double against Texas Tech. He\'s a projected lottery pick who can score 30 or dish 12 assists depending on what the defense gives him. The All-American is the engine of everything.',
+        '<strong>Wrightsell and Mallette have filled Holloway\'s void:</strong> Wrightsell (24 pts, 6 threes vs. Texas Tech) and Mallette (15 pts, 5 threes vs. Texas Tech) have combined to replace Holloway\'s production. Alabama may actually have <strong>more three-point depth</strong> now — just with less proven reliability over a full season.',
+        '<strong>Weakness — defense remains suspect:</strong> Alabama allows <strong>83.1 PPG (346th of 365 teams)</strong> and ranks among the worst in defensive rebounding (356th, allowing 39.8 RPG). They held Texas Tech to 34% shooting, but Tech was missing JT Toppin and went 4-of-25 from three. Michigan is a different caliber opponent entirely.',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'The Best Defense in America, Elite on Both Ends',
+      bullets: [
+        '<strong>Historic two-way dominance:</strong> Michigan\'s KenPom rating of <strong>+39.43 is the second-highest of all time</strong>, trailing only 1999 Duke. They\'re <strong>#1 in defense, #8 in offense, #2 overall</strong>. They score 86.8 PPG while suffocating opponents. This is one of the most complete teams in modern college basketball history.',
+        '<strong>Lendeborg is back:</strong> After scoring just 9 against Howard on a healing ankle, Yaxel Lendeborg exploded for <strong>25 points on 9-of-13 shooting against Saint Louis</strong> — with zero turnovers. He became the first Michigan player with 25+ points and no turnovers in an NCAA Tournament game since Glen Rice in 1989. The Big Ten Player of the Year is healthy and dangerous.',
+        '<strong>Mara changes the geometry:</strong> Aday Mara\'s <strong>7-foot-3 frame and 96 blocks (one from the program record)</strong> alter every possession near the rim. The Big Ten Defensive Player of the Year had 16 points, 5 rebounds, and 4 blocks against Saint Louis. Alabama\'s guards will think twice about driving.',
+        '<strong>Depth is overwhelming:</strong> All five starters scored in double figures against Saint Louis — Lendeborg (25), Mara (16), Johnson (15), Cadeau (12), Burnett (11). The bench adds McKenney (Mr. Basketball of Michigan) and Gayle (14 pts in 1st half vs. Howard). Michigan scored <strong>95+ in consecutive tournament games — a program first</strong>.',
+        '<strong>Vulnerability — perimeter defense:</strong> Michigan allowed <strong>14 three-pointers to Howard</strong>, a 33% three-point shooting team. Saint Louis (40.1% from three) was held to 31% — a good sign. But Alabama\'s three-point attack is on a different level. If the perimeter switches break down the way they did against Howard, Alabama will make them pay.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'Alabama\'s three-point barrage vs. Michigan\'s #1 defense — the entire game in one matchup.',
+      description:
+        'Alabama made 19 threes against Texas Tech and leads the nation in every three-point category. Michigan has the #1 defensive efficiency in America. In the tournament, Michigan allowed Howard (a 33% three-point team) to hit 14 threes, then held Saint Louis (a 40% team) to 31%. Which version of Michigan\'s perimeter defense shows up? If Alabama gets the Howard version — open looks off broken switches — they can shoot Michigan out of the building. If they get the Saint Louis version — locked-in rotations and contested shots — Alabama\'s offense stalls and the Tide have no defensive floor to fall back on.',
+    },
+    {
+      title: 'Can Alabama\'s guards survive Aday Mara\'s 7-3 rim protection?',
+      description:
+        'Alabama scored 66 points in the paint over two tournament games. Michigan\'s Aday Mara has 96 blocks this season — one from the program record — and his 7-3 frame changes everything at the rim. In Alabama\'s losses this season, the pattern is clear: when teams out-rebound them (Purdue won the boards 52-28, Gonzaga had a double-digit rebounding edge), Alabama loses. Michigan outrebounded Saint Louis 42-27. If Philon and Wrightsell can\'t get to the rim, Alabama becomes entirely dependent on the three — and even the best shooting teams go cold.',
+    },
+    {
+      title: 'Philon the scorer vs. Philon the facilitator — which version shows up?',
+      description:
+        'Against Hofstra, Philon scored 29 (21 in the second half). Against Texas Tech, he scored just 9 but dished a career-high 12 assists. The projected lottery pick reads defenses and adjusts — but Michigan\'s defense is the best he\'s faced all season. If Michigan loads up to stop Philon\'s scoring, can Wrightsell and Mallette continue their Texas Tech heroics? If Michigan plays straight-up, can Philon get 25+ against the nation\'s best? Philon\'s ability to toggle between modes is Alabama\'s biggest weapon.',
+    },
+    {
+      title: 'The rebounding gap could end this early.',
+      description:
+        'Alabama allows 39.8 rebounds per game — <strong>356th nationally</strong>. They gave up 12 offensive rebounds to Texas Tech in the first half alone. Michigan outrebounded Saint Louis 42-27 and has Mara (7-3), Johnson (8 RPG vs. SLU), and Lendeborg on the glass. In Alabama\'s 9 losses, the opponent dominated the boards nearly every time. If Michigan controls the glass, they get second chances on offense and limit Alabama\'s transition opportunities — which is where the Tide\'s offense is most dangerous.',
+    },
+    {
+      title: 'Alabama\'s defense improved at the right time — is it real?',
+      description:
+        'The Crimson Tide held Texas Tech to 34% shooting and 4-of-25 from three — their best defensive performance of the season. Wrightsell locked down All-American Christian Anderson (2-of-11, 7 points). Defensive coordinator Brian Adams drew praise from Oats for an "unbelievable great game plan." But Texas Tech was missing JT Toppin and shot historically poorly. Michigan has Lendeborg (25 pts on 9-of-13 vs. SLU), Mara (16 pts), Johnson (15 pts), Cadeau (12 pts), and Burnett (11 pts). That\'s five double-figure scorers against a defense ranked 346th. The Texas Tech game might have been a mirage.',
+    },
+  ],
+  prediction: {
+    summary: 'Michigan is the better team — KenPom says so, Vegas says so (10.5-point favorite), and the eye test confirms it. The Wolverines have the best defense in America, a healthy Lendeborg, a 7-3 rim protector in Mara, and five starters who all scored in double figures last game. Alabama\'s path is simple: make threes. Lots of them. The Tide hit 19 against Texas Tech and lead the nation in every three-point category. If Alabama shoots 40%+ from deep and pushes pace, they can hang with anyone. But Michigan is not Texas Tech. Mara changes the paint, the perimeter defense tightened up against Saint Louis, and Michigan\'s rebounding advantage should limit Alabama\'s second chances and transition points. Alabama will make a run — they always do — but Michigan\'s depth, defense, and composure should carry them through.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes — Alabama Comes Out Firing',
+        description: 'Alabama pushes pace from the jump. Wrightsell hits an early three — he\'s riding the high of his 24-point game. Philon finds Mallette for another. Alabama leads early, and the United Center crowd buzzes. But Mara blocks a Sherrell layup attempt, and Michigan settles in defensively. Lendeborg attacks the paint and Cadeau finds Johnson cutting. Michigan takes a 2-point lead as the first TV timeout hits.',
+      },
+      {
+        title: 'Mid-First Half Through Halftime — Michigan\'s Defense Takes Hold',
+        description: 'Michigan\'s perimeter defense — cleaned up since the Howard debacle — starts contesting Alabama\'s three-point looks. The Tide go 2-of-8 from three over a 6-minute stretch. Mara\'s 7-3 shadow discourages drives, and Alabama settles for tough contested jumpers. Johnson and Mara dominate the glass. Lendeborg hits a pull-up three and Burnett adds one off the bench. Michigan leads 38-30 at halftime. Alabama\'s defense, surprisingly, keeps it closer than expected — but their offense can\'t find rhythm against the #1 defense.',
+      },
+      {
+        title: 'Second Half — Alabama Makes Its Run',
+        description: 'Alabama hasn\'t scored 90 in 22 games by accident. Philon switches to scoring mode — a step-back three, a driving floater over Mara, and a transition layup. Wrightsell hits another three. A 12-3 Alabama run cuts the lead to 1. The United Center is electric. Michigan calls timeout. May goes to a zone for two possessions, disrupting Alabama\'s rhythm. Mara gets a block, Johnson a putback. The Wolverines stabilize and push the lead back to 7.',
+      },
+      {
+        title: 'Final 8 Minutes — Michigan\'s Championship DNA',
+        description: 'Alabama needs threes to stay alive — and Michigan\'s defense forces contested looks. Philon gets to the line and converts twice, but Lendeborg answers with a mid-range jumper. Cadeau controls tempo, eating clock and making Alabama foul. Michigan\'s free throw shooting (70% on the season) holds up. Sherrell grabs an offensive board and scores to cut it to 5 with 2 minutes left, but Mara seals it with a dunk off a Cadeau feed. Michigan\'s road-tested composure (10-0 in Big Ten road games) carries them through. Alabama goes down swinging — they always do — but the best defense in America proves too much.',
+      },
+    ],
+    projectedScore: {
+      teamA: 72,
+      teamB: 81,
+      rationale: 'Michigan\'s elite defense, rebounding advantage, and healthy Lendeborg prove to be the difference. Alabama\'s three-point shooting keeps it competitive — Philon and Wrightsell combine for 35+ — but Michigan\'s interior dominance and depth wear the Tide down over 40 minutes. The 10.5-point spread is about right.',
+    },
+  },
+  players: [
+    {
+      team: 'a',
+      name: 'Labaron Philon Jr.',
+      stats: '22.0 PPG • 4.8 APG • 3.4 RPG • .402 3P%',
+      meta: 'G • 6-4 • Sophomore • AP All-America Third Team, Projected Lottery Pick',
+      bio: 'From Mobile, Alabama (Baker HS). <strong>Alabama Mr. Basketball</strong> who averaged 35 PPG as a high school junior. Withdrew from the 2025 NBA Draft to return — and became an All-American. Tournament so far: <strong>29 points against Hofstra</strong> (21 in the second half, set Alabama\'s sophomore scoring record), then a <strong>9-point, 12-assist, 6-rebound</strong> near triple-double against Texas Tech when teammates got hot. The projected lottery pick reads the game and adjusts — scorer one night, facilitator the next. The most talented player on either team.<br><a href="https://www.si.com/college/alabama/basketball/alabama-basketball-superstar-named-ap-all-america-third-team" target="_blank">Read more &rarr;</a>',
+    },
+    {
+      team: 'a',
+      name: 'Latrell Wrightsell Jr.',
+      stats: '12.7 PPG • 3.1 RPG • .370 3P% • 24 PTS vs Texas Tech',
+      meta: 'G • 6-4 • Senior • Achilles Comeback, Holloway\'s Replacement',
+      bio: 'Transfer from Cal State Fullerton who nearly had his career ended by an <strong>Achilles injury</strong> that limited him to 8 games last season. Granted a medical redshirt and returned for one more year. Thrust into a starting role after Holloway\'s arrest. Responded with the <strong>game of his life: 24 points on 7-of-10 shooting (6-of-9 from three)</strong> to destroy Texas Tech. Also held All-American Christian Anderson to <strong>2-of-11 shooting and 7 points</strong>. The ultimate redemption arc.',
+    },
+    {
+      team: 'a',
+      name: 'Aiden Sherrell',
+      stats: '11.2 PPG • 6.4 RPG • 2.3 BPG • .551 FG%',
+      meta: 'F • 6-10 • Sophomore • Five-Star Recruit Breakout',
+      bio: 'From Detroit. Five-star recruit who went from <strong>3.4 PPG as a freshman to 11.2 PPG and a team-leading 2.3 blocks</strong> this year. Posted a <strong>15-point, 15-rebound double-double against Hofstra</strong> and added 10 points against Texas Tech. Alabama\'s interior anchor — but he\'ll face his toughest test yet against Michigan\'s Aday Mara, a 7-3 rim protector with 96 blocks. The matchup of the game in the paint.',
+    },
+    {
+      team: 'a',
+      name: 'Houston Mallette',
+      stats: '7.0 PPG • 4.4 RPG • .357 3P% • 15 PTS vs Texas Tech',
+      meta: 'G • 6-5 • Senior • Pepperdine Transfer, X-Factor',
+      bio: 'From Alameda, California (Pacifica Christian HS, Santa Monica). Transferred from Pepperdine and missed almost all of last season with injury. Emerged as Alabama\'s X-factor in the tournament: <strong>15 points and 8 rebounds on 5-of-7 from three against Texas Tech</strong>. Named to the SEC Community Service Team. On the team\'s chemistry without Holloway: <strong>"Our team has real Mudita — we cheer for each other\'s success like it\'s our own."</strong>',
+    },
+    {
+      team: 'b',
+      name: 'Yaxel Lendeborg',
+      stats: '14.6 PPG • Big Ten Player of the Year • 25 PTS vs SLU',
+      meta: 'G/F • Puerto Rico &rarr; JUCO &rarr; UAB &rarr; Michigan',
+      bio: 'One of the most remarkable stories in college basketball. <strong>Cut from his high school team in Puerto Rico for bad grades. Played only 11 total high school games.</strong> Went JUCO, then UAB, then Michigan. Turned down <strong>$7-9 million from Kentucky</strong> to chase this. After scoring just 9 on a bum ankle against Howard, he came back with <strong>25 points on 9-of-13 shooting (zero turnovers) against Saint Louis</strong> — the first Michigan player to do that in the tournament since Glen Rice in 1989. The ankle is fine. The Big Ten Player of the Year is all the way back.<br><a href="https://www.si.com/college/michigan/basketball/dusty-may-michigan-turnaround" target="_blank">Read more &rarr;</a>',
+    },
+    {
+      team: 'b',
+      name: 'Aday Mara',
+      stats: 'Big Ten DPOY • 7-3 • 96 Blocks (1 from record)',
+      meta: 'C • 7-3 • From Spain • Transfer from UCLA',
+      bio: 'A <strong>7-foot-3 center from Spain</strong> who transferred from UCLA and became the Big Ten Defensive Player of the Year. Anchors the <strong>#1-ranked defense in America</strong>. Had <strong>16 points, 5 rebounds, and 4 blocks against Saint Louis</strong> after posting 19/7/6/3 blocks against Howard. Has <strong>96 blocks this season — one from Michigan\'s all-time record</strong>. Alabama\'s guards will think twice about driving. The question: can Alabama pull him to the perimeter with their shooting, or does his paint presence shut down their interior game entirely?',
+    },
+    {
+      team: 'b',
+      name: 'Morez Johnson Jr.',
+      stats: '13.1 PPG • 15 PTS & 8 REB vs SLU',
+      meta: 'F • Illinois Mr. Basketball • Transfer from Illinois',
+      bio: '<strong>Illinois Mr. Basketball</strong> who transferred from Illinois. Against Howard, he went <strong>8-for-8 from the field for 21 points and 10 rebounds</strong> — just the fifth player in NCAA Tournament history with a 20-point double-double on 100% shooting. Added 15 and 8 against Saint Louis. A physical, versatile forward who gives Michigan elite production on both ends. The key to Michigan\'s rebounding advantage — which could be the deciding factor.',
+    },
+    {
+      team: 'b',
+      name: 'Elliot Cadeau',
+      stats: '10.2 PPG • 5.6 APG • 12 PTS & 8 AST vs SLU',
+      meta: 'G • Transfer from UNC • 206 Assists This Season',
+      bio: 'Transferred from North Carolina to run Michigan\'s offense. Has <strong>206 assists on the season</strong> and provides the steady, composed playmaking that makes Michigan\'s offense tick. Had <strong>12 points and 8 assists against Saint Louis</strong> and 19 points with 6 assists against Howard. His ball security and decision-making control Michigan\'s tempo — and controlling tempo is how you beat Alabama.',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '\uD83D\uDD25',
+      title: '19 Threes in One Game (Alabama)',
+      body: 'Alabama hit <strong>19 three-pointers against Texas Tech</strong> — the <strong>third-most in a single NCAA Tournament game ever</strong>. Alabama also owns the #1 spot: 25 threes against BYU in the 2025 Sweet 16. They\'ve made 436 threes this season — 5th in NCAA single-season history.',
+    },
+    {
+      emoji: '\u2702\uFE0F',
+      title: 'Cut from His High School Team (Michigan)',
+      body: 'Yaxel Lendeborg — now the <strong>Big Ten Player of the Year</strong> — was <strong>cut from his high school team in Puerto Rico for bad grades</strong>. He played only 11 total high school games. Turned down <strong>$7-9 million from Kentucky</strong> to stay at Michigan for this run.',
+    },
+    {
+      emoji: '\uD83D\uDCC8',
+      title: '8-24 to 33-3 in Two Years (Michigan)',
+      body: 'Michigan went <strong>8-24 in 2023-24 — dead last in the Big Ten</strong>. Two years later: <strong>33-3, #1 seed, the best defense in America</strong>. Dusty May did it through the transfer portal. Their KenPom rating of +39.43 is the <strong>second-highest of all time</strong>, behind only 1999 Duke.',
+    },
+    {
+      emoji: '\uD83C\uDFC0',
+      title: 'Alabama Mr. Basketball (Alabama)',
+      body: '<strong>Labaron Philon</strong> averaged <strong>35 points per game as a high school junior</strong> in Mobile, earning Alabama Mr. Basketball. He withdrew from the 2025 NBA Draft, came back, and set Alabama\'s <strong>sophomore scoring record</strong>. Against Hofstra, he scored 29. Against Texas Tech, he dished 12 assists. Two completely different masterclasses.',
+    },
+    {
+      emoji: '\uD83E\uDE7A',
+      title: 'The Achilles Comeback (Alabama)',
+      body: 'Latrell Wrightsell Jr. nearly had his career ended by an <strong>Achilles injury</strong> that limited him to 8 games last season. Thrust into Holloway\'s role after the arrest, he responded with <strong>24 points and 6 threes against Texas Tech</strong>. From the brink of retirement to the game of his life.',
+    },
+    {
+      emoji: '\uD83C\uDFC6',
+      title: 'FAU to Michigan (Michigan\'s Coach)',
+      body: 'Dusty May took <strong>Florida Atlantic to the Final Four in 2023</strong> as one of the greatest Cinderella stories ever. Then he went to Michigan and built the <strong>best defense in America</strong> in two years. He\'s trying to become the first coach to take a mid-major to the Final Four and then win a title at a blue blood.',
+    },
+    {
+      emoji: '\uD83D\uDCDA',
+      title: 'Harper Lee vs. Gerald Ford',
+      body: 'Alabama\'s most famous alumna: <strong>Harper Lee</strong>, author of <em>To Kill a Mockingbird</em>. Michigan\'s most famous alumnus: <strong>Gerald Ford</strong>, the 38th President. Other Michigan grads include <strong>Tom Brady</strong> and <strong>Larry Page</strong> (Google co-founder). Both schools are academic powerhouses.',
+    },
+    {
+      emoji: '\uD83C\uDFAF',
+      title: '8-for-8 from the Field (Michigan)',
+      body: 'Morez Johnson Jr. went <strong>8-for-8 from the field against Howard</strong> for 21 points and 10 rebounds — just the <strong>fifth player in NCAA Tournament history</strong> with a 20-point double-double on 100% shooting. Then added 15 and 8 against Saint Louis. He\'s rolling.',
+    },
+    {
+      emoji: '\uD83C\uDDE7\uD83C\uDDED',
+      title: 'Mudita (Alabama)',
+      body: 'Houston Mallette described Alabama\'s chemistry with the word <strong>"Mudita"</strong> — a Buddhist concept meaning "joy in others\' success." He said: "Our team has real Mudita — we cheer for each other\'s success like it\'s our own." After hitting 5-of-7 threes against Texas Tech, the concept was on full display.',
+    },
+    {
+      emoji: '\uD83C\uDFC0',
+      title: 'The Fab Five Legacy (Michigan)',
+      body: 'Michigan\'s most iconic basketball moment: the <strong>Fab Five</strong> — Webber, Rose, Howard, King, and Jackson — reached back-to-back championship games in 1992-93 and revolutionized basketball culture. Michigan\'s only actual title came in <strong>1989</strong>. They\'ve been to the championship game <strong>seven times</strong> — tied for most without multiple titles.',
+    },
+    {
+      emoji: '\uD83C\uDDE8\uD83C\uDDEE',
+      title: 'Only Met Once Before (Head-to-Head)',
+      body: 'Alabama and Michigan have played just <strong>once in history</strong>: November 29, 2009, in Lake Buena Vista, Florida. Alabama won 68-66 on a <strong>JaMychal Green go-ahead dunk with five seconds left</strong>. This is their first-ever NCAA Tournament meeting.',
+    },
+    {
+      emoji: '\uD83C\uDDEA\uD83C\uDDF8',
+      title: '7-3 from Spain (Michigan)',
+      body: 'Aday Mara is a <strong>7-foot-3 center from Spain</strong> who has <strong>96 blocks — one from Michigan\'s all-time season record</strong> set by Roy Tarpley. His mere presence in the paint forces opponents to rethink every drive. Alabama\'s guards average 91.7 PPG but haven\'t faced a rim protector like this.',
+    },
+  ],
+  history: {
+    callout:
+      'Two programs from different basketball traditions meeting in March for the first time ever. <strong>Michigan</strong> has a national championship (1989), the Fab Five\'s cultural revolution, six championship game appearances, and eight Final Fours. <strong>Alabama</strong> was a football school that didn\'t reach the Final Four until <strong>2024</strong> — but Nate Oats has made four straight Sweet 16s and turned the Tide into a perennial contender. Their only previous meeting was a <strong>68-66 Alabama win in 2009</strong>. Now they meet with an Elite Eight on the line.',
+    subsections: [
+      {
+        title: 'The Only Previous Meeting: Alabama 68, Michigan 66 (2009)',
+        type: 'card' as const,
+        content:
+          '<p>Alabama and Michigan have played exactly <strong>once in history</strong>. On November 29, 2009, in Lake Buena Vista, Florida, <strong>JaMychal Green scored 20 points with 7 rebounds and 4 blocks</strong>, including a go-ahead dunk with five seconds remaining to give Alabama a 68-66 victory. That Alabama team was coached by Anthony Grant. That Michigan team was in John Beilein\'s second year. Seventeen years later, these programs meet again — this time in the Sweet 16 with an Elite Eight on the line.</p>',
+      },
+      {
+        title: 'Two Programs, Two Transformations',
+        type: 'card' as const,
+        content:
+          '<p><strong>Michigan\'s basketball legacy</strong> includes a 1989 national championship, the Fab Five\'s back-to-back championship game runs (1992-93), and John Beilein\'s title game appearances in 2013 and 2018. Eight Final Fours. But the program cratered to <strong>8-24 in 2023-24</strong>. Dusty May rebuilt it into a 33-3 juggernaut with the best defense in America in just two seasons.</p><p style="margin-top:.5rem;"><strong>Alabama\'s basketball history</strong> was modest until Nate Oats arrived. The Tide hadn\'t made the Final Four in program history until 2024. Now they\'ve made four straight Sweet 16s, two straight Elite Eights, and scored 90+ points 22 times this season. Oats built a program from a high school coaching career in Michigan — ironically, in Romulus, just 30 miles from Ann Arbor.</p><p style="margin-top:.5rem;">Both coaches transformed their programs. One did it at a blue blood that had fallen. The other did it at a football school that had never risen. Now they meet in Chicago.</p>',
+      },
+      {
+        title: 'Tournament Paths to the Sweet 16',
+        type: 'timeline' as const,
+        content: '',
+        timeline: [
+          {
+            date: 'Mar 19-20',
+            text: '<strong>Round of 64:</strong> Michigan 101, Howard 80 (Morez Johnson 8-for-8, 21 pts; allowed 14 threes) | Alabama 90, Hofstra 70 (Philon 29 pts, Sherrell 15/15 double-double)',
+          },
+          {
+            date: 'Mar 21-22',
+            text: '<strong>Round of 32:</strong> Michigan 95, Saint Louis 72 (Lendeborg 25 pts on 9-of-13; all 5 starters in double figures) | Alabama 90, Texas Tech 65 (Wrightsell 24 pts, 6 threes; 19 team threes; largest 4-vs-5 margin in tournament history)',
+          },
+          {
+            date: 'Mar 27',
+            text: '<strong>Sweet 16:</strong> Alabama vs. Michigan at the United Center in Chicago. 7:35 PM ET on TBS. Michigan favored by 10.5. The #1 scoring team vs. the #1 defense.',
+          },
+        ],
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Alabama',
+      links: [
+        { label: 'ESPN — Alabama 90, Texas Tech 65 Recap', url: 'https://www.espn.com/mens-college-basketball/recap/_/gameId/401856560' },
+        { label: 'Alabama Athletics — Rolls Past Texas Tech 90-65', url: 'https://rolltide.com/news/2026/3/23/mens-basketball-alabama-rolls-past-texas-tech-in-ncaa-tournament-second-round-90-65' },
+        { label: 'SI — Key Takeaways from Alabama\'s First Weekend', url: 'https://www.si.com/college/alabama/key-takeaways-from-alabama-first-weekend-2026-ncaa-tournament' },
+        { label: 'SI — How to Watch Alabama vs. Michigan Sweet 16', url: 'https://www.si.com/college/alabama/basketball/how-to-watch-no-4-alabama-vs-no-1-michigan-ncaa-tournament-sweet-16' },
+        { label: 'Roll Bama Roll — Alabama Advances to Sweet 16', url: 'https://www.rollbamaroll.com/alabama-crimson-tide-basketball/80480/how-sweet-it-is-alabama-advances-to-another-sweet-16' },
+        { label: 'ClutchPoints — Alabama Threatens 3-Point Records vs. Texas Tech', url: 'https://clutchpoints.com/ncaa-basketball/alabama-basketball-news-crimson-tide-threaten-2-its-own-records-with-3-point-prowess-vs-texas-tech' },
+        { label: 'CBS Sports — Holloway Suspended Details', url: 'https://www.cbssports.com/college-basketball/news/aden-holloway-suspended-alabama-felony-drug-arrest-ncaa-tournament/' },
+        { label: 'SI — Philon AP All-America', url: 'https://www.si.com/college/alabama/basketball/alabama-basketball-superstar-named-ap-all-america-third-team' },
+        { label: 'SI — Why Houston Mallette Is Alabama\'s X-Factor', url: 'https://www.si.com/college/alabama/basketball/why-houston-mallette-alabama-factor-just-a-minute' },
+        { label: 'Sports Reference — 2025-26 Alabama Stats', url: 'https://www.sports-reference.com/cbb/schools/alabama/men/2026.html' },
+        { label: 'Bama Hammer — Alabama Sweet 16 History', url: 'https://bamahammer.com/alabama-basketball-history-how-has-crimson-tide-fared-in-past-sweet-16-appearances-01jq6pkr0grv' },
+        { label: 'SI — Alabama Basketball History vs. Midwest Region', url: 'https://www.si.com/college/alabama/basketball/alabama-basketball-history-vs-2026-ncaa-tournament-midwest-region' },
+        { label: 'Wikipedia — Alabama Crimson Tide Basketball', url: 'https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_men%27s_basketball' },
+        { label: 'Wikipedia — Nate Oats', url: 'https://en.wikipedia.org/wiki/Nate_Oats' },
+      ],
+    },
+    {
+      heading: 'Michigan',
+      links: [
+        { label: 'ESPN — Michigan 95, Saint Louis 72 Recap', url: 'https://www.espn.com/mens-college-basketball/game/_/gameId/401856532/saint-louis-michigan' },
+        { label: 'Michigan Athletics — Lendeborg, Mara Power Sweet 16 Win', url: 'https://mgoblue.com/news/2026/3/21/mens-basketball-lendeborg-mara-power-u-m-to-sweet-16-with-second-round-win-over-saint-louis' },
+        { label: 'Michigan Athletics — Sweet 16 Matchup vs. Alabama', url: 'https://mgoblue.com/news/2026/3/23/mens-basketball-wolverines-alabama-to-clash-in-chicago-in-sweet-16-elite-eight-berth-on-line' },
+        { label: 'UM Hoops — Michigan Punches Ticket to Sweet 16', url: 'https://umhoops.com/2026/03/23/michigan-punches-ticket-to-programs-third-sweet-16-with-two-blowout-wins/' },
+        { label: 'Maize n Brew — Everything to Know About Alabama', url: 'https://www.maizenbrew.com/michigan-mens-basketball/109376/march-madness-sweet-16-michigan-basketball-alabama-midwest-region' },
+        { label: 'Maize n Brew — Sweet 16 Tip-Off Time and TV', url: 'https://www.maizenbrew.com/michigan-mens-basketball/109276/march-madness-sweet-16-michigan-basketball-alabama-time-tv-channel' },
+        { label: 'ESPN — Sweet 16 Preview Keys to Advancing', url: 'https://www.espn.com/mens-college-basketball/story/_/id/48289381/mens-sweet-16-preview-keys-advance-ncaa-tournament-2026' },
+        { label: 'CBS Sports — Lendeborg 25 Points, Michigan Rolls Saint Louis', url: 'https://www.cbssports.com/college-basketball/news/lendeborg-scores-25-and-midwests-top-seeded-michigan-rolls-to-a-95-72-win-over-saint-louis/' },
+        { label: 'SI — Michigan\'s Historic KenPom Dominance', url: 'https://www.si.com/college/michigan/basketball/how-analytics-confirm-michigan-basketball-s-historic-dominance' },
+        { label: 'Sports Reference — 2025-26 Michigan Stats', url: 'https://www.sports-reference.com/cbb/schools/michigan/men/2026.html' },
+        { label: 'SportsBettingDime — Michigan vs Alabama Opening Odds', url: 'https://www.sportsbettingdime.com/news/college-basketball/sweet-16-michigan-vs-alabama-opening-odds-2026/' },
+        { label: 'Wikipedia — Michigan Wolverines Basketball', url: 'https://en.wikipedia.org/wiki/Michigan_Wolverines_men%27s_basketball' },
+        { label: 'SI — Dusty May\'s Michigan Turnaround', url: 'https://www.si.com/college/michigan/basketball/dusty-may-michigan-turnaround' },
+        { label: 'CBS Sports — Sweet 16 Picks and Predictions', url: 'https://www.cbssports.com/college-basketball/news/march-madness-sweet-16-picks-matchups-2026-ncaa-tournament/' },
+      ],
+    },
+  ],
+  footerText: 'Casual Fan Viewing Guide \u2022 Alabama vs Michigan \u2022 NCAA Sweet 16 \u2022 March 27, 2026',
+}
+
+export default game

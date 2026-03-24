@@ -1,0 +1,353 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'michigan-state-vs-uconn-2026',
+  title: 'Michigan State vs UConn — Sweet 16 Viewing Guide',
+  eventTag: 'NCAA Tournament • Sweet 16 • East Region • Washington, D.C.',
+  date: 'Friday, March 27, 2026',
+  round: 'Sweet 16',
+  tipTime: '2026-03-27T21:45',
+  venue: 'Capital One Arena, Washington, D.C. • 9:45 PM ET • CBS',
+  extraInfo: 'Winner advances to the <strong>Elite Eight</strong> to face <strong>#1 St. John\'s or #4 Iowa</strong>',
+  teams: [
+    {
+      name: 'Michigan State',
+      mascot: 'Spartans',
+      seed: '#3 Seed',
+      record: '27-7 • Beat Louisville 77-69',
+      colors: { primary: '#18453B', secondary: '#FFFFFF', name: 'michigan-state' },
+      className: 'michigan-state',
+      logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/127.png',
+    },
+    {
+      name: 'UConn',
+      mascot: 'Huskies',
+      seed: '#2 Seed',
+      record: '31-5 • Beat UCLA 73-57',
+      colors: { primary: '#002868', secondary: '#A2AAAD', name: 'uconn' },
+      className: 'uconn',
+      logoUrl: 'https://a.espncdn.com/i/teamlogos/ncaa/500/41.png',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'Two of the most decorated programs in college basketball history collide in the Sweet 16. <strong>Eight combined national championships</strong> — Michigan State\'s 2 (1979, 2000), UConn\'s 6 (1999, 2004, 2011, 2014, 2023, 2024). The coaching matchup is almost too good: <strong>Tom Izzo</strong>, the Hall of Famer with 10 Final Fours who earned the "Mr. March" nickname over three decades, versus <strong>Dan Hurley</strong>, the back-to-back champion who turned down the Lakers and calls Izzo "the most respected coach I\'ve tried to model myself after." Hurley told Izzo through the TNT cameras after beating UCLA: <em>"It\'s an honor to share the sideline with one of the greatest coaches."</em> This is a bloodline game — two programs that define March.',
+    cards: [
+      {
+        label: 'For Michigan State',
+        value:
+          'The Spartans have been <strong>dominant in both tournament games</strong> — crushed NDSU 92-67 (26 assists, 58.9% shooting), then handled Louisville 77-69 behind Coen Carr\'s 21/10 and Fears\' <strong>record-breaking 16 assists</strong> (surpassing Magic Johnson\'s MSU tournament record). The late-season wobble is gone. Izzo\'s teams are built for March, and this one is peaking at the right time. A win puts MSU in the Elite Eight for the second straight year.',
+      },
+      {
+        label: 'For UConn',
+        value:
+          'Alex Karaban — the <strong>winningest player in UConn history</strong> (120+ wins, two national titles) — scored a career-high 27 against UCLA. This is his final March. Tarris Reed Jr. opened the tournament with <strong>31 points and 27 rebounds</strong> against Furman, then added 10/13 vs. UCLA. Silas Demary Jr. returned from injury and posted a team-best +22. UConn is rolling, and championship DNA is a real thing with this program.',
+      },
+      {
+        label: 'The Coaching Matchup',
+        value:
+          'Tom Izzo: <strong>10 Final Fours, 61-26 in tournament games, 28 consecutive appearances</strong>. Dan Hurley: <strong>back-to-back titles (2023-24), 15-1 in his last 16 tournament games</strong>. Hurley calls Izzo his coaching idol. Izzo advised Hurley before the Lakers decision. Now they meet on the biggest stage. Only one advances.',
+      },
+      {
+        label: 'Prior Tournament Meetings',
+        value:
+          'Michigan State won <strong>82-73 in the 2009 Final Four</strong> (Kalin Lucas, 21 points). UConn won <strong>60-54 in the 2014 Elite Eight</strong> (Shabazz Napier, 25 points — en route to the national title). These teams know what it means to play each other in March. The all-time series is split 4-4.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Defend, Rebound, Run — Tournament Edition',
+      bullets: [
+        '<strong>Tournament defense has been elite:</strong> Michigan State held NDSU to 67 points and Louisville to 69, while ranking <strong>8th in KenPom adjusted defensive efficiency</strong> all season. Opponents shoot 38.9% against them (2nd in Big Ten). This is a defense built to suffocate in March.',
+        '<strong>Rebounding dominance:</strong> <strong>3rd nationally in rebound margin (+11.7)</strong>. Out-rebounded NDSU 35-23 and Louisville 39-32 in their two tournament games. MSU is 1st in the Big Ten in limiting opponent offensive boards (7.8/game). The glass is their superpower.',
+        '<strong>Coen Carr is the tournament breakout star:</strong> Averaging <strong>19 PPG, 7 RPG on 67% shooting</strong> through two tournament games. Leads the NCAA with 72 dunks on the season. Against Louisville, he had 21/10 with three dunks, two threes, and two blocks. He\'s playing like an All-American.',
+        '<strong>Fears runs the show:</strong> Jeremy Fears Jr. recorded <strong>11 and 16 assists</strong> in the first two tournament games, breaking Magic Johnson\'s MSU tournament assist record. He\'s averaging 9.5 PPG and 13.5 APG in March. The best floor general in the field.',
+        '<strong>Three-point shooting has been sharp:</strong> Shot 50% from three vs. NDSU (10-20) and 42.3% vs. Louisville (11-26). If the Spartans shoot like that against UConn\'s defense, this becomes a coin flip.',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'Championship Pedigree, Two Stars Carrying',
+      bullets: [
+        '<strong>Tarris Reed Jr. has been historic:</strong> Opened the tournament with <strong>31 points and 27 rebounds vs. Furman</strong> (first 30/25 in the tournament since Elvin Hayes in 1968), then added 10/13 vs. UCLA. At 6-10, 260, he creates gravity that opens everything else. But his <strong>.561 free throw shooting</strong> is exploitable.',
+        '<strong>Karaban\'s final ride:</strong> Scored a career-high <strong>27 vs. UCLA</strong> with four three-pointers. The two-time national champion, winningest player in UConn history, and Malone Award finalist is peaking at the perfect time. He shoots 38.9% from three and steadies the offense.',
+        '<strong>Defense remains the backbone:</strong> UConn allows <strong>65.1 PPG (11th nationally)</strong>. They held UCLA to 57 points and closed with a 15-3 run. The pack-line defense with Reed and Reibe (7-1, 260) protecting the rim is imposing.',
+        '<strong>Demary\'s return changes the math:</strong> Silas Demary Jr. came back from his ankle sprain and posted a team-best <strong>+22 plus/minus in 22 minutes vs. UCLA</strong> (4 assists, 2 steals). His floor-spacing ability (41.6% from three) and playmaking (6.2 APG) give UConn a different dimension. If he\'s closer to full health, UConn is significantly more dangerous.',
+        '<strong>Three-point shooting remains the wildcard:</strong> UConn shot <strong>5-of-25 from three vs. Furman (20%)</strong> but improved against UCLA. If the perimeter shots fall, UConn\'s offense becomes nearly impossible to guard. If not, they rely heavily on Reed — and MSU has the frontcourt size to make that difficult.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'The interior battle decides everything.',
+      description:
+        'This is the defining matchup: Tarris Reed Jr. (6-10, 260) and Eric Reibe (7-1, 260) against Jaxon Kohler (6-10), Carson Cooper (6-11), and Coen Carr. Reed averaged 20.5 PPG and 20.0 RPG in his first two tournament games — historic numbers. But Michigan State ranks 3rd nationally in rebound margin (+11.7) and dominated the boards in both tournament games. Reed will get his points, but can MSU limit his second-chance opportunities? Can Kohler and Cooper keep him off the offensive glass? Reed had 11 offensive boards against Furman — if he does that against MSU, UConn wins. If the Spartans can hold him to single digits on the boards, their transition game takes over.',
+    },
+    {
+      title: 'Can Michigan State\'s three-point shooting survive UConn\'s defense?',
+      description:
+        'MSU shot 50% from three against NDSU and 42.3% against Louisville — elite numbers. But UConn\'s defense (KenPom 8th in adjusted efficiency, 65.1 PPG allowed) is a significant step up from Louisville. If Kohler (39.4% from three) and Trey Fort (3-of-3 vs. Louisville) can find open looks, MSU can spread UConn\'s pack-line defense and open driving lanes for Carr. If UConn contests everything on the perimeter, the Spartans\' offense could stall — they don\'t have the interior firepower to match Reed\'s dominance in a half-court grind.',
+    },
+    {
+      title: 'Fears vs. Demary — the point guard chess match.',
+      description:
+        'Jeremy Fears Jr. has been otherworldly: 11 assists vs. NDSU, 16 vs. Louisville (breaking Magic Johnson\'s MSU tournament record). He leads the nation in assists per game. But Silas Demary Jr. is no slouch — 6.2 APG, 41.6% from three, and he posted a +22 in 22 minutes against UCLA despite playing through a high ankle sprain. Demary\'s health level is the X-factor. At full strength, he gives UConn a floor-spacing playmaker who can match Fears\' impact. Limited, UConn becomes more predictable. The team with the better point guard play wins this game.',
+    },
+    {
+      title: 'Coen Carr\'s breakout vs. UConn\'s rim protection.',
+      description:
+        'Carr has been the best player in this tournament by the numbers: 19 PPG, 7 RPG, 67% from the field, 50% from three. He leads the NCAA with 72 dunks and his athleticism is electric. But UConn has Reed (2nd in Big East in block rate) and Reibe (7-1, 260) protecting the rim. They\'re the most physically imposing interior tandem Carr has faced all season. Can he finish through contact the way he did against Louisville? Or does UConn\'s size force him into mid-range jumpers where he\'s less comfortable? This is the matchup that could swing the game.',
+    },
+    {
+      title: 'Mr. March vs. the back-to-back champ — coaching matters more than ever.',
+      description:
+        'Tom Izzo is 61-26 all-time in the NCAA Tournament with 10 Final Fours. Dan Hurley is 15-1 in his last 16 tournament games with back-to-back national titles. These are arguably the two best tournament coaches in the sport right now. Hurley calls Izzo his mentor. Izzo advised Hurley on the Lakers decision. They met once before — Izzo won 64-60 at the 2021 Battle 4 Atlantis. In a game this tight (1.5-point spread), halftime adjustments, timeout strategy, and late-game decisions will matter enormously. Don\'t be surprised if the last five minutes come down to coaching.',
+    },
+  ],
+  prediction: {
+    summary: 'This is the most compelling Sweet 16 matchup on the board — two championship programs, two Hall of Fame-caliber coaches, and genuine uncertainty about who wins. UConn has the best player in the game (Reed, who\'s been historically dominant) and the most decorated player (Karaban, two titles). Michigan State has the best distributor (Fears, who just broke Magic Johnson\'s record) and the hottest scorer (Carr, 19 PPG on 67% shooting). The 1.5-point spread tells you everything: this is a coin flip. UConn\'s defense is marginally better, Reed\'s interior gravity is nearly impossible to neutralize, and Karaban in his final March has that extra gear. But Izzo in the Sweet 16 is 11-6, and his teams consistently outperform expectations. The projection gives UConn the slightest edge based on Reed\'s dominance, Karaban\'s championship poise, and the likelihood that Demary\'s return tips the scales — but don\'t be surprised if Mr. March has one more trick.',
+    phases: [
+      {
+        title: 'Opening 10 Minutes — Setting the Tone',
+        description: 'Both defenses clamp down early. UConn packs the paint to limit Carr, and MSU\'s length bothers UConn\'s guards. Reed gets two early post touches and converts both — he shoots 63.5% for a reason. But Kohler answers with a three from the corner (39.4% on the season). Fears finds Carr on a fast break for a thunderous dunk that electrifies the MSU contingent. It\'s 14-12 UConn — a rock fight, exactly as both coaches want it.',
+      },
+      {
+        title: 'Mid-First Half to Halftime — The Grind',
+        description: 'Karaban hits a pull-up three — the fifth-year senior with two rings plays like he\'s been here before, because he has. Mullins adds a driving layup. UConn builds a 6-point lead. But Fears orchestrates a response: a lob to Carr, a kick-out to Kohler, a pull-up floater of his own. Trey Fort drills a three off the bench. The lead shrinks to 1. Reed picks up his second foul on an offensive push-off and sits for the final four minutes of the half. MSU takes advantage — Cooper scores two interior buckets. Halftime: MSU 32, UConn 31.',
+      },
+      {
+        title: 'Second Half — Haymakers',
+        description: 'Reed comes out aggressive in the second half, scoring 8 points in the first five minutes. Demary hits a three — his ankle is holding up. UConn pushes the lead to 7. Izzo calls timeout. The adjustment: switch everything defensively, force UConn into isolation basketball. Carr responds with back-to-back dunks. Fears finds Cooper for a dunk in transition. A 10-2 MSU run ties it at 52. The crowd is electric. This is what March is supposed to look like.',
+      },
+      {
+        title: 'Final 8 Minutes — Championship Basketball',
+        description: 'It stays within 3 points for the next six minutes. Karaban hits a mid-range jumper — championship poise. Carr answers with a three. Reed gets an offensive rebound and scores through contact — and here\'s where his .561 free throw shooting matters. He misses the and-one. MSU grabs the rebound. With two minutes left, Fears drives and finds Kohler for what would be a go-ahead three, but it rims out. On the other end, Karaban — the man with 120+ wins — hits a step-back three with the shot clock winding down. UConn leads by 4. Fears gets to the line and makes both (89.3% FT). UConn by 2, 30 seconds left. Mullins is fouled, hits both. UConn survives.',
+      },
+    ],
+    projectedScore: {
+      teamA: 66,
+      teamB: 70,
+      rationale: 'UConn\'s interior dominance (Reed averaging 20.5 PPG and 20.0 RPG in the tournament), Karaban\'s championship experience (career-high 27 vs. UCLA), and Demary\'s return from injury give the Huskies the slightest edge in a game that could go either way. Michigan State\'s rebounding prowess and Carr\'s explosive scoring keep it close, but Reed\'s gravity and Hurley\'s tournament pedigree (15-1 in last 16 games) prove decisive in the final minutes.',
+    },
+  },
+  players: [
+    {
+      team: 'a',
+      name: 'Jeremy Fears Jr.',
+      stats: '15.7 PPG • 9.2 APG • Tournament: 9.5 PPG, 13.5 APG',
+      meta: 'G • 6-2 • RSo. • First Team All-Big Ten • Shot Survivor',
+      bio: 'One of the most remarkable stories in college basketball. <strong>Shot in the left leg on December 23, 2023</strong> — required a three-hour surgery to remove a bullet from his thigh. Received a medical redshirt. Now he\'s one of the best point guards in America: broke <strong>Cassius Winston\'s single-season assists record</strong> and then <strong>broke Magic Johnson\'s MSU tournament assist record with 16 against Louisville</strong>. Through two tournament games: 11 assists vs. NDSU, 16 vs. Louisville. He doesn\'t need to score — he makes everyone around him better. Naismith Trophy watch list.<br><a href="https://en.wikipedia.org/wiki/Jeremy_Fears_Jr." target="_blank">Read more →</a>',
+    },
+    {
+      team: 'a',
+      name: 'Coen Carr',
+      stats: '11.6 PPG season • Tournament: 19 PPG, 7 RPG, 67% FG',
+      meta: 'F • Junior • NCAA Dunk Leader (72) • Tournament Breakout Star',
+      bio: 'The hottest player in the NCAA Tournament. Against Louisville: <strong>21 points, 10 rebounds, 3 dunks, 2 threes, 2 blocks</strong> — a career double-double. Through two games: 19 PPG, 7 RPG on 67% shooting, 50% from three. <strong>Leads the entire NCAA with 72 dunks</strong> this season. From Stockbridge, Georgia. USA Basketball 3x3 U18 World Cup team. His back-to-back dunks early in the second half against Louisville forced a timeout. He\'s must-see TV.<br><a href="https://www.spokesman.com/stories/2026/mar/21/coen-carr-is-must-see-march-madness-tv-for-michiga/" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'a',
+      name: 'Jaxon Kohler',
+      stats: '12.7 PPG • 9.0 RPG • 39.4% 3PT',
+      meta: 'F/C • 6-10 • Senior • Team Captain',
+      bio: 'First player from Utah to play at Michigan State. Izzo compared him to former Spartan <strong>Zach Randolph</strong> — tremendous footwork, good hands, multi-dimensional scorer. Shoots <strong>39.4% from three at 6-10</strong>, stretching defenses and creating space for Carr and Fears. Had 12/9 vs. NDSU and 10/6 vs. Louisville. The interior anchor of a team that ranks 3rd nationally in rebound margin. His ability to space the floor against UConn\'s pack-line defense will be critical.',
+    },
+    {
+      team: 'a',
+      name: 'Carson Cooper',
+      stats: '10.8 PPG • 7.1 RPG • 57.2% FG',
+      meta: 'C • 6-11 • Senior • Team Captain',
+      bio: 'Michigan native from Jackson who <strong>played soccer as a goalkeeper</strong> before focusing on basketball. Led MSU\'s tournament opener with <strong>20 points and 10 rebounds on 7-of-9 shooting</strong> vs. NDSU — his most complete performance of the season. The efficient interior finisher who completes MSU\'s formidable frontcourt alongside Kohler. His rim protection will be tested by Tarris Reed\'s physicality.',
+    },
+    {
+      team: 'b',
+      name: 'Tarris Reed Jr.',
+      stats: '14.3 PPG season • Tournament: 20.5 PPG, 20.0 RPG',
+      meta: 'F/C • 6-10, 260 lbs • Senior • Historic Tournament Performance',
+      bio: 'Playing at a historic level. Against Furman: <strong>31 points on 12-of-15 shooting (80%) and 27 rebounds (11 offensive)</strong> — the first player since <strong>Elvin Hayes in 1968</strong> with 30+ points and 25+ rebounds in a tournament game. Against UCLA: 10 points, 13 rebounds, 3 blocks. At 6-10, 260 pounds, he creates gravity that opens everything else. Transferred from Michigan after Juwan Howard was fired. Won Big East Sixth Man of the Year in 2024-25. One weakness: <strong>.561 free throw shooting</strong> makes him hackable late.<br><a href="https://www.espn.com/mens-college-basketball/story/_/id/48266296/tarris-reed-31-27-night-helps-uconn-survive-ncaa-tournament" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'b',
+      name: 'Alex Karaban',
+      stats: '12.9 PPG season • Tournament: 24.5 PPG • Career-High 27 vs. UCLA',
+      meta: 'F • 6-8 • R-Senior • 2x National Champion • All-Big East First Team',
+      bio: 'The <strong>winningest player in UConn history (120+ wins)</strong> and all-time leader in games started. Two-time national champion (2023, 2024). First active men\'s player inducted into the <strong>Huskies of Honor</strong>. Scored a <strong>career-high 27 points with four threes</strong> against UCLA to carry UConn into the Sweet 16. Hurley: <em>"No one\'s been better in college sports the last four years in terms of being a winner."</em> Malone Award Top Five Finalist. This is his final March — and he\'s playing like it.<br><a href="https://www.bostonherald.com/2026/03/01/alex-karaban-cements-himself-among-uconn-legends-with-most-important-stat/" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'b',
+      name: 'Braylon Mullins',
+      stats: '12.0 PPG • 3.5 RPG • Tournament: 17 pts vs. UCLA',
+      meta: 'G • 6-6 • Freshman • Indiana Mr. Basketball • McDonald\'s All-American',
+      bio: 'From Greenfield, Indiana. All-time leading scorer at Greenfield-Central HS with <strong>2,158 points</strong>. Named <strong>2025 Indiana Mr. Basketball</strong> and McDonald\'s All-American. Ranked No. 12 in his class. Scored <strong>17 points against UCLA</strong> in the Round of 32. At 6-6, he\'s an oversized guard with elite scoring instincts and NBA-level potential — exactly the kind of freshman who explodes in March. A projected lottery pick playing with no fear.<br><a href="https://www.babcockhoops.com/post/from-small-town-indiana-to-uconn-braylon-mullins-is-carving-a-path-to-the-nba-his-way" target="_blank">Read more →</a>',
+    },
+    {
+      team: 'b',
+      name: 'Silas Demary Jr.',
+      stats: '10.9 PPG • 6.2 APG • 41.6% 3PT • +22 vs. UCLA',
+      meta: 'G • 6-5 • Junior • Georgia Transfer • Returning from Ankle Injury',
+      bio: 'The X-factor. Missed the Furman game with a <strong>high ankle sprain from the Big East Tournament</strong>, then returned against UCLA and posted a team-best <strong>+22 plus/minus in 22 minutes</strong> with 4 assists and 2 steals. Solved UConn\'s point guard problem this season: 6.2 APG on the year with <strong>41.6% three-point shooting</strong> at 6-5 — a floor-spacing playmaker. His health level directly correlates with UConn\'s ceiling. Closer to 100%, they\'re a title contender. Limited, they\'re one-dimensional.<br><a href="https://www.courant.com/2026/03/23/dom-amore-silas-demary-jr-plays-through-pain-and-sparks-uconn-men-back-to-sweet-16/" target="_blank">Read more →</a>',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '🏆',
+      title: '8 National Championships Between Them',
+      body: 'Michigan State has <strong>2 titles (1979, 2000)</strong>. UConn has <strong>6 titles (1999, 2004, 2011, 2014, 2023, 2024)</strong>. That\'s 8 combined — more than most entire conferences. Add UConn\'s 11 women\'s titles and the university alone has 17 basketball national championships.',
+    },
+    {
+      emoji: '🤝',
+      title: 'Mentor and Protege Meet in March',
+      body: 'Dan Hurley calls Tom Izzo <strong>"the most respected coach I\'ve tried to model myself after."</strong> Izzo advised Hurley before Hurley turned down the Lakers in 2024. After beating UCLA, Hurley told Izzo through the cameras: <em>"It\'s an honor to share the sideline with one of the greatest."</em> Now they have to try to beat each other.',
+    },
+    {
+      emoji: '🔫',
+      title: 'Shot — Then Broke Magic\'s Record',
+      body: 'Jeremy Fears Jr. was <strong>shot in the left leg in December 2023</strong>. A three-hour surgery removed a bullet from his thigh. Two years later, he broke Cassius Winston\'s single-season assists record — then <strong>broke Magic Johnson\'s MSU tournament assist record with 16 against Louisville</strong>.',
+    },
+    {
+      emoji: '📊',
+      title: 'Reed\'s 31-27: Not Seen Since 1968',
+      body: 'Tarris Reed Jr.\'s <strong>31 points and 27 rebounds</strong> against Furman made him the first player since <strong>Elvin Hayes in 1968</strong> to post 30+ points and 25+ rebounds in an NCAA Tournament game. He shot 80% from the field. Oh, and he did part of it without a shoe.',
+    },
+    {
+      emoji: '🏀',
+      title: '72 Dunks and Counting',
+      body: 'Coen Carr leads the <strong>entire NCAA with 72 dunks</strong> this season. Against Louisville, he threw down three in the second round, including back-to-back slams that forced a timeout. His teammates say his best dunk was against UCLA in the Big Ten Tournament. He\'s must-see TV.',
+    },
+    {
+      emoji: '✨',
+      title: 'Magic Started It, Fears Continues It',
+      body: '<strong>Magic Johnson</strong> led MSU to the 1979 title and held the tournament assist record (14). <strong>Jeremy Fears Jr.</strong> broke that record with 16 against Louisville. From Magic to Cassius Winston to Fears — MSU\'s point guard lineage is unmatched.',
+    },
+    {
+      emoji: '💰',
+      title: 'He Turned Down the Lakers',
+      body: 'After winning back-to-back titles, Dan Hurley <strong>turned down a massive offer from the Los Angeles Lakers</strong> in June 2024. LeBron James praised him: "He\'s so DAMN GOOD!!" Tom Izzo was one of the people who advised him. Now that advice leads to a Sweet 16 collision.',
+    },
+    {
+      emoji: '⭐',
+      title: 'The Winningest Husky\'s Last Dance',
+      body: 'Alex Karaban has <strong>120+ career wins</strong> — the most in UConn men\'s basketball history. He\'s started 136+ games. Won two national championships. Was inducted into the Huskies of Honor as an active player. Scored a career-high 27 in the Round of 32. This is his last March.',
+    },
+    {
+      emoji: '🏟️',
+      title: '10 Final Fours for Mr. March',
+      body: 'Tom Izzo has reached <strong>10 Final Fours</strong> — more than any coach not named John Wooden or Mike Krzyzewski. His NCAA Tournament record is <strong>61-26 (.701)</strong>. He\'s made <strong>28 consecutive tournaments</strong>. At 71, he\'s still the best coach in March.',
+    },
+    {
+      emoji: '🐺',
+      title: 'Jonathan Went to Antarctica',
+      body: 'UConn\'s live mascot is a Siberian Husky named Jonathan (currently Jonathan XV). One of the early Jonathans <strong>traveled to Antarctica with Admiral Byrd\'s Operation Highjump</strong> in 1946-47. Another ran onto the court at Madison Square Garden during UConn\'s first NCAA appearance in 1951.',
+    },
+    {
+      emoji: '⚽',
+      title: 'The Goalkeeper vs. The Transfer',
+      body: 'Carson Cooper played <strong>soccer as a goalkeeper</strong> before switching to basketball. Tarris Reed Jr. <strong>transferred from Michigan</strong> after Juwan Howard was fired. Both took unconventional paths to becoming interior anchors for championship-caliber programs.',
+    },
+    {
+      emoji: '🏫',
+      title: 'First Land-Grant College',
+      body: 'Michigan State, founded in 1855, was the <strong>first land-grant college in the United States</strong> — the model for the Morrill Act that created the nationwide public university system. UConn was founded in 1881 as the Storrs Agricultural School. Two public universities with basketball in their DNA.',
+    },
+  ],
+  history: {
+    callout:
+      'Eight national championships. Two programs that define March. Michigan State and UConn have met <strong>twice before in the NCAA Tournament</strong> — MSU won 82-73 in the <strong>2009 Final Four</strong>, UConn won 60-54 in the <strong>2014 Elite Eight</strong> (en route to the national title). The all-time series is split 4-4. Tom Izzo has 10 Final Fours. Dan Hurley has back-to-back titles. This is a bloodline Sweet 16 between two of the most successful programs in tournament history.',
+    subsections: [
+      {
+        title: 'Head-to-Head: Tournament Heavyweight Bouts',
+        type: 'timeline' as const,
+        content: '',
+        timeline: [
+          {
+            date: '1998-2000',
+            text: 'The series begins with a home-and-home. UConn wins 82-68 at Gampel Pavilion (Dec. 1998), then MSU wins the return. <strong>Each team won the national championship</strong> that same season — UConn in 1999, MSU in 2000.',
+          },
+          {
+            date: '2009 — Final Four',
+            text: '<strong>Michigan State 82, UConn 73.</strong> Kalin Lucas scored 21 and Raymar Morgan added 18 as the Spartans upset UConn — snapping the Huskies\' perfect Final Four record (they had won titles in 1999 and 2004 after their two prior Final Four trips). MSU advanced to the title game against North Carolina.',
+          },
+          {
+            date: '2014 — Elite Eight',
+            text: '<strong>UConn 60, Michigan State 54.</strong> Shabazz Napier scored 25 points (17 in the second half) as 7-seed UConn knocked off 4-seed MSU at Madison Square Garden. The Huskies went on to <strong>win the national championship</strong> — their fourth title.',
+          },
+          {
+            date: '2021 — Battle 4 Atlantis',
+            text: '<strong>Michigan State 64, UConn 60</strong> in the Bahamas — the most recent meeting before this season. The only previous Izzo vs. Hurley head-to-head.',
+          },
+          {
+            date: 'Oct. 2025 — Exhibition',
+            text: 'UConn hosted Michigan State in a preseason exhibition in Hartford. <strong>UConn won 76-69</strong>. But 150 days and two months of tournament basketball later, both teams are radically different.',
+          },
+        ],
+      },
+      {
+        title: 'Two Programs, Eight Championships',
+        type: 'card' as const,
+        content:
+          '<p><strong>Michigan State\'s titles:</strong> 1979 (Magic Johnson over Larry Bird — the most-watched college basketball game ever) and 2000 (Mateen Cleaves playing through an ankle injury to beat Florida 89-76). Izzo has also reached the title game in 2009 (lost to North Carolina). His 10 Final Fours are 3rd most all-time behind Wooden (12) and Krzyzewski (13).</p><p style="margin-top:.5rem;"><strong>UConn\'s titles:</strong> 1999 (Rip Hamilton over Duke as 9.5-point underdogs), 2004 (Emeka Okafor — the only school to win men\'s and women\'s titles the same year), 2011 (Kemba Walker\'s magical run — 5 Big East Tournament wins in 5 days), 2014 (Shabazz Napier as a 7-seed over Kentucky), 2023 (Hurley\'s first title as a 4-seed), and 2024 (every tournament game won by double digits, average margin 23.3 points — historically dominant).</p><p style="margin-top:.5rem;">These are two of the 8 programs with multiple men\'s basketball national championships. When they meet in March, the combined weight of history is almost overwhelming.</p>',
+      },
+      {
+        title: 'The Coaching Legacies',
+        type: 'card' as const,
+        content:
+          '<p><strong>Tom Izzo</strong> has been at Michigan State since 1995 — 31 seasons, 750+ wins, never a losing season. His tournament record: <strong>61-26 (.701), 10 Final Fours, 28 consecutive appearances</strong>. He was inducted into the Basketball Hall of Fame in 2016. His teams consistently outperform their seeds.</p><p style="margin-top:.5rem;"><strong>Dan Hurley</strong> arrived at UConn in 2018 and rebuilt from scratch. By 2023, he won the national title as a 4-seed. In 2024, he produced the most dominant tournament run in modern history. He turned down the Lakers that summer. His tournament record since 2023: <strong>15-1 in his last 16 games</strong>. At 53, he\'s building a dynasty.</p><p style="margin-top:.5rem;">Hurley has called Izzo "the most respected coach I\'ve tried to model myself after." Izzo counseled Hurley before the Lakers decision. Their mutual admiration is genuine — but in the Sweet 16, only one advances.</p>',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Michigan State',
+      links: [
+        { label: 'MSU Athletics — Spartans Defeat Louisville 77-69', url: 'https://msuspartans.com/news/2026/3/21/mens-basketball-spartans-headed-back-to-sweet-16-after-defeating-louisville-77-69-in-ncaa-tournament-second-round' },
+        { label: 'MSU Athletics — Spartans Overwhelm NDSU 92-67', url: 'https://msuspartans.com/news/2026/3/19/mens-basketball-no-3-seed-spartans-overwhelm-no-14-seed-north-dakota-state-in-ncaa-tournament-first-round-92-67' },
+        { label: 'SI — Michigan State Surging Into Sweet 16 Against UConn', url: 'https://www.si.com/college/michiganstate/spartans-surging-into-sweet-sixteen-against-uconn' },
+        { label: 'SI — 3 Things Fans Should Know About Sweet 16 Matchup', url: 'https://www.si.com/college/michiganstate/spartans-3-things-fans-should-know-about-sweet-16-matchup' },
+        { label: 'Detroit News — Fears Helps MSU Get Past Louisville', url: 'https://www.detroitnews.com/story/sports/college/michigan-state-university/2026/03/21/michigan-state-turns-back-louisville-to-dance-into-ncaa-tournament-sweet-16/89260466007/' },
+        { label: 'Detroit News — Coen Carr\'s Many Shining Moments', url: 'https://www.detroitnews.com/story/sports/college/michigan-state-university/2026/03/21/michigan-states-coen-carr-has-many-shining-moments-in-ncaa-tournament-win-over-louisville/89265957007/' },
+        { label: 'Detroit News — Hurley Calls It an Honor to Share Sweet 16 with Izzo', url: 'https://www.detroitnews.com/story/sports/college/michigan-state-university/spartans/2026/03/23/dan-hurley-says-its-an-honor-to-share-sweet-16-with-mentor-tom-izzo/89281458007/' },
+        { label: 'CBS Sports — Izzo Gave Hurley Advice Before Lakers Decision', url: 'https://www.cbssports.com/college-basketball/news/tom-izzo-dan-hurley-lakers-ncaa-tournament-sweet-16-michigan-state-uconn/' },
+        { label: 'WILX — Izzo Previews Sweet 16 vs. UConn', url: 'https://www.wilx.com/2026/03/23/tom-izzo-preview-msus-sweet-16-matchup-with-no-2-seed-uconn/' },
+        { label: 'Spokesman — Coen Carr Is Must-See March Madness TV', url: 'https://www.spokesman.com/stories/2026/mar/21/coen-carr-is-must-see-march-madness-tv-for-michiga/' },
+        { label: 'State News — Carr Delivers in Breakout', url: 'https://statenews.com/article/2026/03/coen-carr-delivers-in-long-awaited-breakout' },
+        { label: 'Sports Reference — 2025-26 MSU Stats', url: 'https://www.sports-reference.com/cbb/schools/michigan-state/men/2026.html' },
+        { label: 'MSU Athletics — Fears All-Big Ten First Team', url: 'https://msuspartans.com/news/2026/3/10/mens-basketball-jeremy-fears-jr-all-big-ten-conference-first-team-honors' },
+        { label: 'Wikipedia — Tom Izzo', url: 'https://en.wikipedia.org/wiki/Tom_Izzo' },
+      ],
+    },
+    {
+      heading: 'UConn',
+      links: [
+        { label: 'ESPN — UConn 73, UCLA 57 Game Recap', url: 'https://www.espn.com/mens-college-basketball/recap/_/gameId/401856559' },
+        { label: 'UConn Athletics — Karaban Brilliant as Huskies Advance to Sweet 16', url: 'https://uconnhuskies.com/news/2026/3/23/mens-basketball-karaban-brilliant-as-huskies-advance-to-sweet-16' },
+        { label: 'Hartford Courant — Demary Plays Through Pain, Sparks UConn', url: 'https://www.courant.com/2026/03/23/dom-amore-silas-demary-jr-plays-through-pain-and-sparks-uconn-men-back-to-sweet-16/' },
+        { label: 'ESPN — Reed\'s 31-27 Night Helps UConn Survive', url: 'https://www.espn.com/mens-college-basketball/story/_/id/48266296/tarris-reed-31-27-night-helps-uconn-survive-ncaa-tournament' },
+        { label: 'Hartford Courant — Reed Dominates vs. Furman', url: 'https://www.courant.com/2026/03/21/uconn-men-outlast-no-15-furman-82-71-in-ncaa-opener-thanks-to-epic-double-double-by-tarris-reed/' },
+        { label: 'Fox61 — Karaban Career Night Carries Huskies', url: 'https://www.fox61.com/article/sports/ncaa/uconn/uconn-mens-basketball/uconn-men-defeat-ucla-73-57-karabans-career-night-carries-huskies-to-sweet-16/520-e6de2c47-55e5-407e-8d11-fc07b15cc3b6' },
+        { label: 'Boston Herald — Karaban Among UConn Legends', url: 'https://www.bostonherald.com/2026/03/01/alex-karaban-cements-himself-among-uconn-legends-with-most-important-stat/' },
+        { label: 'The UConn Blog — Sweet 16 Opening Odds vs. Michigan State', url: 'https://www.theuconnblog.com/uconn-huskies-mens-basketball/59161/sweet-16-opening-odds-uconn-a-narrow-favorite-against-michigan-state' },
+        { label: 'Sports Reference — 2025-26 UConn Stats', url: 'https://www.sports-reference.com/cbb/schools/connecticut/men/2026.html' },
+        { label: 'NCAA.com — UConn Championships Complete History', url: 'https://www.ncaa.com/basketball-men/d1/uconn-mens-college-basketball-championships-complete-history' },
+        { label: 'Wikipedia — Dan Hurley', url: 'https://en.wikipedia.org/wiki/Dan_Hurley' },
+        { label: 'ESPN — Hurley Lakers Offer', url: 'https://www.espn.com/nba/story/_/id/40289529/sources-lakers-preparing-massive-offer-uconn-dan-hurley' },
+        { label: 'UConn Athletics — Demary Transfer Announcement', url: 'https://uconnhuskies.com/news/2025/4/3/mens-basketball-huskies-ink-top-transfer-silas-demary-jr' },
+        { label: 'MSU Athletics — Head-to-Head History vs. UConn', url: 'https://msuspartans.com/sports/mbball/opponent-history/connecticut-exhibition/73' },
+      ],
+    },
+  ],
+  footerText: 'Casual Fan Viewing Guide • Michigan State vs UConn • NCAA Sweet 16 • March 27, 2026',
+}
+
+export default game
