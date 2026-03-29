@@ -48,12 +48,12 @@ export default function SwipeNav({ currentSlug, children }: { currentSlug: strin
     <div ref={wrapperRef}>
       {children}
       {prevGame && (
-        <Link to={`/games/${prevGame.slug}`} className="swipe-nav-link swipe-nav-link--prev" title={`${prevGame.teams[0].name} vs ${prevGame.teams[1].name}`}>
+        <Link to={`/games/${prevGame.slug}`} className="swipe-nav-link swipe-nav-link--prev" title={prevGame.format === 'tournament' ? prevGame.title : `${prevGame.teams[0].name} vs ${prevGame.teams[1].name}`}>
           <span className="swipe-nav-arrow">&lsaquo;</span>
         </Link>
       )}
       {nextGame && (
-        <Link to={`/games/${nextGame.slug}`} className="swipe-nav-link swipe-nav-link--next" title={`${nextGame.teams[0].name} vs ${nextGame.teams[1].name}`}>
+        <Link to={`/games/${nextGame.slug}`} className="swipe-nav-link swipe-nav-link--next" title={nextGame.format === 'tournament' ? nextGame.title : `${nextGame.teams[0].name} vs ${nextGame.teams[1].name}`}>
           <span className="swipe-nav-arrow">&rsaquo;</span>
         </Link>
       )}

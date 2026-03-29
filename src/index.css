@@ -42,6 +42,19 @@ a:hover { color: var(--howard); text-decoration: underline; }
   gap: 1rem;
   overflow: hidden;
 }
+.banner-home {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 4px;
+  color: var(--text-dim);
+  text-decoration: none;
+  transition: color .15s, background .15s;
+}
+.banner-home:hover { color: var(--text); background: var(--bg-elevated); text-decoration: none; }
 .banner-brand {
   flex-shrink: 0;
   font-family: 'Source Sans 3', system-ui, sans-serif;
@@ -403,6 +416,40 @@ a:hover { color: var(--howard); text-decoration: underline; }
   background: var(--rule);
 }
 
+/* ===== TOURNAMENT HERO ===== */
+.masthead--tournament {
+  background: var(--bg-elevated);
+  text-align: center;
+}
+.tournament-hero-body {
+  padding: 2rem 1.5rem 1.5rem;
+}
+.tournament-hero-name {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: clamp(2rem, 7vw, 3.4rem);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  color: var(--panel-color);
+  margin: 0 0 .25rem;
+  line-height: 1.05;
+}
+.tournament-hero-course {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: clamp(.9rem, 2.5vw, 1.15rem);
+  color: var(--text-dim);
+  margin: 0 0 .5rem;
+}
+.tournament-hero-round {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: var(--text-muted);
+  margin: 0;
+}
+
 /* ===== SECTIONS ===== */
 .guide-section {
   max-width: 700px;
@@ -737,7 +784,66 @@ footer {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: .1em;
+  margin-bottom: 2.5rem;
+}
+
+/* -- Today's Events section -- */
+.home-today {
   margin-bottom: 3rem;
+}
+.home-today-heading {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .7rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  color: var(--accent, #c8102e);
+  text-align: left;
+  margin-bottom: .5rem;
+  padding-bottom: .5rem;
+  border-bottom: 2px solid var(--accent, #c8102e);
+}
+.home-today-games .home-game-link {
+  background: color-mix(in srgb, var(--accent, #c8102e) 4%, transparent);
+  border-radius: 6px;
+  padding: 1.25rem 1rem;
+  margin-bottom: .5rem;
+  border-bottom: none;
+}
+.home-today-games .home-game-link:first-child { border-top: none; }
+
+/* -- Section headings -- */
+.home-section-heading {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  color: var(--text-dim);
+  text-align: left;
+  margin-bottom: .25rem;
+}
+
+/* -- Event type badges -- */
+.home-event-badge {
+  display: inline-block;
+  font-size: .55rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  padding: .15em .5em;
+  border-radius: 3px;
+  margin-right: .5em;
+  vertical-align: middle;
+  position: relative;
+  top: -0.5px;
+}
+.home-event-badge--basketball {
+  background: #1a3c6e;
+  color: #fff;
+}
+.home-event-badge--golf {
+  background: #004225;
+  color: #fff;
 }
 .home-games {
   display: flex;
@@ -772,9 +878,28 @@ footer {
   text-transform: uppercase;
   margin-bottom: .25rem;
 }
+.home-game-round {
+  color: var(--text-dim);
+  font-size: .6em;
+  font-weight: 700;
+  letter-spacing: .02em;
+}
 .home-game-info {
   font-size: .75rem;
   color: var(--text-dim);
+}
+
+/* -- PGA score bug variant -- */
+.score-bug--pga .bug-pga-title {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+}
+.score-bug--pga .bug-name {
+  text-transform: none;
+  font-size: .7rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
 }
 
 /* ===== NOT FOUND ===== */

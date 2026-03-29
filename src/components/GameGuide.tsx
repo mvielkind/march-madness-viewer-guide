@@ -1,11 +1,13 @@
 import type { CSSProperties } from 'react'
 import type { GameData } from '../types/game.ts'
 import Hero from './Hero.tsx'
+import TournamentHero from './TournamentHero.tsx'
 import Callout from './Callout.tsx'
 import StakeCard from './StakeCard.tsx'
 import StyleOfPlayCard from './StyleOfPlayCard.tsx'
 import KeyItem from './KeyItem.tsx'
 import PredictionSection from './PredictionSection.tsx'
+import TournamentPredictionSection from './TournamentPredictionSection.tsx'
 import PlayerCard from './PlayerCard.tsx'
 import FactCard from './FactCard.tsx'
 import Timeline from './Timeline.tsx'
@@ -21,25 +23,23 @@ function hexToRgb(hex: string): string {
 }
 
 export default function GameGuide({ game }: { game: GameData }) {
+  const isTournament = game.format === 'tournament'
   const teamA = game.teams[0]
   const teamB = game.teams[1]
 
   const cssVars = {
-    '--team-a-primary': teamA.colors.primary,
-    '--team-a-primary-rgb': hexToRgb(teamA.colors.primary),
-    '--team-b-primary': teamB.colors.primary,
-    '--team-b-primary-rgb': hexToRgb(teamB.colors.primary),
+    '--team-a-primary': isTournament ? game.tournament!.colors.primary : teamA.colors.primary,
+    '--team-a-primary-rgb': hexToRgb(isTournament ? game.tournament!.colors.primary : teamA.colors.primary),
+    '--team-b-primary': isTournament ? game.tournament!.colors.primary : teamB.colors.primary,
+    '--team-b-primary-rgb': hexToRgb(isTournament ? game.tournament!.colors.primary : teamB.colors.primary),
   } as CSSProperties
-
-  const teamAPlayers = game.players.filter((p) => p.team === 'a')
-  const teamBPlayers = game.players.filter((p) => p.team === 'b')
 
   return (
     <div style={cssVars}>
-      <Hero game={game} />
+      {isTournament ? <TournamentHero game={game} /> : <Hero game={game} />}
 
       <section className="guide-section guide-stakes">
-        <h2>Why This Game Matters</h2>
+        <h2>{isTournament ? 'The Stakes' : 'Why This Game Matters'}</h2>
         <Callout html={game.stakes.callout} />
         {game.stakes.cards.map((s) => (
           <StakeCard key={s.label} stake={s} />
@@ -47,16 +47,18 @@ export default function GameGuide({ game }: { game: GameData }) {
       </section>
 
       <section className="guide-section guide-styles">
-        <h2>How They Play</h2>
+        <h2>{isTournament ? 'How to Win This Course' : 'How They Play'}</h2>
         <div className="style-blocks-row">
-          {game.styles.map((s) => (
-            <StyleOfPlayCard key={s.team} style={s} game={game} />
+          {game.styles.map((s, i) => (
+            isTournament
+              ? <TournamentStyleCard key={i} style={s} />
+              : <StyleOfPlayCard key={s.team} style={s} game={game} />
           ))}
         </div>
       </section>
 
       <section className="guide-section guide-keys">
-        <h2>Keys to the Game</h2>
+        <h2>{isTournament ? 'Keys to the Tournament' : 'Keys to the Game'}</h2>
         {game.keys.map((k, i) => (
           <KeyItem key={i} item={k} index={i} />
         ))}
@@ -64,21 +66,33 @@ export default function GameGuide({ game }: { game: GameData }) {
 
       <section className="guide-section guide-prediction">
         <h2>Prediction</h2>
-        <PredictionSection prediction={game.prediction} teamAName={teamA.name} teamBName={teamB.name} />
+        {isTournament && game.tournamentPrediction ? (
+          <TournamentPredictionSection prediction={game.tournamentPrediction} />
+        ) : (
+          <PredictionSection prediction={game.prediction} teamAName={teamA.name} teamBName={teamB.name} />
+        )}
       </section>
 
       <section className="guide-section guide-players">
-        <h2>Players to Watch</h2>
-        <h3 className="team-a-heading" style={{ color: teamA.colors.primary, borderBottomColor: teamA.colors.primary }}>{teamA.name} {teamA.mascot}</h3>
-        {teamAPlayers.map((p) => (
-          <PlayerCard key={p.name} player={p} />
-        ))}
-        <h3 className="team-b-heading" style={{ color: teamB.colors.primary, borderBottomColor: teamB.colors.primary }}>
-          {teamB.name} {teamB.mascot}
-        </h3>
-        {teamBPlayers.map((p) => (
-          <PlayerCard key={p.name} player={p} />
-        ))}
+        <h2>{isTournament ? 'Players to Watch' : 'Players to Watch'}</h2>
+        {isTournament ? (
+          game.players.map((p) => (
+            <PlayerCard key={p.name} player={p} />
+          ))
+        ) : (
+          <>
+            <h3 className="team-a-heading" style={{ color: teamA.colors.primary, borderBottomColor: teamA.colors.primary }}>{teamA.name} {teamA.mascot}</h3>
+            {game.players.filter((p) => p.team === 'a').map((p) => (
+              <PlayerCard key={p.name} player={p} />
+            ))}
+            <h3 className="team-b-heading" style={{ color: teamB.colors.primary, borderBottomColor: teamB.colors.primary }}>
+              {teamB.name} {teamB.mascot}
+            </h3>
+            {game.players.filter((p) => p.team === 'b').map((p) => (
+              <PlayerCard key={p.name} player={p} />
+            ))}
+          </>
+        )}
       </section>
 
       <section className="guide-section guide-facts">
@@ -110,6 +124,17 @@ export default function GameGuide({ game }: { game: GameData }) {
       </section>
 
       <Footer text={game.footerText} />
+    </div>
+  )
+}
+
+function TournamentStyleCard({ style }: { style: { title: string; bullets: string[] } }) {
+  return (
+    <div className="style-col">
+      <p className="style-subtitle">{style.title}</p>
+      {style.bullets.map((b, i) => (
+        <p key={i} className="style-point" dangerouslySetInnerHTML={{ __html: b }} />
+      ))}
     </div>
   )
 }

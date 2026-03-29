@@ -2,22 +2,34 @@ import { Link, useParams } from 'react-router-dom'
 import { useRef, useState, useEffect, useCallback, useMemo } from 'react'
 import { games } from '../data/games/index.ts'
 
-const rounds = ['All Rounds', ...Array.from(new Set(games.map((g) => g.round)))]
+const sports = ['All Sports', 'College Basketball', 'PGA Tour'] as const
+
+function getToday(): string {
+  const d = new Date()
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+}
+
+function isPga(slug: string): boolean {
+  return slug.startsWith('pga-')
+}
 
 export default function ScoreBanner() {
   const { slug } = useParams<{ slug: string }>()
   const gamesRef = useRef<HTMLDivElement>(null)
   const [canScrollLeft, setCanScrollLeft] = useState(false)
   const [canScrollRight, setCanScrollRight] = useState(false)
-  const [selectedRound, setSelectedRound] = useState('All Rounds')
+  const [selectedSport, setSelectedSport] = useState<string>('All Sports')
 
-  const filteredGames = useMemo(
-    () =>
-      selectedRound === 'All Rounds'
-        ? games
-        : games.filter((g) => g.round === selectedRound),
-    [selectedRound],
-  )
+  const filteredGames = useMemo(() => {
+    const today = getToday()
+    return games.filter((g) => {
+      const dateStr = g.tipTime.slice(0, 10)
+      if (dateStr < today) return false
+      if (selectedSport === 'PGA Tour') return isPga(g.slug)
+      if (selectedSport === 'College Basketball') return !isPga(g.slug)
+      return true
+    })
+  }, [selectedSport])
 
   const closestSlug = useMemo(() => {
     if (filteredGames.length === 0) return null
@@ -63,7 +75,6 @@ export default function ScoreBanner() {
     const behavior = isInitialMount.current ? 'instant' as const : 'smooth' as const
     isInitialMount.current = false
 
-    // Small delay to let the DOM update after filter change
     const t = setTimeout(() => {
       const el = gamesRef.current?.querySelector(`[data-slug="${targetSlug}"]`)
       if (el) {
@@ -72,7 +83,7 @@ export default function ScoreBanner() {
       updateArrows()
     }, 50)
     return () => clearTimeout(t)
-  }, [selectedRound, slug, closestSlug, updateArrows])
+  }, [selectedSport, slug, closestSlug, updateArrows])
 
   const scroll = (dir: number) => {
     gamesRef.current?.scrollBy({ left: dir * 200, behavior: 'smooth' })
@@ -81,15 +92,18 @@ export default function ScoreBanner() {
   return (
     <nav className="score-banner">
       <div className="score-banner-inner">
+        <Link to="/" className="banner-home" aria-label="Home">
+          <svg viewBox="0 0 20 20" fill="currentColor" width="16" height="16"><path d="M10 2.5L2 9h2.5v7h4v-4h3v4h4V9H18L10 2.5z"/></svg>
+        </Link>
         <div className="banner-brand">GUIDES</div>
         <select
           className="banner-round-select"
-          value={selectedRound}
-          onChange={(e) => setSelectedRound(e.target.value)}
+          value={selectedSport}
+          onChange={(e) => setSelectedSport(e.target.value)}
         >
-          {rounds.map((r) => (
-            <option key={r} value={r}>
-              {r}
+          {sports.map((s) => (
+            <option key={s} value={s}>
+              {s}
             </option>
           ))}
         </select>
@@ -105,14 +119,38 @@ export default function ScoreBanner() {
           )}
           <div className="banner-games" ref={gamesRef}>
             {filteredGames.map((game) => {
-              const [teamA, teamB] = game.teams
+              const pga = isPga(game.slug)
               const active = slug === game.slug
+              const now = !slug && game.slug === closestSlug
+
+              if (pga) {
+                const [tournamentName] = game.title.split(' — ')
+                return (
+                  <Link
+                    key={game.slug}
+                    to={`/games/${game.slug}`}
+                    data-slug={game.slug}
+                    className={`score-bug score-bug--pga${active ? ' score-bug--active' : ''}${now ? ' score-bug--now' : ''}`}
+                  >
+                    <div className="bug-pga-title">
+                      <span
+                        className="bug-color"
+                        style={{ background: game.teams[0].colors.primary }}
+                      />
+                      <span className="bug-name">{tournamentName}</span>
+                    </div>
+                    <div className="bug-meta">{game.round} &bull; {game.date}</div>
+                  </Link>
+                )
+              }
+
+              const [teamA, teamB] = game.teams
               return (
                 <Link
                   key={game.slug}
                   to={`/games/${game.slug}`}
                   data-slug={game.slug}
-                  className={`score-bug${active ? ' score-bug--active' : ''}${!slug && game.slug === closestSlug ? ' score-bug--now' : ''}`}
+                  className={`score-bug${active ? ' score-bug--active' : ''}${now ? ' score-bug--now' : ''}`}
                 >
                   <div className="bug-teams">
                     <div className="bug-team">
