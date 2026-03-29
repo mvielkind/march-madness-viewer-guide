@@ -1,0 +1,311 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'pga-houston-open-round-4-2026',
+  title: 'Texas Children\'s Houston Open \u2014 Final Round',
+  eventTag: 'PGA Tour \u2022 Final Round \u2022 Sunday, March 29',
+  date: 'Sunday, March 29, 2026',
+  round: 'Final Round',
+  tipTime: '2026-03-29T13:00',
+  venue: 'Memorial Park Golf Course \u2022 Par 70 \u2022 7,475 yards \u2022 Golf Channel 1-3 PM / NBC 3-6 PM ET',
+  extraInfo: '<strong>Final round in progress.</strong> Woodland (-18) leads Hojgaard (-17) by 1. Six-shot gap to 3rd. Last pairing: 12:55 PM ET with Min Woo Lee.',
+  format: 'tournament',
+  tournament: {
+    name: "Texas Children's Houston Open",
+    courseName: 'Memorial Park Golf Course \u2022 Houston, TX',
+    colors: { primary: '#004225', secondary: '#FFD700', name: 'houston-open' },
+  },
+  teams: [
+    {
+      name: 'Woodland',
+      mascot: '54-Hole Leader',
+      seed: '-18',
+      record: '64-63-65 (192) \u2022 Seeking first win since 2019 U.S. Open',
+      colors: { primary: '#004225', secondary: '#FFD700', name: 'woodland' },
+      className: 'woodland',
+    },
+    {
+      name: 'Hojgaard',
+      mascot: 'The Challenger',
+      seed: '-17',
+      record: '68-62-63 (193) \u2022 Historic 62-63 streak',
+      colors: { primary: '#C8102E', secondary: '#FFFFFF', name: 'hojgaard' },
+      className: 'hojgaard',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'The final round is underway. <strong>Gary Woodland (-18)</strong> leads <strong>Nicolai Hojgaard (-17)</strong> by one shot in what has become a <strong>two-man duel</strong>. Woodland is seeking his first win since the <strong>2019 U.S. Open</strong> \u2014 nearly seven years and one brain surgery ago. Hojgaard produced the <strong>best back-to-back rounds in the 78-year history of the Houston Open</strong> (62-63). The gap to third is six shots. Sunday conditions: sunny, upper 70s, light winds. This is the most emotionally charged final round of the 2026 PGA Tour season.',
+    cards: [
+      {
+        label: 'Woodland\'s Comeback Bid',
+        value: 'Gary Woodland at -18 has his <strong>first 54-hole lead since the 2019 U.S. Open</strong>. Brain surgery in 2023. PTSD diagnosis in 2026. Missed 4 of 6 cuts this season. And now, 18 holes from his first win in nearly seven years. Wearing custom shoes designed by Ceci, a young Texas Children\'s Hospital patient.',
+      },
+      {
+        label: 'Hojgaard\'s Historic Chase',
+        value: 'Nicolai Hojgaard\'s 62-63 (Rounds 2-3) are the <strong>best consecutive rounds in the 78-year history of the Houston Open</strong>. The 23-year-old Dane trails by one. A win would be his first on the PGA Tour.',
+      },
+      {
+        label: 'The Two-Horse Race',
+        value: 'Min Woo Lee and Michael Thorbjornsen are T3 at -12 \u2014 <strong>six shots back</strong>. This is essentially match play between Woodland and Hojgaard. They tee off together at <strong>12:55 PM ET</strong> in the final pairing with Min Woo Lee.',
+      },
+      {
+        label: 'Masters Stakes for Thorbjornsen',
+        value: 'Michael Thorbjornsen (OWGR 56th, T3 at -12) needs a T5 or better to crack the <strong>top 50 and earn his first Masters invite</strong>. He\'s carded just one bogey in 54 holes. Every shot on Sunday has Augusta implications.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Woodland: Experience, Emotion, Distance',
+      bullets: [
+        '<strong>Course knowledge:</strong> Five appearances at Memorial Park including a runner-up in 2025. Knows every contour, runoff, and pin position.',
+        '<strong>Driving distance:</strong> Leads the PGA Tour in driving distance at age 41. His length on the closing par 4s (14: 529 yds, 18: 503 yds) and par 5 (16: 616 yds) is a decisive advantage.',
+        '<strong>Emotional fuel:</strong> The Ceci connection, the crowd, the comeback narrative \u2014 all pushing him forward. But emotion cuts both ways under Sunday pressure.',
+        '<strong>The question mark:</strong> He hasn\'t protected a 54-hole lead since 2019. His recent form (4 missed cuts in 6 events) raises stamina questions for a 41-year-old.',
+      ],
+    },
+    {
+      team: 'a',
+      title: 'Hojgaard: Youth, Ball-Striking, Momentum',
+      bullets: [
+        '<strong>In the zone:</strong> The 62-63 streak suggests a player locked in. When ball-striking reaches this level, course familiarity becomes less important.',
+        '<strong>Best overall ball-striker:</strong> Averaging 1.50+ SG: Total per round in 2026 \u2014 one of only seven players above that mark on Tour. His iron play has been surgical.',
+        '<strong>No emotional baggage:</strong> At 23, Hojgaard doesn\'t carry the weight of a comeback narrative. He can play free, without the pressure of a story.',
+        '<strong>The question mark:</strong> First time at Memorial Park. First time chasing a PGA Tour win. Does the pressure of the moment affect a 23-year-old who\'s never been here before?',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'The par-5 16th hole \u2014 where the tournament will be decided.',
+      description: 'The 616-yard par-5 16th with water guarding the peninsula green is the ultimate risk-reward hole. Both players can reach it in two. An eagle here could blow the tournament open. A water ball could end someone\'s chances. Expect this hole to produce the decisive moment of the championship.',
+    },
+    {
+      title: 'First bogey \u2014 who blinks first?',
+      description: 'In a tight final-round duel, the first bogey often determines the outcome. Memorial Park\'s long par 4s (Holes 1, 4, 14, 18) are bogey factories. The player who can avoid the first big number while applying birdie pressure will have the psychological edge.',
+    },
+    {
+      title: 'The 503-yard 18th \u2014 can either player birdie the closer?',
+      description: 'Memorial Park\'s finishing hole is a 503-yard par 4 with a large false front. It played over par all week. If the tournament reaches 18 with the players tied, a birdie here would be heroic. A bogey would be devastating. The false front has swallowed approach shots all week.',
+    },
+    {
+      title: 'Crowd factor \u2014 is the gallery pulling for one player?',
+      description: 'The Houston crowd is firmly behind Woodland \u2014 the brain surgery survivor, the Ceci connection, the Texas Children\'s Hospital tie-in. Hojgaard must play against the gallery\'s emotion. Can he stay focused when every Woodland birdie produces a roar and every Hojgaard putt falls silent?',
+    },
+    {
+      title: 'Sunday weather: calm conditions favor both players equally.',
+      description: 'Mostly sunny, upper 70s, winds only 15 km/h to the southeast. No weather advantage for either player. This will be decided purely on execution and nerve.',
+    },
+  ],
+  prediction: {
+    summary: 'This is the most compelling final-round matchup of the 2026 PGA Tour season. Woodland\'s emotional story and course knowledge vs. Hojgaard\'s pure ball-striking and youthful fearlessness. The one-shot margin means every birdie, every bogey, every putt on these contoured greens matters. The par-5 16th is likely to be the deciding hole. Woodland has the crowd, the narrative, and the experience of having won a major from the final pairing. Hojgaard has the better current ball-striking form and no emotional weight. This could come down to the 72nd hole \u2014 or a playoff.',
+    phases: [
+      {
+        title: 'Front Nine \u2014 Testing the Nerve',
+        description: 'The demanding 522-yard opener sets the tone. Whoever birdies the par-5 3rd first grabs momentum. The par-3 2nd and par-3 9th are short-iron tests of precision. Expect both players to be cautious early, feeling out their games. A 1-2 shot lead at the turn for either player would be significant.',
+      },
+      {
+        title: 'The Par-5 8th \u2014 Early Separation?',
+        description: 'The 625-yard par 5 is the longest on the course but reachable for both bombers. An eagle here could create a two-shot swing. Woodland\'s driving distance gives him the edge in a length-dependent situation.',
+      },
+      {
+        title: 'Back Nine \u2014 The Championship Stretch',
+        description: 'Holes 14-18 determine everything. The 529-yard 14th, the "beastly" 155-yard 15th, the risk-reward 616-yard 16th, the tight 405-yard 17th, and the 503-yard closer. Four different tests in five holes. The player who navigates this stretch without a bogey wins.',
+      },
+      {
+        title: 'The 72nd Hole \u2014 503 Yards of Drama',
+        description: 'If the players are tied coming to 18, expect both to find the fairway but face demanding approach shots into a green with a massive false front. Two-putt pars are the likely outcome, potentially sending this to a playoff. But if someone is trailing by one, the 18th offers just enough length for a heroic birdie attempt.',
+      },
+    ],
+    projectedScore: {
+      teamA: -22,
+      teamB: -21,
+      rationale: 'Woodland\'s course knowledge and emotional momentum give him a slight edge in the final-round projection. A 66 (-4) would get him to -22, breaking Min Woo Lee\'s tournament record of -20 from 2025. Hojgaard needs a 64 (-6) to match. The calm conditions support both players going low. This has all the ingredients for a tournament-record finish.',
+    },
+  },
+  tournamentPrediction: {
+    summary: 'This is the most compelling final-round matchup of the 2026 PGA Tour season. Woodland\'s emotional story and course knowledge vs. Hojgaard\'s pure ball-striking and youthful fearlessness. The one-shot margin means every birdie, every bogey, every putt on these contoured greens matters. The par-5 16th is likely to be the deciding hole.',
+    phases: [
+      {
+        title: 'Front Nine \u2014 Testing the Nerve',
+        description: 'The demanding 522-yard opener sets the tone. Whoever birdies the par-5 3rd first grabs momentum. Expect both players to be cautious early, feeling out their games. A 1-2 shot lead at the turn for either player would be significant.',
+      },
+      {
+        title: 'The Par-5 8th \u2014 Early Separation?',
+        description: 'The 625-yard par 5 is the longest on the course but reachable for both bombers. An eagle here could create a two-shot swing. Woodland\'s driving distance gives him the edge.',
+      },
+      {
+        title: 'Back Nine \u2014 The Championship Stretch',
+        description: 'Holes 14-18 determine everything. The 529-yard 14th, the "beastly" 155-yard 15th, the risk-reward 616-yard 16th, the tight 405-yard 17th, and the 503-yard closer. The player who navigates this stretch without a bogey wins.',
+      },
+      {
+        title: 'The 72nd Hole \u2014 503 Yards of Drama',
+        description: 'If the players are tied coming to 18, expect both to find the fairway but face demanding approach shots into a green with a massive false front. This could go to a playoff.',
+      },
+    ],
+    projectedWinner: {
+      name: 'Gary Woodland',
+      score: '-22 (258)',
+      rationale: 'Woodland\'s course knowledge and emotional momentum give him a slight edge. A final-round 66 (-4) would get him to -22, breaking Min Woo Lee\'s tournament record. The calm conditions support both players going low.',
+    },
+  },
+  players: [
+    {
+      team: 'a',
+      name: 'Gary Woodland',
+      stats: '-18 (54-hole leader) \u2022 64-63-65 \u2022 Leads Tour in driving distance',
+      meta: 'Age 41 \u2022 2019 U.S. Open champion \u2022 First lead since Pebble Beach',
+      bio: '<strong>Eighteen holes from completing the most emotional comeback in recent PGA Tour memory.</strong> Brain surgery in 2023. PTSD diagnosis in 2026. Missed 4 of 6 cuts. And now, one round from his first win since the <strong>2019 U.S. Open</strong> \u2014 nearly seven years ago. The crowd is behind him. The custom shoes designed by Ceci are on his feet. He was runner-up here last year. He knows this course. <strong>"I hope somebody that\'s struggling sees me out here still fighting and battling and trying to live my dreams."</strong>',
+    },
+    {
+      team: 'a',
+      name: 'Min Woo Lee',
+      stats: '-12 (T3) \u2022 Defending champion \u2022 In final pairing',
+      meta: 'Age 26 \u2022 Australian \u2022 Won at -20 in 2025',
+      bio: 'Playing in the <strong>final pairing</strong> with Woodland and Hojgaard despite being six shots back. The defending champion has the course knowledge and experience to make a late charge. His 2025 win proves he can close at Memorial Park.',
+    },
+    {
+      team: 'a',
+      name: 'Michael Thorbjornsen',
+      stats: '-12 (T3) \u2022 1 bogey in 54 holes \u2022 OWGR #56',
+      meta: 'Age 23 \u2022 Stanford \u2022 Masters invite on the line',
+      bio: 'Every shot matters for Augusta. The Stanford product needs a <strong>T5 or better</strong> to earn his first Masters invitation. His one-bogey-in-54-holes stat line is extraordinary on a course with five 490+ yard par 4s. Playing the most important round of his career.',
+    },
+    {
+      team: 'a',
+      name: 'Jason Day',
+      stats: '-11 (T5) \u2022 Former world #1 \u2022 2015 PGA champion',
+      meta: 'Age 38 \u2022 Australian \u2022 Seven shots back',
+      bio: 'The former world No. 1 is T5 at -11. Too far back to win but a final-round charge could produce a top-5 finish. Two top-15s at Memorial Park in prior years.',
+    },
+    {
+      team: 'a',
+      name: 'Nicolai Hojgaard',
+      stats: '-17 (Solo 2nd) \u2022 68-62-63 \u2022 1 shot back',
+      meta: 'Age 23 \u2022 Danish \u2022 Historic 62-63 back-to-back rounds',
+      bio: 'The 23-year-old Dane trails by one with 18 holes to play. His <strong>back-to-back rounds of 62-63</strong> are the best consecutive rounds in the 78-year history of the Houston Open. One of the six best ball-strikers on the 2026 PGA Tour. A win would be his <strong>first on the PGA Tour</strong>. Twin brother Rasmus is watching from home in Denmark.',
+    },
+    {
+      team: 'a',
+      name: 'Sudarshan Yellamaraju',
+      stats: '-10 (T7) \u2022 Self-taught via YouTube \u2022 PGA Tour rookie',
+      meta: 'Age 23 \u2022 Canadian (born India) \u2022 T5 at The Players',
+      bio: 'The self-taught PGA Tour rookie is T7 at -10. Too far back to win but another top-10 would validate his remarkable journey from YouTube golf lessons to the PGA Tour.',
+    },
+    {
+      team: 'a',
+      name: 'Sahith Theegala',
+      stats: '-10 (T7) \u2022 Fan favorite \u2022 USC alum',
+      meta: 'Age 27 \u2022 Flew in from TGL finals',
+      bio: 'Eight shots back but playing solid, entertaining golf. The fan favorite flew in from the TGL finals earlier in the week and has been competitive all four days.',
+    },
+    {
+      team: 'a',
+      name: 'Bronson Burgoon',
+      stats: '-8 (T12) \u2022 The Woodlands native \u2022 Texas A&M alum',
+      meta: 'Age 38 \u2022 Playing 30 minutes from home',
+      bio: 'The hometown hero from The Woodlands is having the week of his career at 38. T12 at -8, playing 30 minutes from where he grew up and played junior golf. The Houston crowd has adopted him alongside Woodland.',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '\uD83C\uDFC6',
+      title: 'Seven Years Since His Last Win',
+      body: 'If Woodland wins, it would be his first victory since the <strong>2019 U.S. Open at Pebble Beach</strong> \u2014 2,557 days between wins.',
+    },
+    {
+      emoji: '\uD83D\uDCCA',
+      title: 'Record Watch',
+      body: 'The Memorial Park scoring record is -20 (260) by Min Woo Lee (2025). Woodland at -18 needs a 62 to tie it. A 64 or 65 would still produce an elite -22 to -23 finish.',
+    },
+    {
+      emoji: '\uD83D\uDC6F',
+      title: 'Twin Watching',
+      body: 'Nicolai Hojgaard\'s twin brother Rasmus \u2014 also a PGA Tour player \u2014 is following from Denmark. Their mother was a golfer too.',
+    },
+    {
+      emoji: '\uD83D\uDC5F',
+      title: 'Ceci\'s Shoes: Round 4',
+      body: 'Woodland\'s custom shoes designed by Ceci will be on his feet for the 72nd and final time this week.',
+    },
+    {
+      emoji: '\u26F3',
+      title: 'Hole 16: The Swing Hole',
+      body: 'The 616-yard par-5 16th with its peninsula green and water hazard is the most likely spot for a decisive eagle or birdie swing.',
+    },
+    {
+      emoji: '\uD83C\uDDFB\uD83C\uDDEA',
+      title: 'Hometown Crowd',
+      body: 'Between Woodland (the emotional favorite), Burgoon (The Woodlands native), and Vegas (Houston resident), the local crowd has plenty of players to root for.',
+    },
+    {
+      emoji: '\uD83C\uDF1E',
+      title: 'Perfect Conditions',
+      body: 'Sunday forecast: mostly sunny, upper 70s, 1% rain chance, light winds. Perfect golf weather for the final round.',
+    },
+    {
+      emoji: '\uD83E\uDDE0',
+      title: 'PTSD to Champion?',
+      body: 'If Woodland wins, it would be one of the most remarkable comeback stories in golf history: brain surgery, PTSD, and a seven-year winning drought all overcome.',
+    },
+    {
+      emoji: '\uD83C\uDFAF',
+      title: 'Thorbjornsen\'s Augusta Dream',
+      body: 'Michael Thorbjornsen needs a T5 to earn his first Masters invitation. The Masters starts in exactly two weeks.',
+    },
+    {
+      emoji: '\uD83D\uDCF1',
+      title: 'YouTube to the PGA Tour',
+      body: 'Sudarshan Yellamaraju, T7, still sends swing videos to his father for coaching advice. No formal swing coach. Learned from YouTube.',
+    },
+  ],
+  history: {
+    callout: 'The Houston Open has been played since 1946. Today, Gary Woodland seeks to join Byron Nelson, Arnold Palmer, Vijay Singh, and Tony Finau on the winners list. A victory would be the most emotionally resonant win in recent PGA Tour history.',
+    subsections: [
+      {
+        title: 'What a Woodland Win Would Mean',
+        type: 'card' as const,
+        content: '<p>If Gary Woodland wins the 2026 Houston Open, he would become the <strong>oldest winner at Memorial Park</strong> (41), the first winner to have undergone <strong>brain surgery</strong> during his career, and the first champion to have publicly discussed a <strong>PTSD diagnosis</strong> before winning. His $1,782,000 check would be his first since the 2019 U.S. Open \u2014 a span of <strong>2,557 days</strong>. The Texas Children\'s Hospital connection \u2014 the tournament\'s title sponsor and Ceci\'s hospital \u2014 would make the moment even more poignant.</p>',
+      },
+      {
+        title: 'Sunday Pairings & Tee Times',
+        type: 'card' as const,
+        content: '<p><strong>Final Group (12:55 PM ET):</strong> Gary Woodland (-18), Nicolai Hojgaard (-17), Min Woo Lee (-12)<br><strong>TV Coverage:</strong> Golf Channel 1-3 PM ET, then NBC 3-6 PM ET<br><strong>Streaming:</strong> PGA Tour Live on ESPN+ from 8:15 AM ET</p>',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Final Round Coverage',
+      links: [
+        { label: 'Golf Channel \u2014 Final Round Tee Times', url: 'https://www.golfchannel.com/pga-tour/news/houston-open-2026-how-to-watch-final-round-tee-times-groupings' },
+        { label: 'Golf.com \u2014 Sunday Tee Times', url: 'https://golf.com/news/2026-texas-childrens-houston-open-sunday-tee-times-round-4/' },
+        { label: 'ESPN \u2014 Leaderboard', url: 'https://www.espn.com/golf/leaderboard/_/tournamentId/401811939' },
+        { label: 'PGA Tour \u2014 Leaderboard', url: 'https://www.pgatour.com/leaderboard' },
+      ],
+    },
+    {
+      heading: 'Storylines & Analysis',
+      links: [
+        { label: 'CBS Sports \u2014 R3 Leaderboard & Analysis', url: 'https://www.cbssports.com/golf/news/houston-open-2026-leaderboard-gary-woodland-nicolai-hojgaard-round-3/' },
+        { label: 'PGA Tour \u2014 Thorbjornsen Masters Chase', url: 'https://www.pgatour.com/article/news/latest/2026/03/28/guys-to-watch-texas-childrens-houston-open-michael-thorbjornsen-masters-qualifying' },
+        { label: 'Heavy \u2014 Woodland Honoring Ceci', url: 'https://heavy.com/sports/golf/gary-woodland-leads-houston-honoring-ceci/' },
+      ],
+    },
+  ],
+  footerText: 'Texas Children\'s Houston Open 2026 \u2022 Final Round \u2022 Sunday, March 29 \u2022 NBC 3-6 PM ET \u2022 Woodland -18 vs Hojgaard -17',
+}
+
+export default game

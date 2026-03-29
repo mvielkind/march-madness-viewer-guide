@@ -1,0 +1,346 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'pga-houston-open-preview-2026',
+  title: 'Texas Children\'s Houston Open — 2026 Tournament Preview',
+  eventTag: 'PGA Tour \u2022 FedExCup \u2022 Masters Tune-Up',
+  date: 'Thursday\u2013Sunday, March 26\u201329, 2026',
+  round: 'Tournament Preview',
+  tipTime: '2026-03-26T15:00',
+  venue: 'Memorial Park Golf Course, Houston, TX \u2022 Golf Channel / NBC',
+  extraInfo: '<strong>$9.9M purse</strong> \u2022 Par 70, 7,475 yards \u2022 Defending champion: Min Woo Lee \u2022 Final week to qualify for <strong>the Masters</strong> via OWGR top 50',
+  format: 'tournament',
+  tournament: {
+    name: "Texas Children's Houston Open",
+    courseName: 'Memorial Park Golf Course \u2022 Houston, TX',
+    colors: { primary: '#004225', secondary: '#FFD700', name: 'houston-open' },
+  },
+  teams: [
+    {
+      name: 'Favorites',
+      mascot: 'Top Contenders',
+      seed: 'World Top 50',
+      record: '20 top-50 OWGR players in field',
+      colors: { primary: '#004225', secondary: '#FFD700', name: 'favorites' },
+      className: 'favorites',
+    },
+    {
+      name: 'Dark Horses',
+      mascot: 'Sleepers & Value',
+      seed: 'Course Fit',
+      record: 'Stats + history say watch out',
+      colors: { primary: '#1C3A5F', secondary: '#FFFFFF', name: 'darkhorse' },
+      className: 'darkhorse',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'The Texas Children\'s Houston Open is the <strong>last chance to punch a ticket to Augusta National</strong>. Players ranked near the OWGR top-50 cutoff\u2014including Michael Thorbjornsen, Rickie Fowler, and Pierceson Coody\u2014are playing for more than a $1.78M check: they\'re playing for a Masters invitation. Memorial Park\'s Tom Doak-redesigned layout rewards bombers and elite iron play, but the biggest story is <strong>Gary Woodland\'s emotional comeback</strong>\u2014the 2019 U.S. Open champion, who had brain surgery in 2023 and was diagnosed with PTSD in 2026, leads by one entering Sunday while wearing custom shoes honoring a young Texas Children\'s Hospital patient. World No. 1 Scottie Scheffler withdrew on Tuesday, blowing the field wide open.',
+    cards: [
+      {
+        label: 'Masters Qualifying',
+        value:
+          'This is the <strong>final week</strong> to qualify for the Masters via the OWGR top 50. <strong>Michael Thorbjornsen</strong> (56th) needs a T5 or better to earn his first Augusta invite\u2014he\'s T3 entering Sunday. <strong>Rickie Fowler</strong> (61st) missed the cut and must now <strong>win</strong> next week\'s Valero Texas Open. <strong>Pierceson Coody</strong>, grandson of 1971 Masters champ Charles Coody, withdrew with a back injury at 51st in the world\u2014heartbreaking timing.',
+      },
+      {
+        label: 'FedExCup & Career Stakes',
+        value:
+          'The winner earns <strong>500 FedExCup points, $1,782,000, and 48 OWGR points</strong>, plus invitations to the Masters, PGA Championship, The Sentry (2027), and remaining 2026 Signature Events. For Gary Woodland, a win would be his first since the <strong>2019 U.S. Open</strong>\u2014nearly seven years and one brain surgery ago. For Nicolai Hojgaard, it would be a first PGA Tour victory in just his third start of 2026.',
+      },
+      {
+        label: 'The Woodland Story',
+        value:
+          'Gary Woodland had <strong>brain surgery in September 2023</strong> to remove a lesion. He missed 4 of his first 6 cuts in 2026. In March, he publicly revealed a <strong>PTSD diagnosis</strong>. This week, he\'s wearing custom shoes designed by <strong>Ceci</strong>, a young girl who\'s battled a brain tumor for seven years through Texas Children\'s Hospital. "We have a lot of similar things that we\'re battling. I\'m proud to be on her team." He leads at -18 entering the final round.',
+      },
+      {
+        label: 'Scheffler\'s Absence',
+        value:
+          'World No. 1 <strong>Scottie Scheffler</strong> withdrew on Tuesday morning. He was the +350 pre-tournament favorite\u2014and has finished <strong>runner-up three times</strong> at Memorial Park (2021, 2024, 2025). His withdrawal created a wide-open field and shifted the entire betting market. Defending champion <strong>Min Woo Lee</strong> (+1200) became the new favorite.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Bombers Who Overpower Memorial Park',
+      bullets: [
+        '<strong>Driving distance is the #1 predictor at Memorial Park.</strong> At 7,475 yards with wide fairways and non-penal rough, the course rewards aggression off the tee. Driving accuracy is "not a necessity."\u2014the fairways are 30-40 yards wide and there are only 24 bunkers on the entire property.',
+        '<strong>Gary Woodland leads the PGA Tour in driving distance</strong> at age 41 and opened 64-63. Jake Knapp averages 1.96 SG: Total and hits it miles. Chris Gotterup (321.5-yard average, 5th on Tour) has the length to attack every par 5. Marco Penge leads the Tour in SG: Off the Tee.',
+        '<strong>Par-5 scoring separates contenders.</strong> With only three par 5s (587, 625, 616 yards), all reachable by long hitters, converting eagle and birdie opportunities on these holes is a key differentiator. Bombers have a massive built-in advantage.',
+        '<strong>The finishing stretch punishes short hitters.</strong> Hole 14 (529-yard par 4), Hole 16 (616-yard par 5), and Hole 18 (503-yard par 4) demand raw length. Players who can\'t reach these holes in regulation are at a significant disadvantage coming down the stretch.',
+      ],
+    },
+    {
+      team: 'a',
+      title: 'Precision Players Who Pick It Apart',
+      bullets: [
+        '<strong>Approach play is the largest single component (28%).</strong> Memorial Park\'s greens average 7,000 square feet with complex contours and steep short-grass runoffs. Getting the ball in the right quadrant on approach is critical\u2014the wrong side of the green can lead to nearly impossible up-and-downs.',
+        '<strong>Putting accounts for 37% of the winning formula.</strong> Every winner at Memorial Park since 2020 has finished top 5 in SG: Putting that week. The large, undulated greens with Poa trivialis surfaces demand elite distance control and green-reading skills.',
+        '<strong>Bogey avoidance matters enormously.</strong> The 10 par 4s include five over 490 yards (Holes 1, 4, 12, 14, 18). These long two-shotters demand precision, not just power. Players who can avoid bogeys on the hardest holes and feast on the par 3s and par 5s separate themselves.',
+        '<strong>Around-the-green creativity (21% of the formula).</strong> Tom Doak designed greens defended by contour, not bunkers. Short-grass runoffs require touch and imagination with wedges and the putter from off the green. Scramblers thrive.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'Can Woodland hold his nerve? The most emotional final round in years.',
+      description:
+        'Gary Woodland leads by one at -18, seeking his first win since the 2019 U.S. Open. He had brain surgery in 2023, was diagnosed with PTSD in 2026, and is playing for Ceci\u2014a young Texas Children\'s Hospital patient battling a brain tumor. He\'s 41 years old, missed 4 of 6 cuts this year, and leads the Tour in driving distance. The question: can a player whose career has been defined by raw power and an easy smile hold together on the most emotionally charged Sunday of his life? His runner-up finish here last year says he knows the course. His T14 at Valspar last week says the game is coming around. But a one-shot lead with Nicolai Hojgaard lurking is razor-thin.',
+    },
+    {
+      title: 'Hojgaard\'s historic form vs. Woodland\'s course knowledge.',
+      description:
+        'Nicolai Hojgaard\'s consecutive rounds of 62-63 are the best back-to-back rounds in the 78-year history of the Houston Open. The 23-year-old Dane is one of the six best ball-strikers on Tour in 2026, averaging 1.50+ SG: Total per round. But this is his first time at Memorial Park\u2014Woodland has been here five times with a runner-up and a T9. When the pressure of the final round squeezes the field, does course familiarity or hot form matter more?',
+    },
+    {
+      title: 'The six-shot gap to third: Is this a two-man race?',
+      description:
+        'Min Woo Lee and Michael Thorbjornsen are T3 at -12\u2014six shots back. Only six players are within eight shots of the lead. At Memorial Park, where conditions are calm and scoring is expected to be low, a six-shot deficit is nearly insurmountable. But the 2025 edition saw Min Woo Lee come from behind to win. And Memorial Park\'s long par 4s can produce big numbers even for the leaders. A Woodland double-bogey on 18 (503-yard par 4) could change everything.',
+    },
+    {
+      title: 'Wind conditions will determine scoring depth.',
+      description:
+        'Memorial Park\'s open layout offers zero tree protection, making it one of the most wind-exposed venues in the Texas rotation. The forecast calls for 15 km/h winds to the southeast on Sunday. If winds stay calm, expect scoring in the 60s across the field. If gusts pick up, only the best ball-strikers will go low\u2014which favors Hojgaard (elite SG: Total) over Woodland (who relies more on driving distance). Afternoon tee times face the biggest wind exposure.',
+    },
+    {
+      title: 'Thorbjornsen\'s Masters dream adds drama to the chase group.',
+      description:
+        'Michael Thorbjornsen needs a T5 or better to move from No. 56 to the OWGR top 50 and earn his first Masters invitation. He\'s T3 at -12, having carded just one bogey in 54 holes. The Stanford product is 5th in SG: OTT and 11th in SG: Approach this week. But six shots is a big gap. A final-round 63 or 64 might be enough\u2014and the front nine, with two reachable par 5s (Holes 3 and 8), offers early birdie chances. Every shot on Sunday has Masters implications.',
+    },
+  ],
+  prediction: {
+    summary: 'This is Gary Woodland\'s tournament to lose. The one-shot lead, the emotional narrative, the course history (runner-up last year), and the crowd support from the Texas Children\'s Hospital connection all point his way. But Nicolai Hojgaard is the better pure ball-striker right now\u2014and his 62-63 back-to-back rounds suggest a player in a zone that\'s hard to beat. The question is whether Hojgaard, at 23 and playing Memorial Park for the first time, can handle the pressure of chasing down a player the entire gallery is pulling for. Woodland\'s putting has been solid all week, but his recent history (4 missed cuts in 6 events) raises stamina questions for a 41-year-old on the final day. If Woodland wobbles early, Hojgaard is the clear favorite to pounce. If Woodland birdies the first two holes, it could be a coronation. The six-shot gap to third makes this essentially a head-to-head match.',
+    phases: [
+      {
+        title: 'Front Nine \u2014 Woodland Tests His Nerve',
+        description: 'Woodland opens with a solid par on the demanding 522-yard 1st hole. Hojgaard birdies the par-3 2nd with a laser iron shot. They\'re tied at -18. The par-5 3rd is reachable for both\u2014Woodland, the Tour\'s longest driver, eagles it with a towering 3-wood to 15 feet. Hojgaard birdies. Woodland leads by one. The gallery is electric. Thorbjornsen, six groups ahead, birdies 3 and 5 to move to -14, keeping his Masters dream alive.',
+      },
+      {
+        title: 'Middle Stretch \u2014 Hojgaard Makes His Move',
+        description: 'Hojgaard birdies the par-4 6th and the par-5 8th to move to -20, tying Woodland who made a bogey on the difficult par-3 7th (216 yards). They\'re locked at -20 making the turn. The crowd noise shifts\u2014Woodland feeds off it, smiling and waving to Ceci\'s family behind the 9th green. Min Woo Lee shoots 3-under on the front to reach -15 but remains too far back.',
+      },
+      {
+        title: 'Back Nine \u2014 The Duel',
+        description: 'Hojgaard birdies the par-3 11th with a beautiful tee shot to 5 feet. He leads by one at -21. Woodland responds with a birdie on the par-4 13th\u2014a 406-yard hole where his length gives him a wedge in. Tied again. The par-5 16th is the key hole: Woodland reaches in two and two-putts for birdie. Hojgaard finds the greenside runoff and makes par. Woodland leads by one with two to play.',
+      },
+      {
+        title: 'Final Two Holes \u2014 Championship Finish',
+        description: 'Woodland pars the 405-yard 17th. Hojgaard birdies from 12 feet\u2014tied at -22 playing the 503-yard 18th. Both find the fairway. Woodland\'s approach lands 20 feet right of the pin. Hojgaard pushes his approach into the right rough. He chips to 8 feet. Woodland two-putts for par. Hojgaard needs the putt to force a playoff\u2014it lips out. Woodland wins at -22, embraces Ceci, and the crowd erupts. His first win since the 2019 U.S. Open. The tears flow.',
+      },
+    ],
+    projectedScore: {
+      teamA: -22,
+      teamB: -21,
+      rationale: 'Woodland\'s driving distance advantage on the closing holes (14, 16, 18) gives him an edge in a tight finish. Hojgaard is the better overall ball-striker, but Woodland\'s course knowledge (runner-up in 2025, T9 in 2022) and emotional momentum are hard to quantify. The calm Sunday forecast should produce low scores across the board. Projected winning score of -22 would set a new Memorial Park record (previous: -20 by Min Woo Lee in 2025).',
+    },
+  },
+  tournamentPrediction: {
+    summary: 'This is Gary Woodland\'s tournament to lose. The one-shot lead, the emotional narrative, the course history (runner-up last year), and the crowd support from the Texas Children\'s Hospital connection all point his way. But Nicolai Hojgaard is the better pure ball-striker right now\u2014and his 62-63 back-to-back rounds suggest a player in a zone that\'s hard to beat. The question is whether Hojgaard, at 23 and playing Memorial Park for the first time, can handle the pressure of chasing down a player the entire gallery is pulling for.',
+    phases: [
+      {
+        title: 'Front Nine \u2014 Woodland Tests His Nerve',
+        description: 'Woodland opens with a solid par on the demanding 522-yard 1st hole. Hojgaard birdies the par-3 2nd with a laser iron shot. They\'re tied at -18. The par-5 3rd is reachable for both\u2014Woodland, the Tour\'s longest driver, eagles it with a towering 3-wood to 15 feet. Hojgaard birdies. Woodland leads by one. The gallery is electric.',
+      },
+      {
+        title: 'Middle Stretch \u2014 Hojgaard Makes His Move',
+        description: 'Hojgaard birdies the par-4 6th and the par-5 8th to move to -20, tying Woodland who made a bogey on the difficult par-3 7th (216 yards). They\'re locked at -20 making the turn.',
+      },
+      {
+        title: 'Back Nine \u2014 The Duel',
+        description: 'Hojgaard birdies the par-3 11th to lead by one at -21. Woodland responds with a birdie on the par-4 13th. Tied again. The par-5 16th is the key hole: Woodland reaches in two and two-putts for birdie. Hojgaard finds the greenside runoff and makes par. Woodland leads by one with two to play.',
+      },
+      {
+        title: 'Final Two Holes \u2014 Championship Finish',
+        description: 'Both find the fairway on 18. Woodland two-putts for par. Hojgaard\'s putt to force a playoff lips out. Woodland wins at -22, embraces Ceci, and the crowd erupts. His first win since the 2019 U.S. Open.',
+      },
+    ],
+    projectedWinner: {
+      name: 'Gary Woodland',
+      score: '-22 (258)',
+      rationale: 'Woodland\'s driving distance advantage on the closing holes (14, 16, 18) gives him an edge in a tight finish. His course knowledge (runner-up in 2025) and emotional momentum are hard to quantify. Projected -22 would set a new Memorial Park record.',
+    },
+  },
+  players: [
+    {
+      team: 'a',
+      name: 'Gary Woodland',
+      stats: '-18 (54-hole leader) \u2022 Leads Tour in driving distance \u2022 4-time PGA Tour winner',
+      meta: 'Age 41 \u2022 Brain surgery 2023 \u2022 PTSD diagnosis 2026 \u2022 +12000 pre-tournament',
+      bio: 'The <strong>2019 U.S. Open champion</strong> is writing the most compelling comeback story in golf. After brain surgery in September 2023 and a public PTSD diagnosis in March 2026, Woodland missed 4 of his first 6 cuts this season. Then something clicked: a T14 at the Valspar, followed by rounds of <strong>64-63</strong> at Memorial Park. He\'s wearing custom shoes designed by <strong>Ceci</strong>, a young Texas Children\'s Hospital patient battling a brain tumor. "We have a lot of similar things that we\'re battling. I\'m proud to be on her team." If he wins, it would be his first victory in nearly <strong>seven years</strong>. He was runner-up at this event in 2025.<br><a href="https://www.pgatour.com/article/news/latest/2026/03/26/gary-woodland-texas-childrens-houston-open-memorial-park-round-1-leaderboard-freed-up-brain-surgery-ptsd-recovery-paul-waring" target="_blank">Read more &rarr;</a>',
+    },
+    {
+      team: 'a',
+      name: 'Nicolai Hojgaard',
+      stats: '-17 (Solo 2nd) \u2022 62-63 = Best back-to-back rounds in Houston Open history',
+      meta: 'Age 23 \u2022 Danish \u2022 World #47 \u2022 +6000 pre-tournament',
+      bio: 'The 23-year-old Dane produced the <strong>best back-to-back rounds in the 78-year history of the Houston Open</strong> with a Friday 62 and Saturday 63. He\'s one of the <strong>six best ball-strikers on the 2026 PGA Tour</strong>, averaging 1.50+ SG: Total per round\u2014one of only seven players above that mark. Twin brother <strong>Rasmus</strong> also plays on Tour. Hojgaard opened 2026 with finishes of T22-T3-T6 and sits 27th in the FedExCup. This is his first time playing Memorial Park. A win would be his first PGA Tour victory.',
+    },
+    {
+      team: 'a',
+      name: 'Min Woo Lee',
+      stats: '-12 (T3) \u2022 Defending champion \u2022 Won 2025 Houston Open at -20',
+      meta: 'Age 26 \u2022 Australian \u2022 World #30 \u2022 +1200 pre-tournament favorite',
+      bio: 'The <strong>defending champion</strong> won this tournament in 2025 at -20, setting the Memorial Park scoring record and beating Scottie Scheffler and Gary Woodland by one. Has made every cut in 2026 with a T2 at Pebble Beach and T6 at the Arnold Palmer Invitational. Improved his SG: Approach from near the bottom of Tour last year to a respectable 77th this season. Six shots back entering Sunday\u2014he\'d need a spectacular final round to defend his title, but he proved last year that he can close.',
+    },
+    {
+      team: 'a',
+      name: 'Michael Thorbjornsen',
+      stats: '-12 (T3) \u2022 5th in SG:OTT \u2022 11th in SG:Approach this week',
+      meta: 'Age 23 \u2022 Stanford \u2022 World #56 \u2022 Needs T5 for Masters invite',
+      bio: 'Every shot on Sunday has <strong>Masters implications</strong>. The Stanford product and PGA Tour University top graduate (2024) needs a T5 or better to move from No. 56 into the <strong>OWGR top 50</strong>, which would earn him his first career Masters invitation\u2014just two weeks from now. He\'s carded just <strong>one bogey through 54 holes</strong> at Memorial Park. Six shots back from the lead, but the chase for Augusta adds extraordinary pressure and motivation to every swing.<br><a href="https://www.pgatour.com/article/news/latest/2026/03/28/guys-to-watch-texas-childrens-houston-open-michael-thorbjornsen-masters-qualifying" target="_blank">Read more &rarr;</a>',
+    },
+    {
+      team: 'a',
+      name: 'Bronson Burgoon',
+      stats: '-8 (T12) \u2022 Texas A&M alum \u2022 Born in The Woodlands',
+      meta: 'Age 38 \u2022 Hometown hero \u2022 Playing 30 min from home \u2022 +15000',
+      bio: 'The ultimate <strong>hometown story</strong>. Born and raised in <strong>The Woodlands, Texas</strong>\u201430 minutes from Memorial Park. Played Texas junior golf circuits before starring at <strong>Texas A&M</strong>, where he helped the Aggies win the <strong>2009 national championship</strong>. Career plagued by shoulder injuries. Now 38, playing primarily on the Korn Ferry Tour, and says he\'s <strong>"enjoying golf for the first time in a decade and a half."</strong> Shot 66 on Moving Day with three straight birdies. A true local hero.<br><a href="https://www.golfchannel.com/pga-tour/news/bronson-burgoon-2026-houston-open-third-round" target="_blank">Read more &rarr;</a>',
+    },
+    {
+      team: 'a',
+      name: 'Sudarshan Yellamaraju',
+      stats: '-10 (T7) \u2022 PGA Tour rookie \u2022 T5 at The Players Championship',
+      meta: 'Age 23 \u2022 Canadian (born in India) \u2022 Self-taught via YouTube \u2022 +7000',
+      bio: 'One of the most <strong>compelling underdog stories</strong> on Tour. Born in India, moved to Winnipeg at age 4. Couldn\'t afford college golf. <strong>Taught himself to play by studying Tiger Woods and Rory McIlroy videos on YouTube</strong> with his father. Still doesn\'t have a swing coach\u2014sends videos to his dad. Turned pro at 19, earned his PGA Tour card via the Korn Ferry Tour, and posted a <strong>T5 at The Players Championship</strong> as a rookie, leaping 70+ spots in the world rankings.<br><a href="https://www.thefriedegg.com/articles/pga-tour-rookie-sudarshan-yellamaraju-bio-facts" target="_blank">Read more &rarr;</a>',
+    },
+    {
+      team: 'a',
+      name: 'Johnny Keefer',
+      stats: '-9 (T10) \u2022 Baylor alum \u2022 2 KFT wins as a rookie',
+      meta: 'Age ~24 \u2022 Texas native \u2022 Playing in home state \u2022 +10000',
+      bio: 'A <strong>Texas-bred, Baylor-educated rookie</strong> playing in his home state. Earned his 2026 PGA Tour card after a dominant Korn Ferry Tour season: <strong>2 wins, 2 runner-ups, and 10 top-25s in 16 starts</strong>\u2014finishing as the season points leader. Playing in the final group with Adam Scott and Chris Gotterup on Sunday. A strong showing here would be a statement for the former Bear.<br><a href="https://www.pgatour.com/korn-ferry-tour/article/news/tour-bound/2025/07/27/johnny-keefer-tourbound-pga-tour-nv5-invitational-baylor-university" target="_blank">Read more &rarr;</a>',
+    },
+    {
+      team: 'a',
+      name: 'Jhonattan Vegas',
+      stats: '-8 (T12) \u2022 University of Texas alum \u2022 Lives in Houston',
+      meta: 'Age 41 \u2022 Venezuelan \u2022 Grew up in The Woodlands \u2022 4 PGA Tour wins',
+      bio: 'Houston\'s <strong>adopted son</strong>. Moved from Venezuela to The Woodlands at age 17, passed the TOEFL and SAT, and played college golf at the <strong>University of Texas</strong>. Now lives in Houston. The first Venezuelan to earn a PGA Tour card and the first to win a PGA Tour event (2011 Bob Hope Classic). A two-time Olympian competing in his hometown event\u2014always a fan favorite at Memorial Park.',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '\uD83E\uDE7A',
+      title: 'Woodland\'s Custom Shoes for Ceci',
+      body: 'Gary Woodland is wearing <strong>custom-designed shoes created by Ceci</strong>, a young girl who has battled a brain tumor for seven years through Texas Children\'s Hospital. Woodland, who had his own brain surgery in 2023, met her a year ago. "We have a lot of similar things that we\'re battling. I\'m proud to be on her team."',
+    },
+    {
+      emoji: '\uD83D\uDCCA',
+      title: 'Historic Back-to-Back Rounds',
+      body: 'Nicolai Hojgaard\'s consecutive rounds of <strong>62-63</strong> are the best back-to-back rounds in the <strong>78-year history</strong> of the Houston Open (est. 1946). That\'s 15 under par in two rounds at a par-70 course.',
+    },
+    {
+      emoji: '\uD83C\uDFCC\uFE0F',
+      title: 'A Municipal Course Hosting the PGA Tour',
+      body: 'Memorial Park is a <strong>public municipal golf course</strong> that handles 50,000-60,000+ rounds per year. Anyone can play it\u2014green fees are under $100 for Houston residents. The $34 million Tom Doak renovation (funded by the Astros Golf Foundation) made it one of the best munis in America.',
+    },
+    {
+      emoji: '\uD83C\uDFA8',
+      title: 'Brooks Koepka\'s Course',
+      body: 'Brooks Koepka served as the <strong>player consultant</strong> for Tom Doak\'s 2019 renovation of Memorial Park. He helped design the very course where he teed it up this week\u2014and then <strong>missed the cut</strong> because of putting woes. The designer couldn\'t solve his own creation.',
+    },
+    {
+      emoji: '\uD83C\uDFAF',
+      title: 'Cole Hammer\'s Hometown Ace',
+      body: 'Houston native and University of Texas alum <strong>Cole Hammer</strong> made a <strong>hole-in-one</strong> on the par-3 15th hole (155 yards) during Round 1. He received a sponsor exemption to play in his hometown event. <em>Hammer time</em>, indeed.',
+    },
+    {
+      emoji: '\uD83C\uDFC6',
+      title: 'Scheffler: The Ultimate Bridesmaid',
+      body: 'World No. 1 <strong>Scottie Scheffler</strong> has finished <strong>runner-up three times</strong> at Memorial Park (2021, 2024, 2025). He withdrew this year\u2014the one time he wasn\'t chasing. The Houston Open is the biggest title that has eluded the best player in the world.',
+    },
+    {
+      emoji: '\uD83D\uDCF1',
+      title: 'Yellamaraju\'s YouTube Golf School',
+      body: 'PGA Tour rookie Sudarshan Yellamaraju <strong>taught himself to play golf by watching YouTube videos</strong> of Tiger Woods and Rory McIlroy with his father in Winnipeg, Manitoba. He still doesn\'t have a swing coach. When he needs help, he sends videos to his dad. He finished <strong>T5 at The Players Championship</strong>.',
+    },
+    {
+      emoji: '\uD83D\uDC68\u200D\uD83D\uDC66',
+      title: 'The Coody Legacy',
+      body: 'Pierceson Coody\u2014grandson of <strong>1971 Masters champion Charles Coody</strong>\u2014entered the Houston Open at No. 51 in the world, needing one spot to qualify for Augusta. A win would have made him the <strong>first grandson of a Masters champion to compete in the tournament</strong>. He withdrew with a back injury after an opening-round 70.',
+    },
+    {
+      emoji: '\uD83C\uDDFB\uD83C\uDDEA',
+      title: 'From Venezuela to The Woodlands',
+      body: 'Jhonattan Vegas moved from Maturin, Venezuela to The Woodlands, Texas at age 17 with just his golf clubs. He learned English, passed the SAT, played at the <strong>University of Texas</strong>, and became the <strong>first Venezuelan to win on the PGA Tour</strong>. He now lives in Houston\u2014this is his home event.',
+    },
+    {
+      emoji: '\uD83D\uDD22',
+      title: 'Only 24 Bunkers',
+      body: 'Memorial Park has just <strong>24 bunkers</strong>\u2014far fewer than the PGA Tour average. Tom Doak intentionally removed many during the renovation, preferring to defend greens with <strong>contour, short-grass runoffs, and angle management</strong>. The course is a thinking player\'s test disguised as a bombers\' paradise.',
+    },
+    {
+      emoji: '\uD83C\uDFC8',
+      title: 'Burgoon\'s Aggie Roots',
+      body: 'Bronson Burgoon, playing 30 minutes from his home in The Woodlands, helped <strong>Texas A&M win the 2009 NCAA golf national championship</strong>. He grew up playing Houston\'s junior golf circuits before becoming an Aggie. Now 38, he says he\'s <strong>"enjoying golf for the first time in a decade and a half"</strong> after years of shoulder problems.',
+    },
+    {
+      emoji: '\uD83D\uDCC5',
+      title: 'First Played in 1946',
+      body: 'The Houston Open was first played in <strong>1946</strong> at River Oaks Country Club. It\'s been won by legends including <strong>Byron Nelson</strong> (Texas native), Arnold Palmer, Gary Player, Payne Stewart, and Fred Couples. Memorial Park first hosted the event from 1951-1963 before the PGA Tour returned in 2020.',
+    },
+  ],
+  history: {
+    callout:
+      'The Houston Open is one of the <strong>oldest events on the PGA Tour</strong>, first played in 1946. It has called Memorial Park Golf Course home twice: from 1951-1963 and again since 2020, when a <strong>$34 million Tom Doak renovation</strong> (funded by the Astros Golf Foundation, with Brooks Koepka as player consultant) transformed the municipal course into a world-class venue. Five of the six tournaments at Memorial Park have produced champions ranked outside the world top 20.',
+    subsections: [
+      {
+        title: 'Memorial Park Era: 2020-Present',
+        type: 'timeline' as const,
+        content: 'Since returning to Memorial Park, the Houston Open has produced drama, first-time winners, and one of the PGA Tour\'s best comeback stories.',
+        timeline: [
+          { date: 'Nov 2020', text: 'Carlos Ortiz becomes the first Mexican-born winner of the Houston Open, beating Dustin Johnson and Hideki Matsuyama at the newly renovated Memorial Park.' },
+          { date: 'Nov 2021', text: 'Jason Kokrak wins at -10, beating Scottie Scheffler (runner-up for the first of three times) by two shots.' },
+          { date: 'Nov 2022', text: 'Tony Finau dominates with a -16 total, winning by four strokes\u2014the largest margin of victory at Memorial Park.' },
+          { date: 'Mar 2024', text: 'Stephan Jaeger claims his first PGA Tour victory at -12, beating a five-way tie for second including Scheffler (runner-up again) and Finau.' },
+          { date: 'Mar 2025', text: 'Min Woo Lee wins his first PGA Tour event at a record -20 (260), beating Scottie Scheffler (runner-up for the third time) and Gary Woodland by one shot.' },
+          { date: 'Mar 2026', text: 'Gary Woodland leads at -18 entering Sunday after opening 64-63, seeking his first win since the 2019 U.S. Open. Nicolai Hojgaard trails by one.' },
+        ],
+      },
+      {
+        title: 'Houston Open Legends',
+        type: 'card' as const,
+        content: 'The Houston Open\'s winner list reads like a Hall of Fame roll call. <strong>Byron Nelson</strong>\u2014the Texas-born legend\u2014won in the early days. <strong>Arnold Palmer</strong> and <strong>Gary Player</strong> added their names. <strong>Payne Stewart</strong> won in 1982. <strong>Fred Couples</strong> won twice (1993, 1998). <strong>Vijay Singh</strong> set the all-time scoring record at -22 in 2002. In the modern Memorial Park era, the tournament has become a launching pad for first-time winners: Carlos Ortiz (2020), Stephan Jaeger (2024), and Min Woo Lee (2025) all won their maiden PGA Tour titles in Houston.',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Tournament & Course Information',
+      links: [
+        { label: 'PGA Tour \u2014 Inside the Field', url: 'https://www.pgatour.com/article/news/inside-the-field/2026/03/20/who-is-in-the-field-at-texas-childrens-houston-open-memorial-park-golf-course-brooks-koepka' },
+        { label: 'TCH Open Official Site', url: 'https://www.tchouopen.com/' },
+        { label: 'Golf News Net \u2014 Course Breakdown', url: 'https://thegolfnewsnet.com/golfnewsnetteam/2026/03/25/memorial-park-golf-course-scorecard-and-course-breakdown-for-2026-texas-childrens-houston-open-host-141580/' },
+        { label: 'Golf News Net \u2014 Purse & Payout', url: 'https://thegolfnewsnet.com/golfnewsnetteam/2026/03/28/2026-texas-childrens-houston-open-purse-winners-share-pga-tour-prize-money-payout-141602/' },
+        { label: 'Houston Open \u2014 Wikipedia', url: 'https://en.wikipedia.org/wiki/Houston_Open' },
+        { label: 'CBS Sports \u2014 TV Schedule', url: 'https://www.cbssports.com/golf/news/houston-open-2026-where-to-watch-tv-schedule-streaming-coverage/' },
+      ],
+    },
+    {
+      heading: 'Player Analysis & Field Coverage',
+      links: [
+        { label: 'PGA Tour \u2014 Gary Woodland R1 Story', url: 'https://www.pgatour.com/article/news/latest/2026/03/26/gary-woodland-texas-childrens-houston-open-memorial-park-round-1-leaderboard-freed-up-brain-surgery-ptsd-recovery-paul-waring' },
+        { label: 'CBS Sports \u2014 R3 Leaderboard', url: 'https://www.cbssports.com/golf/news/houston-open-2026-leaderboard-gary-woodland-nicolai-hojgaard-round-3/' },
+        { label: 'Golf News Net \u2014 Betting & DFS Picks', url: 'https://thegolfnewsnet.com/golfnewsnetteam/2026/03/25/2026-texas-childrens-houston-open-betting-and-pga-tour-dfs-picks-current-form-course-fit-and-horses-for-courses-141588/' },
+        { label: 'Yahoo Sports \u2014 Odds & Picks', url: 'https://sports.yahoo.com/articles/houston-open-odds-picks-predictions-162300262.html' },
+        { label: 'SI \u2014 Betting Preview', url: 'https://www.si.com/betting/2026-texas-childrens-houston-open-betting-preview-picks-predictions-odds-memorial-park' },
+        { label: 'Heavy \u2014 Woodland Honoring Ceci', url: 'https://heavy.com/sports/golf/gary-woodland-leads-houston-honoring-ceci/' },
+        { label: 'Golf Channel \u2014 Bronson Burgoon', url: 'https://www.golfchannel.com/pga-tour/news/bronson-burgoon-2026-houston-open-third-round' },
+        { label: 'The Fried Egg \u2014 Yellamaraju Profile', url: 'https://www.thefriedegg.com/articles/pga-tour-rookie-sudarshan-yellamaraju-bio-facts' },
+      ],
+    },
+  ],
+  footerText: 'Texas Children\'s Houston Open 2026 \u2022 Memorial Park Golf Course \u2022 Houston, TX \u2022 Par 70, 7,475 yards \u2022 $9.9M purse \u2022 Final round Sunday on NBC (3-6 PM ET)',
+}
+
+export default game

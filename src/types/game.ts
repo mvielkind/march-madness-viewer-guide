@@ -84,6 +84,22 @@ export interface TabDef {
   label: string
 }
 
+export interface TournamentInfo {
+  name: string
+  courseName: string
+  colors: TeamColors
+}
+
+export interface TournamentPrediction {
+  summary: string
+  phases: PredictionPhase[]
+  projectedWinner: {
+    name: string
+    score: string
+    rationale: string
+  }
+}
+
 export interface GameData {
   slug: string
   title: string
@@ -93,7 +109,9 @@ export interface GameData {
   tipTime: string
   venue: string
   extraInfo: string
+  format?: 'matchup' | 'tournament'
   teams: [TeamInfo, TeamInfo]
+  tournament?: TournamentInfo
   tabs: TabDef[]
   stakes: {
     callout: string
@@ -102,6 +120,7 @@ export interface GameData {
   styles: StyleOfPlay[]
   keys: KeyToGame[]
   prediction: Prediction
+  tournamentPrediction?: TournamentPrediction
   players: Player[]
   funFacts: FunFact[]
   history: HistorySection
