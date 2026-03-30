@@ -2,7 +2,7 @@ import { Link, useParams } from 'react-router-dom'
 import { useRef, useState, useEffect, useCallback, useMemo } from 'react'
 import { games } from '../data/games/index.ts'
 
-const sports = ['All Sports', 'College Basketball', 'PGA Tour'] as const
+const sports = ['All Sports', "Men's Basketball", "Women's Basketball", 'PGA Tour'] as const
 
 function getToday(): string {
   const d = new Date()
@@ -11,6 +11,10 @@ function getToday(): string {
 
 function isPga(slug: string): boolean {
   return slug.startsWith('pga-')
+}
+
+function isWomens(slug: string): boolean {
+  return slug.includes('womens')
 }
 
 export default function ScoreBanner() {
@@ -26,7 +30,8 @@ export default function ScoreBanner() {
       const dateStr = g.tipTime.slice(0, 10)
       if (dateStr < today) return false
       if (selectedSport === 'PGA Tour') return isPga(g.slug)
-      if (selectedSport === 'College Basketball') return !isPga(g.slug)
+      if (selectedSport === "Men's Basketball") return !isPga(g.slug) && !isWomens(g.slug)
+      if (selectedSport === "Women's Basketball") return isWomens(g.slug)
       return true
     })
   }, [selectedSport])

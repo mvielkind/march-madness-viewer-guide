@@ -6,8 +6,18 @@ function getToday(): string {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
 }
 
-function getEventType(game: (typeof games)[number]): 'basketball' | 'golf' {
-  return game.slug.startsWith('pga-') ? 'golf' : 'basketball'
+type EventType = 'mens-basketball' | 'womens-basketball' | 'golf'
+
+function getEventType(game: (typeof games)[number]): EventType {
+  if (game.slug.startsWith('pga-')) return 'golf'
+  if (game.slug.includes('womens')) return 'womens-basketball'
+  return 'mens-basketball'
+}
+
+const categoryLabels: Record<EventType, { badge: string; heading: string }> = {
+  'mens-basketball': { badge: 'NCAAM', heading: "Men's College Basketball" },
+  'womens-basketball': { badge: 'NCAAW', heading: "Women's College Basketball" },
+  'golf': { badge: 'PGA Tour', heading: 'PGA Tour' },
 }
 
 function GameCard({ game }: { game: (typeof games)[number] }) {
@@ -18,7 +28,7 @@ function GameCard({ game }: { game: (typeof games)[number] }) {
     <Link key={game.slug} to={`/games/${game.slug}`} className="home-game-link">
       <div className="home-game-event">
         <span className={`home-event-badge home-event-badge--${eventType}`}>
-          {eventType === 'golf' ? 'PGA Tour' : 'NCAA'}
+          {categoryLabels[eventType].badge}
         </span>
         {game.eventTag}
       </div>
@@ -41,35 +51,59 @@ function GameCard({ game }: { game: (typeof games)[number] }) {
   )
 }
 
+function groupByCategory(gameList: typeof games) {
+  const order: EventType[] = ['mens-basketball', 'womens-basketball', 'golf']
+  const groups = new Map<EventType, typeof games>()
+  for (const game of gameList) {
+    const type = getEventType(game)
+    if (!groups.has(type)) groups.set(type, [])
+    groups.get(type)!.push(game)
+  }
+  return order.filter((t) => groups.has(t)).map((t) => ({ type: t, games: groups.get(t)! }))
+}
+
 export default function HomePage() {
   const today = getToday()
   const todayGames = games.filter((g) => g.tipTime.startsWith(today))
   const futureGames = games.filter((g) => g.tipTime.slice(0, 10) > today)
+
+  const todayGroups = groupByCategory(todayGames)
+  const futureGroups = groupByCategory(futureGames)
 
   return (
     <div className="home-landing">
       <h1>Sports Viewing Guides</h1>
       <p className="home-subtitle">Your guide to today&rsquo;s games and events</p>
 
-      {todayGames.length > 0 && (
+      {todayGroups.length > 0 && (
         <section className="home-today">
           <h2 className="home-today-heading">Today&rsquo;s Events</h2>
-          <div className="home-today-games">
-            {todayGames.map((game) => (
-              <GameCard key={game.slug} game={game} />
-            ))}
-          </div>
+          {todayGroups.map(({ type, games: categoryGames }) => (
+            <div key={type} className="home-category">
+              <h3 className="home-category-heading">{categoryLabels[type].heading}</h3>
+              <div className="home-today-games">
+                {categoryGames.map((game) => (
+                  <GameCard key={game.slug} game={game} />
+                ))}
+              </div>
+            </div>
+          ))}
         </section>
       )}
 
-      {futureGames.length > 0 && (
+      {futureGroups.length > 0 && (
         <section className="home-all">
           <h2 className="home-section-heading">Upcoming Events</h2>
-          <div className="home-games">
-            {futureGames.map((game) => (
-              <GameCard key={game.slug} game={game} />
-            ))}
-          </div>
+          {futureGroups.map(({ type, games: categoryGames }) => (
+            <div key={type} className="home-category">
+              <h3 className="home-category-heading">{categoryLabels[type].heading}</h3>
+              <div className="home-games">
+                {categoryGames.map((game) => (
+                  <GameCard key={game.slug} game={game} />
+                ))}
+              </div>
+            </div>
+          ))}
         </section>
       )}
     </div>

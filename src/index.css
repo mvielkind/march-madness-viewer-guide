@@ -837,13 +837,31 @@ footer {
   position: relative;
   top: -0.5px;
 }
-.home-event-badge--basketball {
+.home-event-badge--mens-basketball {
   background: #1a3c6e;
+  color: #fff;
+}
+.home-event-badge--womens-basketball {
+  background: #6e1a3c;
   color: #fff;
 }
 .home-event-badge--golf {
   background: #004225;
   color: #fff;
+}
+.home-category {
+  margin-bottom: 2rem;
+}
+.home-category-heading {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: var(--text-dim);
+  margin: 1.5rem 0 .5rem;
+  padding-bottom: .5rem;
+  border-bottom: 2px solid var(--rule);
 }
 .home-games {
   display: flex;

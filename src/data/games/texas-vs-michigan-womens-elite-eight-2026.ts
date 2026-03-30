@@ -1,0 +1,358 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'texas-vs-michigan-womens-elite-eight-2026',
+  title: 'Texas vs Michigan \u2014 Women\u2019s Elite Eight Viewing Guide',
+  eventTag: 'NCAA Women\u2019s Tournament \u2022 Elite Eight \u2022 Fort Worth, TX',
+  date: 'Monday, March 30, 2026 \u2022 7:00 PM ET',
+  round: 'Elite Eight',
+  tipTime: '2026-03-30T19:00',
+  venue: 'Dickies Arena, Fort Worth, Texas \u2022 ESPN',
+  extraInfo: 'Winner advances to the <strong>Final Four</strong> in Tampa, FL (April 4-6)',
+  teams: [
+    {
+      name: 'Texas',
+      mascot: 'Longhorns',
+      seed: '#1 Seed',
+      record: '34-3 \u2022 SEC',
+      colors: { primary: '#BF5700', secondary: '#FFFFFF', name: 'texas' },
+      className: 'texas',
+    },
+    {
+      name: 'Michigan',
+      mascot: 'Wolverines',
+      seed: '#2 Seed',
+      record: '28-6 \u2022 Big Ten',
+      colors: { primary: '#00274C', secondary: '#FFCB05', name: 'michigan' },
+      className: 'michigan',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'A Final Four berth is on the line in Fort Worth. No. 1 Texas \u2014 34-3 with three straight 20-point tournament wins and the nation\'s most devastating backcourt \u2014 faces a Michigan team that has never reached the Final Four in program history. Rori Harmon is playing her final college games after a career that rewrote the Texas record books. Madison Booker just dropped 40 in the second round. Michigan\'s three super sophomores have been fearless all tournament, producing massive scoring runs to overwhelm opponents. This is tournament experience vs. youthful fearlessness, and a trip to Tampa hangs in the balance.',
+    cards: [
+      {
+        label: 'Rori Harmon\'s Last Stand',
+        value:
+          'The only player in NCAA history with 1,500+ points, 900+ assists, 600+ rebounds, and 350+ steals is playing her final games. Harmon tore her ACL in December 2023, came back for a fifth year, and is chasing the national championship that has eluded Texas for <strong>40 years</strong>. Coach Schaefer: "She\'s made me a better husband, a better father. She\'s made me a better coach."',
+      },
+      {
+        label: 'Michigan\'s Historic Opportunity',
+        value:
+          'Michigan has <strong>never made the Final Four</strong> in women\'s basketball. This is only the program\'s second Elite Eight appearance ever (the first was 2022, a loss to Louisville). The Wolverines beat Louisville in the Sweet 16 for revenge \u2014 and former star Naz Hillmon was there to greet them. One more win would be the biggest in program history.',
+      },
+      {
+        label: 'Booker\'s Tournament Dominance',
+        value:
+          'Madison Booker scored a <strong>career-high 40 points</strong> against Oregon in the second round \u2014 the most ever by a Texas player in an NCAA Tournament game. She joined Caitlin Clark, Candice Wiggins, and Cindy Brown as the only players with 40+ points, 5+ rebounds, and 5+ assists in the tournament. She added 17-8-5 against Kentucky. She\'s averaging 24.7 PPG in the tournament.',
+      },
+      {
+        label: 'Explosive Runs vs. Defensive Pressure',
+        value:
+          'Michigan produced a <strong>16-0 run</strong> and a <strong>17-0 run</strong> to destroy Louisville in the Sweet 16. But Texas is third nationally in turnover margin (+10.6) and forced 24 turnovers against Kentucky. Can Michigan\'s young guards handle Harmon\'s full-court pressure? The answer likely decides the game.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Defensive Juggernaut with a Superstar Scorer',
+      bullets: [
+        '<strong>Madison Booker is unstoppable:</strong> Averaging <strong>19.3 PPG on 52.1% shooting</strong> with 6.7 rebounds and 3.9 assists, Booker is a three-level scorer who just dropped 40 in the tournament. Michigan has no single defender who can contain her. She shot 52.1% for the season and dominates in transition and the mid-range.',
+        '<strong>Pressure defense creates turnovers and points:</strong> Texas is <strong>third nationally in turnover margin (+10.6 per game)</strong>. Rori Harmon (2.8 SPG) picks you up at the city limits, and the team generated 401 steals this season. In the Sweet 16, they forced 24 turnovers and scored 26 points off them \u2014 with a <strong>20-0 fast-break advantage</strong>.',
+        '<strong>Dominant inside presence:</strong> Kyla Oldacre (6-6, 10.4 PPG, 61.9% FG) gives Texas a paint advantage few teams can match. The Longhorns outscored Kentucky <strong>44-22 in the paint</strong> in the Sweet 16. Michigan\'s tallest regular contributor, Sofilkanich (6-3), will be tested.',
+        '<strong>Jordan Lee\'s breakout:</strong> The sophomore guard doubled her scoring from 5.8 to 13.6 PPG and leads Texas with 42 made threes. She\'s averaged 15.6 PPG in the last five games and led all scorers with 18 in the Sweet 16. She gives Texas a second perimeter weapon behind Booker.',
+        '<strong>50% shooting team with depth:</strong> Texas shoots <strong>50.0% from the field</strong> for the season and has shot 50%+ in 18 games. They\'ve won three tournament games by 20+ points each. The concern: 33.9% from three is just average, and 72.4% free throw shooting could bite them in a close game.',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'Three Super Sophomores, Explosive Transition Attack',
+      bullets: [
+        '<strong>Sophomore trio averages 46.4 PPG:</strong> Olivia Olson (19.2), Syla Swords (14.8), and Mila Holloway (12.4) are all sophomores who\'ve been fearless in the tournament. Olson is an <strong>AP All-American</strong>, Swords is a <strong>Canadian Olympian</strong>, and Holloway leads the team with 4.9 APG. They\'ve combined for 37.6 PPG in the tournament.',
+        '<strong>Scoring runs can flip games instantly:</strong> Michigan erased an 11-point deficit with a <strong>16-0 run</strong> in the second quarter against Louisville, then scored <strong>17 consecutive points</strong> in the third. Against NC State, they put up 64 second-half points. When this team gets rolling, they can bury opponents in minutes.',
+        '<strong>83.9 PPG and 25-0 when scoring 80+:</strong> Michigan is <strong>ninth nationally in scoring</strong> and pushes pace aggressively. Their 118.4 offensive rating (per Her Hoop Stats) and 75.0 possessions per 40 minutes mean they want to run. If Texas lets this become a track meet, Michigan has the firepower to compete.',
+        '<strong>Forced 60 turnovers in three tournament games:</strong> Michigan\'s defense has been disruptive in the NCAA Tournament. Brooke Quarles Daniels (2.5 SPG) leads a group that held Louisville to <strong>35% shooting and 3-of-14 from three</strong>. Their 75.9 defensive rating per Her Hoop Stats is elite.',
+        '<strong>The youth factor cuts both ways:</strong> This is Michigan\'s first Elite Eight since 2022 and only the second in program history. Five sophomores anchor the rotation. They have nothing to lose \u2014 but they\'ve also never faced a defensive team like Texas. <strong>Free throw shooting at 67.9%</strong> could be critical in a close finish.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'Can Michigan\'s sophomores handle Texas\'s full-court pressure?',
+      description:
+        'Texas is third nationally in turnover margin and forced 24 turnovers in the Sweet 16. Rori Harmon\'s 2.8 steals per game make her the most disruptive on-ball defender Michigan will face all season. In the second round, Harmon and Texas\'s pressure forced Oregon into a 42-point loss. Michigan\'s guards \u2014 Olson, Swords, and Holloway \u2014 are talented but young. If Texas forces 18+ turnovers, it\'s over. If Michigan handles the pressure and pushes pace in transition, they can make this a game.',
+    },
+    {
+      title: 'Madison Booker\'s matchup advantage is massive.',
+      description:
+        'Booker is averaging 24.7 PPG in the tournament on 52.1% shooting for the season. She just scored 40 against Oregon. Michigan doesn\'t have a single defender with the size and quickness to match her \u2014 she\'s 6-1 with guard skills and can score from anywhere. Michigan will likely throw multiple defenders at her, but that opens up Jordan Lee (13.6 PPG, 35.9% from three) and Kyla Oldacre (61.9% FG) inside. Containing Booker is prerequisite No. 1 for a Michigan upset.',
+    },
+    {
+      title: 'Michigan must win the rebounding battle.',
+      description:
+        'Michigan\'s 40.4% offensive rebounding rate is one of their best statistical attributes. Texas has Kyla Oldacre (6-6) and Breya Cunningham (6-4) to dominate the glass, but Michigan\'s Te\'Yala Delfosse (6-3, 4.7 RPG) and Sofilkanich (6-3, 4.2 RPG) provide length. Second-chance points could be the equalizer \u2014 Michigan outrebounded Louisville by 9 and got 15 second-chance points in the Sweet 16. If they can crash the glass, it mitigates some of Texas\'s defensive pressure.',
+    },
+    {
+      title: 'The free throw line could decide a close game.',
+      description:
+        'Michigan shoots 67.9% from the line; Texas shoots 72.4%. Neither team is elite. But in a close fourth-quarter finish, every miss matters. Texas\'s Booker (84.6% FT) and Lee (75.0%) are reliable, while Harmon\'s 72.1% is adequate. Michigan\'s Olson (80.1%) is their best, but the team as a whole is shaky. If Michigan gets to the line in the final five minutes, their 67.9% could cost them.',
+    },
+    {
+      title: 'Experience vs. fearlessness: who handles the moment?',
+      description:
+        'Texas has Rori Harmon (152 career starts), a coach who\'s been to three Final Fours, and a team that was in the Final Four last year. Michigan has five sophomores who\'ve never been past the second round before this week, and a coach in her first Elite Eight since 2022. But Michigan\'s youth also means they\'re playing free \u2014 they overcame an 11-point deficit against Louisville without blinking. Naz Hillmon\'s presence after the Sweet 16 win gave this team a sense of legacy. The question: does that translate against the tournament\'s most dominant team?',
+    },
+  ],
+  prediction: {
+    summary:
+      'Texas is the more complete team \u2014 better defense, more tournament experience, a true superstar in Madison Booker, and a floor general in Rori Harmon who has seen it all. Michigan\'s explosive scoring runs are real, and Olson and Swords can match anyone shot for shot in a 10-minute stretch. But Texas\'s defensive pressure is the best Michigan will have faced all year, and the Longhorns have won all three tournament games by 20+. Expect Michigan to make a run \u2014 they always do \u2014 but Texas\'s ability to force turnovers and score in transition should create too wide a margin to overcome. Booker, Harmon, and the Longhorns advance to the Final Four.',
+    phases: [
+      {
+        title: 'First Quarter',
+        description:
+          'Texas comes out with suffocating defensive pressure. Harmon picks up Holloway full court, and the Longhorns force two early turnovers that lead to Booker transition layups. Michigan settles in \u2014 Olson hits a pull-up jumper, and Swords drills a three. But Texas\'s pace and physicality are a shock. Booker scores 7 first-quarter points. Texas leads 21-15 after one.',
+      },
+      {
+        title: 'Second Quarter',
+        description:
+          'Michigan makes its run. Swords hits back-to-back threes, and Holloway finds Delfosse for an and-one in transition. A 10-2 Michigan spurt ties the game at 29. But Texas responds \u2014 Jordan Lee hits a corner three, Oldacre scores on a drop step in the paint, and Harmon finds Booker for a fast-break layup off a steal. Texas takes a 40-33 lead into halftime. The Longhorns have forced 10 turnovers.',
+      },
+      {
+        title: 'Third Quarter',
+        description:
+          'This is where Texas separates. Booker opens the quarter with a step-back midrange jumper and a three-point play on a drive. Michigan\'s turnovers mount \u2014 three in two minutes. Texas converts each one into points. Oldacre blocks a Sofilkanich attempt and Harmon pushes the break. The lead swells to 15. Michigan calls timeout. Olson answers with 5 quick points, but Carlton responds with a three. Texas leads 60-47 entering the fourth.',
+      },
+      {
+        title: 'Fourth Quarter',
+        description:
+          'Michigan makes one more push \u2014 Olson and Swords combine for 8 points in two minutes, cutting the lead to 9. But Booker steadies things with two free throws (84.6% shooter), and Harmon delivers a trademark steal-and-score that pushes the lead back to 13. The Texas bench rises. Michigan fights, but they can\'t string together enough stops against Texas\'s 50% shooting. Harmon exits to a standing ovation with a minute left. Texas advances to the Final Four.',
+      },
+    ],
+    projectedScore: {
+      teamA: 74,
+      teamB: 61,
+      rationale:
+        'Texas\'s defensive pressure and turnover creation are a level above what Michigan has seen. The Longhorns\' 50.0% shooting and Booker\'s ability to take over will generate enough offense, while Harmon\'s experience and Oldacre\'s interior presence control the game\'s pace. Michigan will make runs \u2014 they always do \u2014 but Texas\'s tournament experience and defensive identity should produce a comfortable, if not dominant, margin.',
+    },
+  },
+  players: [
+    {
+      team: 'a',
+      name: 'Madison Booker',
+      stats: '19.3 PPG \u2022 6.7 RPG \u2022 3.9 APG \u2022 .521 FG% \u2022 2.3 SPG',
+      meta: 'F \u2022 6-1 \u2022 Junior \u2022 SEC Player of the Year \u2022 Three-Time AP All-American',
+      bio: 'From Ridgeland, Mississippi, where she led Germantown HS to the first Class 6A state title. Her father Carlos Booker played at Southern Miss. Wears <strong>#35 in honor of Kevin Durant</strong>. Scored a <strong>career-high 40 points</strong> against Oregon in the second round \u2014 the most ever by a Texas player in the NCAA Tournament. One of only four players to record 40+ points, 5+ rebounds, 5+ assists in the tournament (joining Caitlin Clark, Candice Wiggins, Cindy Brown). Won gold at the 2023 FIBA U19 World Cup. Projected <strong>top-five pick in the 2027 WNBA Draft</strong>.<br><a href="https://en.wikipedia.org/wiki/Madison_Booker" target="_blank">Read more \u2192</a>',
+    },
+    {
+      team: 'a',
+      name: 'Rori Harmon',
+      stats: '8.5 PPG \u2022 6.2 APG \u2022 2.8 SPG \u2022 .462 3P%',
+      meta: 'G \u2022 5-6 \u2022 5th Year \u2022 Texas All-Time Steals & Assists Leader \u2022 SEC Tournament MVP',
+      bio: 'From Cypress, Texas. The <strong>only player in NCAA D-I women\'s history</strong> with 1,500+ points, 900+ assists, 600+ rebounds, and 350+ steals. Tore her ACL in December 2023 and came back for a fifth year. Committed to Texas just 19 days after Vic Schaefer was hired. Won Big 12 Freshman of the Year, then Big 12 DPOY as a sophomore. Pursuing a master\'s in sport management \u2014 wants to be a GM, not a coach. Assistant coach Sydney Carter: <strong>"She\'s the best point guard to ever play here. Her jersey should definitely be in the rafters."</strong><br><a href="https://www.espn.com/womens-college-basketball/story/_/id/48297940/march-madness-2026-sweet-16-texas-rori-harmon-vic-schaefer" target="_blank">Read more \u2192</a>',
+    },
+    {
+      team: 'a',
+      name: 'Jordan Lee',
+      stats: '13.6 PPG \u2022 2.5 RPG \u2022 42 3PM \u2022 .359 3P%',
+      meta: 'G \u2022 5-10 \u2022 Sophomore \u2022 Breakout Season \u2022 Academic All-District',
+      bio: 'Both parents played college basketball in Canada \u2014 father Roderick at Ottawa, mother Georgia at Brock. <strong>Doubled her scoring</strong> from 5.8 PPG as a freshman to 13.6 PPG this season. Led all scorers with <strong>18 points in the Sweet 16</strong> and scored a game-high 19 in the first round. Scored in double figures in 29 of 37 games. Named to the CSC Academic All-District team.',
+    },
+    {
+      team: 'a',
+      name: 'Kyla Oldacre',
+      stats: '10.4 PPG \u2022 6.1 RPG \u2022 .619 FG% \u2022 1.1 BPG',
+      meta: 'C \u2022 6-6 \u2022 Senior \u2022 Transfer from Miami \u2022 Interior Anchor',
+      bio: 'At 6-6, Oldacre is Texas\'s tallest player and most efficient scorer, shooting <strong>61.9% from the field</strong>. Transferred from Miami, where she averaged 4.6 PPG \u2014 at Texas she\'s become a force, recording five double-doubles including a <strong>career-high 23 points and 11 rebounds</strong> against Auburn. Led the team in rebounds, blocks, and FT attempts. Her paint presence powered Texas\'s 44-22 interior advantage over Kentucky.',
+    },
+    {
+      team: 'b',
+      name: 'Olivia Olson',
+      stats: '19.2 PPG \u2022 6.1 RPG \u2022 2.5 APG \u2022 .476 FG%',
+      meta: 'G \u2022 Sophomore \u2022 AP All-American (Third Team) \u2022 Unanimous All-Big Ten',
+      bio: 'Michigan\'s best player and the program\'s second-ever AP All-American. Scored in double figures in <strong>all 29 regular-season games</strong> with 16 twenty-point outings. In the tournament, she\'s averaging 19.5 PPG and 5.5 RPG, including <strong>19 points to lead Michigan past Louisville</strong> and a 27-point second half to bury NC State. Named to the Cheryl Miller Award watch list. A future WNBA prospect whose three-level scoring makes her extremely difficult to guard.<br><a href="https://www.espn.com/womens-college-basketball/story/_/id/48331498/olivia-olson-19-leads-michigan-louisville-elite-8" target="_blank">Read more \u2192</a>',
+    },
+    {
+      team: 'b',
+      name: 'Syla Swords',
+      stats: '14.8 PPG \u2022 4.2 RPG \u2022 .345 3P% \u2022 .413 FG%',
+      meta: 'G \u2022 5-11 \u2022 Sophomore \u2022 All-Big Ten First Team \u2022 Canadian Olympian',
+      bio: 'Born in <strong>Mulhouse, France</strong>, where her father Shawn played pro basketball. Moved to Sudbury, Ontario at age two, then to Long Island after her father took a coaching job with the <strong>Long Island Nets</strong> (NBA G League). Competed in the <strong>2024 Paris Olympics</strong> for Canada as an 18-year-old. Scored 29 points with eight three-pointers against #1 UConn. Added 16 in the Sweet 16. Together with Olson, they combine for <strong>34 PPG</strong> \u2014 the most dangerous sophomore backcourt in the country.<br><a href="https://en.wikipedia.org/wiki/Syla_Swords" target="_blank">Read more \u2192</a>',
+    },
+    {
+      team: 'b',
+      name: 'Mila Holloway',
+      stats: '12.4 PPG \u2022 4.1 RPG \u2022 4.9 APG \u2022 158 AST',
+      meta: 'G \u2022 Sophomore \u2022 All-Big Ten Honorable Mention \u2022 Floor General',
+      bio: 'Canadian-American sophomore who leads Michigan with <strong>158 assists (4.9 per game)</strong>. Started all 29 regular-season games and scored in double figures 19 times. Had <strong>20 points, 8 rebounds, 7 assists</strong> \u2014 a near triple-double \u2014 in the first-round win over Holy Cross. Scored a career-high 26 against rival Michigan State. She\'s the engine that makes Michigan\'s offense run.',
+    },
+    {
+      team: 'b',
+      name: 'Te\'Yala Delfosse',
+      stats: '8.9 PPG \u2022 4.7 RPG \u2022 .505 FG% \u2022 +31 plus-minus vs Louisville',
+      meta: 'G/F \u2022 6-3 \u2022 Sophomore \u2022 Swiss-Army-Knife Off the Bench',
+      bio: 'At 6-3 with guard skills, Delfosse is Michigan\'s most versatile player and their X-factor off the bench. Scored in double figures 16 times and recorded an <strong>18-point, 10-rebound double-double</strong> against Wisconsin. In the Sweet 16, she had <strong>10 points, 8 rebounds, and a game-best +31 plus-minus</strong> while sparking Michigan\'s dominant third quarter. Her size and athleticism create mismatches that Michigan exploits in transition.',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '\uD83D\uDC02',
+      title: 'Bevo: 110 Years of Longhorn Tradition',
+      body: 'Texas\'s live mascot dates to 1916, when alumnus Stephen Pinckney gathered <strong>$124 to buy a steer</strong> from the Texas Panhandle. Originally named "Bo," campus editor Ben Dyer renamed him "Bevo." The current mascot, <strong>Bevo XV</strong>, has been on the sidelines since 2016.',
+    },
+    {
+      emoji: '\uD83C\uDFC6',
+      title: 'The Perfect Season',
+      body: 'In 1986, Jody Conradt\'s Texas Longhorns went <strong>34-0 to win the national championship</strong> \u2014 the first undefeated season in NCAA women\'s basketball history. That remains the program\'s only title. It\'s been <strong>40 years</strong> since perfection.',
+    },
+    {
+      emoji: '\uD83C\uDFC5',
+      title: 'An Olympian on Michigan\'s Roster',
+      body: 'Syla Swords competed in the <strong>2024 Paris Olympics for Canada at age 18</strong>. Born in France, raised in Ontario, she moved to Long Island when her father took a job coaching the NBA G League\'s Long Island Nets. She hit eight threes against #1 UConn this season.',
+    },
+    {
+      emoji: '\uD83C\uDF6A',
+      title: 'Justice Carlton: Baller and Baker',
+      body: 'Texas sophomore Justice Carlton runs a cookie company called <strong>"J\'s Rollin\' in Dough"</strong> while starting for the #1 seed. Her mom Kacey played in the WNBA for the Detroit Shock and Miami Sol.',
+    },
+    {
+      emoji: '\uD83D\uDCCA',
+      title: 'Harmon\'s One-of-a-Kind Career',
+      body: 'Rori Harmon is the <strong>only player in NCAA D-I women\'s basketball history</strong> to record 1,500+ points, 900+ assists, 600+ rebounds, and 350+ steals. She committed to Texas just 19 days after Vic Schaefer was hired.',
+    },
+    {
+      emoji: '\uD83D\uDCA5',
+      title: 'Booker\'s 40-Piece',
+      body: 'Madison Booker scored <strong>40 points, 8 rebounds, 5 assists, and zero turnovers</strong> against Oregon \u2014 the most ever by a Texas player in the NCAA Tournament. She joined Caitlin Clark, Candice Wiggins, and Cindy Brown in the 40-5-5 club.',
+    },
+    {
+      emoji: '\uD83D\uDC94',
+      title: 'Michigan\'s Louisville Revenge',
+      body: 'Michigan\'s 2022 Elite Eight dream ended with a loss to Louisville. When the Wolverines beat Louisville 71-52 in the 2026 Sweet 16, <strong>former star Naz Hillmon was there to greet them</strong>. Coach Barnes Arico: "It feels so great to be on the other side."',
+    },
+    {
+      emoji: '\uD83E\uDDE1',
+      title: 'Schaefer Snapped the Streak',
+      body: 'At Mississippi State in 2017, Vic Schaefer\'s team beat #1 UConn <strong>66-64 in overtime</strong>, snapping the Huskies\' <strong>111-game winning streak</strong>. It remains one of the most iconic upsets in women\'s basketball history.',
+    },
+    {
+      emoji: '\uD83C\uDFE5',
+      title: 'From the Court to the Hospital',
+      body: 'Texas reserve Teya Sidberry is on the <strong>pre-med track</strong> and wants to attend medical school. At 19, she solo-traveled to Thailand to volunteer with an elephant conservation program.',
+    },
+    {
+      emoji: '\uD83C\uDFEB',
+      title: 'Michigan\'s Winningest Coach',
+      body: 'Kim Barnes Arico is the <strong>all-time winningest basketball coach at Michigan \u2014 men\'s or women\'s</strong> \u2014 with 312 victories. She passed John Beilein\'s record on February 12, 2025.',
+    },
+    {
+      emoji: '\uD83D\uDE80',
+      title: 'Three Tournament Wins by 20+',
+      body: 'Texas won each of its first three NCAA Tournament games by 20+ points \u2014 87-45, 100-58, 76-54. That\'s a <strong>first in program history</strong>. Their average margin of victory in the tournament is 28.7 points.',
+    },
+    {
+      emoji: '\uD83C\uDFA4',
+      title: 'Notable Longhorn: Matthew McConaughey',
+      body: 'Among UT\'s famous alumni: <strong>Matthew McConaughey</strong> (class of \'93), <strong>Michael Dell</strong> (Dell Technologies), and <strong>Rex Tillerson</strong> (former Secretary of State). Michigan counters with <strong>Gerald Ford</strong>, <strong>Larry Page</strong> (Google), and <strong>Tom Brady</strong>.',
+    },
+  ],
+  history: {
+    callout:
+      'Texas and Michigan have met just once in women\'s basketball history \u2014 a <strong>69-52 Texas win</strong> at a neutral-site tournament in Estero, Florida on November 24, 2018. Texas led 39-14 at halftime and cruised. Seven and a half years later, they meet again with a Final Four trip on the line \u2014 the highest-stakes game in the brief series history.',
+    subsections: [
+      {
+        title: 'Texas Women\'s Basketball: Championship Pedigree',
+        type: 'timeline' as const,
+        content: '',
+        timeline: [
+          {
+            date: '1986',
+            text: 'Texas goes <strong>34-0 and wins the national championship</strong> under Jody Conradt \u2014 the first undefeated season in NCAA women\'s basketball history.',
+          },
+          {
+            date: '1987',
+            text: 'Texas returns to the Final Four but falls <strong>70-67 to Louisiana Tech</strong> in the national semifinals in Austin.',
+          },
+          {
+            date: '2003',
+            text: 'Texas upsets #1 LSU to reach the Final Four for the first time in 16 years, losing <strong>71-69 to eventual champion UConn</strong>.',
+          },
+          {
+            date: '2025',
+            text: 'Vic Schaefer leads Texas to the <strong>Final Four for the first time in 22 years</strong>. The Longhorns lose to South Carolina in the national semifinals.',
+          },
+          {
+            date: '2026',
+            text: 'Texas earns a #1 seed for the third consecutive year and reaches the Elite Eight with three 20-point wins. The Longhorns seek their <strong>first national title since 1986</strong>.',
+          },
+        ],
+      },
+      {
+        title: 'Michigan\'s Rise to Relevance',
+        type: 'card' as const,
+        content:
+          '<p>Michigan\'s women\'s basketball program was largely an afterthought before Kim Barnes Arico arrived in 2012. The Wolverines had made just five NCAA Tournament appearances in program history and never advanced past the second round. Barnes Arico has transformed the program: <strong>eight NCAA bids, a WNIT Championship (2017), two Elite Eights (2022, 2026)</strong>, and the all-time wins record for any Michigan basketball coach.</p><p style="margin-top:.5rem;">The 2021-22 team, led by Naz Hillmon (Big Ten Player of the Year, WNBA draft pick), reached the first Elite Eight. Now the 2026 team \u2014 built around three fearless sophomores \u2014 has a chance to go further. A <strong>Final Four appearance would be the biggest achievement in Michigan women\'s basketball history</strong>.</p>',
+      },
+      {
+        title: 'Vic Schaefer\'s Tournament Resume',
+        type: 'card' as const,
+        content:
+          '<p>Vic Schaefer has been to <strong>three Final Fours</strong> as a head coach (Mississippi State 2017, 2018; Texas 2025) and was part of the Texas A&M staff that won the <strong>2011 national championship</strong>. His 2017 Mississippi State team beat #1 UConn in overtime to snap their 111-game winning streak \u2014 one of the most iconic upsets in women\'s basketball history. At Texas, he\'s built a program that has earned a #1 seed three consecutive years. He\'s never won a national title as head coach, but with Madison Booker and Rori Harmon, this may be his best chance.</p>',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'Texas Sources',
+      links: [
+        { label: '2025-26 Texas Season \u2013 Wikipedia', url: 'https://en.wikipedia.org/wiki/2025%E2%80%9326_Texas_Longhorns_women%27s_basketball_team' },
+        { label: 'Texas Stats \u2013 ESPN', url: 'https://www.espn.com/womens-college-basketball/team/stats/_/id/251/texas-longhorns' },
+        { label: 'Rori Harmon Feature \u2013 ESPN', url: 'https://www.espn.com/womens-college-basketball/story/_/id/48297940/march-madness-2026-sweet-16-texas-rori-harmon-vic-schaefer' },
+        { label: 'Booker 40 Points vs Oregon \u2013 ESPN', url: 'https://www.espn.com/womens-college-basketball/story/_/id/48283210/madison-booker-dominates-oregon-40-no-1-texas-rolls-on' },
+        { label: 'Texas vs Kentucky Recap \u2013 Texas Athletics', url: 'https://texaslonghorns.com/news/2026/3/28/no-3-womens-basketball-advances-to-elite-eight-with-76-54-win-over-no-16-kentucky' },
+        { label: 'Texas #1 Seed Announcement \u2013 Texas Athletics', url: 'https://texaslonghorns.com/news/2026/3/15/womens-basketball-womens-basketball-earns-no-1-seed-will-host-first-and-second-rounds-in-austin' },
+        { label: 'SEC Tournament Championship \u2013 Texas Athletics', url: 'https://texaslonghorns.com/news/2026/3/8/no-4-womens-basketball-wins-sec-tournament-championship-over-no-3-south-carolina-78-61' },
+        { label: 'Vic Schaefer \u2013 Wikipedia', url: 'https://en.wikipedia.org/wiki/Vic_Schaefer' },
+        { label: 'Madison Booker \u2013 Wikipedia', url: 'https://en.wikipedia.org/wiki/Madison_Booker' },
+        { label: 'Harmon Steals Record \u2013 Texas Athletics', url: 'https://texaslonghorns.com/news/2026/2/6/womens-basketball-harmon-breaks-womens-basketball-steals-record-texas-downs-lsu-77-64' },
+        { label: 'Sidberry Feature \u2013 Texas Athletics', url: 'https://texaslonghorns.com/news/2026/2/6/womens-basketballs-sidberry-finds-a-home-at-texas' },
+        { label: 'Texas vs Michigan History \u2013 Texas Athletics', url: 'https://texaslonghorns.com/sports/womens-basketball/opponent-history/university-of-michigan/98' },
+        { label: 'Schaefer Philosophy \u2013 Sports Spectrum', url: 'https://sportsspectrum.com/sport/basketball/2025/02/27/coach-vic-schaefer-texas-women-praise-the-lord/' },
+        { label: '1986 Championship \u2013 Texas Athletics', url: 'https://texaslonghorns.com/news/2017/6/17/a-look-back-womens-basketball-1986-ncaa-championship' },
+        { label: 'Texas Program History \u2013 Wikipedia', url: 'https://en.wikipedia.org/wiki/Texas_Longhorns_women%27s_basketball' },
+      ],
+    },
+    {
+      heading: 'Michigan Sources',
+      links: [
+        { label: '2025-26 Michigan Season \u2013 Wikipedia', url: 'https://en.wikipedia.org/wiki/2025%E2%80%9326_Michigan_Wolverines_women%27s_basketball_team' },
+        { label: 'Michigan Stats \u2013 ESPN', url: 'https://www.espn.com/womens-college-basketball/team/stats/_/id/130/michigan-wolverines' },
+        { label: 'Olson Leads Michigan to Elite Eight \u2013 ESPN', url: 'https://www.espn.com/womens-college-basketball/story/_/id/48331498/olivia-olson-19-leads-michigan-louisville-elite-8' },
+        { label: 'Michigan vs Texas Preview \u2013 Michigan Athletics', url: 'https://mgoblue.com/news/2026/3/29/womens-basketball-wolverines-to-face-no-3-texas-in-elite-eight' },
+        { label: 'Michigan Sweet 16 Recap \u2013 Michigan Athletics', url: 'https://mgoblue.com/news/2026/3/28/womens-basketball-wolverines-use-big-runs-to-rally-past-louisville-advance-to-programs-second-elite-eight' },
+        { label: 'Michigan HHS Stats \u2013 Her Hoop Stats', url: 'https://herhoopstats.com/stats/ncaa/team/2026/natl/michigan-wolverines-womens-basketball-stats-11e8e149-c947-13ee-af82-12df17ae4e1e/' },
+        { label: 'Kim Barnes Arico \u2013 Wikipedia', url: 'https://en.wikipedia.org/wiki/Kim_Barnes_Arico' },
+        { label: 'Syla Swords \u2013 Wikipedia', url: 'https://en.wikipedia.org/wiki/Syla_Swords' },
+        { label: 'Syla Swords Profile \u2013 Maize n Brew', url: 'https://www.maizenbrew.com/michigan-womens-basketball/107106/michigan-womens-basketball-syla-swords' },
+        { label: 'Olson X Factor \u2013 Yahoo Sports', url: 'https://sports.yahoo.com/articles/why-olivia-olson-michigan-x-190000358.html' },
+        { label: 'Quarles Daniels Defense \u2013 Maize n Brew', url: 'https://www.maizenbrew.com/michigan-womens-basketball/109153/brooke-quarles-daniels-defense-helping-michigan-make-postseason-run' },
+        { label: 'Barnes Arico Career \u2013 Detroit News', url: 'https://eu.detroitnews.com/story/sports/college/university-michigan/2026/03/24/kim-barnes-arico-has-michigan-women-carving-out-place-among-elites/89296819007/' },
+        { label: 'Sofilkanich NCAA Story \u2013 Maize n Brew', url: 'https://www.maizenbrew.com/michigan-womens-basketball/108873/womens-march-madness-michigan-ashley-sofilkanich' },
+        { label: 'Michigan Women\'s Basketball \u2013 Wikipedia', url: 'https://en.wikipedia.org/wiki/Michigan_Wolverines_women%27s_basketball' },
+      ],
+    },
+  ],
+  footerText: 'Texas vs Michigan \u2014 Women\'s Elite Eight \u2022 March 30, 2026 \u2022 7:00 PM ET \u2022 ESPN',
+}
+
+export default game
