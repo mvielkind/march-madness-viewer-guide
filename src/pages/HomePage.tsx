@@ -6,9 +6,10 @@ function getToday(): string {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
 }
 
-type EventType = 'mens-basketball' | 'womens-basketball' | 'golf'
+type EventType = 'mens-basketball' | 'womens-basketball' | 'golf' | 'mlb'
 
 function getEventType(game: (typeof games)[number]): EventType {
+  if (game.slug.startsWith('mlb-')) return 'mlb'
   if (game.slug.startsWith('pga-')) return 'golf'
   if (game.slug.includes('womens')) return 'womens-basketball'
   return 'mens-basketball'
@@ -18,6 +19,7 @@ const categoryLabels: Record<EventType, { badge: string; heading: string }> = {
   'mens-basketball': { badge: 'NCAAM', heading: "Men's College Basketball" },
   'womens-basketball': { badge: 'NCAAW', heading: "Women's College Basketball" },
   'golf': { badge: 'PGA Tour', heading: 'PGA Tour' },
+  'mlb': { badge: 'MLB', heading: 'Major League Baseball' },
 }
 
 function GameCard({ game }: { game: (typeof games)[number] }) {
@@ -52,7 +54,7 @@ function GameCard({ game }: { game: (typeof games)[number] }) {
 }
 
 function groupByCategory(gameList: typeof games) {
-  const order: EventType[] = ['mens-basketball', 'womens-basketball', 'golf']
+  const order: EventType[] = ['mens-basketball', 'womens-basketball', 'golf', 'mlb']
   const groups = new Map<EventType, typeof games>()
   for (const game of gameList) {
     const type = getEventType(game)
