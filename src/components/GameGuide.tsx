@@ -12,6 +12,7 @@ import PlayerCard from './PlayerCard.tsx'
 import FactCard from './FactCard.tsx'
 import Timeline from './Timeline.tsx'
 import SourceList from './SourceList.tsx'
+import TrendSection from './TrendSection.tsx'
 import Footer from './Footer.tsx'
 
 function hexToRgb(hex: string): string {
@@ -95,28 +96,41 @@ export default function GameGuide({ game }: { game: GameData }) {
         )}
       </section>
 
-      <section className="guide-section guide-facts">
-        <h2>Fun Facts &amp; Storylines</h2>
-        {game.funFacts.map((f) => (
-          <FactCard key={f.title} fact={f} />
-        ))}
-      </section>
+      {game.trends && game.trends.length > 0 && (
+        <section className="guide-section guide-trends">
+          <h2>Trends to Watch</h2>
+          {game.trends.map((t) => (
+            <TrendSection key={t.title} trend={t} />
+          ))}
+        </section>
+      )}
 
-      <section className="guide-section guide-history">
-        <h2>Historic Context</h2>
-        <Callout html={game.history.callout} />
-        {game.history.subsections.map((sub) => (
-          <div key={sub.title}>
-            <h3>{sub.title}</h3>
-            {sub.type === 'timeline' && sub.timeline && (
-              <Timeline entries={sub.timeline} />
-            )}
-            {sub.type === 'card' && (
-              <div className="history-prose" dangerouslySetInnerHTML={{ __html: sub.content }} />
-            )}
-          </div>
-        ))}
-      </section>
+      {game.funFacts && game.funFacts.length > 0 && (
+        <section className="guide-section guide-facts">
+          <h2>Fun Facts &amp; Storylines</h2>
+          {game.funFacts.map((f) => (
+            <FactCard key={f.title} fact={f} />
+          ))}
+        </section>
+      )}
+
+      {game.history && (
+        <section className="guide-section guide-history">
+          <h2>Historic Context</h2>
+          <Callout html={game.history.callout} />
+          {game.history.subsections.map((sub) => (
+            <div key={sub.title}>
+              <h3>{sub.title}</h3>
+              {sub.type === 'timeline' && sub.timeline && (
+                <Timeline entries={sub.timeline} />
+              )}
+              {sub.type === 'card' && (
+                <div className="history-prose" dangerouslySetInnerHTML={{ __html: sub.content }} />
+              )}
+            </div>
+          ))}
+        </section>
+      )}
 
       <section className="guide-section guide-sources">
         <h2>Sources &amp; Further Reading</h2>

@@ -482,6 +482,7 @@ a:hover { color: var(--howard); text-decoration: underline; }
 .guide-keys       { padding-top: 2.5rem; padding-bottom: 2.5rem; }
 .guide-prediction { padding-top: 2rem;   padding-bottom: 2.5rem; }
 .guide-players    { padding-top: 2rem;   padding-bottom: 3rem; }
+.guide-trends  { padding-top: 2rem;   padding-bottom: 2rem; }
 .guide-facts   { padding-top: 2rem;   padding-bottom: 2rem; }
 .guide-history { padding-top: 3rem;   padding-bottom: 3rem; }
 .guide-sources { padding-top: 2rem;   padding-bottom: 1.5rem; opacity: .7; font-size: .9em; }
@@ -634,6 +635,27 @@ a:hover { color: var(--howard); text-decoration: underline; }
   color: var(--howard);
   border-bottom-color: var(--howard);
 }
+
+/* ===== TRENDS ===== */
+.trend-category { margin-bottom: 2rem; }
+.trend-category:last-child { margin-bottom: 0; }
+.trend-category h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: .75rem;
+  padding-bottom: .5rem;
+  border-bottom: 1px solid var(--rule);
+}
+.trend-bullet {
+  font-size: 1rem;
+  line-height: 1.75;
+  margin-bottom: .75rem;
+  color: var(--text-muted);
+}
+.trend-bullet strong { color: var(--text); }
+.trend-bullet a { color: var(--text-muted); text-decoration: underline; text-decoration-color: var(--rule); text-underline-offset: 2px; }
+.trend-bullet a:hover { color: var(--text); text-decoration-color: var(--text-muted); }
 
 /* ===== FACT PROSE ===== */
 .fact-prose {
@@ -965,6 +987,7 @@ footer {
   .guide-keys       { padding-top: 1.875rem; padding-bottom: 1.875rem; }
   .guide-prediction { padding-top: 1.5rem;   padding-bottom: 1.875rem; }
   .guide-players    { padding-top: 1.5rem;   padding-bottom: 2.25rem; }
+  .guide-trends  { padding-top: 1.5rem;   padding-bottom: 1.5rem; }
   .guide-facts   { padding-top: 1.5rem;   padding-bottom: 1.5rem; }
   .guide-history { padding-top: 2.25rem;  padding-bottom: 2.25rem; }
   .guide-sources { padding-top: 1.5rem;   padding-bottom: 1.125rem; }

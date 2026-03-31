@@ -100,6 +100,11 @@ export interface TournamentPrediction {
   }
 }
 
+export interface TrendCategory {
+  title: string
+  bullets: string[]
+}
+
 export interface GameData {
   slug: string
   title: string
@@ -122,8 +127,9 @@ export interface GameData {
   prediction: Prediction
   tournamentPrediction?: TournamentPrediction
   players: Player[]
-  funFacts: FunFact[]
-  history: HistorySection
+  trends?: TrendCategory[]
+  funFacts?: FunFact[]
+  history?: HistorySection
   sources: SourceGroup[]
   footerText: string
 }
