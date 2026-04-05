@@ -1,0 +1,469 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'south-carolina-vs-ucla-womens-championship-2026',
+  title: 'South Carolina vs UCLA — Women\'s National Championship Viewing Guide',
+  eventTag: 'NCAA Women\'s Tournament • National Championship • Phoenix, AZ',
+  date: 'Sunday, April 5, 2026 • 3:30 PM ET',
+  round: 'National Championship',
+  tipTime: '2026-04-05T15:30',
+  venue: 'Mortgage Matchup Center, Phoenix, Arizona • ABC',
+  extraInfo:
+    'The winner claims the <strong>2026 NCAA Women\'s Basketball National Championship</strong>. South Carolina seeks its <strong>fourth title</strong>; UCLA is playing in its <strong>first-ever NCAA championship game</strong>.',
+  teams: [
+    {
+      name: 'South Carolina',
+      mascot: 'Gamecocks',
+      seed: '#1 Seed',
+      record: '36-3 • SEC',
+      colors: { primary: '#73000A', secondary: '#000000', name: 'south-carolina' },
+      className: 'south-carolina',
+    },
+    {
+      name: 'UCLA',
+      mascot: 'Bruins',
+      seed: '#1 Seed',
+      record: '36-1 • Big Ten',
+      colors: { primary: '#2D68C4', secondary: '#F2A900', name: 'ucla' },
+      className: 'ucla',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'The Stakes' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'facts', label: 'Fun Facts' },
+    { id: 'history', label: 'History' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'Dawn Staley\'s South Carolina dynasty meets Cori Close\'s UCLA juggernaut in the biggest game in women\'s college basketball. The Gamecocks just ended UConn\'s 54-game winning streak with a <strong>62-48 defensive masterclass</strong>. UCLA survived Texas <strong>51-44</strong> with Lauren Betts blocking Madison Booker\'s potential tying drive with 30 seconds left. South Carolina is playing in its <strong>third consecutive national championship game</strong> — seeking a fourth title in five years. UCLA has <strong>never played in an NCAA title game</strong>. South Carolina is a 3.5-point favorite. Both teams held their Final Four opponents to 31% shooting. Something has to give.',
+    cards: [
+      {
+        label: 'South Carolina\'s Fourth Title',
+        value:
+          'Dawn Staley has won national championships in <strong>2017, 2022, and 2024</strong> — and lost in the title game in 2025. This is the Gamecocks\' <strong>fifth championship game appearance</strong> and third in a row, matching the second-longest streak in tournament history. They avenged last year\'s 82-59 blowout loss by dismantling undefeated UConn in the Final Four. Staley displayed that score on gym screens all summer. <em>"It was a performance that makes you super proud."</em>',
+      },
+      {
+        label: 'UCLA\'s Historic First',
+        value:
+          'UCLA has never played in an NCAA Women\'s Basketball Championship game. The Bruins won the <strong>1978 AIAW title</strong> — before the NCAA sponsored women\'s basketball — but this is uncharted territory. Cori Close has built this program from WNIT champion to <strong>back-to-back Final Fours</strong> to a title game appearance with the most WNBA-ready roster in the country. <em>"It\'s just everything for me to be a fly on the wall and watch incredible young women chase their dreams."</em>',
+      },
+      {
+        label: 'WNBA Draft Class Showdown',
+        value:
+          'This game features a staggering number of future WNBA players. UCLA could have <strong>six players drafted</strong> — which would be an all-time record. Lauren Betts is a projected <strong>top-5 pick</strong>, Kiki Rice a lottery selection, and Jaquez, Kneepkens, Leger-Walker, and Dugalic are all projected picks. South Carolina counters with Joyce Edwards (projected future <strong>#1 overall pick</strong>), Ta\'Niya Latson (#6), Madina Okot (#10), and Raven Johnson (first round).',
+      },
+      {
+        label: 'The Defensive Championship',
+        value:
+          'Both teams just turned the Final Four into a defensive showcase. South Carolina held UConn to <strong>31.1% shooting and 48 points</strong> — the Huskies\' season-low in both categories. UCLA held Texas to <strong>30.8% shooting and 44 points</strong>. Neither team allowed more than 50 points Friday night. The combined 95 points in the UCLA-Texas game made it one of the lowest-scoring Final Four games ever. Expect a physical, grinding championship.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Defensive Juggernaut, Championship-Tested, Second-Half Surge',
+      bullets: [
+        '<strong>The defense has been historic in this tournament:</strong> South Carolina has allowed just <strong>52.6 PPG in the NCAA Tournament</strong> — holding opponents to an average of 31% shooting in wins over ranked foes. Against UConn, they limited Sarah Strong and Azzi Fudd to a combined <strong>7-of-31 shooting (22.6%)</strong>. Joyce Edwards individually shadowed Strong into her worst game of the season. The Gamecocks suffocate ball movement with length, physicality, and relentless pressure.',
+        '<strong>Rebounding dominance is the engine:</strong> South Carolina crushed UConn <strong>47-32 on the boards</strong> — including 14 offensive rebounds that generated 9 second-chance points. They\'re <strong>fifth nationally in rebounding margin</strong>. Madina Okot (6-6) and Makeer crash the glass; Latson grabbed 11 rebounds against UConn despite being 5-8. UCLA will need to box out or get buried in second chances.',
+        '<strong>The third-quarter surge is their signature:</strong> South Carolina has outscored opponents in the second half of every tournament game. Against UConn, a <strong>12-2 run</strong> to open the third quarter built the largest lead the Huskies faced all season. Against TCU, they outscored the Horned Frogs <strong>49-19</strong> after halftime. UCLA should expect a Gamecocks team that adjusts at halftime and comes out aggressive.',
+        '<strong>Agot Makeer has become the X-factor:</strong> The freshman from Thunder Bay, Ontario has scored in <strong>double figures in all five tournament games</strong> after doing so just three times in 33 regular-season games. She\'s averaging <strong>14.8 PPG on 55.6% three-point shooting</strong> in the tournament, providing a third scoring option that didn\'t exist a month ago. Her defense on Fudd (3-of-15) was equally impactful.',
+        '<strong>Weakness — three-point shooting and turnovers:</strong> South Carolina attempts threes at just a <strong>22.1% rate</strong> — the lowest of any title contender. They can struggle against zone defenses that pack the paint. Free throw shooting (72.7%) is adequate but could matter in a close game. If UCLA\'s defense takes away the paint, the Gamecocks lack a reliable perimeter bailout beyond Tessa Johnson (45.1% 3PT).',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'Inside-Out Precision, WNBA-Ready Talent, Championship Grind',
+      bullets: [
+        '<strong>Lauren Betts is the most dominant player in the country:</strong> The 6-7 senior center is shooting <strong>70.1% from the field in the tournament</strong> and had <strong>16 points, 11 rebounds, and 3 blocks</strong> in the Final Four — including the game-saving block on Madison Booker with 30 seconds left. She\'s the first player since Brittney Griner (2012) to post 20+ pts, 10+ reb, 5+ blk in a regional final or later. She doesn\'t need the three-point line because she\'s virtually unguardable in the post.',
+        '<strong>Elite perimeter shooting opens everything:</strong> Gianna Kneepkens shoots <strong>.506/.433/.930</strong> — a near 50-40-90 season. Kiki Rice shoots .500/.384/.907. Gabriela Jaquez shoots .543/.391/.853. When defenses collapse on Betts, UCLA has three legitimate snipers who can make them pay. Against Texas, Kneepkens\' fourth-quarter three made it 45-32 and nearly iced the game.',
+        '<strong>The defense showed up in Phoenix:</strong> UCLA held Texas to <strong>30.8% shooting</strong> and just 44 points. Betts anchors the interior, and the perimeter defense funnels drivers into her shot-blocking range. Madison Booker — a preseason All-American — went <strong>3-of-23</strong>, missing 17 straight shots at one point. This isn\'t just a great offense anymore; UCLA can win ugly.',
+        '<strong>Six seniors, one mission:</strong> Betts, Rice, Jaquez, Kneepkens, Leger-Walker, and Dugalic are all playing their final college game. All six are projected WNBA picks. Angela Dugalic, the <strong>Big Ten Sixth Player of the Year</strong>, provides a bench spark (15 pts in the Elite Eight vs Duke). This team has no weak links in the rotation.',
+        '<strong>Weakness — turnovers and free throws:</strong> UCLA committed <strong>23 turnovers against Texas</strong> — the most in a Final Four game since 2008. South Carolina\'s defense is even more disruptive than Texas\'s. Free throw shooting is a concern: Betts shoots 66.7% and Leger-Walker 64.9%. In a low-scoring grind, every missed free throw magnifies. UCLA also shot just <strong>2-of-14 from three (14.3%)</strong> in the Elite Eight — perimeter cold streaks are a recurring issue.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title:
+        'Betts vs. the South Carolina interior — the matchup that decides everything.',
+      description:
+        'Lauren Betts (6-7) is shooting 70.1% in the tournament and has been the most dominant post player in March. But South Carolina has <strong>Madina Okot (6-6)</strong>, who is equally physical and led a rebounding assault that buried UConn 47-32. South Carolina also has the defensive versatility to throw different looks at Betts — Raven Johnson has guarded players 6 inches taller than her. If Betts gets her 16-20 points efficiently, UCLA has a chance. If South Carolina can limit her touches or get her in foul trouble, the Gamecocks\' defensive identity takes over.',
+    },
+    {
+      title:
+        'Can UCLA protect the ball against South Carolina\'s pressure?',
+      description:
+        'UCLA committed <strong>23 turnovers against Texas</strong> and still won because Texas shot 30.8%. South Carolina\'s defense is at least as disruptive — they held UConn to 31.1% shooting while generating <strong>16 fast-break points</strong>. The Gamecocks force turnovers at a 20.9% rate with an 11.3% steal rate. Charlisse Leger-Walker (5.7 APG) will need to manage South Carolina\'s ball pressure, and UCLA cannot afford the 23-turnover performance they got away with Friday. If South Carolina converts turnovers into transition points, the game gets out of UCLA\'s control quickly.',
+    },
+    {
+      title:
+        'South Carolina\'s offensive rebounding vs. UCLA\'s rim protection.',
+      description:
+        'South Carolina\'s <strong>39.2% offensive rebounding rate</strong> and 47-32 glass domination of UConn is their most dangerous weapon. Every missed shot becomes a potential second chance. UCLA counters with Betts\'s <strong>1.9 blocks per game</strong> and overall rim protection — but the Bruins were outrebounded 38-26 in the first half against Duke before their comeback. If South Carolina crashes the boards like they did against UConn, UCLA\'s defense may not hold even if they contest shots well.',
+    },
+    {
+      title:
+        'The three-point shooting variable — both teams are cold from deep.',
+      description:
+        'UCLA shot <strong>2-of-14 from three (14.3%) against Duke</strong> in the Elite Eight and still won. South Carolina shoots threes at just a 22.1% rate. But UCLA has legitimate shooters — Kneepkens (.433), Rice (.384), Tessa Johnson (.451 for SC) — who can swing the game with a hot stretch. If UCLA hits threes at even its season average, Betts gets easier post touches because help defense can\'t sag. If South Carolina\'s Tessa Johnson and Makeer continue their tournament shooting, the Gamecocks can space the floor too. Whichever team shoots better from deep gains a massive edge in a game projected under 130 points.',
+    },
+    {
+      title:
+        'Championship experience vs. championship talent.',
+      description:
+        'South Carolina has been here before — <strong>third straight championship game, four players with title game experience</strong> (Raven Johnson has two rings). Dawn Staley has coached in five championship games. UCLA has never been here. But the Bruins have six seniors who are all projected WNBA picks — this is arguably the most talented roster in women\'s college basketball history. Cori Close was mentored by <strong>John Wooden</strong> and has built UCLA\'s program for exactly this moment. The question: does South Carolina\'s championship pedigree give them an edge in a tight game, or does UCLA\'s talent depth overwhelm experience?',
+    },
+  ],
+  prediction: {
+    summary:
+      'This championship game pits <strong>South Carolina\'s elite defense and championship pedigree</strong> against <strong>UCLA\'s balanced roster and interior dominance through Lauren Betts</strong>. Both teams just dismantled their Final Four opponents defensively — South Carolina held UConn to 31.1% shooting, UCLA held Texas to 30.8%. Expect another grind. The key matchup is Betts vs. South Carolina\'s interior, particularly Madina Okot. If Betts dominates like she has all tournament (70.1% FG), UCLA\'s offense has a floor that\'s hard to stop. But South Carolina\'s rebounding advantage and second-half adjustments have been devastating — they outscored UConn 38-22 after halftime.<br><br>The X-factors are <strong>turnovers and three-point shooting</strong>. UCLA\'s 23 turnovers against Texas would be fatal against South Carolina\'s transition game. But if Leger-Walker manages the ball and UCLA\'s shooters hit at their season averages, the Bruins\' spacing creates clean looks for Betts. South Carolina\'s path is defensive suffocation, glass domination, and the Latson-Edwards-Makeer scoring trio. UCLA\'s path is Betts efficiency, perimeter shooting, and keeping turnovers under 15. This feels like a game decided in the fourth quarter by free throws and defensive stops.',
+    phases: [
+      {
+        title: 'First Quarter — Feeling-out period, defensive intensity',
+        description:
+          'Expect a slow, physical start. South Carolina will try to establish its rebounding advantage early and test UCLA\'s ball security with pressure. Betts will get early post touches to establish position. Neither team trusts its three-point shooting right now, so possessions will be fought in the paint. South Carolina\'s defense sets the tone. Score: South Carolina 14, UCLA 12.',
+      },
+      {
+        title: 'Second Quarter — UCLA\'s offense finds some rhythm',
+        description:
+          'UCLA\'s ball movement starts creating better looks. Kneepkens or Rice hits a three to stretch the defense, giving Betts more room inside. But South Carolina\'s offensive rebounding generates second chances on the other end. Latson gets to the free throw line. The game stays tight. Score at half: South Carolina 28, UCLA 27.',
+      },
+      {
+        title: 'Third Quarter — South Carolina\'s signature surge',
+        description:
+          'Dawn Staley makes halftime adjustments — this is where South Carolina has been lethal all tournament. Expect a Gamecock run early in the third, similar to their 12-2 burst against UConn. South Carolina\'s defense tightens, and UCLA goes through a scoring drought. But Betts keeps UCLA within striking distance with post scoring and Dugalic provides a bench spark. Score: South Carolina 44, UCLA 39.',
+      },
+      {
+        title: 'Fourth Quarter — Championship decided in the final minutes',
+        description:
+          'UCLA\'s shooters battle back to close the gap. Rice and Kneepkens hit key shots. The game comes down to the final four minutes with South Carolina leading by 2-4. This is where championship experience matters — Raven Johnson and Latson have been in this spot before. UCLA\'s free throw shooting (Betts at 66.7%) could be the difference. South Carolina\'s defense makes the key stops late, and Latson — who went 10-of-10 from the line against UConn — delivers at the stripe.',
+      },
+    ],
+    projectedScore: {
+      teamA: 64,
+      teamB: 58,
+      rationale:
+        'South Carolina\'s defensive identity, rebounding advantage, and championship experience give them the edge in a low-scoring grind. Betts keeps UCLA competitive with 18+ points, but South Carolina\'s depth (Edwards, Latson, Makeer all scoring) and second-half adjustments prove decisive. UCLA\'s turnovers and inconsistent three-point shooting prevent them from sustaining offensive runs. Staley wins her fourth title.',
+    },
+  },
+  players: [
+    {
+      team: 'a',
+      name: 'Joyce Edwards',
+      stats: '19.6 PPG, 6.5 RPG, 58.5% FG | AP Second-Team All-American',
+      meta: 'F • 6-0 • Sophomore • Camden, SC',
+      bio: 'The best player on the best team in the SEC — and she\'s only a sophomore. Edwards was the <strong>2024 Gatorade National Player of the Year</strong>, co-MVP of the McDonald\'s All-American Game, and the No. 2 recruit in her class. This season: 19.6 PPG on 58.5% shooting with 19 twenty-point games. In the Final Four, she <strong>shadowed Sarah Strong into a 4-of-16 nightmare</strong> while scoring 11 with 8 rebounds and 3 steals. Set the <strong>program single-season scoring record</strong> (760 points) in the process. Widely considered a future No. 1 overall WNBA Draft pick.<br><br><a href="https://gamecocksonline.com/news/2026/04/03/south-carolina-smothers-uconn-62-48-to-advance-to-ncaa-title-game/">Gamecocks Online: Final Four Recap</a>',
+    },
+    {
+      team: 'a',
+      name: 'Ta\'Niya Latson',
+      stats: '16 PTS, 11 REB, 10-10 FT vs. UConn | 14.7 PPG',
+      meta: 'G • 5-8 • Senior • Miami, FL',
+      bio: 'The nation\'s leading scorer at Florida State last season (25.2 PPG), Latson transferred to South Carolina to win a championship. Her scoring dropped to 14.7 PPG in a complementary role, but <strong>the tournament has been her stage</strong>. She exploded for 28 points in the Sweet 16 against Oklahoma, then recorded her <strong>first double-double of the season</strong> in the Final Four — 16 points and 11 rebounds with a <strong>perfect 10-of-10 from the free throw line</strong>. Her Westlake High reunion with Raven Johnson has powered South Carolina\'s March run. Projected <strong>No. 6 pick in the 2026 WNBA Draft</strong>.<br><br><a href="https://sports.yahoo.com/articles/taniya-latson-proved-transfer-south-090425213.html">Yahoo: How Latson Proved Her Transfer Wasn\'t a Mistake</a>',
+    },
+    {
+      team: 'a',
+      name: 'Agot Makeer',
+      stats: '14.8 PPG, 55.6% 3PT in NCAA Tournament | X-Factor',
+      meta: 'G • 6-1 • Freshman • Thunder Bay, Ontario',
+      bio: 'The tournament\'s breakout star. A <strong>five-star recruit (No. 4 in 2025 class)</strong> and McDonald\'s All-American who was born in Fargo, North Dakota, and raised in Thunder Bay, Ontario. Attended Montverde Academy in Florida for her senior year. Scored in double figures just three times in 33 regular-season games — then <strong>scored in double figures in all five tournament games</strong>. Career-high 18 against TCU in the Elite Eight. Against UConn, she scored 14 and <strong>held Azzi Fudd to 3-of-15 shooting</strong>. Makeer has transformed from inconsistent freshman to South Carolina\'s third scoring option in three weeks.<br><br><a href="https://www.on3.com/teams/south-carolina-gamecocks/news/agot-makeer-continues-to-shine-in-march-for-south-carolina-womens-basketball/">On3: Makeer Continues to Shine in March</a>',
+    },
+    {
+      team: 'a',
+      name: 'Raven Johnson',
+      stats: '10.2 PPG, 5.3 APG, 40.6% 3PT | SEC Defensive POY',
+      meta: 'G • 5-9 • Redshirt Senior • Atlanta, GA',
+      bio: 'The heartbeat of South Carolina. Johnson is a <strong>two-time national champion (2022, 2024)</strong> who has helped the team reach the Final Four in every season of her career — the program is <strong>106-4 in her three full seasons</strong>. Named <strong>2026 SEC Defensive Player of the Year</strong> and AP Third-Team All-American. Holds program NCAA Tournament records with <strong>72 assists and 37 steals</strong> across 22 career tournament games. Her Westlake High reunion with Latson has been a tournament storyline — they combined for 46 points in the Sweet 16. Projected mid-to-late first-round WNBA pick.<br><br><a href="https://www.espn.com/womens-college-basketball/story/_/id/48380061/women-final-four-march-madness-2026-previews-live-updates-analysis-uconn-ucla-south-carolina-texas">ESPN: How South Carolina Won</a>',
+    },
+    {
+      team: 'b',
+      name: 'Lauren Betts',
+      stats: '17.1 PPG, 8.6 RPG, 1.9 BPG, 70.1% FG in tourney | Big Ten POY + DPOY',
+      meta: 'C • 6-7 • Senior • Centennial, CO',
+      bio: 'The most dominant player in this tournament. Born in Vitoria-Gasteiz, Spain, where her father Andrew played professional basketball (he was drafted by the Charlotte Hornets). The first player in Big Ten history to win <strong>both Player of the Year and Defensive Player of the Year</strong> simultaneously. In the Final Four, she had <strong>16 points, 11 rebounds, and 3 blocks</strong> — including the <strong>game-saving block on Madison Booker</strong> with 30 seconds left. In the Elite Eight: 23 pts, 10 reb, 5 blk — the first player since <strong>Brittney Griner (2012)</strong> with that stat line in a regional final or later. Projected <strong>top-5 WNBA Draft pick</strong>.<br><br><a href="https://www.espn.com/womens-college-basketball/story/_/id/48391884/ucla-survives-late-surge-texas-make-first-ncaa-title-game">ESPN: UCLA Survives Texas</a>',
+    },
+    {
+      team: 'b',
+      name: 'Kiki Rice',
+      stats: '15.4 PPG, 5.8 RPG, 4.4 APG, .907 FT% | Big Ten Tourney MOP',
+      meta: 'G • 5-11 • Senior • Bethesda, MD',
+      bio: 'A four-year program loyalist from Sidwell Friends School in Bethesda, Maryland — the <strong>highest-ranked recruit in UCLA program history</strong>. Won three gold medals with USA Basketball. Rice has improved every year: from 10.6 PPG as a freshman to 15.4 as a senior, shooting .500/.384/.907. Named <strong>Big Ten Tournament MOP</strong>. Against Texas, she scored 11 points and <strong>sealed the win with 4 clutch free throws</strong> in the final minute when the game tightened to 3. At .907 from the line, she\'s the closer UCLA needs in a tight championship game.<br><br><a href="https://dailybruin.com/2026/02/28/championed-by-campion-kiki-rice-is-longtime-key-piece-underlying-womens-basketballs-success">Daily Bruin: Rice Feature</a>',
+    },
+    {
+      team: 'b',
+      name: 'Gianna Kneepkens',
+      stats: '13.0 PPG, .506/.433/.930 | Near 50-40-90 Shooter',
+      meta: 'G • 6-0 • Grad Transfer • Duluth, MN',
+      bio: 'A graduate transfer from Utah who grew up in Duluth, Minnesota, shooting hoops with her <strong>five older brothers</strong>. Self-described "basketball player from the hockey state." At Utah, she posted a near <strong>50-40-90 season</strong> (50.4/44.8/89.0). UCLA beat out South Carolina and Texas for her transfer commitment. This season: .506/.433/.930 — one of the few true 50-40-90 shooters in the college game. Her <strong>fourth-quarter three against Texas</strong> pushed the lead to 45-32 and nearly iced the semifinal. Her shooting gravity is what opens the paint for Betts.<br><br><a href="https://dailybruin.com/2025/09/18/a-basketball-player-from-the-hockey-state-gianna-kneepkens-joins-ucla">Daily Bruin: Kneepkens Background</a>',
+    },
+    {
+      team: 'b',
+      name: 'Gabriela Jaquez',
+      stats: '13.5 PPG, 5.4 RPG, .543/.391/.853 | Cheryl Miller Award Finalist',
+      meta: 'F • 6-0 • Senior • Camarillo, CA',
+      bio: 'The younger sister of <strong>Jaime Jaquez Jr.</strong>, who starred at UCLA and now plays for the Miami Heat. Their grandfather Ezequiel came from Mexico and played basketball at Arizona State College. Both parents played at Concordia University — <strong>basketball runs three generations deep</strong> in the Jaquez family. Gabriela was a McDonald\'s All-American Game co-MVP (shared with Rice). She\'s blossomed from 6.3 PPG as a freshman to a 13.5 PPG senior shooting .543/.391/.853. Jaime Jr.: she\'s a "real star" and "instant plug-and-play" WNBA prospect.<br><br><a href="https://www.si.com/college/ucla/women-s-basketball/gabriela-jaime-jaquez-jr-nba-final-four">SI: Jaquez Family Legacy</a>',
+    },
+  ],
+  funFacts: [
+    {
+      emoji: '🏆',
+      title: 'Dawn Staley\'s Resume Is Unmatched',
+      body: 'Dawn Staley is the only person in history to win the <strong>Naismith Award as both a player and a coach</strong>. She won three Olympic gold medals (1996, 2000, 2004), carried the American flag at the 2004 Athens Opening Ceremony, played eight WNBA seasons, and has won three national championships as a coach. She grew up playing basketball on the playgrounds of North Philadelphia.',
+    },
+    {
+      emoji: '🐻',
+      title: 'John Wooden\'s Protégé',
+      body: 'Cori Close was personally mentored by <strong>legendary UCLA coach John Wooden</strong> — the man who won 10 national championships. Close has said: "One of the things he gave me was a sense that you could compete at the highest levels, you could master your craft, and you could do it in a transformational, character-building way." She\'s now coaching for UCLA\'s first-ever NCAA women\'s basketball title.',
+    },
+    {
+      emoji: '🌍',
+      title: 'Born on Three Continents',
+      body: 'Lauren Betts was born in <strong>Vitoria-Gasteiz, Spain</strong>, where her father Andrew played professional basketball. Madina Okot\'s path wound through <strong>Mumias, Kenya</strong>, then Nairobi\'s Zetech University and the FIBA Africa Women\'s Basketball League. Agot Makeer was born in <strong>Fargo, North Dakota</strong>, raised in <strong>Thunder Bay, Ontario</strong>, and attended school in Florida. Charlisse Leger-Walker is from <strong>Waikato, New Zealand</strong>.',
+    },
+    {
+      emoji: '👨‍👧',
+      title: 'The Jaquez Family Dynasty',
+      body: 'Gabriela Jaquez\'s brother <strong>Jaime Jr. plays for the Miami Heat</strong>. Their grandfather <strong>Ezequiel came to California from Mexico</strong> and played basketball at Arizona State College. Both parents played at Concordia University. Three generations of hoopers — and now Gabriela is playing for a national championship at the same school where Jaime became an All-American.',
+    },
+    {
+      emoji: '👯',
+      title: 'The Betts Sisters',
+      body: 'Lauren Betts (6-7 senior) plays alongside her younger sister <strong>Sienna Betts (6-4 freshman)</strong> at UCLA. Their father Andrew was drafted by the Charlotte Hornets and played for the Great Britain national team. If UCLA wins, they\'d be the second pair of sisters to win a national championship at UCLA — after the sport predated the NCAA tournament.',
+    },
+    {
+      emoji: '📊',
+      title: 'Six WNBA Picks From One Roster',
+      body: 'If all six graduating UCLA seniors are drafted — Betts, Rice, Jaquez, Kneepkens, Leger-Walker, and Dugalic — it would be an <strong>all-time WNBA Draft record</strong>. The previous record is five, held by Tennessee (1999, 2008), Notre Dame (2019), and South Carolina (2023). South Carolina\'s 2025 class already sent three first-rounders to the WNBA.',
+    },
+    {
+      emoji: '🏫',
+      title: 'The Westlake Reunion',
+      body: 'South Carolina\'s <strong>Raven Johnson and Ta\'Niya Latson</strong> were high school teammates at Westlake High School in Atlanta, where they won three state championships and the 2021 GEICO National Championship together. Latson transferred from Florida State to reunite with Johnson. Their Sweet 16 combined for 46 points.',
+    },
+    {
+      emoji: '🇳🇿',
+      title: 'From New Zealand to the Title Game',
+      body: 'Charlisse Leger-Walker spent four years at Washington State before tearing her ACL — <strong>against UCLA</strong> — on January 28, 2024. She transferred to the team that hurt her, took a medical redshirt, and returned nearly two years later as UCLA\'s starting point guard. Now she\'s starting in a national championship game for the program that ended her previous team\'s season.',
+    },
+    {
+      emoji: '🏛️',
+      title: 'Jackie Robinson\'s School',
+      body: 'UCLA\'s most famous athlete isn\'t a basketball player — it\'s <strong>Jackie Robinson</strong>, who attended UCLA and was its first athlete to letter in four sports. Other notable Bruins: James Dean, Carol Burnett, Francis Ford Coppola, and <strong>Vint Cerf</strong>, known as the "father of the Internet." The school has 670,000+ living alumni.',
+    },
+    {
+      emoji: '📚',
+      title: 'Hemingway and Burns in Columbia',
+      body: 'The University of South Carolina houses the <strong>world\'s largest Ernest Hemingway collection</strong> and the <strong>largest Robert Burns collection outside Scotland</strong>. The school claims to be the oldest continuously operating university in the South — it didn\'t close during the Civil War. Notable alumni include Darius Rucker (Hootie & the Blowfish) and Marvel\'s Luke Cage actor Mike Colter.',
+    },
+    {
+      emoji: '🎤',
+      title: 'The Flag Bearer',
+      body: 'Dawn Staley carried the American flag at the <strong>2004 Athens Olympics Opening Ceremony</strong> — the first basketball player, male or female, to receive this honor. She won gold at that Olympics (her third), was inducted into the Naismith Basketball Hall of Fame in 2013, and published her book <em>Uncommon Favor</em> in 2025.',
+    },
+    {
+      emoji: '🏀',
+      title: 'The 1978 Champions',
+      body: 'UCLA won the <strong>1978 AIAW Large College championship</strong> — the women\'s basketball title before the NCAA sponsored the tournament. Ann Meyers led that team. The Bruins have never won an NCAA championship, making this title game their chance to add to a legacy that predates the current tournament by 44 years.',
+    },
+  ],
+  history: {
+    callout:
+      'South Carolina and UCLA are meeting in the NCAA Tournament for the second time — and the stakes couldn\'t be higher. South Carolina won their previous meeting 59-43 in the <strong>2023 Sweet 16</strong> en route to a national championship. UCLA\'s Cori Close has never beaten Dawn Staley in the tournament. The Bruins\' only recent victory over the Gamecocks came on <strong>November 24, 2024</strong> — a 77-62 win in Los Angeles that ended South Carolina\'s 43-game winning streak. South Carolina leads the all-time series <strong>4-2</strong>, with a 4-1 record under Staley.',
+    subsections: [
+      {
+        title: 'South Carolina\'s Championship Dynasty',
+        type: 'timeline' as const,
+        content: '',
+        timeline: [
+          {
+            date: '2017',
+            text: 'Dawn Staley wins her first national championship, led by A\'ja Wilson. Staley becomes the second African American coach to win a women\'s basketball title.',
+          },
+          {
+            date: '2022',
+            text: 'South Carolina goes wire-to-wire as No. 1, beating UConn 64-49 in the title game. Aliyah Boston wins National Player of the Year and Final Four MOP.',
+          },
+          {
+            date: '2024',
+            text: 'The Gamecocks go 38-0 — the fifth undefeated season in NCAA history. They beat Iowa and Caitlin Clark 87-75 in the championship game. Staley\'s 600th career win.',
+          },
+          {
+            date: '2025',
+            text: 'South Carolina reaches a fourth straight Final Four but loses to UConn 82-59 in the national championship game.',
+          },
+          {
+            date: '2026',
+            text: 'The Gamecocks avenge 2025 by beating undefeated UConn 62-48 in the Final Four. They face UCLA for their fourth title.',
+          },
+        ],
+      },
+      {
+        title: 'UCLA\'s Rise Under Cori Close',
+        type: 'timeline' as const,
+        content: '',
+        timeline: [
+          {
+            date: '2015',
+            text: 'UCLA wins the WNIT Championship — the program\'s first postseason title under Close.',
+          },
+          {
+            date: '2018',
+            text: 'The Bruins reach the Elite Eight for the first time in the Close era.',
+          },
+          {
+            date: '2025',
+            text: 'UCLA\'s first Final Four in program history. Close sweeps all four national Coach of the Year awards. The Bruins fall to UConn in the semifinal.',
+          },
+          {
+            date: '2026',
+            text: 'UCLA goes 36-1, wins the Big Ten regular season and tournament, and reaches its first-ever NCAA championship game after beating Texas 51-44 in the Final Four.',
+          },
+        ],
+      },
+      {
+        title: 'The November 2024 Meeting',
+        type: 'card' as const,
+        content:
+          'The last time these teams played, UCLA stunned No. 1 South Carolina <strong>77-62 in Los Angeles on November 24, 2024</strong>. The Bruins\' Londynn Jones scored 15 points on 5-of-5 from three, ending the Gamecocks\' 43-game winning streak and their run of 33 consecutive road victories. That UCLA team went on to reach the 2025 Final Four. This South Carolina team is fundamentally different — with new additions Latson, Okot, and Makeer replacing departed stars. But UCLA knows it can beat the Gamecocks, and Staley knows what a motivated Bruins team looks like.',
+      },
+    ],
+  },
+  sources: [
+    {
+      heading: 'South Carolina Sources',
+      links: [
+        {
+          label: 'Gamecocks Online — South Carolina 62, UConn 48 Recap',
+          url: 'https://gamecocksonline.com/news/2026/04/03/south-carolina-smothers-uconn-62-48-to-advance-to-ncaa-title-game/',
+        },
+        {
+          label: 'Gamecocks Online — Championship Game Preview',
+          url: 'https://gamecocksonline.com/news/2026/04/04/gamecock-set-for-third-straight-ncaa-championship-game-sunday/',
+        },
+        {
+          label: 'ESPN — South Carolina Gets Revenge on UConn in Final Four',
+          url: 'https://www.espn.com/womens-college-basketball/story/_/id/48390460/south-carolina-gets-revenge-uconn-final-four-upset',
+        },
+        {
+          label: 'ESPN — Championship Preview: South Carolina vs UCLA Predictions',
+          url: 'https://www.espn.com/womens-college-basketball/story/_/id/48397022/women-final-four-championship-2026-preview-predictions-live-analysis-south-carolina-ucla',
+        },
+        {
+          label: 'ESPN — How South Carolina and UCLA Won the Final Four',
+          url: 'https://www.espn.com/womens-college-basketball/story/_/id/48380061/women-final-four-march-madness-2026-previews-live-updates-analysis-uconn-ucla-south-carolina-texas',
+        },
+        {
+          label: 'Yahoo Sports — South Carolina Stifles UConn, Tensions Boil Over',
+          url: 'https://sports.yahoo.com/womens-college-basketball/live/final-four-2026-south-carolina-stifles-stuns-uconn-to-end-huskies-undefeated-season-short-of-a-championship-tensions-boil-over-late-210000289.html',
+        },
+        {
+          label: 'On3 — Agot Makeer Continues to Shine in March',
+          url: 'https://www.on3.com/teams/south-carolina-gamecocks/news/agot-makeer-continues-to-shine-in-march-for-south-carolina-womens-basketball/',
+        },
+        {
+          label: 'Yahoo Sports — How Ta\'Niya Latson Proved Her Transfer Wasn\'t a Mistake',
+          url: 'https://sports.yahoo.com/articles/taniya-latson-proved-transfer-south-090425213.html',
+        },
+        {
+          label: 'CBS Sports — Final Four Winners and Losers',
+          url: 'https://www.cbssports.com/womens-college-basketball/news/womens-final-four-live-updates-uconn-south-carolina-ucla-texas/live/',
+        },
+        {
+          label: 'On3 — South Carolina Defeats UConn, Advances to Championship',
+          url: 'https://www.on3.com/her/news/2026-ncaa-womens-final-four-south-carolina-defeats-uconn-advances-national-championship/',
+        },
+        {
+          label: 'ESPN — South Carolina Gamecocks Favored in Title Game',
+          url: 'https://www.espn.com/espn/betting/story/_/id/48394240/womens-college-basketball-championship-south-carolina-gamecocks-ucla-bruins',
+        },
+        {
+          label: 'Wikipedia — Dawn Staley',
+          url: 'https://en.wikipedia.org/wiki/Dawn_Staley',
+        },
+        {
+          label: 'Wikipedia — Agot Makeer',
+          url: 'https://en.wikipedia.org/wiki/Agot_Makeer',
+        },
+        {
+          label: 'Gamecocks Online — NCAA Attendance Leadership',
+          url: 'https://gamecocksonline.com/news/2025/04/10/gamecocks-lead-ncaa-in-attendance-again/',
+        },
+      ],
+    },
+    {
+      heading: 'UCLA Sources',
+      links: [
+        {
+          label: 'ESPN — UCLA Survives Late Texas Surge to Make First NCAA Title Game',
+          url: 'https://www.espn.com/womens-college-basketball/story/_/id/48391884/ucla-survives-late-surge-texas-make-first-ncaa-title-game',
+        },
+        {
+          label: 'UCLA Athletics — Outlasts Texas, Advances to National Title Game',
+          url: 'https://uclabruins.com/news/2026/4/3/womens-basketball-outlasts-texas-advances-to-national-title-game',
+        },
+        {
+          label: 'UCLA Athletics — Prepares for Championship Showdown',
+          url: 'https://uclabruins.com/news/2026/4/4/womens-basketball-prepares-sunday-championship-showdown',
+        },
+        {
+          label: 'SI — What Cori Close Said Following UCLA\'s Win Over Texas',
+          url: 'https://www.si.com/college/ucla/bruins-what-cori-close-said-following-win-over-texas',
+        },
+        {
+          label: 'Yahoo Sports — Betts, UCLA Shut Down Texas in "Ugly" Game',
+          url: 'https://sports.yahoo.com/womens-college-basketball/live/final-four-2026-lauren-betts-ucla-shut-down-texas-in-ugly-game-to-reach-national-championship-003651658.html',
+        },
+        {
+          label: 'Daily Bruin — UCLA Tames Texas for First Championship Game in NCAA Era',
+          url: 'https://dailybruin.com/2026/04/03/ucla-womens-basketball-tames-texas-advances-to-1st-championship-game-in-ncaa-era',
+        },
+        {
+          label: 'NBC Sports — Championship Odds and Expert Picks',
+          url: 'https://www.nbcsports.com/womens-college-basketball/news/2026-womens-ncaa-championship-odds-expert-picks-best-bets-and-predictions-for-ucla-vs-south-carolina',
+        },
+        {
+          label: 'CBS Sports — UCLA WNBA Draft Preview',
+          url: 'https://www.cbssports.com/womens-college-basketball/news/ucla-bruins-wnba-draft-lauren-betts-kiki-rice/',
+        },
+        {
+          label: 'Daily Bruin — Kiki Rice Feature',
+          url: 'https://dailybruin.com/2026/02/28/championed-by-campion-kiki-rice-is-longtime-key-piece-underlying-womens-basketballs-success',
+        },
+        {
+          label: 'Daily Bruin — Kneepkens Background',
+          url: 'https://dailybruin.com/2025/09/18/a-basketball-player-from-the-hockey-state-gianna-kneepkens-joins-ucla',
+        },
+        {
+          label: 'SI — Jaquez Family Legacy',
+          url: 'https://www.si.com/college/ucla/women-s-basketball/gabriela-jaime-jaquez-jr-nba-final-four',
+        },
+        {
+          label: 'ESPN — Lauren Betts vs Duke Elite Eight Stats',
+          url: 'https://www.espn.com/womens-college-basketball/story/_/id/48341780/ucla-rallies-vs-duke-make-women-final-four',
+        },
+        {
+          label: 'Wikipedia — Lauren Betts',
+          url: 'https://en.wikipedia.org/wiki/Lauren_Betts',
+        },
+        {
+          label: 'Wikipedia — Cori Close',
+          url: 'https://en.wikipedia.org/wiki/Cori_Close',
+        },
+        {
+          label: 'SI — How Program Culture Prepared UCLA for Another Final Four',
+          url: 'https://www.si.com/college/ucla/bruins-how-program-culture-prepared-women-another-final-four',
+        },
+      ],
+    },
+  ],
+  footerText:
+    'National Championship Viewing Guide — South Carolina vs UCLA — Mortgage Matchup Center, Phoenix — April 5, 2026',
+}
+
+export default game
