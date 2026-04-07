@@ -1,16 +1,20 @@
+import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
-import { games } from '../data/games/index.ts'
+import { useManifest } from '../hooks/useManifest.ts'
+import type { ManifestEntry } from '../types/manifest.ts'
 
 function getToday(): string {
   const d = new Date()
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
 }
 
-type EventType = 'mens-basketball' | 'womens-basketball' | 'golf' | 'mlb'
+type EventType = 'mens-basketball' | 'womens-basketball' | 'golf' | 'mlb' | 'nba' | 'nwsl'
 
-function getEventType(game: (typeof games)[number]): EventType {
+function getEventType(game: ManifestEntry): EventType {
   if (game.slug.startsWith('mlb-')) return 'mlb'
   if (game.slug.startsWith('pga-')) return 'golf'
+  if (game.slug.startsWith('nba-')) return 'nba'
+  if (game.slug.startsWith('nwsl-')) return 'nwsl'
   if (game.slug.includes('womens')) return 'womens-basketball'
   return 'mens-basketball'
 }
@@ -20,9 +24,11 @@ const categoryLabels: Record<EventType, { badge: string; heading: string }> = {
   'womens-basketball': { badge: 'NCAAW', heading: "Women's College Basketball" },
   'golf': { badge: 'PGA Tour', heading: 'PGA Tour' },
   'mlb': { badge: 'MLB', heading: 'Major League Baseball' },
+  'nba': { badge: 'NBA', heading: 'NBA' },
+  'nwsl': { badge: 'NWSL', heading: 'NWSL' },
 }
 
-function GameCard({ game }: { game: (typeof games)[number] }) {
+function GameCard({ game }: { game: ManifestEntry }) {
   const [teamA, teamB] = game.teams
   const eventType = getEventType(game)
   const isTournament = game.format === 'tournament' && game.tournament
@@ -53,9 +59,9 @@ function GameCard({ game }: { game: (typeof games)[number] }) {
   )
 }
 
-function groupByCategory(gameList: typeof games) {
-  const order: EventType[] = ['mens-basketball', 'womens-basketball', 'golf', 'mlb']
-  const groups = new Map<EventType, typeof games>()
+function groupByCategory(gameList: ManifestEntry[]) {
+  const order: EventType[] = ['mens-basketball', 'womens-basketball', 'golf', 'mlb', 'nba', 'nwsl']
+  const groups = new Map<EventType, ManifestEntry[]>()
   for (const game of gameList) {
     const type = getEventType(game)
     if (!groups.has(type)) groups.set(type, [])
@@ -65,12 +71,17 @@ function groupByCategory(gameList: typeof games) {
 }
 
 export default function HomePage() {
+  const manifest = useManifest()
   const today = getToday()
-  const todayGames = games.filter((g) => g.tipTime.startsWith(today))
-  const futureGames = games.filter((g) => g.tipTime.slice(0, 10) > today)
 
-  const todayGroups = groupByCategory(todayGames)
-  const futureGroups = groupByCategory(futureGames)
+  const { todayGroups, futureGroups } = useMemo(() => {
+    const todayGames = manifest.filter((g) => g.tipTime.startsWith(today))
+    const futureGames = manifest.filter((g) => g.tipTime.slice(0, 10) > today)
+    return {
+      todayGroups: groupByCategory(todayGames),
+      futureGroups: groupByCategory(futureGames),
+    }
+  }, [manifest, today])
 
   return (
     <div className="home-landing">

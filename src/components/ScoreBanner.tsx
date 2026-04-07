@@ -1,6 +1,6 @@
 import { Link, useParams } from 'react-router-dom'
 import { useRef, useState, useEffect, useCallback, useMemo } from 'react'
-import { games } from '../data/games/index.ts'
+import { useManifest } from '../hooks/useManifest.ts'
 
 const sports = ['All Sports', "Men's Basketball", "Women's Basketball", 'PGA Tour'] as const
 
@@ -18,6 +18,7 @@ function isWomens(slug: string): boolean {
 }
 
 export default function ScoreBanner() {
+  const games = useManifest()
   const { slug } = useParams<{ slug: string }>()
   const gamesRef = useRef<HTMLDivElement>(null)
   const [canScrollLeft, setCanScrollLeft] = useState(false)
@@ -34,7 +35,7 @@ export default function ScoreBanner() {
       if (selectedSport === "Women's Basketball") return isWomens(g.slug)
       return true
     })
-  }, [selectedSport])
+  }, [games, selectedSport])
 
   const closestSlug = useMemo(() => {
     if (filteredGames.length === 0) return null

@@ -1,0 +1,434 @@
+{
+  "slug": "hofstra-vs-alabama-2026",
+  "title": "Hofstra vs Alabama — First Round Viewing Guide",
+  "eventTag": "NCAA Tournament • First Round • Tampa, FL",
+  "date": "Friday, March 20, 2026 • 3:15 PM ET",
+  "round": "First Round",
+  "tipTime": "2026-03-20T15:15",
+  "venue": "Benchmark International Arena, Tampa, Florida • truTV",
+  "extraInfo": "Winner faces <strong>#5 Texas Tech or #12 Akron</strong> on Sunday",
+  "teams": [
+    {
+      "name": "Hofstra",
+      "mascot": "Pride",
+      "seed": "#13 Seed",
+      "record": "24-10 • CAA Champs",
+      "colors": {
+        "primary": "#003591",
+        "secondary": "#FFB81C",
+        "name": "hofstra"
+      },
+      "className": "hofstra"
+    },
+    {
+      "name": "Alabama",
+      "mascot": "Crimson Tide",
+      "seed": "#4 Seed",
+      "record": "23-9 • SEC",
+      "colors": {
+        "primary": "#9E1B32",
+        "secondary": "#FFFFFF",
+        "name": "alabama"
+      },
+      "className": "alabama"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "stakes",
+      "label": "The Stakes"
+    },
+    {
+      "id": "styles",
+      "label": "Styles of Play"
+    },
+    {
+      "id": "keys",
+      "label": "Keys to the Game"
+    },
+    {
+      "id": "prediction",
+      "label": "Prediction"
+    },
+    {
+      "id": "players",
+      "label": "Players to Watch"
+    },
+    {
+      "id": "facts",
+      "label": "Fun Facts"
+    },
+    {
+      "id": "history",
+      "label": "History"
+    },
+    {
+      "id": "sources",
+      "label": "Sources"
+    }
+  ],
+  "stakes": {
+    "callout": "A Long Island school coached by an <strong>NBA champion</strong> who once played for this very program, featuring a guard who followed <strong>Rick Pitino</strong> before finding his home — against the <strong>#1 scoring team in America (91.7 PPG)</strong> with the <strong>291st-ranked defense</strong>. Alabama has a projected lottery pick and scores at will. Hofstra has the <strong>40th-best defense in the country</strong>. This is the classic unstoppable force vs. immovable object — except both have a massive flaw on the other end.",
+    "cards": [
+      {
+        "label": "For Hofstra",
+        "value": "First NCAA Tournament in <strong>25 years</strong> — since Jay Wright (yes, that Jay Wright) coached them in 2001. Speedy Claxton led Hofstra to the tournament as a <strong>player in 2000</strong> and now as a <strong>coach in 2026</strong>. Cruz Davis (20.2 PPG) followed Rick Pitino from Iona to St. John's before finding Hofstra. This is a team of misfits who found each other."
+      },
+      {
+        "label": "For Alabama",
+        "value": "Nate Oats has made <strong>six straight NCAA Tournaments</strong> — a program record. They reached the <strong>Final Four in 2023</strong>. Labaron Philon (21.7 PPG) is an All-American and projected lottery pick. But they lost in the SEC Tournament quarterfinals and their defense is <strong>291st in KenPom</strong>. This Alabama team is built to outscore you, not stop you."
+      },
+      {
+        "label": "The Style Clash",
+        "value": "Alabama's offense ranks <strong>10th in KenPom</strong>. Hofstra's defense ranks <strong>40th</strong>. Alabama's defense ranks <strong>291st</strong>. Hofstra's offense ranks <strong>82nd</strong>. Each team's strength matches up directly against the other team's weakness. This game will be decided by which identity wins — Alabama's pace or Hofstra's grind."
+      },
+      {
+        "label": "The Pitino Connection",
+        "value": "Cruz Davis followed <strong>Rick Pitino from Iona to St. John's</strong> after the 2023 tournament. He played only four games at St. John's before injury. He transferred to Hofstra and became the <strong>CAA Player of the Year</strong>. The journey from Pitino to Claxton, from the Big East to the CAA, is one of the best player stories in the tournament."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "NBA Coach, Elite Defense",
+      "bullets": [
+        "<strong>Top-40 defense:</strong> Hofstra ranks <strong>40th nationally in KenPom defensive efficiency (100.0)</strong>, allowing just 66.1 PPG. For a 13-seed, this is elite. They contest shots, protect the paint with 7-0 Silas Sunday, and don't give up easy baskets. Against a team that scores 91.7 PPG, every stop matters.",
+        "<strong>Cruz Davis is a star:</strong> The CAA Player of the Year averages <strong>20.2 PPG on 39.9% three-point shooting</strong>. He followed Rick Pitino before finding his home. He has <strong>road wins at Syracuse and Pittsburgh</strong> — he's not afraid of big stages or SEC-level competition.",
+        "<strong>Edmead is a bonus:</strong> Freshman Preston Edmead (15.9 PPG, 4.4 APG) gives Hofstra a <strong>second legitimate scoring option</strong>. They swept the CAA Player and Freshman of the Year awards — the first school in conference history since 1983 to do so.",
+        "<strong>Rebounding muscle:</strong> <strong>Silas Sunday (7-0, 6.9 RPG)</strong> and <strong>Victory Onuetu (6-10, 6.9 RPG)</strong> combine for 13.8 rebounds. They can match Alabama's size and won't be pushed around on the glass.",
+        "<strong>Weakness:</strong> Offensive efficiency ranks <strong>82nd</strong> — solid but not spectacular. Alabama's athleticism and pace could overwhelm if Hofstra can't control tempo. Free throw shooting is a concern: Onuetu (49.0%) and Sunday (64.9%) are liabilities at the line."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "Score First, Ask Questions Later",
+      "bullets": [
+        "<strong>#1 scoring team in America:</strong> Alabama averages <strong>91.7 PPG</strong> — the most in college basketball. They rank <strong>10th in KenPom offensive efficiency (122.0)</strong>. They play at warp speed, shoot in volume, and overwhelm teams with talent and pace.",
+        "<strong>Philon is a lottery pick:</strong> Labaron Philon averages <strong>21.7 PPG on 50.9% shooting and 40.2% from three</strong>. He's an AP All-American. He came back from an NBA Draft withdrawal to have a breakout sophomore season. Four-time SEC Player of the Week.",
+        "<strong>Holloway stretches the floor:</strong> Aden Holloway shoots <strong>43.8% from three</strong> at 16.8 PPG. When Philon and Holloway are both hitting, Alabama is virtually unguardable — they've scored 90+ points in multiple games this season.",
+        "<strong>Bediako at the rim:</strong> Charles Bediako shoots <strong>77.3% from the field</strong> at 7-0. He finishes everything at the rim. If Alabama can feed him inside against Hofstra's bigs, it creates easy baskets and foul trouble.",
+        "<strong>Weakness:</strong> Defense ranks <strong>291st in KenPom (111.1)</strong>. That's not a typo. Alabama is in the bottom 20% of Division I basketball defensively. If Hofstra slows the game down and makes Alabama defend in the half-court, the Tide's fatal flaw could be exposed. They also lost to Ole Miss 80-79 in the SEC Tournament — they can be beaten."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "Pace, pace, pace.",
+      "description": "This is the game. Alabama wants to play in the 90s. Hofstra wants to play in the 60s. If Alabama pushes tempo and gets transition buckets, their talent advantage takes over. If Hofstra grinds this into a half-court game, Alabama's 291st-ranked defense becomes the deciding factor. The first five minutes of pace will tell you everything about how this game ends."
+    },
+    {
+      "title": "Cruz Davis vs. Alabama's perimeter defense.",
+      "description": "Davis averages 20.2 PPG and has road wins at Syracuse and Pittsburgh. He's not intimidated by big programs. Alabama's perimeter defense is porous — 291st in KenPom. If Davis gets clean looks from three (39.9% shooter), he could have a 25-30 point game. If Alabama's athletes use length and speed to bother him, Hofstra doesn't have a reliable Plan B."
+    },
+    {
+      "title": "Can Hofstra's defense slow Philon?",
+      "description": "Philon scores 21.7 PPG on 50.9% shooting. He's an All-American and a projected lottery pick. Hofstra's defense is elite (40th KenPom), but they haven't faced a scorer this talented in the CAA. Claxton knows what NBA-level talent looks like — he was one. His game plan for Philon will be the most important X's and O's decision of the day."
+    },
+    {
+      "title": "The free throw line.",
+      "description": "Hofstra's Onuetu (49.0% FT) and Sunday (64.9% FT) are liabilities. Alabama's Bediako (69.6% FT) isn't much better. If this game gets into a Hack-a-Shaq situation late, both teams have players who could lose the game at the line. Free throw shooting could be the decider in a close finish."
+    },
+    {
+      "title": "Claxton's championship composure.",
+      "description": "Speedy Claxton won an NBA championship with the Spurs in 2003. He played alongside Tim Duncan and Tony Parker. He knows what it's like to perform in the biggest games imaginable. That composure — transferred to his players, manifested in timeout calls and adjustments — is Hofstra's secret weapon. Alabama's players are more talented. But Hofstra's coach has won a ring."
+    }
+  ],
+  "prediction": {
+    "summary": "This is the most dangerous 4-13 matchup in the bracket, and it's not close. Alabama scores 91.7 PPG but ranks 291st in defensive efficiency. Hofstra ranks 40th in defense but only 82nd in offense. The question is simple: can Hofstra slow this game down enough to make Alabama's defense the deciding factor? If this game is played in the 80s, Alabama wins by 15. If it's played in the 60s, Hofstra has a real shot. Speedy Claxton — an NBA champion — will have his team prepared to grind, and Cruz Davis has the road wins (Syracuse, Pittsburgh) to prove he can handle the stage.",
+    "phases": [
+      {
+        "title": "Opening 10 Minutes",
+        "description": "Alabama tries to push pace immediately. Philon attacks in transition and Holloway launches threes. But Hofstra's defense (40th KenPom) is ready — Sunday's 7-0 frame contests shots at the rim, and Davis matches Philon bucket-for-bucket from the perimeter. Hofstra keeps it within 3-4 points by controlling tempo."
+      },
+      {
+        "title": "Mid-First Half",
+        "description": "Alabama's athletes start to overwhelm in transition. A couple of turnovers by Hofstra lead to easy Philon dunks, and Bediako finishes two alley-oops with that absurd 77.3% accuracy. The Tide push the lead to 10. But Davis answers with a pull-up three and Edmead attacks the rim fearlessly. Halftime: Alabama leads by 7-8."
+      },
+      {
+        "title": "Second Half",
+        "description": "Claxton's championship composure shows. Hofstra comes out in a more deliberate half-court set, and Alabama's 291st-ranked defense can't get stops. Davis (39.9% from three) hits two straight from deep. Plotnikov adds another. Suddenly Hofstra is within 3. Alabama calls timeout, and the crowd starts buzzing about the upset."
+      },
+      {
+        "title": "Final 5 Minutes",
+        "description": "This is where it gets tense. Philon takes over — he's an All-American for a reason — and hits a contested step-back jumper. But Hofstra responds through Davis, who goes to the line and converts. The free throw battle hurts both teams — Sunday (64.9% FT) and Bediako (69.6% FT) both miss key free throws. Alabama's firepower ultimately proves too much, as Holloway hits a late three that provides the final separation."
+      }
+    ],
+    "projectedScore": {
+      "teamA": 68,
+      "teamB": 74,
+      "rationale": "Alabama's offensive talent is too deep for Hofstra to contain for 40 minutes. But Hofstra's defense keeps it close, and Davis puts up a 25+ point performance. This one is closer than the seed line suggests."
+    }
+  },
+  "players": [
+    {
+      "team": "a",
+      "name": "Cruz Davis",
+      "stats": "20.2 PPG • 4.6 APG • 3.7 RPG • .399 3P%",
+      "meta": "G • 6-3 • Junior • CAA Player of the Year & Scholar-Athlete of the Year",
+      "bio": "From Plano, Texas. Followed <strong>Rick Pitino from Iona to St. John's</strong> after the 2023 tournament, but played only four games due to injury. Transferred to Hofstra to learn from an NBA guard. Now he's the <strong>CAA Player of the Year</strong> averaging 20.2 PPG. Also the CAA Scholar-Athlete of the Year with a <strong>3.63 GPA</strong> — plans to attend law school. Road wins at Syracuse and Pittsburgh.<br><a href=\"https://gohofstra.com/news/2026/3/6/mens-basketball-hofstra-makes-caa-history-as-davis-and-edmead-capture-top-honors.aspx\" target=\"_blank\">Read more →</a>"
+    },
+    {
+      "team": "a",
+      "name": "Preston Edmead",
+      "stats": "15.9 PPG • 4.4 APG • 3.5 RPG • .383 3P%",
+      "meta": "G • 6-1 • Freshman • CAA Freshman of the Year",
+      "bio": "True freshman averaging 15.9 PPG. The first Hofstra player to win <strong>CAA Freshman of the Year</strong> in the same season the program produced the Player of the Year — a CAA first since 1983. A fearless scorer who has been a revelation in Speedy Claxton's system."
+    },
+    {
+      "team": "a",
+      "name": "Silas Sunday",
+      "stats": "5.2 PPG • 6.9 RPG • .670 FG%",
+      "meta": "F • 7-0 • Senior • Interior Anchor",
+      "bio": "A 7-foot senior who finishes at <strong>67.0% from the field</strong> and averages 6.9 RPG. Hofstra's primary rim protector and the anchor of the 40th-ranked defense in America. At 7-0, he matches up physically with Alabama's Charles Bediako."
+    },
+    {
+      "team": "a",
+      "name": "German Plotnikov",
+      "stats": "9.3 PPG • 3.4 RPG • .377 3P%",
+      "meta": "G • 6-6 • Senior • Floor Spacer",
+      "bio": "Senior guard who provides perimeter shooting at 37.7% from three. At 6-6, he has the size to defend Alabama's athletic wings. A key piece of Hofstra's depth behind Davis and Edmead."
+    },
+    {
+      "team": "b",
+      "name": "Labaron Philon Jr.",
+      "stats": "21.7 PPG • 4.7 APG • 3.2 RPG • .402 3P%",
+      "meta": "G • 6-4 • Sophomore • AP All-America Third Team",
+      "bio": "From Mobile, Alabama (Baker HS). <strong>Alabama Mr. Basketball</strong> after averaging 35 PPG as a junior. Withdrew from the 2025 NBA Draft to return — then exploded into an <strong>All-American averaging 21.7 PPG on 50.9% shooting</strong>. Four-time SEC Player of the Week. Projected <strong>lottery pick</strong> in the 2026 NBA Draft. The most talented player on either team.<br><a href=\"https://www.si.com/college/alabama/basketball/alabama-basketball-superstar-named-ap-all-america-third-team\" target=\"_blank\">Read more →</a>"
+    },
+    {
+      "team": "b",
+      "name": "Aden Holloway",
+      "stats": "16.8 PPG • 3.8 APG • 2.8 RPG • .438 3P%",
+      "meta": "G • 6-1 • Junior • All-SEC",
+      "bio": "Shoots <strong>43.8% from three</strong> — one of the best percentages in the SEC. When Holloway and Philon are both on, Alabama is virtually unguardable. The backcourt partner who stretches the floor and creates space for the Tide's dominant offense."
+    },
+    {
+      "team": "b",
+      "name": "Amari Allen",
+      "stats": "11.7 PPG • 7.1 RPG • 3.1 APG",
+      "meta": "F • 6-7 • Freshman • All-SEC Freshman Team",
+      "bio": "True freshman averaging 11.7/7.1/3.1 — a versatile stat line for a first-year player. Named to the <strong>All-SEC Freshman Team</strong>. Provides the size and rebounding that Alabama needs alongside their guard-heavy lineup."
+    },
+    {
+      "team": "b",
+      "name": "Charles Bediako",
+      "stats": "10.0 PPG • 4.6 RPG • .773 FG%",
+      "meta": "C • 7-0 • Senior • Rim Finisher",
+      "bio": "A 7-foot senior who shoots an absurd <strong>77.3% from the field</strong>. Finishes everything at the rim. His inside presence creates easy baskets and opens the floor for Alabama's shooters. The concern: <strong>69.6% from the free throw line</strong> makes him a target for intentional fouls late."
+    }
+  ],
+  "funFacts": [
+    {
+      "emoji": "🎥",
+      "title": "The Godfather Went to Hofstra",
+      "body": "<strong>Francis Ford Coppola</strong> graduated from Hofstra University in 1960 with a theater arts degree. He went on to direct <em>The Godfather</em>, <em>The Godfather Part II</em>, and <em>Apocalypse Now</em> — three of the greatest films ever made."
+    },
+    {
+      "emoji": "🏆",
+      "title": "NBA Champion on the Sideline (Hofstra)",
+      "body": "<strong>Speedy Claxton</strong> won an <strong>NBA championship with the San Antonio Spurs in 2003</strong> alongside Tim Duncan and Tony Parker. He also scored 2,015 career points at Hofstra — his #10 is retired. He led Hofstra to the tournament as a player (2000) and now as a coach (2026)."
+    },
+    {
+      "emoji": "💯",
+      "title": "91.7 Points Per Game (Alabama)",
+      "body": "Alabama leads the <strong>entire nation in scoring at 91.7 PPG</strong>. They also rank <strong>291st in defensive efficiency</strong>. It's the biggest offense-defense gap of any tournament team. They're built to outscore you, not stop you."
+    },
+    {
+      "emoji": "📚",
+      "title": "Future Lawyer (Hofstra)",
+      "body": "Cruz Davis is the <strong>CAA Scholar-Athlete of the Year</strong> with a 3.63 GPA as a liberal arts major. He <strong>plans to attend law school</strong>. He's also the conference Player of the Year averaging 20.2 PPG. Scholar-baller."
+    },
+    {
+      "emoji": "🏀",
+      "title": "Alabama Mr. Basketball (Alabama)",
+      "body": "<strong>Labaron Philon</strong> averaged <strong>35 points per game as a high school junior</strong> in Mobile, Alabama, earning Alabama Mr. Basketball honors. He withdrew from the 2025 NBA Draft to return for his sophomore year — and became an All-American."
+    },
+    {
+      "emoji": "🔄",
+      "title": "From Pitino to Claxton (Hofstra)",
+      "body": "Cruz Davis followed <strong>Rick Pitino from Iona to St. John's</strong>, played four games, got injured, and transferred to Hofstra to learn from <strong>an NBA point guard turned coach</strong>. From a Hall of Fame coach to an NBA champion — quite the mentorship journey."
+    },
+    {
+      "emoji": "🏛️",
+      "title": "Jay Wright's First Gig (Hofstra)",
+      "body": "Hofstra's last NCAA Tournament was in <strong>2001 under Jay Wright</strong> — who left for Villanova the next year and won <strong>two national championships</strong> (2016, 2018). Wright's 2001 Hofstra team led UCLA by 6 with 10 minutes left before falling."
+    },
+    {
+      "emoji": "🚀",
+      "title": "From High School Coach to Final Four (Alabama)",
+      "body": "Nate Oats spent <strong>nine years as a high school coach</strong> in Romulus, Michigan (201-67 record). He went from coaching high school to leading Alabama to its <strong>first-ever Final Four in 2023</strong>. Six straight tournaments at Alabama — a program record."
+    },
+    {
+      "emoji": "🇦🇬",
+      "title": "Antiguan Roots (Hofstra)",
+      "body": "Speedy Claxton's parents are from <strong>Antigua and Barbuda</strong>. He grew up in New York City, played at Hofstra, won an NBA ring, and returned to coach his alma mater. His Caribbean heritage and NYC basketball roots are central to his identity."
+    },
+    {
+      "emoji": "📚",
+      "title": "Harper Lee's School (Alabama)",
+      "body": "Alabama's most famous alumna is <strong>Harper Lee</strong>, author of <em>To Kill a Mockingbird</em>. Other notable grads include <strong>Joe Namath</strong> (NFL legend) and <strong>Sela Ward</strong> (actress)."
+    },
+    {
+      "emoji": "🎯",
+      "title": "77.3% From the Field (Alabama)",
+      "body": "<strong>Charles Bediako</strong> shoots <strong>77.3% from the field</strong> — one of the highest marks in the country. The 7-foot senior finishes everything at the rim. The catch: he shoots just 69.6% from the free throw line."
+    },
+    {
+      "emoji": "🦁",
+      "title": "Long Island's First Private University (Hofstra)",
+      "body": "Hofstra was founded in <strong>1935 on the estate of Dutch lumber entrepreneur William S. Hofstra</strong>. It began as an extension of NYU before becoming independent in 1939. In 1963, it became <strong>Long Island's first private university</strong>."
+    }
+  ],
+  "history": {
+    "callout": "Alabama reached the <strong>Final Four for the first time in 2023</strong> under Nate Oats and has made six straight tournaments. Hofstra hasn't been to the tournament in <strong>25 years</strong> — their last coach there was <strong>Jay Wright</strong>, who went on to win two national championships at Villanova. Now Speedy Claxton — an NBA champion who starred at Hofstra as a player — has brought them back.",
+    "subsections": [
+      {
+        "title": "Hofstra's Tournament Homecoming",
+        "type": "timeline",
+        "content": "",
+        "timeline": [
+          {
+            "date": "2000",
+            "text": "Speedy Claxton leads Hofstra to the NCAA Tournament <strong>as a player</strong>. He graduates as the program's all-time leader in assists and steals."
+          },
+          {
+            "date": "2001",
+            "text": "Under <strong>Jay Wright</strong>, Hofstra returns to the tournament. They lead UCLA by 6 with 10 minutes left before falling. Wright leaves for Villanova the next year."
+          },
+          {
+            "date": "2003",
+            "text": "Claxton wins an <strong>NBA championship with the Spurs</strong>. His #10 is later retired by Hofstra."
+          },
+          {
+            "date": "2021",
+            "text": "Claxton hired as Hofstra head coach. Returns to the program where he became a legend."
+          },
+          {
+            "date": "2026",
+            "text": "24-10. CAA Tournament champions. <strong>First NCAA Tournament in 25 years.</strong> Claxton has come full circle — from Hofstra player to NBA champion to Hofstra coach."
+          }
+        ]
+      },
+      {
+        "title": "Alabama's Offensive Machine",
+        "type": "card",
+        "content": "<p>Under Nate Oats, Alabama has become one of the most explosive offensive teams in college basketball. They score <strong>91.7 PPG — #1 in America</strong>. They reached the <strong>Final Four in 2023</strong>, the first in program history. They've made six straight tournaments.</p><p style=\"margin-top:.5rem;\">But the defense is a problem. KenPom ranks them <strong>291st in defensive efficiency</strong>. The gap between their offense (10th) and defense (291st) is the widest of any tournament team. They lost to Ole Miss 80-79 in the SEC Tournament. When their shots don't fall, there's no safety net. Hofstra's 40th-ranked defense is exactly the kind of opponent that can expose this flaw.</p>"
+      },
+      {
+        "title": "The 4-13 Upset: March's Other Favorite",
+        "type": "card",
+        "content": "<p>The 4-vs-13 matchup produces upsets at a surprisingly high rate. Since 1985, at least one 13-seed has won in the first round in <strong>26 of 41 tournaments</strong>. Famous 13-over-4 upsets include <strong>Richmond over Syracuse (1991)</strong>, <strong>Kent State over Indiana (2001)</strong>, and <strong>Furman over Virginia (2023)</strong>.</p><p style=\"margin-top:.5rem;\">Hofstra fits the 13-seed upset profile: elite defense (40th KenPom), a 20-PPG scorer, road wins over power-conference teams, and an experienced coach who won't be intimidated. Alabama fits the vulnerable 4-seed profile: inconsistent (lost in SEC Tournament quarters), defense-optional (291st KenPom), and style-dependent (needs pace to win). This is exactly the kind of matchup where upsets happen.</p>"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "heading": "Hofstra",
+      "links": [
+        {
+          "label": "Hofstra Athletics — NCAA Tournament Draw",
+          "url": "https://gohofstra.com/news/2026/3/15/mens-basketball-hofstra-draws-alabama-in-first-round-of-ncaa-championship.aspx"
+        },
+        {
+          "label": "Hofstra Athletics — Davis and Edmead CAA History",
+          "url": "https://gohofstra.com/news/2026/3/6/mens-basketball-hofstra-makes-caa-history-as-davis-and-edmead-capture-top-honors.aspx"
+        },
+        {
+          "label": "Sports Reference — 2025-26 Hofstra Stats",
+          "url": "https://www.sports-reference.com/cbb/schools/hofstra/men/2026.html"
+        },
+        {
+          "label": "ESPN — Hofstra Ends 25-Year Drought",
+          "url": "https://www.espn.com/mens-college-basketball/story/_/id/48168872/hofstra-beats-monmouth-win-caa-tournament-title-end-25-year-ncaa-tournament-drought"
+        },
+        {
+          "label": "Yahoo Sports — What to Know About Hofstra",
+          "url": "https://sports.yahoo.com/articles/know-hofstra-entering-ncaa-tournament-134527266.html"
+        },
+        {
+          "label": "Hofstra Athletics — Davis Tops 1,000 Points",
+          "url": "https://gohofstra.com/news/2026/2/12/mens-basketball-davis-tops-1-000-hofstra-points-lifts-pride-past-charleston.aspx"
+        },
+        {
+          "label": "Busting Brackets — Speedy Claxton Waited 25 Years",
+          "url": "https://bustingbrackets.com/speedy-claxton-waited-25-years-for-this-moment-hofstra-returns-to-march-madness-basketball"
+        },
+        {
+          "label": "CAA Sports — Hofstra Draws Alabama",
+          "url": "https://caasports.com/news/2026/3/15/mens-basketball-caa-champion-hofstra-draws-alabama-in-2026-ncaa-tournament.aspx"
+        },
+        {
+          "label": "Wikipedia — Speedy Claxton",
+          "url": "https://en.wikipedia.org/wiki/Speedy_Claxton"
+        },
+        {
+          "label": "Wikipedia — Hofstra University",
+          "url": "https://en.wikipedia.org/wiki/Hofstra_University"
+        },
+        {
+          "label": "Wikipedia — Hofstra Pride Men's Basketball",
+          "url": "https://en.wikipedia.org/wiki/Hofstra_Pride_men%27s_basketball"
+        },
+        {
+          "label": "FloHoops — 5 Things to Know About Hofstra",
+          "url": "https://www.flohoops.com/articles/15616965-5-things-to-know-about-hofstra-basketball-ahead-of-the-ncaa-tournament"
+        }
+      ]
+    },
+    {
+      "heading": "Alabama",
+      "links": [
+        {
+          "label": "Alabama Athletics — NCAA Tournament Announcement",
+          "url": "https://rolltide.com/news/2026/3/15/mens-basketball-alabama-earns-no-4-seed-in-midwest-region-will-face-no-13-hofstra-in-ncaa-tournament-first-round"
+        },
+        {
+          "label": "Sports Reference — 2025-26 Alabama Stats",
+          "url": "https://www.sports-reference.com/cbb/schools/alabama/men/2026.html"
+        },
+        {
+          "label": "SI — Philon AP All-America",
+          "url": "https://www.si.com/college/alabama/basketball/alabama-basketball-superstar-named-ap-all-america-third-team"
+        },
+        {
+          "label": "Alabama Athletics — All-SEC Honors",
+          "url": "https://rolltide.com/news/2026/3/9/mens-basketball-amari-allen-aden-holloway-and-labaron-philon-jr-earn-all-sec-honors"
+        },
+        {
+          "label": "SI — Why Hofstra Matchup Is Complicated",
+          "url": "https://www.si.com/college/alabama/basketball/why-alabama-matchup-hofstra-more-complicated-than-looks"
+        },
+        {
+          "label": "Yahoo Sports — Can Alabama Get Upset?",
+          "url": "https://sports.yahoo.com/articles/behind-numbers-alabama-upset-hofstra-110041492.html"
+        },
+        {
+          "label": "SI — Alabama NCAA Tournament Seed",
+          "url": "https://www.si.com/college/alabama/basketball/alabama-basketball-2026-ncaa-tournament-seed-first-opponent-announced"
+        },
+        {
+          "label": "On3 — Alabama 4-Seed",
+          "url": "https://www.on3.com/teams/alabama-crimson-tide/news/alabama-basketball-receives-4-seed-in-2026-ncaa-tournament/"
+        },
+        {
+          "label": "Saturday Down South — How Far Will Alabama Advance",
+          "url": "https://www.saturdaydownsouth.com/news/college-basketball/how-far-will-alabama-advance-in-the-2026-ncaa-tournament/"
+        },
+        {
+          "label": "Wikipedia — Nate Oats",
+          "url": "https://en.wikipedia.org/wiki/Nate_Oats"
+        },
+        {
+          "label": "Bama Hammer — Philon All-American",
+          "url": "https://bamahammer.com/labaron-philon-s-all-american-nod-another-feather-in-the-cap-for-nate-oats-at-alabama"
+        },
+        {
+          "label": "Heartland College Sports — ISU No. 2 Seed",
+          "url": "https://www.heartlandcollegesports.com/2026/03/15/iowa-state-no-2-seed-2026-ncaa-tournament/"
+        }
+      ]
+    }
+  ],
+  "footerText": "Casual Fan Viewing Guide • Hofstra vs Alabama • NCAA First Round • March 20, 2026"
+}

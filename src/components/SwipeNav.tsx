@@ -1,8 +1,9 @@
 import { useRef, useEffect, type ReactNode } from 'react'
 import { useNavigate, Link } from 'react-router-dom'
-import { games } from '../data/games/index.ts'
+import { useManifest } from '../hooks/useManifest.ts'
 
 export default function SwipeNav({ currentSlug, children }: { currentSlug: string; children: ReactNode }) {
+  const games = useManifest()
   const navigate = useNavigate()
   const wrapperRef = useRef<HTMLDivElement>(null)
   const touchStart = useRef<{ x: number; y: number } | null>(null)

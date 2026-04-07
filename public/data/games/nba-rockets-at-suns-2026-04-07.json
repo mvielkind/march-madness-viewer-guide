@@ -1,0 +1,348 @@
+{
+  "slug": "nba-rockets-at-suns-2026-04-07",
+  "title": "Rockets at Suns",
+  "eventTag": "NBA — Kevin Durant Returns to Phoenix",
+  "date": "Tuesday, April 7, 2026 • 11:00 PM ET",
+  "round": "Regular Season",
+  "tipTime": "2026-04-07T23:00",
+  "venue": "Mortgage Matchup Center, Phoenix, AZ • NBC / Peacock / SCHN",
+  "extraInfo": "Game 4 of 4 — Houston leads season series 3-0. KD missed the Nov 24 game in Phoenix (family matter). Rockets won 117-98 on Dec 5 (Durant 28 pts) and 100-97 on Jan 5 (Durant game-winning three). This is Durant's first game in Phoenix since being traded.",
+  "teams": [
+    {
+      "name": "Houston",
+      "mascot": "Rockets",
+      "seed": "4",
+      "record": "49-29",
+      "colors": {
+        "primary": "#CE1141",
+        "secondary": "#000000",
+        "name": "rockets"
+      },
+      "className": "rockets"
+    },
+    {
+      "name": "Phoenix",
+      "mascot": "Suns",
+      "seed": "7",
+      "record": "43-35",
+      "colors": {
+        "primary": "#1D1160",
+        "secondary": "#E56020",
+        "name": "suns"
+      },
+      "className": "suns"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "stakes",
+      "label": "Matchup Breakdown"
+    },
+    {
+      "id": "styles",
+      "label": "Styles of Play"
+    },
+    {
+      "id": "keys",
+      "label": "Keys to the Game"
+    },
+    {
+      "id": "prediction",
+      "label": "Prediction"
+    },
+    {
+      "id": "players",
+      "label": "Players to Watch"
+    },
+    {
+      "id": "trends",
+      "label": "Trends"
+    },
+    {
+      "id": "sources",
+      "label": "Sources"
+    }
+  ],
+  "stakes": {
+    "callout": "Kevin Durant makes his belated return to Phoenix for the first time since the blockbuster summer trade that reshaped both franchises. The <strong>Rockets</strong> (49-29) arrive on a blistering <strong>6-game win streak</strong> with a realistic shot at climbing to the 3-seed in the West — this is their final road game of the regular season. The <strong>Suns</strong> (43-35) still have a mathematical chance at the 6-seed to escape the play-in tournament, and their crowd will be electric with the KD revenge narrative, Dillon Brooks' intensity (his 18th technical was just rescinded), and Jalen Green finally facing his old team after missing all three prior meetings. Houston has dominated the season series 3-0, including Durant's game-winning three on January 5 — but Phoenix at home with playoff desperation is a different animal.",
+    "cards": [
+      {
+        "label": "Durant's Phoenix Homecoming",
+        "value": "KD missed the Nov 24 game in Phoenix for a family matter, making this his <strong>first return to Mortgage Matchup Center</strong> since being traded. He's averaged 27 PPG against Phoenix this season, including a <strong>game-winning three on Jan 5</strong>. He said beating the Suns \"felt even better\" and that he was \"scapegoated\" during his time in Phoenix."
+      },
+      {
+        "label": "Houston's Dominant Season Series (3-0)",
+        "value": "The Rockets have <strong>won all three meetings</strong> this season: 117-98 (Dec 5, KD 28 pts), 100-97 (Jan 5, KD game-winner), and a November win. Phoenix has yet to solve Houston's switching defense and Durant-Sengun pick-and-roll attack."
+      },
+      {
+        "label": "Suns Fighting for Play-In Escape",
+        "value": "At 43-35, Phoenix holds the <strong>7th seed</strong> and a mathematical chance at the 6th seed — the last spot that avoids the play-in tournament. Every remaining game is a must-win. The Rockets (49-29) could still move up to the <strong>3-seed</strong> with 4 games remaining."
+      },
+      {
+        "label": "Jalen Green's Reunion Game",
+        "value": "Green was traded from Houston to Phoenix as the centerpiece of the KD deal and has <strong>missed all three previous meetings</strong> against his old team. Tonight is his first opportunity to prove the Suns got a franchise piece in the swap — he's averaging 18.2 PPG this season."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "Half-Court Grind — Durant-Sengun Two-Man Game Fuels Elite Efficiency",
+      "bullets": [
+        "<strong>The Durant-Sengun pick-and-roll is virtually unguardable:</strong> Sengun's 6.2 APG from the center position punishes every defensive coverage. Drop? Sengun finds cutters. Hedge? Durant pops for an open mid-range. Switch? Durant cooks a smaller defender. They're the first Rockets All-Star duo since Harden-Westbrook (2020), and their two-man game is the engine behind Houston's <strong>118.4 offensive rating (5th in NBA)</strong>.",
+        "<strong>Five players averaging 15+ PPG create defensive nightmares:</strong> Durant (26.0), Sengun (20.6), Amen Thompson (17.9), Jabari Smith Jr. (15.7), and Reed Sheppard (16.0 since the All-Star break) force defenses to pick their poison. Sheppard just drilled <strong>a career-high nine threes</strong> against Milwaukee. You can't help off anyone.",
+        "<strong>Udoka's defensive flexibility is the X-factor:</strong> Houston switches between man-to-man, zone, and blitz coverage <em>multiple times per quarter</em>. Their <strong>113.4 defensive rating</strong> ranks among the league's best. Thompson's 1.5 SPG and 7.8 RPG anchor the perimeter, while Sengun protects the rim. The scheme changes keep opposing offenses guessing.",
+        "<strong>Pace control wins games:</strong> At 96.0 pace, Houston grinds opponents into half-court sets where their talent and execution advantage is maximized. The Rockets don't turn it over, they get back in transition, and they force opponents to beat them in structured possessions — exactly where Durant and Sengun thrive."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "Push-Pace Physicality — Ott's Rebuild Has Exceeded Every Expectation",
+      "bullets": [
+        "<strong>Booker is scorching hot and running the show:</strong> Devin Booker's <strong>27.9 PPG over his last 7 games</strong> (all with 22+ points) has the Suns in playoff contention nobody predicted after losing Durant and Beal. His 24.7 PPG and 6.1 APG make him the offensive hub — he creates for himself and others at an All-Star level. Against Houston's switching defense, Booker will hunt mismatches relentlessly.",
+        "<strong>Jordan Ott's \"earlier in the clock\" philosophy pushes pace:</strong> Phoenix plays at 97.2 pace — faster than Houston's 96.0 — and Ott wants shots early in the shot clock when efficiency peaks. The <strong>115.7 offensive rating</strong> is respectable, but it spikes when Phoenix gets transition opportunities off turnovers and defensive rebounds. Slowing this team down is Houston's primary tactical goal.",
+        "<strong>Defense is physical and instinct-driven:</strong> Ott demands \"Game 7 intensity\" every night. Brooks treats every defensive possession personally. The <strong>114.0 defensive rating (10th in NBA)</strong> is remarkable for a first-year coach working with a retooled roster. Communication and help defense compensate for limited elite individual defenders.",
+        "<strong>Depth is a genuine weapon:</strong> Collin Gillespie's <strong>13.5 PPG off the bench</strong> has him in the Sixth Man of the Year conversation. Green (18.2 PPG) provides explosive secondary scoring. This isn't a Booker-and-pray team — Phoenix has enough firepower to hang with Houston's balanced attack if they get stops.",
+        "<strong>The crowd will be a factor:</strong> Durant returning to Phoenix for the first time, Brooks' agitator energy (18th tech just rescinded), Green facing his old team — the Mortgage Matchup Center will be <em>hostile</em>. Ott's physical, emotional style of play is perfectly designed to harness that energy."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "Can Phoenix solve the Durant-Sengun pick-and-roll that has torched them all season?",
+      "description": "Houston's primary action has been the Suns' undoing in all three previous meetings. Sengun's 6.2 APG from the center spot means drop coverage gifts him passing lanes, while switching puts a smaller defender on Durant's 6'10\" frame. Mark Williams plays traditional drop — he'll need to contest Durant's mid-range pull-ups without abandoning the paint. Ott may need to try aggressive trapping or zone looks to disrupt the timing, but that risks open shooters (Sheppard hit 9 threes last game). If Phoenix plays straight-up again, Houston will generate the same efficient looks that produced 3 wins."
+    },
+    {
+      "title": "Will Jalen Green's revenge game or Amen Thompson's two-way dominance win the former-teammate battle?",
+      "description": "Green (18.2 PPG) has missed all three prior meetings and is desperate to prove the Suns got a franchise piece in the KD trade. Thompson (17.9 PPG, 7.8 RPG, 5.3 APG, 1.5 SPG, 52.7% FG) has blossomed into a legitimate two-way star alongside Durant. Thompson's defensive versatility — he can guard 1 through 4 — may end up on Booker at times, but if he draws Green, the matchup becomes personal. Green's explosive scoring can swing any game, but Thompson's all-around impact is more consistent. This is the individual battle that determines which franchise won the trade tonight."
+    },
+    {
+      "title": "Does Booker's 7-game heater (27.9 PPG) carry Phoenix past Houston's elite defense?",
+      "description": "Booker has been unstoppable — 22+ points in 7 straight, including 30 against Chicago on Saturday. But Houston's defense (113.4 DRTG) is designed to force isolation scorers into tough, contested shots. Udoka's switching removes the screen actions Booker thrives on, and Thompson's length can bother him on the perimeter. If Booker needs 35+ for Phoenix to win, the Suns are in trouble — he can't carry the entire scoring load against this defense. The key is whether Green and Gillespie provide enough secondary scoring (25+ combined) to take pressure off Booker."
+    },
+    {
+      "title": "Pace control: can Houston grind this to a 96-pace half-court game?",
+      "description": "Phoenix's best chance is pushing tempo to 97+ and creating easy buckets before Houston's defense sets. The Rockets' best chance is slowing it down and leveraging their superior half-court offense (118.4 vs 115.7 ORTG). Houston's low turnover rate limits Phoenix's fast-break opportunities. If the Rockets commit 12 or fewer turnovers, Phoenix's transition game — a critical piece of their identity under Ott — is effectively neutralized. The first 6 minutes will tell us which team's tempo wins."
+    },
+    {
+      "title": "How much does the emotional energy of KD's return help or hurt Phoenix?",
+      "description": "The crowd will be raucous. Brooks will be in Durant's ear all night. Green has waited all season for this moment. But emotional energy is a double-edged sword — it can fuel defensive intensity or lead to forced shots and frustration fouls. Durant thrives in hostile environments (he hit the game-winner in Houston on Jan 5 and said it \"felt even better\" against Phoenix). If Phoenix channels the emotion into defensive effort and controlled aggression, they have a shot. If they play angry rather than smart, Durant will exploit every over-aggressive closeout."
+    }
+  ],
+  "prediction": {
+    "summary": "<p>This game is loaded with narrative — KD's return, Green's revenge opportunity, Brooks' hostility, playoff positioning for both teams. But strip away the storylines and the matchup data tells a clear story: Houston's <strong>118.4 offensive rating</strong> against Phoenix's <strong>114.0 defensive rating</strong> is a significant efficiency gap. The Durant-Sengun pick-and-roll has been the Suns' kryptonite all season (3-0 Houston), and Phoenix has no new answers without a major personnel change.</p><p>Booker's hot streak keeps Phoenix in it — he'll score 28+ and the home crowd gives the Suns extra possessions from favorable calls and emotional momentum. But Houston's five-man scoring balance (five players at 15+ PPG) is too much for a Suns team that needs Booker to do everything. The Rockets control pace in the second half, Durant hits big shots in the fourth quarter (as he has all season against Phoenix), and Houston finishes the road schedule with a statement sweep of the season series.</p>",
+    "phases": [
+      {
+        "title": "First Quarter — Electric Atmosphere",
+        "description": "The Mortgage Matchup Center erupts as Durant takes the floor for the first time since the trade. Brooks guards KD physically from the opening tip, and the crowd fuels Phoenix's defensive intensity. Booker attacks early — 9 first-quarter points on pull-up jumpers and a driving layup. But Durant is unfazed: two mid-range daggers over Brooks and a dish to Sengun for a layup. Thompson steals a Green pass in transition for a fastbreak slam. The quarter stays tight as both teams ride emotion."
+      },
+      {
+        "title": "Second Quarter — Houston's Pace Takes Hold",
+        "description": "Udoka slows the tempo deliberately, and Houston's half-court offense takes over. The Durant-Sengun PnR generates two easy baskets and kicks to Sheppard for a corner three. Phoenix's offense stagnates in half-court sets — Green forces a contested three, and Williams can't create offense in the post. Gillespie enters and provides a spark with 8 quick bench points, keeping Phoenix within range. But Houston builds a 6-point cushion at the half behind balanced scoring from four different players."
+      },
+      {
+        "title": "Third Quarter — Phoenix's Surge",
+        "description": "Ott adjusts at halftime and pushes pace aggressively. Booker catches fire with 12 third-quarter points — two pull-up threes and a signature mid-range fadeaway. Green gets to the rim in transition for a highlight dunk against his old team. The Suns cut the lead to 1 with the crowd on its feet. But Thompson answers with a coast-to-coast layup through traffic, and Durant hits a step-back over Brooks to restore a 4-point Houston lead entering the fourth."
+      },
+      {
+        "title": "Fourth Quarter — Durant Closes the Book",
+        "description": "The game stays within 4 points through 8 minutes of back-and-forth. Booker ties it at 104 with a step-back three at the 3:20 mark. But Durant, who hit the game-winner against Phoenix on January 5, goes to his bag — an isolation mid-range over Green, then a catch-and-shoot three off a Sengun handoff. Brooks picks up his 4th foul contesting a Thompson drive, limiting his minutes down the stretch. Sheppard hits two free throws to seal it. Phoenix's final possession ends with a Green turnover under pressure from Thompson — the former teammates' last exchange of the night."
+      }
+    ],
+    "projectedScore": {
+      "teamA": 112,
+      "teamB": 108,
+      "rationale": "Houston's offensive efficiency edge (118.4 vs 115.7 ORTG) and defensive tightness (113.4 vs 114.0 DRTG) compound over 48 minutes. The Durant-Sengun pick-and-roll has been unsolvable for Phoenix in three meetings, and Houston's five-player scoring balance prevents the Suns from keying on any single threat. Booker's 28+ point night keeps Phoenix competitive, but the Rockets' pace control in the second half limits Suns transition opportunities. Durant's clutch scoring (game-winner on Jan 5) and Thompson's two-way impact in crunch time are the difference. Houston sweeps the season series and closes out the road schedule on a 7-game win streak."
+    }
+  },
+  "players": [
+    {
+      "team": "a",
+      "name": "Kevin Durant",
+      "stats": "SF | 26.0 PPG, 5.4 RPG, 4.5 APG",
+      "meta": "All-Star | Season-high 40 pts vs Orlando",
+      "bio": "Durant's return to Phoenix is the game's marquee storyline. He's averaged <strong>27 PPG against the Suns this season</strong>, including a game-winning three on January 5 after which he said beating Phoenix \"felt even better\" because he was \"scapegoated\" during his time there. His mid-range game is virtually unguardable at 6'10\" with his release point — Brooks will compete physically, but Durant has proven all season that no Suns defender can consistently contain him. Expect the PHX crowd to fuel Durant rather than rattle him."
+    },
+    {
+      "team": "a",
+      "name": "Alperen Sengun",
+      "stats": "C | 20.6 PPG, 8.8 RPG, 6.2 APG",
+      "meta": "All-Star | First Rockets All-Star Duo Since Harden-Westbrook",
+      "bio": "Sengun is the <strong>most versatile passing center in the NBA</strong> — his 6.2 APG creates the easy looks that make Houston's offense hum. The Durant-Sengun pick-and-roll is the league's most dangerous two-man action, and Mark Williams' drop coverage has been exploited in all three prior meetings. Sengun's season-high <strong>31 points and 14 assists</strong> against Utah showed his full offensive arsenal. If Phoenix blitzes the PnR, Sengun will find open shooters; if they play drop, Durant gets mid-range looks all night."
+    },
+    {
+      "team": "a",
+      "name": "Amen Thompson",
+      "stats": "SG/SF | 17.9 PPG, 7.8 RPG, 5.3 APG, 1.5 SPG",
+      "meta": "52.7% FG | Two-Way Star | Season-high 24 pts, 18 reb",
+      "bio": "Thompson has emerged as Houston's <strong>two-way revelation</strong> — his combination of 17.9 PPG on 52.7% shooting with 1.5 SPG and elite transition play makes him one of the league's most dynamic young players. His matchup with former teammate Jalen Green is the trade's on-court verdict: Thompson's all-around game vs. Green's scoring explosiveness. Thompson's defensive versatility means he could guard Booker, Green, or Brooks depending on Houston's switches. He posted a <strong>24-point, 18-rebound game</strong> against Miami — his impact goes far beyond scoring."
+    },
+    {
+      "team": "a",
+      "name": "Reed Sheppard",
+      "stats": "PG | 16.0 PPG (post-ASB), 4.4 APG, 1.7 SPG",
+      "meta": "Sophomore | Career-high 9 threes vs Milwaukee",
+      "bio": "Sheppard has <strong>elevated dramatically since the All-Star break</strong>: 16.0 PPG, 3.8 RPG, 4.4 APG, and 1.7 SPG as Houston's starting point guard. His career-high <strong>27 points on 9 three-pointers</strong> against Milwaukee showcased his shooting ceiling. With VanVleet out for the season (ACL), Sheppard has seized the starting role and his quick hands (1.5 SPG) help compensate for VanVleet's defensive absence. Against Booker, he'll need help from Thompson and switches — Booker's size advantage is a concern."
+    },
+    {
+      "team": "b",
+      "name": "Devin Booker",
+      "stats": "SG | 24.7 PPG, 3.7 RPG, 6.1 APG",
+      "meta": "5x All-Star | 27.9 PPG over last 7 games",
+      "bio": "Booker is the <strong>hottest scorer in the NBA right now</strong> — 22+ points in 7 consecutive games, averaging 27.9 PPG in that stretch including 30 against Chicago on Saturday. He's proven that the Suns' rebuild can work with him as the centerpiece, earning his <strong>5th All-Star selection</strong>. Against Houston's switching defense, Booker will hunt mismatches and use his pull-up mid-range game to get clean looks. But he's <strong>0-3 against the Rockets this season</strong>, and Houston's defensive scheme is designed to make life difficult for isolation scorers. He needs 30+ and efficient shooting to give Phoenix a chance."
+    },
+    {
+      "team": "b",
+      "name": "Jalen Green",
+      "stats": "SF | 18.2 PPG, 3.7 RPG, 3.0 APG",
+      "meta": "Former Rocket | Missed all 3 prior meetings vs Houston",
+      "bio": "This is the game Green has been waiting for all season. Traded from Houston as the centerpiece of the KD deal, he's <strong>missed all three previous meetings</strong> against his old team — making tonight his first and only chance this regular season to prove the Suns got a future franchise piece. His <strong>18.2 PPG and explosive athleticism</strong> give Phoenix a dynamic secondary scorer, but his 3.0 APG and 3.7 RPG show he's still primarily a scorer rather than an all-around player. The matchup with Thompson — his former teammate who has blossomed alongside KD — adds personal stakes. Green needs a signature performance."
+    },
+    {
+      "team": "b",
+      "name": "Dillon Brooks",
+      "stats": "SF | 12.3 PPG (last 3), 3.3 RPG, 2.0 APG",
+      "meta": "Defensive Agitator | Tech Rescinded, Available Tonight",
+      "bio": "Brooks' <strong>18th technical foul was rescinded by the NBA</strong> on Monday, making him available for the biggest game of Phoenix's season. He was traded from Houston alongside Green in the KD deal and has played all three prior meetings with his trademark intensity. Just returning from <strong>left hand surgery</strong> (3 games back, 12.3 PPG), Brooks will guard Durant and try to get under his skin — a battle he relishes. His defensive physicality sets the tone for Ott's \"Game 7 every night\" culture. If Brooks can limit Durant to below 45% shooting while contributing 12+ on offense, Phoenix has a real chance."
+    },
+    {
+      "team": "b",
+      "name": "Collin Gillespie",
+      "stats": "PG | 13.5 PPG off bench",
+      "meta": "Sixth Man of the Year Candidate",
+      "bio": "Gillespie has been Phoenix's <strong>most pleasant surprise</strong> this season — his 13.5 PPG off the bench has him in the Sixth Man of the Year conversation and gives the Suns a legitimate scoring weapon in rotation minutes. When Booker rests, Gillespie keeps the offense from cratering the way Charlotte's does without Ball. Against Houston's weakened bench (no VanVleet, no Adams), Gillespie's bench unit could actually <strong>outscore Houston's reserves</strong> — a critical swing in a tight game. His shooting and decision-making off the bench is Phoenix's best answer to Houston's starting-five depth."
+    }
+  ],
+  "trends": [
+    {
+      "title": "Scoring Patterns",
+      "bullets": [
+        "<strong>Houston is rolling:</strong> The Rockets have won <strong>6 straight and 8 of their last 10</strong>, averaging 109.7 PPG with a +4.8 scoring margin. Recent wins include 119-113 over Milwaukee (Sheppard's 9-three explosion) and 117-116 over Golden State (Durant spoiled Curry's return).",
+        "<strong>Booker's heater is real:</strong> 22+ points in <strong>7 consecutive games</strong>, averaging 27.9 PPG with 6.3 APG and 3.1 RPG in that stretch. His 30-point outing against Chicago on Saturday showed no signs of cooling off.",
+        "<strong>Phoenix is 6-4 over the last 10</strong>, averaging 111.3 PPG but allowing 110.2 PPG — a razor-thin +1.1 margin that shows the Suns are winning close games rather than blowing teams out. Houston's +4.8 margin is far more comfortable.",
+        "<strong>The season series has been lopsided:</strong> Rockets 117-98 on Dec 5, Rockets 100-97 on Jan 5, plus a November win. Houston has outscored Phoenix by a combined 20+ points across three games. The Suns haven't found a formula to beat this Rockets team."
+      ]
+    },
+    {
+      "title": "Matchup Dynamics",
+      "bullets": [
+        "<strong>The Durant-Sengun PnR vs. Williams' drop coverage</strong> is the game's defining tactical matchup. Sengun's 6.2 APG punishes traditional drop by finding cutters and shooters. Williams needs to contest Durant's mid-range without abandoning the paint — a nearly impossible task given Durant's 6'10\" release.",
+        "<strong>Pace is the swing factor:</strong> Houston's 96.0 pace vs. Phoenix's 97.2. The Rockets are <strong>+5.0 net rating</strong> in half-court play; Phoenix's +1.7 net rating relies on transition buckets. If Houston holds pace below 96, their efficiency advantage compounds. If Phoenix pushes above 98, the game opens up.",
+        "<strong>Houston's offensive balance vs. Phoenix's Booker-dependence:</strong> Five Rockets average 15+ PPG. The Suns need Booker (24.7) and Green (18.2) to combine for 45+ — if either has an off night, Phoenix lacks the depth to compensate outside of Gillespie's bench scoring.",
+        "<strong>Rebounding edge favors Houston:</strong> Sengun (8.8), Thompson (7.8), and Smith (6.9) combine for 23.5 RPG from three positions. Williams (8.0) is Phoenix's primary rebounder with limited help. Second-chance points could decide a close game."
+      ]
+    },
+    {
+      "title": "Lineup & Rotation Trends",
+      "bullets": [
+        "<strong>Houston's starting five is one of the NBA's most versatile:</strong> Sheppard/Thompson/Durant/Smith/Sengun features four switchable defenders, three primary ball-handlers (Sheppard, Thompson, Sengun), and Durant as the isolation closer. No lineup Phoenix deploys can exploit a clear weak link.",
+        "<strong>Phoenix's starting five blends scoring with defense:</strong> Booker and Green provide firepower, Brooks and O'Neale provide toughness, Williams provides rim protection. But when <strong>Brooks (returning from hand surgery, 3 games back)</strong> tires, the defensive identity suffers.",
+        "<strong>Gillespie's bench impact could swing the game:</strong> His 13.5 PPG is Phoenix's answer to Houston's bench scoring void (no VanVleet, no Adams). If Gillespie outscores Houston's reserves by 8+, it neutralizes the starting-five gap.",
+        "<strong>Udoka's lineup flexibility:</strong> He can go big (Sengun + Smith) or small (Thompson at the four) depending on matchups. If Phoenix goes small, expect Thompson to slide to the four with Sheppard, KD, and shooters around him."
+      ]
+    },
+    {
+      "title": "Form & Context",
+      "bullets": [
+        "<strong>This is Houston's final road game</strong> of the 2025-26 regular season — a milestone that could affect effort and lineup decisions. But with a shot at the 3-seed (4 games left), Udoka has every reason to go all-out.",
+        "<strong>Both teams had one day of rest:</strong> Phoenix beat Chicago 120-110 at home on April 5; Houston's last game was part of their 6-game win streak. Neither team is on a back-to-back.",
+        "<strong>Injuries favor the starters:</strong> Houston is missing VanVleet (ACL, season) and Adams (ankle, season) — both bench pieces. Phoenix is missing Highsmith (knee, 10th straight absence). Brooks is available after his tech was rescinded and is 3 games back from hand surgery.",
+        "<strong>Playoff stakes are asymmetric but both meaningful:</strong> The Suns (7th seed) are fighting to avoid the play-in — every loss pushes them closer to elimination-round basketball. The Rockets (4th seed) could realistically climb to 3rd with strong finishes. Neither team is coasting.",
+        "<strong>KD's first game in Phoenix</strong> since the trade adds a narrative layer that transcends regular-season basketball. Expect a playoff-level atmosphere from the Suns crowd, Brooks' agitation, and Durant's cold-blooded response."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "heading": "Houston Rockets Sources",
+      "links": [
+        {
+          "label": "Basketball Reference: 2025-26 Rockets Roster & Stats",
+          "url": "https://www.basketball-reference.com/teams/HOU/2026.html"
+        },
+        {
+          "label": "ESPN: Rockets Team Page",
+          "url": "https://www.espn.com/nba/team/_/name/hou/houston-rockets"
+        },
+        {
+          "label": "NBAstuffer: 2025-26 Advanced Team Stats",
+          "url": "https://www.nbastuffer.com/2025-2026-nba-team-stats/"
+        },
+        {
+          "label": "The Dream Shake: Rockets vs Suns Game Preview",
+          "url": "https://www.thedreamshake.com/rockets-game-previews/39284/houston-rockets-vs-phoenix-suns-game-preview"
+        },
+        {
+          "label": "SI: Udoka Coach of the Year Case",
+          "url": "https://www.si.com/nba/rockets/onsi/news/three-reasons-why-rockets-ime-udoka-deserves-coach-of-the-year-right-now"
+        },
+        {
+          "label": "Pro Football Network: KD on Udoka's Defensive Mindset",
+          "url": "https://www.profootballnetwork.com/nba/kevin-durant-ime-udoka-special-defensive-mindset/"
+        },
+        {
+          "label": "Wikipedia: 2025-26 Houston Rockets Season",
+          "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Houston_Rockets_season"
+        },
+        {
+          "label": "Fox Sports: Rockets vs Suns Predictions & Stats",
+          "url": "https://foxsportsabq.iheart.com/content/2026-04-06-rockets-vs-suns-predictions-odds-stats-april-7/"
+        },
+        {
+          "label": "Fox Sports: Injury Report April 7",
+          "url": "https://foxsportsabq.iheart.com/content/2026-04-07-rockets-vs-suns-injury-report-april-7/"
+        },
+        {
+          "label": "CBS Sports: Rockets Fight for Playoff Position",
+          "url": "https://www.cbssports.com/nba/news/rockets-suns-fight-for-playoff-position-as-kevin-durant-returns-to-phoenix/"
+        }
+      ]
+    },
+    {
+      "heading": "Phoenix Suns Sources",
+      "links": [
+        {
+          "label": "Basketball Reference: 2025-26 Suns Roster & Stats",
+          "url": "https://www.basketball-reference.com/teams/PHO/2026.html"
+        },
+        {
+          "label": "ESPN: Suns Team Page",
+          "url": "https://www.espn.com/nba/team/_/name/phx/phoenix-suns"
+        },
+        {
+          "label": "Bright Side of the Sun: Suns Defense Under Ott",
+          "url": "https://www.brightsideofthesun.com/suns-analysis/95033/phoenix-suns-defense-analysis-jordan-ott-system-instinct-communication-athleticism-nba-tactics"
+        },
+        {
+          "label": "Valley of the Suns: Offensive Juggernaut Under Ott",
+          "url": "https://valleyofthesuns.com/booker-suns-quietly-rounding-form-offensive-juggernaut-jordan-ott"
+        },
+        {
+          "label": "Burn City Sports: KD's Return to Phoenix",
+          "url": "https://burncitysports.com/2026/04/06/suns-fans-react-kevin-durant-phoenix/"
+        },
+        {
+          "label": "Burn City Sports: Brooks Available vs Rockets",
+          "url": "https://burncitysports.com/2026/04/06/dillon-brooks-against-rockets-as-sun/"
+        },
+        {
+          "label": "Yahoo Sports: Brooks Technical Rescinded",
+          "url": "https://sports.yahoo.com/nba/breaking-news/article/nba-rescinds-18th-technical-foul-against-dillon-brooks-making-suns-star-eligible-to-play-vs-rockets-171539927.html"
+        },
+        {
+          "label": "Wikipedia: 2025-26 Phoenix Suns Season",
+          "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Phoenix_Suns_season"
+        },
+        {
+          "label": "NBA.com: Suns Season Preview",
+          "url": "https://www.nba.com/news/2025-26-season-preview-phx"
+        },
+        {
+          "label": "Covers: Rockets vs Suns Matchup",
+          "url": "https://www.covers.com/sport/basketball/nba/matchup/363205"
+        }
+      ]
+    }
+  ],
+  "footerText": "Rockets at Suns — April 7, 2026 — Mortgage Matchup Center, Phoenix"
+}

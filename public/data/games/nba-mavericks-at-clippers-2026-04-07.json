@@ -1,0 +1,357 @@
+{
+  "slug": "nba-mavericks-at-clippers-2026-04-07",
+  "title": "Mavericks at Clippers",
+  "eventTag": "NBA — Play-In Positioning vs. Rookie Showcase",
+  "date": "Tuesday, April 7, 2026 • 10:30 PM ET",
+  "round": "Regular Season",
+  "tipTime": "2026-04-07T22:30",
+  "venue": "Intuit Dome, Inglewood, CA • KFAA / FDSSC / Fubo",
+  "extraInfo": "Clippers lead season series 2-0. Both prior meetings went to overtime: LAC won 133-127 (2OT) on Nov 14 at Dallas and 138-131 (OT) on Mar 21 at LA. Cooper Flagg is on a historic scoring streak — 51 points vs. Orlando and 45 vs. Lakers in his last two games.",
+  "teams": [
+    {
+      "name": "Dallas",
+      "mascot": "Mavericks",
+      "seed": "12",
+      "record": "25-53",
+      "colors": {
+        "primary": "#00538C",
+        "secondary": "#002B5E",
+        "name": "mavericks"
+      },
+      "className": "mavericks"
+    },
+    {
+      "name": "Los Angeles",
+      "mascot": "Clippers",
+      "seed": "8",
+      "record": "40-38",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#1D428A",
+        "name": "clippers"
+      },
+      "className": "clippers"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "stakes",
+      "label": "Matchup Breakdown"
+    },
+    {
+      "id": "styles",
+      "label": "Styles of Play"
+    },
+    {
+      "id": "keys",
+      "label": "Keys to the Game"
+    },
+    {
+      "id": "prediction",
+      "label": "Prediction"
+    },
+    {
+      "id": "players",
+      "label": "Players to Watch"
+    },
+    {
+      "id": "trends",
+      "label": "Trends"
+    },
+    {
+      "id": "sources",
+      "label": "Sources"
+    }
+  ],
+  "stakes": {
+    "callout": "A game with vastly different stakes for each team — but don't let the records fool you. The <strong>Clippers</strong> (40-38) are clinging to the 8th seed in the West with Portland just a half-game back, and need wins to secure favorable play-in positioning. The <strong>Mavericks</strong> (25-53) have been eliminated from playoff contention since March 23, but <strong>Cooper Flagg is putting on a show</strong> — the #1 overall pick just became the youngest player in NBA history to score 50 in a game (51 vs. Orlando), then followed it with 45 against the Lakers. Both prior meetings this season went to overtime with 260+ combined points. Kawhi Leonard has scored 20+ in <strong>53 consecutive games</strong>, and the Clippers' post-deadline core of Kawhi, Darius Garland, and Bennedict Mathurin has powered the most improbable turnaround in franchise history — from 6-21 to a play-in berth.",
+    "cards": [
+      {
+        "label": "Season Series: Clippers 2-0",
+        "value": "Both meetings went to overtime. Clippers won <strong>133-127 in double OT on Nov 14</strong> at Dallas (Harden had 41 points) and <strong>138-131 in OT on Mar 21</strong> at Intuit Dome. Despite the record gap, Dallas has competed toe-to-toe in this matchup."
+      },
+      {
+        "label": "Flagg's Historic Stretch",
+        "value": "Cooper Flagg scored <strong>51 points vs. Orlando (19-30 FG, 6-9 3PT)</strong> — the highest total ever by an NBA teenager — then dropped <strong>45/8/9 vs. the Lakers</strong>. He's the first rookie with back-to-back 40-point games since Allen Iverson in 1996-97. Over his last 10: 26.5 PPG, 6.6 RPG, 5.5 APG."
+      },
+      {
+        "label": "Clippers' Historic Turnaround",
+        "value": "After starting <strong>6-21</strong> (including a 2-13 November), the Clippers became the <strong>first team in NBA history to climb above .500 after being 15 games below it</strong>. The post-deadline additions of Garland (21.3 PPG, 51% 3PT in first 13 games) and Mathurin (18.8 PPG) transformed the roster."
+      },
+      {
+        "label": "Kawhi's Scoring Streak",
+        "value": "Leonard has scored <strong>20+ points in 53 consecutive games</strong> dating to November 28 — the longest active streak in the NBA. He's averaging 28.0 PPG on 50.5% FG and 38.4% 3PT with 61 games played, his healthiest season in years."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "Flagg-Fueled Transition Attack, Pace-Pushing Development Squad",
+      "bullets": [
+        "<strong>Cooper Flagg is the franchise now:</strong> With Luka Doncic traded to the Lakers and Kyrie Irving out for the season (knee), the #1 pick runs the show. Jason Kidd deploys Flagg as a 6'9\" point-forward — his <strong>21.1 PPG, 6.6 RPG, 4.6 APG</strong> lead the team, and he's averaging <strong>26.5 PPG over his last 10 games</strong> with two 40+ point explosions. His transition scoring is devastating — Dallas ranks 4th in pace and Flagg is at his best in the open court.",
+        "<strong>Three-point shooting is the supporting cast's job:</strong> Klay Thompson (38.8% 3PT), Max Christie (40.4% 3PT), and Khris Middleton (38.5% 3PT) provide floor spacing around Flagg. When the shooters connect, Dallas's offense can match anyone — but the team's <strong>34.3% 3PT as a whole ranks below average</strong>, and cold shooting nights lead to blowout losses.",
+        "<strong>Rebounding is an identity:</strong> Dallas averages <strong>44.6 RPG</strong> (above the Clippers' 40.5), with PJ Washington (7.0 RPG), Marvin Bagley III (6.9 RPG), and Daniel Gafford (6.9 RPG, if available) creating size advantages on the glass. Offensive rebounds feed the transition attack.",
+        "<strong>Defense is undermined by personnel losses:</strong> Without Dereck Lively II (foot, season) and potentially Gafford (shoulder, day-to-day) and Caleb Martin (foot, day-to-day), rim protection and perimeter defense are both compromised. The Mavs' <strong>113.3 defensive rating</strong> reflects the lack of defensive talent, and the Clippers' star trio can exploit mismatches at every position.",
+        "<strong>No true point guard:</strong> Ryan Nembhard (6.2 PPG, 4.9 APG) and Brandon Williams (13.0 PPG, 3.9 APG) split duties, but neither is a high-level NBA starter. The offense is at its best when Flagg initiates, but against a defense with Kawhi Leonard, forced turnovers become a concern."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "Star-Driven Half-Court Machine, Deliberate Tempo",
+      "bullets": [
+        "<strong>Kawhi Leonard is having a career renaissance:</strong> At 34, Leonard is averaging <strong>28.0 PPG on 50.5% FG and 38.4% 3PT</strong> with 61 games played — his healthiest and most productive season in years. His 20+ point streak at <strong>53 consecutive games</strong> is the longest active run in the NBA. He anchors both ends as the Clippers' best scorer, defender (1.9 SPG), and closer.",
+        "<strong>The Garland-Kawhi partnership is clicking:</strong> Since arriving from Cleveland at the trade deadline, Darius Garland has averaged <strong>21.3 PPG, 7.0 APG on 51% FG and 51% from three</strong> in his first 13 games — making 52 threes, the most ever by a player in his first 13 games with a franchise. His pick-and-roll mastery with Lopez and isolation scoring alongside Kawhi give the Clippers a lethal two-man game.",
+        "<strong>The slowest pace in the league is the system:</strong> At <strong>96.5 pace (28th)</strong>, the Clippers grind opponents into half-court battles where their star talent dominates. This is the direct counter to Dallas's up-tempo approach — if LA controls the tempo, they remove the Mavericks' transition advantage entirely.",
+        "<strong>Bench scoring through Mathurin:</strong> Bennedict Mathurin (18.8 PPG, 5.7 RPG) gives the Clippers a legitimate sixth man who averaged <strong>20.7 PPG in a bench role</strong> with efficient scoring and rebounding. His 38-point game against Denver showed his ceiling. Dallas has no bench player who can match his production.",
+        "<strong>Defensive identity is still a work in progress:</strong> The Clippers' <strong>116.1 defensive rating (18th)</strong> is their biggest liability. Trading Zubac removed their best rim protector — Brook Lopez (37 years old) and John Collins provide less paint protection. But Kawhi's individual defense and Derrick Jones Jr.'s perimeter length give them tools to defend in spurts, especially against a young team that can be forced into turnovers."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "Can the Clippers keep Flagg out of transition? Pace control is the game's fulcrum.",
+      "description": "This is the single most important variable. Dallas ranks 4th in pace and Flagg is devastating in the open court — his 51 and 45-point games both featured multiple transition scores off defensive rebounds and turnovers. The Clippers rank 28th in pace (96.5) and want to grind through half-court possessions where Kawhi and Garland dominate. If LA can limit transition opportunities by avoiding turnovers, securing defensive rebounds, and milking the shot clock, they can turn this into a 15-point win. If Dallas pushes tempo and gets Flagg going downhill early, this becomes another overtime thriller."
+    },
+    {
+      "title": "Kawhi Leonard's defense on Cooper Flagg — the marquee individual matchup",
+      "description": "Kawhi (1.9 SPG, two-time DPOY) guarding Flagg creates the game's most compelling battle. In his last two games, Flagg shot 33-of-57 from the field (57.9%) — but he hasn't faced a defender of Kawhi's caliber in this stretch. Kawhi's combination of length, hand speed, and positioning can disrupt Flagg's drives and force him into contested jumpers. Flagg's counter is his 6'9\" frame, improving three-point shot (29.7% on the season but 6-of-9 in the 51-point game), and elite passing (4.6 APG). If Kawhi holds Flagg below 45% shooting, the Clippers' offensive firepower handles the rest. If Flagg shoots efficiently through Kawhi's defense, it confirms the rookie is ready for any matchup."
+    },
+    {
+      "title": "Garland's pick-and-roll against Dallas's depleted frontcourt",
+      "description": "Darius Garland is shooting 51% from three in his first 13 games as a Clipper and his pick-and-roll mastery is a nightmare for Dallas's compromised interior defense. With Dereck Lively out for the season and Daniel Gafford day-to-day with a shoulder injury, the Mavericks may be forced to defend PnR with Marvin Bagley III or Jeremiah Robinson-Earl at center — neither is a proven pick-and-roll defender. Garland's ability to pull up from three off screens, hit the rolling big, or find Kawhi on the weak side creates impossible decisions for Dallas's young defenders. If Garland generates 8+ assists with efficient scoring, the Clippers cruise."
+    },
+    {
+      "title": "The bench gap — Mathurin's 18.8 PPG vs. Dallas's young reserves",
+      "description": "This is where games between uneven teams are typically decided. Bennedict Mathurin (18.8 PPG, 5.7 RPG) gives the Clippers a bench scorer who would start on many NBA teams — his 38-point outburst against Denver and consistent 20+ point performances make him the league's most dangerous sixth man. Dallas counters with Brandon Williams (13.0 PPG), Klay Thompson (11.7 PPG off the bench), and Khris Middleton (10.4 PPG). Thompson can match Mathurin if his shot is falling, but on a cold night, the Clippers' bench can turn a 4-point game into a 12-point game during rotation minutes."
+    },
+    {
+      "title": "Rebounding and second chances — Dallas's best equalizer",
+      "description": "Dallas averages 44.6 RPG to the Clippers' 40.5 — a 4.1-rebound gap that becomes significant over 48 minutes. Since trading Zubac, the Clippers have lacked a dominant rebounder (Collins and Lopez combine for roughly 10 RPG). PJ Washington (7.0 RPG), Bagley (6.9 RPG), and Flagg (6.6 RPG) give Dallas multiple players who crash the glass. If Dallas wins the offensive rebounding battle by 4+, those second-chance points (typically worth 1.1 PPP) can offset their turnover and talent disadvantages. If the Clippers match Dallas on the glass through effort and positioning, they remove the Mavs' best path to an upset."
+    }
+  ],
+  "prediction": {
+    "summary": "<p>The Clippers are the better team by a wide margin — a 15-win gap in the standings, three legitimate scoring options (Kawhi, Garland, Mathurin) versus one (Flagg), and the urgency of play-in positioning versus a team playing out the string. Both prior meetings went to overtime, but those games featured James Harden (41 points in Game 1) and a different Dallas roster. The Clippers' post-deadline core is significantly improved.</p><p>The wildcard is Cooper Flagg's transcendent stretch. The kid just scored 51 and 45 in consecutive games, and he plays with the fearlessness of a generational talent who doesn't know he's supposed to lose. Kawhi's defense will test him more than anyone has recently, but Flagg's ability to score from all three levels and create for teammates means he'll produce regardless. Dallas's rebounding advantage and Flagg's brilliance keep this within striking distance into the third quarter, but the Clippers' half-court execution, bench depth with Mathurin, and home-court at Intuit Dome produce a comfortable closing stretch.</p>",
+    "phases": [
+      {
+        "title": "First Quarter — Tempo Tug-of-War",
+        "description": "Flagg comes out aggressive, looking to push pace after every defensive rebound. He converts two early transition baskets and finds Christie for a corner three, giving Dallas a brief lead. But Kawhi answers with an isolation mid-range jumper and a step-back three, and Garland probes the Dallas defense in pick-and-roll, finding Lopez for a short jumper. The Clippers settle into their half-court rhythm and take a 29-26 lead after one. Flagg already has 10 points but the Clippers' pace control limits Dallas's transition looks."
+      },
+      {
+        "title": "Second Quarter — Mathurin Tips the Scales",
+        "description": "The rotation change exposes the depth gap. Mathurin enters and immediately attacks — a pull-up three, a driving layup through contact, and a mid-range off the screen. He scores 11 in the quarter. Dallas's bench tries to answer through Williams (8 points) and Thompson (a catch-and-shoot three), but Garland picks apart the second unit with 5 assists in the quarter. The Clippers build a 61-51 halftime lead. Flagg has 16 at the half but Dallas has 8 turnovers to LA's 3."
+      },
+      {
+        "title": "Third Quarter — Flagg's Response",
+        "description": "Flagg takes over, channeling the energy from his recent 50-point explosion. He attacks Kawhi off the dribble for an and-one, drills a pull-up three in transition, and finds Washington for a cutting dunk. A 15-6 Dallas run cuts the lead to 5. But Kawhi responds — an isolation bucket over Marshall, a steal-and-score in transition, and two free throws after drawing a foul on PJ Washington. The Clippers push the lead back to 9 heading into the fourth. Flagg has 28 points through three quarters."
+      },
+      {
+        "title": "Fourth Quarter — Experience Prevails",
+        "description": "Dallas makes one final push. Flagg hits a step-back three and Thompson buries a catch-and-shoot to cut it to 5 with 4:30 left. But Garland responds with a floater in the lane, and Kawhi draws a foul on a drive and converts both free throws. Flagg commits a turnover on a pass intended for Nembhard — Kawhi's hand deflection — and Mathurin converts the transition layup on the other end. The Clippers' poise and execution down the stretch close it out. Flagg finishes with 33 points in a losing effort that only enhances his Rookie of the Year case."
+      }
+    ],
+    "projectedScore": {
+      "teamA": 110,
+      "teamB": 119,
+      "rationale": "The pace battle is the decisive factor — the Clippers' league-slowest tempo (96.5 pace) neutralizes Dallas's biggest weapon (transition scoring behind Flagg). In the half-court, the talent disparity is too large: Kawhi (28.0 PPG) and Garland (21.3 PPG since the trade) operate at a level no Dallas defender can consistently match, and Mathurin's bench scoring (18.8 PPG) exploits the depth gap during rotation minutes. Dallas's rebounding advantage (44.6 to 40.5 RPG) generates extra possessions but turnovers against Kawhi's active hands (1.9 SPG) offset the gain. Flagg produces a star-level performance (30+ projected) but the supporting cast — while competitive — can't keep up with three Clippers scorers operating at 18+ PPG."
+    }
+  },
+  "players": [
+    {
+      "team": "a",
+      "name": "Cooper Flagg",
+      "stats": "SF | 21.1 PPG, 6.6 RPG, 4.6 APG | 47.3% FG, 29.7% 3PT",
+      "meta": "#1 Overall Pick | Last 2 games: 51 pts and 45 pts",
+      "bio": "Flagg is in the middle of the most electric rookie stretch in recent NBA history. He scored <strong>51 points against Orlando</strong> (19-30 FG, 6-9 3PT) — the highest total ever by an NBA teenager — then followed with <strong>45/8/9 against the Lakers</strong>, becoming the first rookie with back-to-back 40-point games since Allen Iverson in 1996-97. Over his last 10 games: <strong>26.5 PPG, 6.6 RPG, 5.5 APG, 2.0 SPG</strong>. Kidd uses him as a point-forward, and his 6'9\" frame creates mismatches against smaller guards and slower forwards alike. Tonight's matchup with Kawhi Leonard — arguably the best wing defender of the past decade — is the ultimate test. If Flagg can produce efficiently against Kawhi's length and hand activity, it cements his Rookie of the Year case."
+    },
+    {
+      "team": "a",
+      "name": "PJ Washington",
+      "stats": "PF | 14.2 PPG, 7.0 RPG, 1.8 APG | 45.0% FG, 32.5% 3PT",
+      "meta": "Two-Way Anchor | 1.1 BPG | Team's Steadiest Veteran",
+      "bio": "With Irving and Lively out for the season and Doncic traded, Washington has become Dallas's <strong>most reliable two-way contributor</strong>. His 14.2 PPG and 7.0 RPG provide consistent production, and his 1.1 blocks per game anchors whatever defense the depleted Mavs can muster. Washington's matchup against John Collins is one of the few where Dallas has an individual edge — his defensive versatility and physical rebounding give Dallas a chance to win the glass battle. Averaging 10.7 PPG since March 1, he's been less efficient offensively, but his ability to stretch the floor (32.5% 3PT) and switch defensively makes him essential to everything Dallas does."
+    },
+    {
+      "team": "a",
+      "name": "Klay Thompson",
+      "stats": "SG | 11.7 PPG, 2.1 RPG, 1.4 APG | 39.7% FG, 38.8% 3PT",
+      "meta": "4x NBA Champion | Microwave Shooter Off the Bench",
+      "bio": "Thompson's role has shifted to a bench scorer at 36 years old, but his <strong>38.8% three-point shooting</strong> remains a potent weapon. When Klay gets hot, he can swing entire quarters — Dallas needs him to provide 15+ points in 20-25 minutes to stay competitive. He's the most experienced player on either roster (4 championships, 5 All-Star selections) and his gravity as a shooter opens driving lanes for Flagg. The concern is consistency — his 39.7% overall FG% is a career low. Against the Clippers' length on the perimeter (Jones Jr., Kawhi on switches), Thompson needs clean catch-and-shoot looks rather than contested pull-ups."
+    },
+    {
+      "team": "a",
+      "name": "Max Christie",
+      "stats": "SG | 12.2 PPG, 3.3 RPG, 2.0 APG | 44.3% FG, 40.4% 3PT",
+      "meta": "Acquired from Lakers | 13-Game 3PT Streak",
+      "bio": "Christie has quietly been one of Dallas's most consistent shooters — his <strong>40.4% from three</strong> leads the team among regular rotation players, and he's hit at least one three-pointer in 13 consecutive games. Acquired in the Doncic trade from the Lakers, the 22-year-old has grown into a starter's role. His 12.2 PPG and ability to space the floor alongside Flagg make him a key piece of Dallas's future. Defensively, he's limited against elite scorers, but his length (6'6\") helps in passing lanes. Tonight he'll need to be Dallas's secondary scoring option if Flagg draws Kawhi's primary attention."
+    },
+    {
+      "team": "b",
+      "name": "Kawhi Leonard",
+      "stats": "SF | 28.0 PPG, 6.3 RPG, 3.6 APG | 50.5% FG, 38.4% 3PT",
+      "meta": "2x Finals MVP | 20+ Pts in 53 Straight Games | 1.9 SPG",
+      "bio": "Leonard is having one of the best seasons of his career at age 34. His <strong>28.0 PPG on 50.5% FG and 38.4% 3PT</strong> are among his best marks ever, and his 61 games played represents his healthiest season since 2019-20. The <strong>53-game streak of 20+ points</strong> (dating to November 28) is the longest active run in the NBA. Beyond scoring, his <strong>1.9 steals per game</strong> make him the defensive assignment that defines this matchup — his ability to guard Flagg on the perimeter, force turnovers with his massive hands, and contest shots at the rim is what separates the Clippers from a coin-flip game. He posted 55 points against Detroit in December and 45 against Minnesota in March, showing he can still reach elite peaks."
+    },
+    {
+      "team": "b",
+      "name": "Darius Garland",
+      "stats": "PG | 20.3 PPG, 2.3 RPG, 6.5 APG | 48.8% FG, 46.4% 3PT",
+      "meta": "Acquired from Cleveland | 51% 3PT in First 13 Games",
+      "bio": "The trade deadline acquisition that transformed the Clippers' season. Since arriving from Cleveland in the James Harden deal, Garland has been <strong>sensational: 21.3 PPG, 7.0 APG on 51% FG and 51% from three</strong> in his first 13 games — setting a record with <strong>52 made threes in his first 13 games with a franchise</strong>. His pick-and-roll mastery is the engine of the Clippers' half-court offense, and tonight he'll attack Dallas's depleted frontcourt (no Lively, Gafford day-to-day) with ruthless efficiency. Against Ryan Nembhard and Brandon Williams, Garland has an enormous talent advantage at the point guard position."
+    },
+    {
+      "team": "b",
+      "name": "Bennedict Mathurin",
+      "stats": "SG | 18.8 PPG, 5.7 RPG, 2.4 APG | 44.0% FG",
+      "meta": "Acquired from Indiana | 38 Pts vs. Denver | Elite Sixth Man",
+      "bio": "Mathurin arrived from Indiana in the Ivica Zubac trade and immediately became one of the league's most impactful bench scorers. His <strong>18.8 PPG and 5.7 RPG</strong> provide the Clippers with a legitimate scoring punch when Kawhi and Garland rest — and his <strong>38-point eruption against Denver</strong> on February 19 showed his scoring ceiling. In a bench role, he's averaging <strong>20.7 PPG with 6.2 RPG</strong>, which would make him a starter on most teams. He's the player Dallas has no answer for — no Mavericks reserve can match his combination of scoring volume, rebounding, and athleticism."
+    },
+    {
+      "team": "b",
+      "name": "Brook Lopez",
+      "stats": "C | 8.2 PPG, 3.4 RPG | Stretch-5 | Rim Protector",
+      "meta": "37 Years Old | Career-High 9 Threes vs Portland",
+      "bio": "Lopez provides the Clippers with floor spacing and rim protection from the center spot — a rare combination even as his numbers have declined with age. His <strong>career-high 9 three-pointers (31 points) against Portland</strong> in December showed he can still torch opponents from the perimeter when left open. As the primary big after Zubac's trade, Lopez's shot-blocking gives the Clippers some interior deterrence, though he's a step slower laterally than in his Milwaukee years. In pick-and-roll coverage, Dallas can target his lack of mobility, but his ability to stretch the floor on offense pulls Bagley or Robinson-Earl away from the paint, opening driving lanes for Kawhi and Garland."
+    }
+  ],
+  "trends": [
+    {
+      "title": "Scoring Patterns",
+      "bullets": [
+        "<strong>Both prior meetings produced overtime thrillers:</strong> 133-127 (2OT) on November 14 and 138-131 (OT) on March 21 — a combined 541 points across two games averaging 270.5 per contest. These teams trade baskets regardless of the standings gap.",
+        "<strong>Flagg's scoring has reached unprecedented heights:</strong> His last two games — <strong>51 points (19-30 FG) vs. Orlando and 45 points (14-27 FG) vs. the Lakers</strong> — make him the first rookie with back-to-back 40-point games since Allen Iverson. Over his last 10: 26.5 PPG on improved efficiency.",
+        "<strong>Kawhi hasn't been held below 20 in 53 games:</strong> His streak dating to November 28 is the longest active run in the NBA. Even in the Clippers' recent loss to San Antonio (118-99), Leonard had 24 points on 10-16 shooting.",
+        "<strong>The Clippers' offense clicks at 117.5 ORTG (11th):</strong> Compare that to Dallas's 109.6 ORTG (28th). The 7.9-point efficiency gap per 100 possessions is among the widest of any matchup this week."
+      ]
+    },
+    {
+      "title": "Matchup Dynamics",
+      "bullets": [
+        "<strong>Pace is the defining battleground:</strong> Dallas ranks 4th in pace while the Clippers rank 28th (96.5). Whichever team dictates tempo likely wins — Dallas needs the game in the 105+ possession range to maximize transition, while the Clippers want it under 95 to grind through half-court possessions where Kawhi and Garland dominate.",
+        "<strong>Dallas's rebounding edge is significant:</strong> The Mavericks average <strong>44.6 RPG to the Clippers' 40.5</strong>. Since trading Zubac (11.0 RPG), the Clippers have lacked a dominant rebounder. PJ Washington, Bagley, and Flagg can create second-chance opportunities that offset Dallas's other disadvantages.",
+        "<strong>Garland's PnR vs. Dallas's compromised frontcourt:</strong> Without Lively (season) and with Gafford day-to-day, Dallas must defend Garland's elite pick-and-roll with Bagley or Robinson-Earl — neither is a proven PnR defender. Garland is shooting <strong>51% from three since the trade</strong>.",
+        "<strong>Three-point shooting variance is the wildcard:</strong> Dallas has three 38%+ shooters (Thompson 38.8%, Christie 40.4%, Middleton 38.5%) but the team shoots just 34.3% collectively. If the shooters catch fire around Flagg, Dallas stays close. If they go cold, the talent gap becomes overwhelming."
+      ]
+    },
+    {
+      "title": "Lineup & Rotation Trends",
+      "bullets": [
+        "<strong>The Clippers' post-deadline trio of Kawhi/Garland/Mathurin has powered the turnaround.</strong> Garland's 21.3 PPG and Mathurin's 18.8 PPG give LA three players averaging 18+ points — Dallas has one (Flagg at 21.1).",
+        "<strong>Dallas's starting five is in flux:</strong> With Gafford (shoulder) and Martin (foot) both day-to-day, Kidd may start Bagley at center and rely on Nembhard/Christie/Flagg/Washington/Bagley — a young, athletic lineup that runs but lacks defensive discipline.",
+        "<strong>Thompson's bench role is key for Dallas:</strong> After starting earlier in the season, Klay now comes off the bench and can provide instant offense. His <strong>38.8% three-point shooting</strong> in a bench role gives Dallas their best hope of matching Mathurin's production during rotation minutes.",
+        "<strong>The Clippers can go small or big:</strong> Lue has the option of a Collins-at-5 small lineup or Lopez-Collins frontcourt depending on matchup. Against Dallas's smaller lineups with Flagg at the 3, expect more Collins minutes at the 5 to match athleticism."
+      ]
+    },
+    {
+      "title": "Form & Context",
+      "bullets": [
+        "<strong>The Clippers have lost 2 of their last 3:</strong> Defeats to Portland (114-104) and San Antonio (118-99), sandwiching a 138-109 win over Sacramento. The inconsistency is concerning with the play-in looming — Portland is just a half-game back for the 8th seed.",
+        "<strong>Dallas won its last game but lost 12 of its prior 15:</strong> The 134-128 win over the Lakers (Flagg's 45-point game) snapped a 14-game home losing streak — the longest in 32 years. On the road, Dallas is even worse.",
+        "<strong>Stakes are asymmetric but both teams have motivation:</strong> The Clippers need wins for play-in seeding (8th vs. 9th determines home court). Dallas plays for draft positioning and Flagg's development — but Flagg plays every game like it's the Finals, and Kidd isn't resting anyone.",
+        "<strong>No back-to-back concerns:</strong> Both teams last played on April 5 (two days rest). The Mavericks traveled from Dallas; the Clippers are at home at Intuit Dome.",
+        "<strong>Injury disparity favors LA:</strong> Dallas is missing Irving (season) and Lively (season) with Gafford and Martin day-to-day. The Clippers' only significant absence is Beal (season), and their core three are fully healthy."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "heading": "Dallas Mavericks Sources",
+      "links": [
+        {
+          "label": "ESPN: Mavericks Team Stats",
+          "url": "https://www.espn.com/nba/team/stats/_/name/dal/dallas-mavericks"
+        },
+        {
+          "label": "Basketball Reference: 2025-26 Mavericks",
+          "url": "https://www.basketball-reference.com/teams/DAL/2026.html"
+        },
+        {
+          "label": "Wikipedia: 2025-26 Dallas Mavericks Season",
+          "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Dallas_Mavericks_season"
+        },
+        {
+          "label": "SI: Cooper Flagg's Historic 50-Point Outing",
+          "url": "https://www.si.com/nba/draft/nba-rookies/cooper-flagg-continues-rookie-of-the-year-campaign-with-50-point-outing-01knde2pd73b"
+        },
+        {
+          "label": "SI: Flagg 45 Points vs. Lakers",
+          "url": "https://www.si.com/nba/draft/nba-rookies/cooper-flagg-45-points-against-the-lakers-may-end-the-rookie-of-the-year-race"
+        },
+        {
+          "label": "Fox News: Jason Kidd Defends Flagg Usage",
+          "url": "https://www.foxnews.com/sports/mavericks-coach-jason-kidd-unleashes-expletive-filled-defense-cooper-flagg-usage-during-press-conference"
+        },
+        {
+          "label": "D Magazine: Mavs Stretch Run Primer",
+          "url": "https://www.dmagazine.com/sports/2026/02/mavericks-flagg-thompson-nba-dallas/"
+        },
+        {
+          "label": "iHeart Sports: Injury Report April 7",
+          "url": "https://sportssd.iheart.com/content/2026-04-07-mavericks-vs-clippers-injury-report-april-7/"
+        },
+        {
+          "label": "NBA.com: Rookie Ladder — April 1",
+          "url": "https://www.nba.com/news/kia-rookie-ladder-april-1-2026"
+        },
+        {
+          "label": "Land of Basketball: Mavs 2025-26 Results",
+          "url": "https://www.landofbasketball.com/results_by_team/2025_2026_mavericks.htm"
+        }
+      ]
+    },
+    {
+      "heading": "LA Clippers Sources",
+      "links": [
+        {
+          "label": "ESPN: Clippers Team Stats",
+          "url": "https://www.espn.com/nba/team/stats/_/name/lac/la-clippers"
+        },
+        {
+          "label": "Basketball Reference: 2025-26 Clippers",
+          "url": "https://www.basketball-reference.com/teams/LAC/2026.html"
+        },
+        {
+          "label": "Wikipedia: 2025-26 LA Clippers Season",
+          "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Los_Angeles_Clippers_season"
+        },
+        {
+          "label": "NBA.com: Kawhi Leonard's Resurgence",
+          "url": "https://www.nba.com/news/kawhi-leonard-clippers-surge-west-2026"
+        },
+        {
+          "label": "ClutchPoints: Garland Shocks Kawhi, Mathurin",
+          "url": "https://clutchpoints.com/nba/los-angeles-clippers/clippers-news-how-darius-garland-has-shocked-kawhi-leonard-bennedict-mathurin"
+        },
+        {
+          "label": "SI: The Full Mathurin Experience",
+          "url": "https://www.si.com/nba/clippers/onsi/news/clippers-fans-getting-full-bennedict-mathurin-experience-good-thing-01kjqr53qze4"
+        },
+        {
+          "label": "Yahoo Sports: Clippers Trade Deadline Grade",
+          "url": "https://sports.yahoo.com/articles/clippers-2026-nba-trade-deadline-083209027.html"
+        },
+        {
+          "label": "CBS Sports: 2026 NBA Playoff Picture",
+          "url": "https://www.cbssports.com/nba/news/2026-nba-playoff-picture-standings-tiebreakers/"
+        },
+        {
+          "label": "ESPN: Kawhi Leonard Player Page",
+          "url": "https://www.espn.com/nba/player/_/id/6450/kawhi-leonard"
+        },
+        {
+          "label": "Land of Basketball: Head-to-Head Game Log",
+          "url": "https://www.landofbasketball.com/head_to_head_gl/mavericks_vs_clippers_game_log_season.htm"
+        },
+        {
+          "label": "iHeart Sports: Game Preview & Odds",
+          "url": "https://sportssd.iheart.com/content/2026-04-06-clippers-vs-mavericks-predictions-odds-stats-april-7/"
+        },
+        {
+          "label": "Yahoo Sports: NBA Standings April 2026",
+          "url": "https://sports.yahoo.com/articles/nba-standings-2026-updated-playoff-170744864.html"
+        }
+      ]
+    }
+  ],
+  "footerText": "Mavericks at Clippers — April 7, 2026 — Intuit Dome, Inglewood"
+}

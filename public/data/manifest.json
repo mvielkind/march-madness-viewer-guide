@@ -1,0 +1,2400 @@
+[
+  {
+    "slug": "umbc-vs-howard-2026",
+    "title": "UMBC vs Howard — First Four Viewing Guide",
+    "eventTag": "NCAA Tournament • First Four • Dayton, OH",
+    "date": "Tuesday, March 17, 2026",
+    "round": "First Four",
+    "tipTime": "2026-03-17T18:40",
+    "venue": "UD Arena, Dayton, Ohio",
+    "teams": [
+      {
+        "name": "UMBC",
+        "mascot": "Retrievers",
+        "seed": "#16 Seed",
+        "colors": {
+          "primary": "#F7B538"
+        }
+      },
+      {
+        "name": "Howard",
+        "mascot": "Bison",
+        "seed": "#16 Seed",
+        "colors": {
+          "primary": "#003A63"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "texas-vs-nc-state-2026",
+    "title": "Texas vs NC State — First Four Viewing Guide",
+    "eventTag": "NCAA Tournament • First Four • Dayton, OH",
+    "date": "Tuesday, March 17, 2026 • 9:15 PM ET",
+    "round": "First Four",
+    "tipTime": "2026-03-17T21:15",
+    "venue": "UD Arena, Dayton, Ohio",
+    "teams": [
+      {
+        "name": "Texas",
+        "mascot": "Longhorns",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#BF5700"
+        }
+      },
+      {
+        "name": "NC State",
+        "mascot": "Wolfpack",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#CC0000"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "prairie-view-vs-lehigh-2026",
+    "title": "Prairie View A&M vs Lehigh — First Four Viewing Guide",
+    "eventTag": "NCAA Tournament • First Four • Dayton, OH",
+    "date": "Wednesday, March 18, 2026 • 6:40 PM ET",
+    "round": "First Four",
+    "tipTime": "2026-03-18T18:40",
+    "venue": "UD Arena, Dayton, Ohio",
+    "teams": [
+      {
+        "name": "Prairie View A&M",
+        "mascot": "Panthers",
+        "seed": "#16 Seed",
+        "colors": {
+          "primary": "#582C83"
+        }
+      },
+      {
+        "name": "Lehigh",
+        "mascot": "Mountain Hawks",
+        "seed": "#16 Seed",
+        "colors": {
+          "primary": "#502d0e"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "miami-oh-vs-smu-2026",
+    "title": "Miami (OH) vs SMU — First Four Viewing Guide",
+    "eventTag": "NCAA Tournament • First Four • Dayton, OH",
+    "date": "Wednesday, March 18, 2026",
+    "round": "First Four",
+    "tipTime": "2026-03-18T21:10",
+    "venue": "UD Arena, Dayton, Ohio • 9:10 PM ET • truTV",
+    "teams": [
+      {
+        "name": "Miami (OH)",
+        "mascot": "RedHawks",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#C3142D"
+        }
+      },
+      {
+        "name": "SMU",
+        "mascot": "Mustangs",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#0033A0"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tcu-vs-ohio-state-2026",
+    "title": "TCU vs Ohio State — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • East Region",
+    "date": "Thursday, March 19, 2026 • 12:15 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-19T12:15",
+    "venue": "Bon Secours Wellness Arena, Greenville, SC • CBS",
+    "teams": [
+      {
+        "name": "TCU",
+        "mascot": "Horned Frogs",
+        "seed": "#9 Seed",
+        "colors": {
+          "primary": "#4D1979"
+        }
+      },
+      {
+        "name": "Ohio State",
+        "mascot": "Buckeyes",
+        "seed": "#8 Seed",
+        "colors": {
+          "primary": "#BB0000"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "troy-vs-nebraska-2026",
+    "title": "Troy vs Nebraska — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • South Region",
+    "date": "Thursday, March 19, 2026 • 12:40 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-19T12:40",
+    "venue": "Paycom Center, Oklahoma City • truTV",
+    "teams": [
+      {
+        "name": "Troy",
+        "mascot": "Trojans",
+        "seed": "#13 Seed",
+        "colors": {
+          "primary": "#8B2332"
+        }
+      },
+      {
+        "name": "Nebraska",
+        "mascot": "Cornhuskers",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#E41C38"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "south-florida-vs-louisville-2026",
+    "title": "South Florida vs Louisville — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Buffalo, NY",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T14:00",
+    "venue": "KeyBank Center, Buffalo, New York",
+    "teams": [
+      {
+        "name": "South Florida",
+        "mascot": "Bulls",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#006747"
+        }
+      },
+      {
+        "name": "Louisville",
+        "mascot": "Cardinals",
+        "seed": "#6 Seed",
+        "colors": {
+          "primary": "#AD0000"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "high-point-vs-wisconsin-2026",
+    "title": "High Point vs Wisconsin — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Portland, OR",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T14:30",
+    "venue": "Moda Center, Portland, Oregon",
+    "teams": [
+      {
+        "name": "High Point",
+        "mascot": "Panthers",
+        "seed": "#12 Seed",
+        "colors": {
+          "primary": "#582C83"
+        }
+      },
+      {
+        "name": "Wisconsin",
+        "mascot": "Badgers",
+        "seed": "#5 Seed",
+        "colors": {
+          "primary": "#C5050C"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "siena-vs-duke-2026",
+    "title": "Siena vs Duke — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Greenville, SC",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T14:45",
+    "venue": "Bon Secours Wellness Arena, Greenville, South Carolina",
+    "teams": [
+      {
+        "name": "Siena",
+        "mascot": "Saints",
+        "seed": "#16 Seed",
+        "colors": {
+          "primary": "#006341"
+        }
+      },
+      {
+        "name": "Duke",
+        "mascot": "Blue Devils",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#003087"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "vanderbilt-vs-mcneese-2026",
+    "title": "Vanderbilt vs McNeese — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Oklahoma City, OK",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T15:10",
+    "venue": "Paycom Center, Oklahoma City, Oklahoma",
+    "teams": [
+      {
+        "name": "Vanderbilt",
+        "mascot": "Commodores",
+        "seed": "#5 Seed",
+        "colors": {
+          "primary": "#866D4B"
+        }
+      },
+      {
+        "name": "McNeese",
+        "mascot": "Cowboys",
+        "seed": "#12 Seed",
+        "colors": {
+          "primary": "#005CA9"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "howard-vs-michigan-2026",
+    "title": "Howard vs Michigan — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Buffalo, NY",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T16:30",
+    "venue": "KeyBank Center, Buffalo, New York",
+    "teams": [
+      {
+        "name": "Howard",
+        "mascot": "Bison",
+        "seed": "#16 Seed",
+        "colors": {
+          "primary": "#003A63"
+        }
+      },
+      {
+        "name": "Michigan",
+        "mascot": "Wolverines",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#00274C"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "texas-vs-byu-2026",
+    "title": "Texas vs BYU — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Portland, OR",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T16:50",
+    "venue": "Moda Center, Portland, Oregon",
+    "teams": [
+      {
+        "name": "Texas",
+        "mascot": "Longhorns",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#BF5700"
+        }
+      },
+      {
+        "name": "BYU",
+        "mascot": "Cougars",
+        "seed": "#6 Seed",
+        "colors": {
+          "primary": "#002E5D"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "north-dakota-state-vs-michigan-state-2026",
+    "title": "North Dakota State vs Michigan State — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Buffalo, NY",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T18:50",
+    "venue": "KeyBank Center, Buffalo, New York",
+    "teams": [
+      {
+        "name": "North Dakota St",
+        "mascot": "Bison",
+        "seed": "#14 Seed",
+        "colors": {
+          "primary": "#006A31"
+        }
+      },
+      {
+        "name": "Michigan State",
+        "mascot": "Spartans",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#18453B"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "hawaii-vs-arkansas-2026",
+    "title": "Hawaii vs Arkansas — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Portland, OR",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T19:10",
+    "venue": "Moda Center, Portland, Oregon",
+    "teams": [
+      {
+        "name": "Hawaii",
+        "mascot": "Rainbow Warriors",
+        "seed": "#13 Seed",
+        "colors": {
+          "primary": "#024731"
+        }
+      },
+      {
+        "name": "Arkansas",
+        "mascot": "Razorbacks",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#9D2235"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "vcu-vs-north-carolina-2026",
+    "title": "VCU vs North Carolina — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Greenville, SC",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T19:15",
+    "venue": "Bon Secours Wellness Arena, Greenville, South Carolina",
+    "teams": [
+      {
+        "name": "VCU",
+        "mascot": "Rams",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#000000"
+        }
+      },
+      {
+        "name": "North Carolina",
+        "mascot": "Tar Heels",
+        "seed": "#6 Seed",
+        "colors": {
+          "primary": "#7BAFD4"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "texas-am-vs-saint-marys-2026",
+    "title": "Texas A&M vs Saint Mary's — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Oklahoma City, OK",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T19:25",
+    "venue": "Paycom Center, Oklahoma City, Oklahoma",
+    "teams": [
+      {
+        "name": "Texas A&M",
+        "mascot": "Aggies",
+        "seed": "#10 Seed",
+        "colors": {
+          "primary": "#500000"
+        }
+      },
+      {
+        "name": "Saint Mary's",
+        "mascot": "Gaels",
+        "seed": "#7 Seed",
+        "colors": {
+          "primary": "#D60024"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "saint-louis-vs-georgia-2026",
+    "title": "Saint Louis vs Georgia — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Buffalo, NY",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T21:15",
+    "venue": "KeyBank Center, Buffalo, New York",
+    "teams": [
+      {
+        "name": "Saint Louis",
+        "mascot": "Billikens",
+        "seed": "#9 Seed",
+        "colors": {
+          "primary": "#003DA5"
+        }
+      },
+      {
+        "name": "Georgia",
+        "mascot": "Bulldogs",
+        "seed": "#8 Seed",
+        "colors": {
+          "primary": "#BA0C2F"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "penn-vs-illinois-2026",
+    "title": "Penn vs Illinois — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Greenville, SC",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T21:40",
+    "venue": "Bon Secours Wellness Arena, Greenville, South Carolina",
+    "teams": [
+      {
+        "name": "Penn",
+        "mascot": "Quakers",
+        "seed": "#14 Seed",
+        "colors": {
+          "primary": "#011F5B"
+        }
+      },
+      {
+        "name": "Illinois",
+        "mascot": "Fighting Illini",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#E84A27"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "kennesaw-state-vs-gonzaga-2026",
+    "title": "Kennesaw State vs Gonzaga — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Portland, OR",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T21:45",
+    "venue": "Moda Center, Portland, Oregon",
+    "teams": [
+      {
+        "name": "Kennesaw State",
+        "mascot": "Owls",
+        "seed": "#14 Seed",
+        "colors": {
+          "primary": "#FFB81C"
+        }
+      },
+      {
+        "name": "Gonzaga",
+        "mascot": "Bulldogs",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#002967"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "idaho-vs-houston-2026",
+    "title": "Idaho vs Houston — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Oklahoma City, OK",
+    "date": "Thursday, March 19, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-19T21:55",
+    "venue": "Paycom Center, Oklahoma City, Oklahoma",
+    "teams": [
+      {
+        "name": "Idaho",
+        "mascot": "Vandals",
+        "seed": "#15 Seed",
+        "colors": {
+          "primary": "#B5A36A"
+        }
+      },
+      {
+        "name": "Houston",
+        "mascot": "Cougars",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#C8102E"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "santa-clara-vs-kentucky-2026",
+    "title": "Santa Clara vs Kentucky — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • St. Louis, MO",
+    "date": "Friday, March 20, 2026 • 12:15 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T12:15",
+    "venue": "Enterprise Center, St. Louis, Missouri • CBS",
+    "teams": [
+      {
+        "name": "Santa Clara",
+        "mascot": "Broncos",
+        "seed": "#10 Seed",
+        "colors": {
+          "primary": "#862633"
+        }
+      },
+      {
+        "name": "Kentucky",
+        "mascot": "Wildcats",
+        "seed": "#7 Seed",
+        "colors": {
+          "primary": "#0033A0"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "liu-vs-arizona-2026",
+    "title": "LIU vs Arizona — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • San Diego, CA",
+    "date": "Friday, March 20, 2026 • 12:35 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T12:35",
+    "venue": "Viejas Arena, San Diego, California • TNT",
+    "teams": [
+      {
+        "name": "LIU",
+        "mascot": "Sharks",
+        "seed": "#16 Seed",
+        "colors": {
+          "primary": "#005DAA"
+        }
+      },
+      {
+        "name": "Arizona",
+        "mascot": "Wildcats",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#CC0033"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "akron-vs-texas-tech-2026",
+    "title": "Akron vs Texas Tech — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Tampa, FL",
+    "date": "Friday, March 20, 2026 • 12:40 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T12:40",
+    "venue": "Benchmark International Arena, Tampa, Florida • truTV",
+    "teams": [
+      {
+        "name": "Akron",
+        "mascot": "Zips",
+        "seed": "#12 Seed",
+        "colors": {
+          "primary": "#041E42"
+        }
+      },
+      {
+        "name": "Texas Tech",
+        "mascot": "Red Raiders",
+        "seed": "#5 Seed",
+        "colors": {
+          "primary": "#CC0000"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "wright-state-vs-virginia-2026",
+    "title": "Wright State vs Virginia — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Philadelphia, PA",
+    "date": "Friday, March 20, 2026 • 1:50 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T13:50",
+    "venue": "Xfinity Mobile Arena, Philadelphia, Pennsylvania • TBS",
+    "teams": [
+      {
+        "name": "Wright State",
+        "mascot": "Raiders",
+        "seed": "#14 Seed",
+        "colors": {
+          "primary": "#007A33"
+        }
+      },
+      {
+        "name": "Virginia",
+        "mascot": "Cavaliers",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#232D4B"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tennessee-state-vs-iowa-state-2026",
+    "title": "Tennessee State vs Iowa State — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • St. Louis, MO",
+    "date": "Friday, March 20, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-20T14:20",
+    "venue": "Enterprise Center, St. Louis, Missouri • TBS",
+    "teams": [
+      {
+        "name": "Tennessee St",
+        "mascot": "Tigers",
+        "seed": "#15 Seed",
+        "colors": {
+          "primary": "#00539F"
+        }
+      },
+      {
+        "name": "Iowa State",
+        "mascot": "Cyclones",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#C8102E"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "hofstra-vs-alabama-2026",
+    "title": "Hofstra vs Alabama — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Tampa, FL",
+    "date": "Friday, March 20, 2026 • 3:15 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T15:15",
+    "venue": "Benchmark International Arena, Tampa, Florida • truTV",
+    "teams": [
+      {
+        "name": "Hofstra",
+        "mascot": "Pride",
+        "seed": "#13 Seed",
+        "colors": {
+          "primary": "#003591"
+        }
+      },
+      {
+        "name": "Alabama",
+        "mascot": "Crimson Tide",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#9E1B32"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "utah-state-vs-villanova-2026",
+    "title": "Utah State vs Villanova — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • San Diego, CA",
+    "date": "Friday, March 20, 2026 • 4:10 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T16:10",
+    "venue": "Viejas Arena, San Diego, California • TNT",
+    "teams": [
+      {
+        "name": "Utah State",
+        "mascot": "Aggies",
+        "seed": "#9 Seed",
+        "colors": {
+          "primary": "#0F2439"
+        }
+      },
+      {
+        "name": "Villanova",
+        "mascot": "Wildcats",
+        "seed": "#8 Seed",
+        "colors": {
+          "primary": "#003366"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "miami-oh-vs-tennessee-2026",
+    "title": "Miami (OH) vs Tennessee — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Philadelphia, PA",
+    "date": "Friday, March 20, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-20T16:25",
+    "venue": "Xfinity Mobile Arena, Philadelphia, PA • 4:25 PM ET • TBS",
+    "teams": [
+      {
+        "name": "Miami (OH)",
+        "mascot": "RedHawks",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#C3142D"
+        }
+      },
+      {
+        "name": "Tennessee",
+        "mascot": "Volunteers",
+        "seed": "#6 Seed",
+        "colors": {
+          "primary": "#FF8200"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "iowa-vs-clemson-2026",
+    "title": "Iowa vs Clemson — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Tampa, FL",
+    "date": "Friday, March 20, 2026 • 6:50 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T18:50",
+    "venue": "Benchmark International Arena, Tampa, Florida • TNT",
+    "teams": [
+      {
+        "name": "Iowa",
+        "mascot": "Hawkeyes",
+        "seed": "#9 Seed",
+        "colors": {
+          "primary": "#FFCD00"
+        }
+      },
+      {
+        "name": "Clemson",
+        "mascot": "Tigers",
+        "seed": "#8 Seed",
+        "colors": {
+          "primary": "#F56600"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "northern-iowa-vs-st-johns-2026",
+    "title": "Northern Iowa vs St. John's — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • San Diego, CA",
+    "date": "Friday, March 20, 2026 • 7:10 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T19:10",
+    "venue": "Viejas Arena, San Diego, California • CBS",
+    "teams": [
+      {
+        "name": "N. Iowa",
+        "mascot": "Panthers",
+        "seed": "#12 Seed",
+        "colors": {
+          "primary": "#4B116F"
+        }
+      },
+      {
+        "name": "St. John's",
+        "mascot": "Red Storm",
+        "seed": "#5 Seed",
+        "colors": {
+          "primary": "#C8102E"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "ucf-vs-ucla-2026",
+    "title": "UCF vs UCLA — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Philadelphia, PA",
+    "date": "Friday, March 20, 2026 • 7:25 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T19:25",
+    "venue": "Xfinity Mobile Arena, Philadelphia, Pennsylvania • TBS",
+    "teams": [
+      {
+        "name": "UCF",
+        "mascot": "Knights",
+        "seed": "#10 Seed",
+        "colors": {
+          "primary": "#BA9B37"
+        }
+      },
+      {
+        "name": "UCLA",
+        "mascot": "Bruins",
+        "seed": "#7 Seed",
+        "colors": {
+          "primary": "#2774AE"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "queens-vs-purdue-2026",
+    "title": "Queens vs Purdue — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • St. Louis, MO",
+    "date": "Friday, March 20, 2026 • 7:35 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T19:35",
+    "venue": "Enterprise Center, St. Louis, Missouri • truTV",
+    "teams": [
+      {
+        "name": "Queens",
+        "mascot": "Royals",
+        "seed": "#15 Seed",
+        "colors": {
+          "primary": "#002D72"
+        }
+      },
+      {
+        "name": "Purdue",
+        "mascot": "Boilermakers",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#CEB888"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "cal-baptist-vs-kansas-2026",
+    "title": "Cal Baptist vs Kansas — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • San Diego, CA",
+    "date": "Friday, March 20, 2026",
+    "round": "First Round",
+    "tipTime": "2026-03-20T20:45",
+    "venue": "Viejas Arena, San Diego, CA • 8:45 PM CT • CBS",
+    "teams": [
+      {
+        "name": "Cal Baptist",
+        "mascot": "Lancers",
+        "seed": "#13 Seed",
+        "colors": {
+          "primary": "#002855"
+        }
+      },
+      {
+        "name": "Kansas",
+        "mascot": "Jayhawks",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#0051BA"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "furman-vs-uconn-2026",
+    "title": "Furman vs UConn — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • Philadelphia, PA",
+    "date": "Friday, March 20, 2026 • 10:00 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T22:00",
+    "venue": "Wells Fargo Center, Philadelphia, Pennsylvania • TBS",
+    "teams": [
+      {
+        "name": "Furman",
+        "mascot": "Paladins",
+        "seed": "#15 Seed",
+        "colors": {
+          "primary": "#582C83"
+        }
+      },
+      {
+        "name": "UConn",
+        "mascot": "Huskies",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#000E2F"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "missouri-vs-miami-2026",
+    "title": "Missouri vs Miami — First Round Viewing Guide",
+    "eventTag": "NCAA Tournament • First Round • St. Louis, MO",
+    "date": "Friday, March 20, 2026 • 10:10 PM ET",
+    "round": "First Round",
+    "tipTime": "2026-03-20T22:10",
+    "venue": "Enterprise Center, St. Louis, Missouri • truTV",
+    "teams": [
+      {
+        "name": "Missouri",
+        "mascot": "Tigers",
+        "seed": "#10 Seed",
+        "colors": {
+          "primary": "#F1B82D"
+        }
+      },
+      {
+        "name": "Miami",
+        "mascot": "Hurricanes",
+        "seed": "#7 Seed",
+        "colors": {
+          "primary": "#F47321"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tcu-vs-duke-2026",
+    "title": "TCU vs Duke — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Greenville, SC",
+    "date": "Saturday, March 21, 2026",
+    "round": "Round of 32",
+    "tipTime": "2026-03-21T12:00",
+    "venue": "Bon Secours Wellness Arena, Greenville, SC • 12:00 PM ET • CBS",
+    "teams": [
+      {
+        "name": "TCU",
+        "mascot": "Horned Frogs",
+        "seed": "#9 Seed",
+        "colors": {
+          "primary": "#4D1979"
+        }
+      },
+      {
+        "name": "Duke",
+        "mascot": "Blue Devils",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#003087"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "vanderbilt-vs-nebraska-2026",
+    "title": "Vanderbilt vs Nebraska — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Oklahoma City, OK",
+    "date": "Saturday, March 21, 2026",
+    "round": "Round of 32",
+    "tipTime": "2026-03-21T14:00",
+    "venue": "Paycom Center, Oklahoma City, OK • 2:00 PM CT • TNT",
+    "teams": [
+      {
+        "name": "Vanderbilt",
+        "mascot": "Commodores",
+        "seed": "#5 Seed",
+        "colors": {
+          "primary": "#866D4B"
+        }
+      },
+      {
+        "name": "Nebraska",
+        "mascot": "Cornhuskers",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#E41C38"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "louisville-vs-michigan-state-2026",
+    "title": "Louisville vs Michigan State — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Buffalo, NY",
+    "date": "Saturday, March 21, 2026",
+    "round": "Round of 32",
+    "tipTime": "2026-03-21T14:30",
+    "venue": "KeyBank Center, Buffalo, NY • 2:30 PM ET • CBS",
+    "teams": [
+      {
+        "name": "Louisville",
+        "mascot": "Cardinals",
+        "seed": "#6 Seed",
+        "colors": {
+          "primary": "#AD0000"
+        }
+      },
+      {
+        "name": "Michigan State",
+        "mascot": "Spartans",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#18453B"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "vcu-vs-illinois-2026",
+    "title": "VCU vs Illinois — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Greenville, SC",
+    "date": "Saturday, March 21, 2026",
+    "round": "Round of 32",
+    "tipTime": "2026-03-21T15:00",
+    "venue": "Bon Secours Wellness Arena, Greenville, SC • 3:00 PM ET • TBS",
+    "teams": [
+      {
+        "name": "VCU",
+        "mascot": "Rams",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#000000"
+        }
+      },
+      {
+        "name": "Illinois",
+        "mascot": "Fighting Illini",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#E84A27"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "texas-vs-gonzaga-2026",
+    "title": "Texas vs Gonzaga — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Portland, OR",
+    "date": "Saturday, March 21, 2026",
+    "round": "Round of 32",
+    "tipTime": "2026-03-21T16:00",
+    "venue": "Moda Center, Portland, OR • 4:00 PM PT • TBS",
+    "teams": [
+      {
+        "name": "Texas",
+        "mascot": "Longhorns",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#BF5700"
+        }
+      },
+      {
+        "name": "Gonzaga",
+        "mascot": "Bulldogs",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#002967"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "saint-louis-vs-michigan-2026",
+    "title": "Saint Louis vs Michigan — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Buffalo, NY",
+    "date": "Saturday, March 21, 2026",
+    "round": "Round of 32",
+    "tipTime": "2026-03-21T17:15",
+    "venue": "KeyBank Center, Buffalo, NY • 5:15 PM ET • CBS",
+    "teams": [
+      {
+        "name": "Saint Louis",
+        "mascot": "Billikens",
+        "seed": "#9 Seed",
+        "colors": {
+          "primary": "#003DA5"
+        }
+      },
+      {
+        "name": "Michigan",
+        "mascot": "Wolverines",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#00274C"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "high-point-vs-arkansas-2026",
+    "title": "High Point vs Arkansas — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Portland, OR",
+    "date": "Saturday, March 21, 2026",
+    "round": "Round of 32",
+    "tipTime": "2026-03-21T18:30",
+    "venue": "Moda Center, Portland, OR • 6:30 PM PT • TNT",
+    "teams": [
+      {
+        "name": "High Point",
+        "mascot": "Panthers",
+        "seed": "#13 Seed",
+        "colors": {
+          "primary": "#4B0082"
+        }
+      },
+      {
+        "name": "Arkansas",
+        "mascot": "Razorbacks",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#9D2235"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "texas-am-vs-houston-2026",
+    "title": "Texas A&M vs Houston — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Oklahoma City, OK",
+    "date": "Saturday, March 21, 2026",
+    "round": "Round of 32",
+    "tipTime": "2026-03-21T19:45",
+    "venue": "Paycom Center, Oklahoma City, OK • 7:45 PM CT • TNT",
+    "teams": [
+      {
+        "name": "Texas A&M",
+        "mascot": "Aggies",
+        "seed": "#10 Seed",
+        "colors": {
+          "primary": "#500000"
+        }
+      },
+      {
+        "name": "Houston",
+        "mascot": "Cougars",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#C8102E"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "miami-vs-purdue-2026",
+    "title": "Miami vs Purdue — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • St. Louis, MO",
+    "date": "Sunday, March 22, 2026 • 12:10 PM ET",
+    "round": "Round of 32",
+    "tipTime": "2026-03-22T12:10",
+    "venue": "Enterprise Center, St. Louis, Missouri • CBS",
+    "teams": [
+      {
+        "name": "Miami",
+        "mascot": "Hurricanes",
+        "seed": "#7 Seed",
+        "colors": {
+          "primary": "#F47321"
+        }
+      },
+      {
+        "name": "Purdue",
+        "mascot": "Boilermakers",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#CEB888"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "kentucky-vs-iowa-state-2026",
+    "title": "Kentucky vs Iowa State — Second Round Viewing Guide",
+    "eventTag": "NCAA Tournament • Second Round • St. Louis, MO",
+    "date": "Sunday, March 22, 2026 • 2:45 PM ET",
+    "round": "Second Round",
+    "tipTime": "2026-03-22T14:45",
+    "venue": "Enterprise Center, St. Louis, Missouri • CBS",
+    "teams": [
+      {
+        "name": "Kentucky",
+        "mascot": "Wildcats",
+        "seed": "#7 Seed",
+        "colors": {
+          "primary": "#0033A0"
+        }
+      },
+      {
+        "name": "Iowa State",
+        "mascot": "Cyclones",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#C8102E"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "st-johns-vs-kansas-2026",
+    "title": "St. John's vs Kansas — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • San Diego, CA",
+    "date": "Sunday, March 22, 2026",
+    "round": "Round of 32",
+    "tipTime": "2026-03-22T17:15",
+    "venue": "Viejas Arena, San Diego, CA • 5:15 PM ET • CBS",
+    "teams": [
+      {
+        "name": "St. John's",
+        "mascot": "Red Storm",
+        "seed": "#5 Seed",
+        "colors": {
+          "primary": "#BA0C2F"
+        }
+      },
+      {
+        "name": "Kansas",
+        "mascot": "Jayhawks",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#0051BA"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tennessee-vs-virginia-2026",
+    "title": "Tennessee vs Virginia — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Philadelphia, PA",
+    "date": "Sunday, March 22, 2026 • 6:10 PM ET",
+    "round": "Round of 32",
+    "tipTime": "2026-03-22T18:10",
+    "venue": "Xfinity Mobile Arena, Philadelphia, Pennsylvania • TNT",
+    "teams": [
+      {
+        "name": "Tennessee",
+        "mascot": "Volunteers",
+        "seed": "#6 Seed",
+        "colors": {
+          "primary": "#FF8200"
+        }
+      },
+      {
+        "name": "Virginia",
+        "mascot": "Cavaliers",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#232D4B"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "iowa-vs-florida-2026",
+    "title": "Iowa vs Florida — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Tampa, FL",
+    "date": "Sunday, March 22, 2026 • 7:10 PM ET",
+    "round": "Round of 32",
+    "tipTime": "2026-03-22T19:10",
+    "venue": "Benchmark International Arena, Tampa, Florida • TBS",
+    "teams": [
+      {
+        "name": "Iowa",
+        "mascot": "Hawkeyes",
+        "seed": "#9 Seed",
+        "colors": {
+          "primary": "#000000"
+        }
+      },
+      {
+        "name": "Florida",
+        "mascot": "Gators",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#FA4616"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "utah-state-vs-arizona-2026",
+    "title": "Utah State vs Arizona — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • San Diego, CA",
+    "date": "Sunday, March 22, 2026 • 7:50 PM ET",
+    "round": "Round of 32",
+    "tipTime": "2026-03-22T19:50",
+    "venue": "Viejas Arena, San Diego, California • TruTV",
+    "teams": [
+      {
+        "name": "Utah State",
+        "mascot": "Aggies",
+        "seed": "#9 Seed",
+        "colors": {
+          "primary": "#0F2439"
+        }
+      },
+      {
+        "name": "Arizona",
+        "mascot": "Wildcats",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#003366"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "uconn-vs-ucla-2026",
+    "title": "UConn vs UCLA — Round of 32 Viewing Guide",
+    "eventTag": "NCAA Tournament • Round of 32 • Philadelphia, PA",
+    "date": "Sunday, March 22, 2026 • 8:45 PM ET",
+    "round": "Round of 32",
+    "tipTime": "2026-03-22T20:45",
+    "venue": "Xfinity Mobile Arena, Philadelphia, Pennsylvania • TNT",
+    "teams": [
+      {
+        "name": "UConn",
+        "mascot": "Huskies",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#002868"
+        }
+      },
+      {
+        "name": "UCLA",
+        "mascot": "Bruins",
+        "seed": "#7 Seed",
+        "colors": {
+          "primary": "#2D68C4"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "texas-tech-vs-alabama-2026",
+    "title": "Texas Tech vs Alabama — Second Round Viewing Guide",
+    "eventTag": "NCAA Tournament • Second Round • Tampa, FL",
+    "date": "Sunday, March 22, 2026 • 9:45 PM ET",
+    "round": "Second Round",
+    "tipTime": "2026-03-22T21:45",
+    "venue": "Benchmark International Arena, Tampa, Florida • TBS",
+    "teams": [
+      {
+        "name": "Texas Tech",
+        "mascot": "Red Raiders",
+        "seed": "#5 Seed",
+        "colors": {
+          "primary": "#CC0000"
+        }
+      },
+      {
+        "name": "Alabama",
+        "mascot": "Crimson Tide",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#9E1B32"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pga-houston-open-preview-2026",
+    "title": "Texas Children's Houston Open — 2026 Tournament Preview",
+    "eventTag": "PGA Tour • FedExCup • Masters Tune-Up",
+    "date": "Thursday–Sunday, March 26–29, 2026",
+    "round": "Tournament Preview",
+    "tipTime": "2026-03-26T15:00",
+    "venue": "Memorial Park Golf Course, Houston, TX • Golf Channel / NBC",
+    "format": "tournament",
+    "teams": [
+      {
+        "name": "Favorites",
+        "mascot": "Top Contenders",
+        "seed": "World Top 50",
+        "colors": {
+          "primary": "#004225"
+        }
+      },
+      {
+        "name": "Dark Horses",
+        "mascot": "Sleepers & Value",
+        "seed": "Course Fit",
+        "colors": {
+          "primary": "#1C3A5F"
+        }
+      }
+    ],
+    "tournament": {
+      "name": "Texas Children's Houston Open",
+      "colors": {
+        "primary": "#004225"
+      }
+    }
+  },
+  {
+    "slug": "pga-houston-open-round-1-2026",
+    "title": "Texas Children's Houston Open — Round 1 Recap",
+    "eventTag": "PGA Tour • Round 1 • Thursday, March 26",
+    "date": "Thursday, March 26, 2026",
+    "round": "Round 1",
+    "tipTime": "2026-03-26T15:00",
+    "venue": "Memorial Park Golf Course • Par 70 • 7,475 yards • Golf Channel 3-7 PM ET",
+    "format": "tournament",
+    "teams": [
+      {
+        "name": "Leaders",
+        "mascot": "Round 1 Leaders",
+        "seed": "Low Scores",
+        "colors": {
+          "primary": "#004225"
+        }
+      },
+      {
+        "name": "The Field",
+        "mascot": "Chasers",
+        "seed": "In Pursuit",
+        "colors": {
+          "primary": "#1C3A5F"
+        }
+      }
+    ],
+    "tournament": {
+      "name": "Texas Children's Houston Open",
+      "colors": {
+        "primary": "#004225"
+      }
+    }
+  },
+  {
+    "slug": "texas-vs-purdue-2026",
+    "title": "Texas vs Purdue — Sweet 16 Viewing Guide",
+    "eventTag": "NCAA Tournament • Sweet 16 • San Jose, CA",
+    "date": "Thursday, March 26, 2026 • 7:10 PM ET",
+    "round": "Sweet 16",
+    "tipTime": "2026-03-26T19:10",
+    "venue": "SAP Center, San Jose, California • CBS",
+    "teams": [
+      {
+        "name": "Texas",
+        "mascot": "Longhorns",
+        "seed": "#11 Seed",
+        "colors": {
+          "primary": "#BF5700"
+        }
+      },
+      {
+        "name": "Purdue",
+        "mascot": "Boilermakers",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#CEB888"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "iowa-vs-nebraska-2026",
+    "title": "Iowa vs Nebraska — Sweet 16 Viewing Guide",
+    "eventTag": "NCAA Tournament • Sweet 16 • South Region • Houston, TX",
+    "date": "Thursday, March 26, 2026 • 7:30 PM ET",
+    "round": "Sweet 16",
+    "tipTime": "2026-03-26T19:30",
+    "venue": "Toyota Center, Houston, Texas • TBS",
+    "teams": [
+      {
+        "name": "Iowa",
+        "mascot": "Hawkeyes",
+        "seed": "#9 Seed",
+        "colors": {
+          "primary": "#000000"
+        }
+      },
+      {
+        "name": "Nebraska",
+        "mascot": "Cornhuskers",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#E41C38"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "arkansas-vs-arizona-2026",
+    "title": "Arkansas vs Arizona — Sweet 16 Viewing Guide",
+    "eventTag": "NCAA Tournament • Sweet 16 • West Region • San Jose, CA",
+    "date": "Thursday, March 26, 2026",
+    "round": "Sweet 16",
+    "tipTime": "2026-03-26T21:45",
+    "venue": "SAP Center, San Jose, California • 9:45 PM ET • CBS",
+    "teams": [
+      {
+        "name": "Arkansas",
+        "mascot": "Razorbacks",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#9D2235"
+        }
+      },
+      {
+        "name": "Arizona",
+        "mascot": "Wildcats",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#003366"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "illinois-vs-houston-2026",
+    "title": "Illinois vs Houston — Sweet 16 Viewing Guide",
+    "eventTag": "NCAA Tournament • Sweet 16 • Houston, TX",
+    "date": "Thursday, March 26, 2026 • 10:05 PM ET",
+    "round": "Sweet 16",
+    "tipTime": "2026-03-26T22:05",
+    "venue": "Toyota Center, Houston, Texas • TBS",
+    "teams": [
+      {
+        "name": "Illinois",
+        "mascot": "Fighting Illini",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#13294B"
+        }
+      },
+      {
+        "name": "Houston",
+        "mascot": "Cougars",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#C8102E"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pga-houston-open-round-2-2026",
+    "title": "Texas Children's Houston Open — Round 2 Recap",
+    "eventTag": "PGA Tour • Round 2 • Friday, March 27",
+    "date": "Friday, March 27, 2026",
+    "round": "Round 2",
+    "tipTime": "2026-03-27T15:00",
+    "venue": "Memorial Park Golf Course • Par 70 • 7,475 yards • Golf Channel 3-7 PM ET",
+    "format": "tournament",
+    "teams": [
+      {
+        "name": "Leaders",
+        "mascot": "After 36 Holes",
+        "seed": "Making the Cut",
+        "colors": {
+          "primary": "#004225"
+        }
+      },
+      {
+        "name": "Cut Line",
+        "mascot": "Weekend or Home",
+        "seed": "-2 to make weekend",
+        "colors": {
+          "primary": "#1C3A5F"
+        }
+      }
+    ],
+    "tournament": {
+      "name": "Texas Children's Houston Open",
+      "colors": {
+        "primary": "#004225"
+      }
+    }
+  },
+  {
+    "slug": "st-johns-vs-duke-2026",
+    "title": "St. John's vs Duke — Sweet 16 Viewing Guide",
+    "eventTag": "NCAA Tournament • Sweet 16 • Washington, D.C.",
+    "date": "Friday, March 27, 2026 • 7:10 PM ET",
+    "round": "Sweet 16",
+    "tipTime": "2026-03-27T19:10",
+    "venue": "Capital One Arena, Washington, D.C. • CBS",
+    "teams": [
+      {
+        "name": "St. John's",
+        "mascot": "Red Storm",
+        "seed": "#5 Seed",
+        "colors": {
+          "primary": "#BA0C2F"
+        }
+      },
+      {
+        "name": "Duke",
+        "mascot": "Blue Devils",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#003087"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "alabama-vs-michigan-2026",
+    "title": "Alabama vs Michigan — Sweet 16 Viewing Guide",
+    "eventTag": "NCAA Tournament • Sweet 16 • Chicago, IL",
+    "date": "Friday, March 27, 2026 • 7:35 PM ET",
+    "round": "Sweet 16",
+    "tipTime": "2026-03-27T19:35",
+    "venue": "United Center, Chicago, Illinois • TBS/truTV",
+    "teams": [
+      {
+        "name": "Alabama",
+        "mascot": "Crimson Tide",
+        "seed": "#4 Seed",
+        "colors": {
+          "primary": "#9E1B32"
+        }
+      },
+      {
+        "name": "Michigan",
+        "mascot": "Wolverines",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#00274C"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "michigan-state-vs-uconn-2026",
+    "title": "Michigan State vs UConn — Sweet 16 Viewing Guide",
+    "eventTag": "NCAA Tournament • Sweet 16 • East Region • Washington, D.C.",
+    "date": "Friday, March 27, 2026",
+    "round": "Sweet 16",
+    "tipTime": "2026-03-27T21:45",
+    "venue": "Capital One Arena, Washington, D.C. • 9:45 PM ET • CBS",
+    "teams": [
+      {
+        "name": "Michigan State",
+        "mascot": "Spartans",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#18453B"
+        }
+      },
+      {
+        "name": "UConn",
+        "mascot": "Huskies",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#002868"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "tennessee-vs-iowa-state-2026",
+    "title": "Tennessee vs Iowa State — Sweet 16 Viewing Guide",
+    "eventTag": "NCAA Tournament • Sweet 16 • Chicago, IL",
+    "date": "Friday, March 27, 2026 • 10:10 PM ET",
+    "round": "Sweet 16",
+    "tipTime": "2026-03-27T22:10",
+    "venue": "United Center, Chicago, Illinois • TBS",
+    "teams": [
+      {
+        "name": "Tennessee",
+        "mascot": "Volunteers",
+        "seed": "#6 Seed",
+        "colors": {
+          "primary": "#FF8200"
+        }
+      },
+      {
+        "name": "Iowa State",
+        "mascot": "Cyclones",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#C8102E"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pga-houston-open-round-3-2026",
+    "title": "Texas Children's Houston Open — Round 3 Recap",
+    "eventTag": "PGA Tour • Round 3 • Saturday, March 28",
+    "date": "Saturday, March 28, 2026",
+    "round": "Round 3",
+    "tipTime": "2026-03-28T13:00",
+    "venue": "Memorial Park Golf Course • Par 70 • 7,475 yards • Golf Channel 1-3 PM / NBC 3-6 PM ET",
+    "format": "tournament",
+    "teams": [
+      {
+        "name": "Woodland",
+        "mascot": "54-Hole Leader",
+        "seed": "-18",
+        "colors": {
+          "primary": "#004225"
+        }
+      },
+      {
+        "name": "Hojgaard",
+        "mascot": "The Challenger",
+        "seed": "-17",
+        "colors": {
+          "primary": "#C8102E"
+        }
+      }
+    ],
+    "tournament": {
+      "name": "Texas Children's Houston Open",
+      "colors": {
+        "primary": "#004225"
+      }
+    }
+  },
+  {
+    "slug": "pga-houston-open-round-4-2026",
+    "title": "Texas Children's Houston Open — Final Round",
+    "eventTag": "PGA Tour • Final Round • Sunday, March 29",
+    "date": "Sunday, March 29, 2026",
+    "round": "Final Round",
+    "tipTime": "2026-03-29T13:00",
+    "venue": "Memorial Park Golf Course • Par 70 • 7,475 yards • Golf Channel 1-3 PM / NBC 3-6 PM ET",
+    "format": "tournament",
+    "teams": [
+      {
+        "name": "Woodland",
+        "mascot": "54-Hole Leader",
+        "seed": "-18",
+        "colors": {
+          "primary": "#004225"
+        }
+      },
+      {
+        "name": "Hojgaard",
+        "mascot": "The Challenger",
+        "seed": "-17",
+        "colors": {
+          "primary": "#C8102E"
+        }
+      }
+    ],
+    "tournament": {
+      "name": "Texas Children's Houston Open",
+      "colors": {
+        "primary": "#004225"
+      }
+    }
+  },
+  {
+    "slug": "tennessee-vs-michigan-2026",
+    "title": "Tennessee vs Michigan — Elite Eight Viewing Guide",
+    "eventTag": "NCAA Tournament • Elite Eight • Chicago, IL",
+    "date": "Sunday, March 29, 2026 • 2:15 PM ET",
+    "round": "Elite Eight",
+    "tipTime": "2026-03-29T14:15",
+    "venue": "United Center, Chicago, Illinois • CBS",
+    "teams": [
+      {
+        "name": "Tennessee",
+        "mascot": "Volunteers",
+        "seed": "#6 Seed",
+        "colors": {
+          "primary": "#FF8200"
+        }
+      },
+      {
+        "name": "Michigan",
+        "mascot": "Wolverines",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#00274C"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "ucla-vs-duke-womens-elite-eight-2026",
+    "title": "UCLA vs Duke — Women’s Elite Eight Viewing Guide",
+    "eventTag": "NCAA Women’s Tournament • Elite Eight • Sacramento, CA",
+    "date": "Sunday, March 29, 2026 • 3:00 PM ET",
+    "round": "Elite Eight",
+    "tipTime": "2026-03-29T15:00",
+    "venue": "Golden 1 Center, Sacramento, California • ABC / ESPN",
+    "teams": [
+      {
+        "name": "UCLA",
+        "mascot": "Bruins",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#2D68C4"
+        }
+      },
+      {
+        "name": "Duke",
+        "mascot": "Blue Devils",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#003087"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "uconn-vs-duke-2026",
+    "title": "UConn vs Duke — Elite Eight Viewing Guide",
+    "eventTag": "NCAA Tournament • Elite Eight • Washington, D.C.",
+    "date": "Sunday, March 29, 2026 • 5:05 PM ET",
+    "round": "Elite Eight",
+    "tipTime": "2026-03-29T17:05",
+    "venue": "Capital One Arena, Washington, D.C. • CBS",
+    "teams": [
+      {
+        "name": "UConn",
+        "mascot": "Huskies",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#0E1A3A"
+        }
+      },
+      {
+        "name": "Duke",
+        "mascot": "Blue Devils",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#003087"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "texas-vs-michigan-womens-elite-eight-2026",
+    "title": "Texas vs Michigan — Women’s Elite Eight Viewing Guide",
+    "eventTag": "NCAA Women’s Tournament • Elite Eight • Fort Worth, TX",
+    "date": "Monday, March 30, 2026 • 7:00 PM ET",
+    "round": "Elite Eight",
+    "tipTime": "2026-03-30T19:00",
+    "venue": "Dickies Arena, Fort Worth, Texas • ESPN",
+    "teams": [
+      {
+        "name": "Texas",
+        "mascot": "Longhorns",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#BF5700"
+        }
+      },
+      {
+        "name": "Michigan",
+        "mascot": "Wolverines",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#00274C"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "south-carolina-vs-tcu-womens-elite-eight-2026",
+    "title": "South Carolina vs TCU — Women’s Elite Eight Viewing Guide",
+    "eventTag": "NCAA Women’s Tournament • Elite Eight • Sacramento, CA",
+    "date": "Monday, March 30, 2026 • 9:00 PM ET",
+    "round": "Elite Eight",
+    "tipTime": "2026-03-30T21:00",
+    "venue": "Golden 1 Center, Sacramento, California • ESPN",
+    "teams": [
+      {
+        "name": "South Carolina",
+        "mascot": "Gamecocks",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#73000A"
+        }
+      },
+      {
+        "name": "TCU",
+        "mascot": "Horned Frogs",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#4D1979"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "mlb-mets-at-cardinals-2026-03-31",
+    "title": "Mets at Cardinals",
+    "eventTag": "MLB",
+    "date": "Tuesday, March 31, 2026 • 7:45 PM ET",
+    "round": "Regular Season",
+    "tipTime": "2026-03-31T19:45",
+    "venue": "Busch Stadium, St. Louis, MO • SNY / Cardinals.TV",
+    "teams": [
+      {
+        "name": "New York Mets",
+        "mascot": "Mets",
+        "seed": "",
+        "colors": {
+          "primary": "#002D72"
+        }
+      },
+      {
+        "name": "St. Louis Cardinals",
+        "mascot": "Cardinals",
+        "seed": "",
+        "colors": {
+          "primary": "#C41E3A"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "mlb-yankees-at-mariners-2026-03-31",
+    "title": "Yankees at Mariners",
+    "eventTag": "MLB",
+    "date": "Tuesday, March 31, 2026 • 9:40 PM ET",
+    "round": "Regular Season",
+    "tipTime": "2026-03-31T21:40",
+    "venue": "T-Mobile Park, Seattle, WA • TBS",
+    "teams": [
+      {
+        "name": "New York Yankees",
+        "mascot": "Yankees",
+        "seed": "",
+        "colors": {
+          "primary": "#003087"
+        }
+      },
+      {
+        "name": "Seattle Mariners",
+        "mascot": "Mariners",
+        "seed": "",
+        "colors": {
+          "primary": "#0C2C56"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "pga-valero-texas-open-round-1-2026",
+    "title": "Valero Texas Open — Round 1 Preview",
+    "eventTag": "PGA Tour • Round 1 • Thursday, April 2",
+    "date": "Thursday, April 2, 2026",
+    "round": "Round 1",
+    "tipTime": "2026-04-02T13:30",
+    "venue": "TPC San Antonio (Oaks Course) • Par 72 • 7,438 yards • Golf Channel 4-7 PM ET",
+    "format": "tournament",
+    "teams": [
+      {
+        "name": "Contenders",
+        "mascot": "Top Favorites",
+        "seed": "Low Odds",
+        "colors": {
+          "primary": "#D52B1E"
+        }
+      },
+      {
+        "name": "The Field",
+        "mascot": "Chasers",
+        "seed": "In Pursuit",
+        "colors": {
+          "primary": "#1C3A5F"
+        }
+      }
+    ],
+    "tournament": {
+      "name": "Valero Texas Open",
+      "colors": {
+        "primary": "#D52B1E"
+      }
+    }
+  },
+  {
+    "slug": "pga-valero-texas-open-preview-2026",
+    "title": "Valero Texas Open — 2026 Tournament Preview",
+    "eventTag": "PGA Tour • FedExCup • Last Chance for Augusta",
+    "date": "Thursday–Sunday, April 2–5, 2026",
+    "round": "Tournament Preview",
+    "tipTime": "2026-04-02T16:00",
+    "venue": "TPC San Antonio (Oaks Course), San Antonio, TX • Golf Channel / NBC",
+    "format": "tournament",
+    "teams": [
+      {
+        "name": "Favorites",
+        "mascot": "Top Contenders",
+        "seed": "World Top 20",
+        "colors": {
+          "primary": "#D52B1E"
+        }
+      },
+      {
+        "name": "Dark Horses",
+        "mascot": "Sleepers & Value",
+        "seed": "Course Fit",
+        "colors": {
+          "primary": "#1C3A5F"
+        }
+      }
+    ],
+    "tournament": {
+      "name": "Valero Texas Open",
+      "colors": {
+        "primary": "#D52B1E"
+      }
+    }
+  },
+  {
+    "slug": "mlb-braves-at-diamondbacks-2026-04-02",
+    "title": "Braves at Diamondbacks",
+    "eventTag": "MLB",
+    "date": "Thursday, April 2, 2026 • 9:40 PM ET",
+    "round": "Regular Season",
+    "tipTime": "2026-04-02T21:40",
+    "venue": "Chase Field, Phoenix, AZ • Bally Sports South / DBACKS.tv",
+    "teams": [
+      {
+        "name": "Atlanta Braves",
+        "mascot": "Braves",
+        "seed": "",
+        "colors": {
+          "primary": "#CE1141"
+        }
+      },
+      {
+        "name": "Arizona Diamondbacks",
+        "mascot": "Diamondbacks",
+        "seed": "",
+        "colors": {
+          "primary": "#A71930"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "mlb-mets-at-giants-2026-04-02",
+    "title": "Mets at Giants",
+    "eventTag": "MLB",
+    "date": "Thursday, April 2, 2026 • 9:45 PM ET",
+    "round": "Regular Season",
+    "tipTime": "2026-04-02T21:45",
+    "venue": "Oracle Park, San Francisco, CA • SNY / NBCS Bay Area",
+    "teams": [
+      {
+        "name": "New York Mets",
+        "mascot": "Mets",
+        "seed": "",
+        "colors": {
+          "primary": "#002D72"
+        }
+      },
+      {
+        "name": "San Francisco Giants",
+        "mascot": "Giants",
+        "seed": "",
+        "colors": {
+          "primary": "#FD5A1E"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nwsl-chicago-stars-at-utah-royals-2026-04-03",
+    "title": "Chicago Stars at Utah Royals",
+    "eventTag": "NWSL — Bottom-Half Battle",
+    "date": "Friday, April 3, 2026 • 7:00 PM MT",
+    "round": "Regular Season",
+    "tipTime": "2026-04-03T19:00",
+    "venue": "America First Field, Sandy, UT • KMYU / Victory+ / NWSL+",
+    "teams": [
+      {
+        "name": "Chicago Stars FC",
+        "mascot": "Stars",
+        "seed": "",
+        "colors": {
+          "primary": "#0A1E3F"
+        }
+      },
+      {
+        "name": "Utah Royals FC",
+        "mascot": "Royals",
+        "seed": "",
+        "colors": {
+          "primary": "#FFC72C"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nwsl-san-diego-wave-at-boston-legacy-2026-04-03",
+    "title": "San Diego Wave at Boston Legacy",
+    "eventTag": "NWSL — First-Ever Meeting",
+    "date": "Friday, April 3, 2026 • 7:00 PM ET",
+    "round": "Regular Season",
+    "tipTime": "2026-04-03T19:00",
+    "venue": "Gillette Stadium, Foxborough, MA • NWSL+ / NBC10 Boston",
+    "teams": [
+      {
+        "name": "San Diego Wave FC",
+        "mascot": "Wave",
+        "seed": "",
+        "colors": {
+          "primary": "#041E42"
+        }
+      },
+      {
+        "name": "Boston Legacy FC",
+        "mascot": "Legacy",
+        "seed": "",
+        "colors": {
+          "primary": "#00A651"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "south-carolina-vs-uconn-womens-final-four-2026",
+    "title": "South Carolina vs UConn — Women’s Final Four Viewing Guide",
+    "eventTag": "NCAA Women’s Tournament • Final Four • Phoenix, AZ",
+    "date": "Friday, April 3, 2026 • 7:00 PM ET",
+    "round": "Final Four",
+    "tipTime": "2026-04-03T19:00",
+    "venue": "Mortgage Matchup Center, Phoenix, Arizona • ESPN",
+    "teams": [
+      {
+        "name": "South Carolina",
+        "mascot": "Gamecocks",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#73000A"
+        }
+      },
+      {
+        "name": "UConn",
+        "mascot": "Huskies",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#0E1A3E"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "ucla-vs-texas-womens-final-four-2026",
+    "title": "UCLA vs Texas — Women’s Final Four Viewing Guide",
+    "eventTag": "NCAA Women’s Tournament • Final Four • Phoenix, AZ",
+    "date": "Friday, April 3, 2026 • 9:30 PM ET",
+    "round": "Final Four",
+    "tipTime": "2026-04-03T21:30",
+    "venue": "Mortgage Matchup Center, Phoenix, Arizona • ESPN",
+    "teams": [
+      {
+        "name": "UCLA",
+        "mascot": "Bruins",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#2D68C4"
+        }
+      },
+      {
+        "name": "Texas",
+        "mascot": "Longhorns",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#BF5700"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "uconn-vs-illinois-2026",
+    "title": "UConn vs Illinois — Final Four Recap",
+    "eventTag": "NCAA Tournament • Final Four • Indianapolis, IN",
+    "date": "Saturday, April 4, 2026 • 6:09 PM ET",
+    "round": "Final Four",
+    "tipTime": "2026-04-04T18:09",
+    "venue": "Lucas Oil Stadium, Indianapolis, Indiana • TBS",
+    "teams": [
+      {
+        "name": "UConn",
+        "mascot": "Huskies",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#0E1A3A"
+        }
+      },
+      {
+        "name": "Illinois",
+        "mascot": "Fighting Illini",
+        "seed": "#3 Seed",
+        "colors": {
+          "primary": "#13294B"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "arizona-vs-michigan-2026",
+    "title": "Arizona vs Michigan — Final Four Viewing Guide",
+    "eventTag": "NCAA Tournament • Final Four • Indianapolis, IN",
+    "date": "Saturday, April 4, 2026 • 8:49 PM ET",
+    "round": "Final Four",
+    "tipTime": "2026-04-04T20:49",
+    "venue": "Lucas Oil Stadium, Indianapolis, Indiana • TBS",
+    "teams": [
+      {
+        "name": "Arizona",
+        "mascot": "Wildcats",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#003366"
+        }
+      },
+      {
+        "name": "Michigan",
+        "mascot": "Wolverines",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#00274C"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "south-carolina-vs-ucla-womens-championship-2026",
+    "title": "South Carolina vs UCLA — Women's National Championship Viewing Guide",
+    "eventTag": "NCAA Women's Tournament • National Championship • Phoenix, AZ",
+    "date": "Sunday, April 5, 2026 • 3:30 PM ET",
+    "round": "National Championship",
+    "tipTime": "2026-04-05T15:30",
+    "venue": "Mortgage Matchup Center, Phoenix, Arizona • ABC",
+    "teams": [
+      {
+        "name": "South Carolina",
+        "mascot": "Gamecocks",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#73000A"
+        }
+      },
+      {
+        "name": "UCLA",
+        "mascot": "Bruins",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#2D68C4"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "uconn-vs-michigan-2026",
+    "title": "UConn vs Michigan — National Championship Viewing Guide",
+    "eventTag": "NCAA Tournament • National Championship • Indianapolis, IN",
+    "date": "Monday, April 6, 2026 • 8:50 PM ET",
+    "round": "National Championship",
+    "tipTime": "2026-04-06T20:50",
+    "venue": "Lucas Oil Stadium, Indianapolis, Indiana • TBS",
+    "teams": [
+      {
+        "name": "UConn",
+        "mascot": "Huskies",
+        "seed": "#2 Seed",
+        "colors": {
+          "primary": "#0E1A3A"
+        }
+      },
+      {
+        "name": "Michigan",
+        "mascot": "Wolverines",
+        "seed": "#1 Seed",
+        "colors": {
+          "primary": "#00274C"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nba-hornets-at-celtics-2026-04-07",
+    "title": "Hornets at Celtics",
+    "eventTag": "NBA — Season Series Rubber Match",
+    "date": "Tuesday, April 7, 2026 • 8:00 PM ET",
+    "round": "Regular Season",
+    "tipTime": "2026-04-07T20:00",
+    "venue": "TD Garden, Boston, MA • NBC / Peacock / NBC Sports Boston",
+    "teams": [
+      {
+        "name": "Charlotte",
+        "mascot": "Hornets",
+        "seed": "8",
+        "colors": {
+          "primary": "#1D1160"
+        }
+      },
+      {
+        "name": "Boston",
+        "mascot": "Celtics",
+        "seed": "2",
+        "colors": {
+          "primary": "#007A33"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nba-mavericks-at-clippers-2026-04-07",
+    "title": "Mavericks at Clippers",
+    "eventTag": "NBA — Play-In Positioning vs. Rookie Showcase",
+    "date": "Tuesday, April 7, 2026 • 10:30 PM ET",
+    "round": "Regular Season",
+    "tipTime": "2026-04-07T22:30",
+    "venue": "Intuit Dome, Inglewood, CA • KFAA / FDSSC / Fubo",
+    "teams": [
+      {
+        "name": "Dallas",
+        "mascot": "Mavericks",
+        "seed": "12",
+        "colors": {
+          "primary": "#00538C"
+        }
+      },
+      {
+        "name": "Los Angeles",
+        "mascot": "Clippers",
+        "seed": "8",
+        "colors": {
+          "primary": "#C8102E"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nba-rockets-at-suns-2026-04-07",
+    "title": "Rockets at Suns",
+    "eventTag": "NBA — Kevin Durant Returns to Phoenix",
+    "date": "Tuesday, April 7, 2026 • 11:00 PM ET",
+    "round": "Regular Season",
+    "tipTime": "2026-04-07T23:00",
+    "venue": "Mortgage Matchup Center, Phoenix, AZ • NBC / Peacock / SCHN",
+    "teams": [
+      {
+        "name": "Houston",
+        "mascot": "Rockets",
+        "seed": "4",
+        "colors": {
+          "primary": "#CE1141"
+        }
+      },
+      {
+        "name": "Phoenix",
+        "mascot": "Suns",
+        "seed": "7",
+        "colors": {
+          "primary": "#1D1160"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nwsl-utah-royals-at-angel-city-2026-05-02",
+    "title": "Utah Royals at Angel City",
+    "eventTag": "NWSL",
+    "date": "Saturday, May 2, 2026 • 5:00 PM PT",
+    "round": "Regular Season",
+    "tipTime": "2026-05-02T20:00",
+    "venue": "BMO Stadium, Los Angeles, CA • ION",
+    "teams": [
+      {
+        "name": "Utah Royals FC",
+        "mascot": "Royals",
+        "seed": "",
+        "colors": {
+          "primary": "#862633"
+        }
+      },
+      {
+        "name": "Angel City FC",
+        "mascot": "Angel City",
+        "seed": "",
+        "colors": {
+          "primary": "#E8114B"
+        }
+      }
+    ]
+  }
+]

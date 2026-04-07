@@ -23,6 +23,18 @@ body {
 a { color: var(--howard); text-decoration: none; }
 a:hover { color: var(--howard); text-decoration: underline; }
 
+/* ===== LOADING SPINNER ===== */
+.loading-spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40vh;
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 1rem;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+}
+
 /* ===== SCORE BANNER ===== */
 .score-banner {
   position: sticky;

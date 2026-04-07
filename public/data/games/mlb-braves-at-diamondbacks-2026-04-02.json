@@ -1,0 +1,363 @@
+{
+  "slug": "mlb-braves-at-diamondbacks-2026-04-02",
+  "title": "Braves at Diamondbacks",
+  "eventTag": "MLB",
+  "date": "Thursday, April 2, 2026 • 9:40 PM ET",
+  "round": "Regular Season",
+  "tipTime": "2026-04-02T21:40",
+  "venue": "Chase Field, Phoenix, AZ • Bally Sports South / DBACKS.tv",
+  "extraInfo": "Game 1 of 4 — First meeting of the season between these two clubs",
+  "teams": [
+    {
+      "name": "Atlanta Braves",
+      "mascot": "Braves",
+      "seed": "",
+      "record": "4-2",
+      "colors": {
+        "primary": "#CE1141",
+        "secondary": "#13274F",
+        "name": "braves"
+      },
+      "className": "braves"
+    },
+    {
+      "name": "Arizona Diamondbacks",
+      "mascot": "Diamondbacks",
+      "seed": "",
+      "record": "4-2",
+      "colors": {
+        "primary": "#A71930",
+        "secondary": "#E3D4AD",
+        "name": "diamondbacks"
+      },
+      "className": "diamondbacks"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "stakes",
+      "label": "Pitching"
+    },
+    {
+      "id": "styles",
+      "label": "Styles of Play"
+    },
+    {
+      "id": "keys",
+      "label": "Keys to the Game"
+    },
+    {
+      "id": "prediction",
+      "label": "Prediction"
+    },
+    {
+      "id": "players",
+      "label": "Players to Watch"
+    },
+    {
+      "id": "trends",
+      "label": "Trends"
+    },
+    {
+      "id": "sources",
+      "label": "Sources"
+    }
+  ],
+  "stakes": {
+    "callout": "A compelling pitching matchup at Chase Field as <strong>Ryne Nelson</strong> — owner of the best four-seam fastball run value in MLB in 2025 — looks to bounce back from a rough debut against the Dodgers. Opposite him, <strong>Reynaldo Lopez</strong> makes his second start since shoulder surgery, riding the momentum of a dominant debut where his fastball touched <strong>97.1 mph</strong> after barely breaking 90 in spring training. The Braves bring the better bullpen (2.00 ERA vs 4.59) and the hotter bat in NL Rookie of the Year <strong>Drake Baldwin</strong>, who is slashing .318 with 3 HR and a 1.196 OPS through five games. The D-backs counter with <strong>Corbin Carroll</strong> (7 H, 8 RBI) and a three-game home win streak after sweeping the Tigers.",
+    "cards": [
+      {
+        "label": "Nelson's Elite Fastball",
+        "value": "2025: <strong>7-3, 3.39 ERA, 1.07 WHIP, 132 K in 154 IP</strong>. His four-seam fastball (95.7 mph, 61.9% usage) had the best run value of any four-seamer in MLB. But his 2026 debut was rough — 4.2 IP, 4 ER, 2 HR vs LAD with a 47.4% first-pitch strike rate (down from 62.2%)."
+      },
+      {
+        "label": "Lopez's Velocity Recovery",
+        "value": "2024 All-Star (1.99 ERA, 148 K) missed all of 2025 with shoulder surgery. Debut: <strong>6 IP, 1 ER, 76 pitches</strong>. Fastball averaged 94.4 mph, peaked at 97.1 — after barely hitting 90 in spring. Manager Weiss: \"He was outstanding.\""
+      },
+      {
+        "label": "Bullpen Mismatch",
+        "value": "Braves bullpen: <strong>2.00 ERA, 0.91 WHIP</strong> with Raisel Iglesias (29 SV in 2025) and setup man Robert Suarez. D-backs bullpen: <strong>4.59 ERA, 1.18 WHIP</strong> with a concerning meltdown (6 runs in the 7th) in Game 1 vs Detroit."
+      },
+      {
+        "label": "Nelson's Reverse Splits",
+        "value": "Nelson dominated left-handed hitters in 2025 — <strong>.565 OPS vs LHB, .729 OPS vs RHB</strong>. The Braves stack 5 lefty bats (Baldwin, Olson, Yastrzemski, Harris, Smith), but it's the righties (Acuna, Riley) who have the platoon edge."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "Power-Packed Lineup, Elite Bullpen, Strong Starting Pitching",
+      "bullets": [
+        "<strong>Matt Olson anchors a devastating middle of the order:</strong> Olson's .272/.389/.604 with 29 HR, 95 RBI, and 41 doubles (tied for NL lead) in 2025 earned him All-Star and Gold Glove honors. Paired with Austin Riley (healthy after sports hernia surgery) and Drake Baldwin (NL ROY, .318 early in 2026 with 3 HR in 5 games), the Braves' 2-3-4 can damage any pitching staff.",
+        "<strong>Ronald Acuna Jr. is the catalyst:</strong> The 2025 Comeback Player of the Year (.290/.417/.518 in 95 games) is back atop the order after a torn ACL derailed 2024. His bat speed, stolen base threat, and ability to change a game in one at-bat make him the most dynamic leadoff hitter in baseball when healthy.",
+        "<strong>The bullpen is a fortress:</strong> Raisel Iglesias (3.21 ERA, 29 SV in 2025, 1.96 ERA after June 1) anchors one of the NL's best relief corps. Setup man Robert Suarez — an All-Star acquisition — gives manager Walt Weiss a dominant 8th-inning option. The 2.00 team ERA and 0.91 WHIP through 6 games are elite.",
+        "<strong>Lineup depth extends through the order:</strong> Ozzie Albies posted a .283/.346/.474 second half in 2025, Mauricio Dubon has contributed 13 hits early, and Mike Yastrzemski (17 HR in 2025 between SF/KC) adds a veteran left-handed bat. Even the 7-8-9 hitters can hurt you.",
+        "<strong>Weakness — pitching depth behind the top two:</strong> With Spencer Strider on the IL and the rotation relying on Grant Holmes and Bryce Elder after Sale and Lopez, the Braves need their starters to go deep. Lopez is on a pitch count after shoulder surgery — if he exits early, the bullpen absorbs more innings than ideal."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "Speed-and-Contact Core, Fastball-Heavy Rotation, Home-Field Momentum",
+      "bullets": [
+        "<strong>Carroll and Perdomo are a dynamic 1-2-3 punch:</strong> Corbin Carroll (.259/.343/.491, 31 HR, 30 SB) became the first 30-30 player in D-backs history. Geraldo Perdomo (.290, 20 HR, 100 RBI, 27 SB, 7.0 WAR) won a Silver Slugger at shortstop. With Ketel Marte (.283/.376/.517, 28 HR, 145 wRC+) between them, this is one of baseball's most complete top-of-the-order trios.",
+        "<strong>Ryne Nelson's fastball is a legitimate weapon:</strong> No starting pitcher used his four-seamer more than Nelson's 61.9% rate in 2025, and no four-seamer in MLB had better run value. The pitch rides at the top of the zone with elite spin, generating whiffs and popups. When his first-pitch strike rate is above 60%, he's dominant.",
+        "<strong>Home-field momentum is real:</strong> After a demoralizing 0-3 sweep in Los Angeles, the D-backs swept the Tigers 3-0 at Chase Field — outscoring them 17-11. The crowd energy and Chase Field's controlled environment (roof closed at 95°F) give the home team a comfort advantage.",
+        "<strong>Rookie energy from Jose Fernandez:</strong> Fernandez hit <strong>2 home runs in his MLB debut</strong> on March 31, including the go-ahead 3-run shot in the 8th inning. The 2026 D-backs are riding waves of youthful production that can shift momentum in any game.",
+        "<strong>Weakness — the bullpen is unreliable:</strong> A 4.59 ERA and 1.18 WHIP tell part of the story. The 7th-inning meltdown against Detroit (6 runs on 5 hits) exposed a pen with no left-handed relievers and limited high-leverage depth. If Nelson can't go 6+, this game could unravel."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "Nelson's first-pitch strike rate — the difference between dominant and hittable",
+      "description": "In 2025, Ryne Nelson's first-pitch strike rate was 62.2%, and he posted a 3.39 ERA with a .217 opponent average. In his 2026 debut against the Dodgers, it dropped to 47.4% — and he allowed 4 ER in 4.2 innings. Nelson's four-seam fastball is elite when he attacks the zone early, but when he falls behind, hitters can sit on the fastball and ambush it. Against an aggressive Braves lineup led by Acuna, Baldwin, and Olson, Nelson must establish the fastball for strikes in the first inning. If his strike rate is above 60%, he can dominate. If it's below 50% again, the Braves will tee off."
+    },
+    {
+      "title": "Lopez's pitch count — how deep can the comeback arm go?",
+      "description": "Reynaldo Lopez threw just 76 pitches in 6 innings in his 2026 debut — an efficient outing, but one that still suggests the Braves are managing his workload carefully after shoulder surgery. If Lopez can match that efficiency against the D-backs' patient hitters (Marte walked at an 11.8% rate in 2025, Perdomo drew 94 walks), he could deliver 6 solid innings. But if the D-backs extend at-bats and push his pitch count past 85 by the 5th inning, Weiss will have to go to the bullpen early — and that changes the game from a Lopez-vs-D-backs matchup to a bullpen-vs-bullpen contest where the Braves still have the edge."
+    },
+    {
+      "title": "Acuna and Riley vs Nelson from the right side — the real platoon battle",
+      "description": "Nelson's reverse splits are fascinating: he held lefties to a .565 OPS in 2025 but allowed a .729 OPS to right-handed hitters. The Braves' lefty-heavy lineup (5 LHB) actually plays into Nelson's strength. The real threat comes from Ronald Acuna Jr. (.290/.417/.518 in 2025) and Austin Riley from the right side. If those two can combine for 3+ hits, the Braves crack Nelson open. If Nelson can neutralize them with his slider — his primary put-away pitch against righties — the Braves' lefty bats may struggle against his rising fastball."
+    },
+    {
+      "title": "Carroll's speed vs Lopez's post-surgery delivery — a stolen base chess match",
+      "description": "Corbin Carroll stole 30 bases in 2025 — the first player in D-backs history to join the 30-30 club. Geraldo Perdomo added 27 steals. Lopez's mechanical adjustments to recover velocity (keeping his shoulder and hip closed longer) may create longer windows for base stealers. If Carroll or Perdomo reach base in the early innings, their speed could manufacture runs without needing power — critical if Lopez is keeping the ball in the park. Drake Baldwin behind the plate is a solid defender, but the D-backs' aggression on the bases could disrupt Lopez's rhythm."
+    },
+    {
+      "title": "The bullpen gap — if either starter exits before the 6th, who blinks?",
+      "description": "This is where the game could be decided. The Braves' bullpen (2.00 ERA, 0.91 WHIP) is elite — Suarez and Iglesias can lock down anything from the 7th inning on. The D-backs' bullpen (4.59 ERA) had a catastrophic 7th-inning meltdown against Detroit and has no left-handed relievers to match up against the Braves' lefty bats. If both starters go 6 innings, it's a coin flip. If one exits early, the D-backs are at a massive disadvantage in a bullpen-vs-bullpen scenario."
+    }
+  ],
+  "prediction": {
+    "summary": "<p>This game hinges on how deep each starter can go. Reynaldo Lopez looked sharp in his comeback debut — 94.4 mph average, touching 97 — but he's on a managed workload. Ryne Nelson owns the best four-seam fastball in baseball by run value, but his disastrous first-pitch strike rate in his debut (47.4%) is the warning sign. The Braves bring a more complete team right now: Matt Olson's 29-HR power, Drake Baldwin's scorching start (.318, 3 HR), and a bullpen that hasn't allowed an earned run in many of its appearances.</p><p>The D-backs counter with home-field energy after sweeping the Tigers, Corbin Carroll's explosive early-season form (7 H, 8 RBI), and Nelson's elite fastball when he's commanding it. But the bullpen gap is too wide. If this game reaches the 7th inning within two runs, the Braves have Suarez and Iglesias to close the door — while the D-backs are hoping their all-righty pen doesn't repeat the Detroit meltdown. The Braves' depth and pitching advantage should be enough to take Game 1.</p>",
+    "phases": [
+      {
+        "title": "Early Innings (1-3)",
+        "description": "Nelson comes out firing the four-seamer at 96 mph but walks Acuna in the first on a close 3-2 pitch. Olson grounds into a double play — Nelson's reverse splits holding against the lefty. Carroll singles off Lopez in the bottom of the 1st and steals second, but Lopez strikes out Moreno with a slider to strand him. Lopez settles in with his fastball averaging 94+ mph. Scoreless through 3."
+      },
+      {
+        "title": "Middle Innings (4-6)",
+        "description": "Acuna connects on a Nelson fastball left over the plate for a solo HR in the 4th — the right-on-right platoon advantage showing. Baldwin follows with a double. Braves lead 2-0 after a Riley sac fly. The D-backs respond in the 5th: Perdomo works a walk, Marte rips a double to the gap, and Carroll's sacrifice fly plates a run. 2-1 Braves. Lopez exits after 5.1 innings, 82 pitches — the managed workload kicking in."
+      },
+      {
+        "title": "Late Innings (7-9)",
+        "description": "Suarez handles the 7th for the Braves. Nelson exits after 6 innings, 95 pitches, having settled down after the 4th. The D-backs' pen enters — Thompson gets two outs in the 7th, but Olson crushes a solo shot off Ginkel in the 8th to make it 3-1. Marte homers in the bottom of the 8th to pull within one. Iglesias enters for the 9th and gets Carroll to fly out to center to end it."
+      }
+    ],
+    "projectedScore": {
+      "teamA": 3,
+      "teamB": 2,
+      "rationale": "The Braves' bullpen advantage is the decisive factor. Lopez and Nelson both pitch competently, but Lopez's managed workload means the Braves go to their elite pen earlier — and that pen doesn't give runs back. The D-backs' offense has enough firepower with Carroll and Marte to keep it close, but the all-righty bullpen's inability to match up with the Braves' lefty bats (Olson, Baldwin) creates one too many opportunities for Atlanta in the late innings."
+    }
+  },
+  "players": [
+    {
+      "team": "b",
+      "name": "Ryne Nelson",
+      "stats": "SP | 2025: 7-3, 3.39 ERA, 1.07 WHIP, 132 K in 154 IP",
+      "meta": "Throws R | Best Four-Seam Fastball in MLB (2025 Run Value)",
+      "bio": "Nelson's four-seam fastball (95.7 mph, 61.9% usage) posted the <strong>best run value of any fastball in MLB in 2025</strong> — it rides at the top of the zone with elite spin, generating whiffs and weak popups. He was named D-backs' Most Valuable Pitcher after a breakout campaign that saw him post a .217 opponent average. But his <strong>2026 debut was rough: 4.2 IP, 4 ER, 2 HR vs the Dodgers</strong>, with his first-pitch strike rate cratering to 47.4% (down from 62.2% in 2025). The intriguing wrinkle: his reverse splits (.565 OPS vs LHB) actually help against the Braves' lefty-heavy lineup — but Acuna and Riley from the right side are where the danger lies."
+    },
+    {
+      "team": "b",
+      "name": "Corbin Carroll",
+      "stats": "RF | 2025: .259/.343/.491, 31 HR, 30 SB, 5.8 WAR",
+      "meta": "Bats L | First 30-30 Player in D-backs History",
+      "bio": "Carroll is <strong>on fire to start 2026 — 7 hits and 8 RBI through 6 games</strong>, including a homer-and-triple performance in the first Tigers game and a solo shot that beat Tarik Skubal 1-0. His 2025 was historic: the <strong>second player in MLB history to record 30+ HR, 30+ SB, 30+ 2B, and 15+ 3B</strong> in a single season (joining Jimmy Rollins). Against Lopez's fastball-slider combo, Carroll has the bat speed and opposite-field power to drive pitches into the gaps. His sprint speed makes every single a potential double and every walk a stolen base threat."
+    },
+    {
+      "team": "b",
+      "name": "Geraldo Perdomo",
+      "stats": "SS | 2025: .290/.851 OPS, 20 HR, 100 RBI, 27 SB, 7.0 WAR",
+      "meta": "Bats S | Silver Slugger, NL WAR Leader (Position Players)",
+      "bio": "Perdomo's <strong>breakout 2025 was one of the best shortstop seasons in recent NL history</strong> — .290 average, 20 HR, 100 RBI, 27 stolen bases, 94 walks, and a league-leading 7.0 bWAR among NL position players. He won his first Silver Slugger. As a switch-hitter, he'll bat right-handed against Lopez, giving him access to the pull-side power that drove his breakout. His patient approach (94 walks) is the perfect counter to a pitcher ramping up from shoulder surgery — Perdomo will extend at-bats and drive up Lopez's pitch count."
+    },
+    {
+      "team": "b",
+      "name": "Paul Sewald",
+      "stats": "CL | 2025 (SD): 3.92 ERA | 2026: 1 SV",
+      "meta": "Throws R | Returning to Arizona",
+      "bio": "Sewald locked down his <strong>first save of 2026 with a 1-2-3 ninth</strong> against Detroit, firing a 92 mph fastball past Spencer Torkelson to seal the D-backs' first win. The veteran closer signed a low-risk $1.5M deal to return to Arizona after stints in 2023-24. Manager Lovullo praised his spring preparation: \"93, 94 mile-an-hour four-seam fastball, top of the zone, nice secondary stuff.\" In a game that projects to be tight, Sewald is the last line — but the question is whether the middle relievers can get the ball to him."
+    },
+    {
+      "team": "a",
+      "name": "Reynaldo Lopez",
+      "stats": "SP | 2024: 8-5, 1.99 ERA, 148 K (All-Star) | 2026: 1.50 ERA",
+      "meta": "Throws R | Comeback Story of the Year",
+      "bio": "Lopez's <strong>2026 debut was nothing short of remarkable</strong> — 6 IP, 1 ER, 76 pitches against Kansas City, with his four-seamer averaging 94.4 mph and peaking at <strong>97.1 mph</strong>. This from a pitcher who was barely breaking 90 in spring training after shoulder surgery wiped out his 2025. He credited mechanical adjustments — keeping his left shoulder and hip closed — for the velocity recovery. Manager Weiss said: \"We weren't sure what to expect... He was outstanding.\" The question tonight is workload: can he replicate 6 efficient innings, or will the D-backs' patient lineup push him past 80 pitches by the 5th?"
+    },
+    {
+      "team": "a",
+      "name": "Drake Baldwin",
+      "stats": "C | 2025: .274/.341/.469, 19 HR, 80 RBI (NL ROY)",
+      "meta": "Bats L | Carrying the Braves Early",
+      "bio": "Baldwin is <strong>demolishing early 2026 — .318 average, 3 HR, 7 RBI, and a 1.196 OPS through 5 games</strong>. The NL Rookie of the Year has homered in 3 consecutive games. Chipper Jones sees \"an elite level\" in Baldwin's bat, and the early returns justify the hype. As a left-handed hitter, he faces Nelson's stronger platoon side (.565 OPS vs LHB), but Baldwin's ability to drive the ball to left field and his willingness to go opposite-field could neutralize the advantage. Behind the plate, his defense helps Lopez manage the D-backs' speed threats on the bases."
+    },
+    {
+      "team": "a",
+      "name": "Matt Olson",
+      "stats": "1B | 2025: .272/.389/.604, 29 HR, 95 RBI, 162 G",
+      "meta": "Bats L | All-Star, Gold Glove, 162 Games Played",
+      "bio": "Olson played <strong>all 162 games in 2025 — .272/.389/.604 with 29 HR, 95 RBI, and 41 doubles (tied for NL lead)</strong>. He earned All-Star honors and his first NL Gold Glove, posting a 6.0 WAR (second-best of his career). As a left-handed bat against Nelson, Olson faces the pitcher's better split (.565 OPS vs LHB) — but Olson's elite power and bat speed can overcome platoon disadvantages. If Nelson leaves a fastball over the plate, Olson has the raw power to drive it out of Chase Field even with the humidor in play."
+    },
+    {
+      "team": "a",
+      "name": "Ronald Acuna Jr.",
+      "stats": "RF | 2025: .290/.417/.518, 21 HR, 9 SB (95 G)",
+      "meta": "Bats R | 2025 Comeback Player of the Year",
+      "bio": "Acuna returned from a second ACL tear to post a <strong>.290/.417/.518 slash line with 21 HR in just 95 games</strong>, earning Comeback Player of the Year and an All-Star selection. His first at-bat back on May 23 was a home run on the first pitch. As a right-handed hitter, he has the platoon advantage against Nelson — and Nelson's .729 OPS vs RHB is where the danger lives. Acuna's combination of power, speed, and strike-zone discipline makes him the most impactful single player in this game. If he reaches base twice, his stolen base threat alone changes the D-backs' pitching strategy."
+    }
+  ],
+  "trends": [
+    {
+      "title": "Hard Contact & Power",
+      "bullets": [
+        "<strong>Chase Field park factor: ~108</strong> — slightly hitter-friendly, but the humidor (introduced 2018) and retractable roof have moderated the extreme run environments of the pre-2019 era. With the roof closed at 95°F outside, expect a controlled ~78°F interior.",
+        "<strong>Matt Olson's 29 HR and .604 SLG in 2025</strong> made him one of the NL's most dangerous power bats — his 41 doubles tied for the league lead and he played all 162 games. His exit velocity and barrel rate make him a threat even in humidor-controlled environments. Nelson's flyball-heavy profile (60% FB rate in 2025) is a dangerous matchup if fastballs catch too much plate.",
+        "<strong>Drake Baldwin</strong> has homered in 3 consecutive games to start 2026, with a <strong>1.196 OPS through 5 games</strong>. He's squaring up pitches and driving the ball with authority from the left side.",
+        "<strong>Corbin Carroll</strong> crushed a homer and ripped a triple in Game 1 vs Detroit, then went deep again to beat Skubal 1-0. His <strong>8 RBI lead the D-backs</strong> through 6 games.",
+        "<strong>Jose Fernandez</strong> hit 2 HR in his MLB debut on March 31 — including a go-ahead 3-run shot in the 8th — providing unexpected power from the DH spot."
+      ]
+    },
+    {
+      "title": "Stolen Base Potential",
+      "bullets": [
+        "<strong>Corbin Carroll</strong> stole 30 bases in 2025 — the first D-back to join the 30-30 club. His elite sprint speed makes him a threat on every pitch once he reaches base. Against Lopez's post-surgery delivery, Carroll could find larger windows to run.",
+        "<strong>Geraldo Perdomo</strong> added 27 stolen bases in 2025, making the D-backs' 2-3 hitters one of baseball's most dangerous speed duos. Perdomo's ability to read pitchers and choose his spots makes him efficient on the bases.",
+        "<strong>Ronald Acuna Jr.</strong> stole 9 bases in just 95 games in 2025. Even at less than full speed, his reputation forces pitchers to rush their deliveries. Nelson will need to vary his times to the plate.",
+        "<strong>Lopez's mechanical adjustments</strong> — keeping his left shoulder and hip closed longer to generate velocity — could create longer delivery windows that base stealers exploit. The D-backs should be aggressive early against a pitcher still calibrating his new mechanics.",
+        "<strong>Drake Baldwin</strong> is a solid defensive catcher with a good arm. He threw out runners at a solid clip in his ROY 2025 campaign. Carroll and Perdomo will need to pick their spots carefully."
+      ]
+    },
+    {
+      "title": "Strikeout Projections",
+      "bullets": [
+        "<strong>Ryne Nelson</strong> struck out 132 in 154 IP in 2025 (7.71 K/9). His riding four-seam fastball generates whiffs at the top of the zone. Against the Braves' aggressive hitters, project <strong>4-6 K in 5-6 innings</strong>. Key targets: Albies (career-low .671 OPS in 2025), Riley (aggressive approach).",
+        "<strong>Reynaldo Lopez</strong> managed only 3 K in 6 IP in his debut — below his All-Star 2024 rate of 9.82 K/9. He's likely easing back into form after shoulder surgery. Project <strong>3-5 K in 5-6 innings</strong> as he ramps up volume.",
+        "<strong>D-backs most vulnerable to K:</strong> Jordan Lawlar (.182 MLB batting average in 2025) and Alek Thomas (.249 with limited walk rate) are swing-and-miss threats against Lopez's fastball/slider combo.",
+        "<strong>Braves most vulnerable to K:</strong> Ozzie Albies (career-low offensive numbers in 2025) and Dominic Smith could struggle against Nelson's rising fastball. Michael Harris II's below-par 2025 approach also makes him a strikeout candidate."
+      ]
+    },
+    {
+      "title": "Other Notable Trends",
+      "bullets": [
+        "The <strong>D-backs swept the Tigers 3-0 at home</strong> after getting swept 0-3 by the Dodgers on the road. Home-field advantage at Chase Field with the roof closed has been significant — the controlled environment neutralizes the desert heat.",
+        "The <strong>D-backs' injury list is staggering:</strong> Corbin Burnes (TJ), Merrill Kelly (back), Lourdes Gurriel Jr. (ACL), Blake Walston (TJ), Cristian Mena (shoulder), Justin Martinez (TJ), Tyler Locklear (elbow), Pavin Smith (elbow), Adrian Del Castillo (calf). They're missing their ace, starting RF, backup C, and multiple rotation arms.",
+        "The <strong>Braves are missing Ha-Seong Kim</strong> (unavailable 2+ months) at shortstop, with Mauricio Dubon filling in. Spencer Strider is on the IL. Jurickson Profar is serving a 162-game suspension.",
+        "The <strong>D-backs have no left-handed relievers</strong> — all 8 bullpen arms throw right-handed. This is the first time in the Lovullo/Hazen era (now Year 10) without a southpaw in the pen. Against the Braves' 5 lefty bats, this limits matchup flexibility.",
+        "<strong>Nelson's reverse platoon splits</strong> (.565 OPS vs LHB, .729 vs RHB) are unusual for a right-handed pitcher and could be a significant tactical factor. The Braves' best hitters against him project to be the right-handed bats (Acuna, Riley, Dubon), not the lefties (Olson, Baldwin)."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "heading": "Arizona Diamondbacks Sources",
+      "links": [
+        {
+          "label": "Ryne Nelson Statcast — Baseball Savant",
+          "url": "https://baseballsavant.mlb.com/savant-player/ryne-nelson-669194"
+        },
+        {
+          "label": "Ryne Nelson Stats — FanGraphs",
+          "url": "https://www.fangraphs.com/players/ryne-nelson/26253/stats?position=P"
+        },
+        {
+          "label": "D-backs Opening Day Roster — Arizona Sports",
+          "url": "https://arizonasports.com/mlb/arizona-diamondbacks/opening-day-roster-2/3615526/"
+        },
+        {
+          "label": "D-backs Pitching Preview — Arizona Sports",
+          "url": "https://arizonasports.com/mlb/arizona-diamondbacks/pitching-preview/3615532/"
+        },
+        {
+          "label": "D-backs Closer Plan — SI Diamondbacks",
+          "url": "https://www.si.com/mlb/diamondbacks/onsi/diamondbacks-2026-closer-plan-painfully-obvious-sewald"
+        },
+        {
+          "label": "D-backs All-Righty Bullpen — Cronkite News",
+          "url": "https://cronkitenews.azpbs.org/2026/03/26/arizona-diamondbacks-opening-day-bullpen/"
+        },
+        {
+          "label": "D-backs Depth Chart — FanGraphs",
+          "url": "https://www.fangraphs.com/roster-resource/depth-charts/diamondbacks"
+        },
+        {
+          "label": "D-backs First Win Recap — SI",
+          "url": "https://www.si.com/mlb/diamondbacks/onsi/arizona-diamondbacks-news/d-backs-secure-first-win-2026-stressful-fashion"
+        },
+        {
+          "label": "Corbin Carroll 2025 Review — AZ Snake Pit",
+          "url": "https://www.azsnakepit.com/arizona-diamondbacks-analysis-amp-commentary/87015/2025-diamondbacks-player-reviews-2-corbin-carroll"
+        },
+        {
+          "label": "D-backs Injury Report — ESPN",
+          "url": "https://www.espn.com/mlb/team/injuries/_/name/ari/arizona-diamondbacks"
+        },
+        {
+          "label": "Nolan Arenado Trade — MLB.com",
+          "url": "https://www.mlb.com/news/nolan-arenado-cardinals-d-backs-trade"
+        },
+        {
+          "label": "Chase Field Park Factors — Baseball Savant",
+          "url": "https://baseballsavant.mlb.com/leaderboard/statcast-park-factors"
+        }
+      ]
+    },
+    {
+      "heading": "Atlanta Braves Sources",
+      "links": [
+        {
+          "label": "Reynaldo Lopez 2026 Debut — MLB.com",
+          "url": "https://www.mlb.com/news/reynaldo-lopez-regains-velocity-in-strong-braves-2026-debut"
+        },
+        {
+          "label": "Reynaldo Lopez Statcast — Baseball Savant",
+          "url": "https://baseballsavant.mlb.com/savant-player/reynaldo-lopez-625643"
+        },
+        {
+          "label": "Reynaldo Lopez Stats — FanGraphs",
+          "url": "https://www.fangraphs.com/players/reynaldo-lopez/16400/stats?position=P"
+        },
+        {
+          "label": "Braves 2026 Opening Day Roster — MLB.com",
+          "url": "https://www.mlb.com/news/braves-2026-opening-day-roster"
+        },
+        {
+          "label": "Braves Depth Chart — FanGraphs",
+          "url": "https://www.fangraphs.com/roster-resource/depth-charts/braves"
+        },
+        {
+          "label": "Drake Baldwin Carrying Braves — AJC",
+          "url": "https://www.ajc.com/sports/2026/04/special-hitter-drake-baldwin-carrying-braves-lineup-early/"
+        },
+        {
+          "label": "Braves Bullpen Projection — SI Braves",
+          "url": "https://www.si.com/mlb/braves/onsi/news/projecting-back-end-2026-atlanta-braves-bullpen"
+        },
+        {
+          "label": "Mike Yastrzemski Contract — MLB.com",
+          "url": "https://www.mlb.com/news/mike-yastrzemski-braves-contract"
+        },
+        {
+          "label": "Braves vs D-backs Preview — PickDawgz",
+          "url": "https://pickdawgz.com/mlb-picks/atlanta-braves-vs-arizona-diamondbacks-prediction-4-2-2026-todays-mlb-picks-2026-04-02/"
+        },
+        {
+          "label": "MLB Standings — ESPN",
+          "url": "https://www.espn.com/mlb/standings"
+        },
+        {
+          "label": "Ronald Acuna Jr. 2025 Review — Battery Power",
+          "url": "https://www.batterypower.com/atlanta-braves-player-analysis/124427/2025-atlanta-braves-player-review-ronald-acuna-jr"
+        },
+        {
+          "label": "Matt Olson 2025 Stats — Baseball Reference",
+          "url": "https://www.baseball-reference.com/players/o/olsonma02.shtml"
+        }
+      ]
+    }
+  ],
+  "footerText": "Braves at Diamondbacks — April 2, 2026 — Chase Field, Phoenix"
+}
