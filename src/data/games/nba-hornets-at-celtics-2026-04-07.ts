@@ -1,0 +1,283 @@
+import type { GameData } from '../../types/game.ts'
+
+const game: GameData = {
+  slug: 'nba-hornets-at-celtics-2026-04-07',
+  title: 'Hornets at Celtics',
+  eventTag: 'NBA — Season Series Rubber Match',
+  date: 'Tuesday, April 7, 2026 • 8:00 PM ET',
+  round: 'Regular Season',
+  tipTime: '2026-04-07T20:00',
+  venue: 'TD Garden, Boston, MA • NBC / Peacock / NBC Sports Boston',
+  extraInfo: 'Game 3 of 3 — Season series tied 1-1. Charlotte won 118-89 at TD Garden on March 4 (Tatum out); Boston won 114-99 at Charlotte on March 29 (Tatum had 32/5/8).',
+  teams: [
+    {
+      name: 'Charlotte',
+      mascot: 'Hornets',
+      seed: '8',
+      record: '43-36',
+      colors: { primary: '#1D1160', secondary: '#00788C', name: 'hornets' },
+      className: 'hornets',
+    },
+    {
+      name: 'Boston',
+      mascot: 'Celtics',
+      seed: '2',
+      record: '53-25',
+      colors: { primary: '#007A33', secondary: '#BA9653', name: 'celtics' },
+      className: 'celtics',
+    },
+  ],
+  tabs: [
+    { id: 'stakes', label: 'Matchup Breakdown' },
+    { id: 'styles', label: 'Styles of Play' },
+    { id: 'keys', label: 'Keys to the Game' },
+    { id: 'prediction', label: 'Prediction' },
+    { id: 'players', label: 'Players to Watch' },
+    { id: 'trends', label: 'Trends' },
+    { id: 'sources', label: 'Sources' },
+  ],
+  stakes: {
+    callout:
+      'A nationally televised rubber match at TD Garden with playoff positioning on the line. The <strong>Hornets</strong> — owners of the NBA\'s best starting-five net rating (+29.3) — stunned Boston 118-89 in this building on March 4 when Jayson Tatum was sidelined. Now Tatum is back, the Celtics are fully healthy for the first time all season, and Charlotte is fighting for its postseason life as the 8th seed. Charles Lee\'s squad has gone <strong>32-14 since January 1</strong> (best in the NBA) behind LaMelo Ball\'s elite playmaking and Kon Knueppel\'s franchise-record three-point shooting. But Boston\'s 2nd-ranked offense, fewest turnovers in the league, and home-court advantage make this a steep climb — especially with Charlotte traveling from Minneapolis on one day of rest.',
+    cards: [
+      {
+        label: 'Season Series Tied 1-1',
+        value:
+          'Charlotte blew out Boston <strong>118-89 at TD Garden on March 4</strong> (Tatum was out, Celtics shot 28% from three, committed 16 turnovers). Boston won <strong>114-99 at Charlotte on March 29</strong> with Tatum\'s 32/5/8 line. Tatum\'s presence is the swing factor.',
+      },
+      {
+        label: 'Charlotte\'s Elite Starting Five',
+        value:
+          'Ball / Knueppel / Miller / Bridges / Diabate have a <strong>+29.3 net rating and 26-5 record</strong> when starting together — the best high-usage five-man unit in the NBA. But when the bench enters, the offense craters.',
+      },
+      {
+        label: 'Boston Fully Healthy',
+        value:
+          'For the <strong>first time this season</strong>, Mazzulla has his entire roster available. Tatum (back from Achilles), Vucevic (cleared from finger fracture), and Brown (28.7 PPG, 4th in NBA) are all a go. Only the third time this season with a clean injury report.',
+      },
+      {
+        label: 'Charlotte\'s Turnaround Season',
+        value:
+          'The Hornets started <strong>4-14 through late November</strong> and were 11-22 on January 1. Since then: 32-14 — the best record in the NBA. They clinched their first winning season since 2021-22 on April 3. A win tonight would be a statement heading into the play-in.',
+      },
+    ],
+  },
+  styles: [
+    {
+      team: 'a',
+      title: 'Motion-Heavy, Three-Point Centric, Transition Attack',
+      bullets: [
+        '<strong>LaMelo Ball is the engine of everything:</strong> Ball\'s +13.6 net points per 100 possessions when on the floor ranks 5th in the NBA — only Jokic, Doncic, SGA, and Cunningham create more. His 7.1 APG fuels a motion offense that thrives on ball screens, extra passes, and transition opportunities. When Ball plays, Kon Knueppel\'s true shooting jumps to <strong>70.3%</strong>.',
+        '<strong>Three-point shooting is the identity:</strong> Charlotte shoots 37.3% from three (5th in the NBA) on ~26.8 attempts per game. Knueppel set the <strong>franchise record with 261 made threes</strong> this season. The offense generates open looks through constant off-ball movement and Ball\'s gravity as a pull-up threat.',
+        '<strong>The starting five is historically dominant:</strong> Ball / Knueppel / Miller / Bridges / Diabate have posted a <strong>+29.3 net rating</strong> — the best high-usage lineup in the NBA, ahead of OKC, Boston, Denver, and Detroit. Their 26-5 record together is the backbone of Charlotte\'s turnaround.',
+        '<strong>Defensive rebounding fuels transition:</strong> Since January 1, Charlotte is 1st in defensive rebounding % (73.7%) and 1st in total rebounding % (55.8%). Diabate crashes the offensive glass on 93% of opportunities (99th percentile). Long rebounds become fast-break chances.',
+        '<strong>Weakness — bench production and turnovers:</strong> Tre Mann averages just 5.7 PPG as the backup PG, and the offense drops significantly when Ball sits. The team\'s 15.5 turnovers per game is a liability against Boston\'s active defense. Charlotte also lost PJ Hall (ankle fracture) and may be without Mark Williams (foot) and Grant Williams (knee management).',
+      ],
+    },
+    {
+      team: 'b',
+      title: 'Perimeter-Dominant, Ball-Secure, Switch-Everything Defense',
+      bullets: [
+        '<strong>The most efficient offense in the East:</strong> Boston\'s 120.7 offensive rating ranks 2nd in the NBA. They fire 41.8 three-point attempts per game (2nd) at 36.4% efficiency, with Hauser (38.9%), Pritchard (37.2%), and Brown (34.5%) spacing the floor. The system emphasizes pick-and-pop actions and connected passing to create open perimeter looks.',
+        '<strong>Ball security is their superpower:</strong> The Celtics commit just <strong>12.3 turnovers per game — fewest in the NBA</strong>. Combined with the 6th-best offensive rebounding rate, Boston wins the possession battle nearly every night. Against a Charlotte team that turns it over 15.5 times per game, this 3+ possession advantage could be decisive.',
+        '<strong>Jaylen Brown has carried the franchise:</strong> With Tatum out for 60 games, Brown elevated to <strong>28.7 PPG (4th in NBA)</strong> with 7.0 RPG and 5.2 APG. Over the last 10 games: 30.8 PPG. He\'s the game\'s best player tonight and Charlotte has no perfect answer for his combination of size, scoring, and shot creation.',
+        '<strong>The defense has teeth again:</strong> Mazzulla shifted from passive ("don\'t foul, force tough shots") to active ("force turnovers"), moving from 24th to 12th in forced turnovers. They allow the 2nd-fewest paint points in the league and the 4th-fewest rim attempts. Queta\'s +14.4 net rating anchors the scheme.',
+        '<strong>Weakness — fouling and Tatum\'s rust:</strong> Boston sends opponents to the line <strong>27.6 times per game</strong> — a -7.7 free throw differential. And Tatum (14 games played, 41.2% FG, 33.3% from three) is still finding his rhythm after a ruptured Achilles. His shooting inconsistency could limit Boston\'s ceiling.',
+      ],
+    },
+  ],
+  keys: [
+    {
+      title: 'The turnover battle — Charlotte\'s 15.5 per game vs. Boston\'s league-best ball security',
+      description:
+        'This is the game\'s most lopsided statistical edge. Boston commits 12.3 turnovers per game — the fewest in the NBA. Charlotte coughs it up 15.5 times per game. That 3+ possession gap balloons against Boston\'s active, switching defense that generates 7.1 steals per game. In Game 1 (Charlotte\'s 118-89 blowout win), the Hornets committed only 5 turnovers while Boston had 16 — a complete role reversal that produced 21 Charlotte points off turnovers. If Charlotte can keep turnovers under 12 again, they can win. If Boston\'s defense forces 16+, the Celtics\' efficient offense will convert those extra possessions into a double-digit advantage.',
+    },
+    {
+      title: 'Can Charlotte\'s corner-three defense neutralize Boston\'s perimeter attack?',
+      description:
+        'Charlotte allows the fewest corner threes in the NBA — a direct counter to Boston\'s 41.8 three-point attempts per game. The Hornets\' scheme under Charles Lee (a former Celtics assistant who knows this offense intimately) funnels shooters away from high-value corner looks toward less efficient above-the-break shots. If Charlotte can hold Boston below 35% from three and limit Hauser\'s corner opportunities, they can keep the Celtics\' 120.7 offensive rating in check. But Boston has the shooting depth (Pritchard 37.2%, Garza 47% from three off the bench) to adapt and find open looks elsewhere.',
+    },
+    {
+      title: 'Tatum\'s presence vs. Tatum\'s rust — how much does his return change the calculus?',
+      description:
+        'Tatum missed Game 1 entirely (still recovering from his Achilles), and Charlotte won by 29. He returned for Game 2 and put up 32/5/8 in a 15-point Boston win. But his season numbers (41.2% FG, 33.3% from three in 14 games) suggest the rust is real. If Tatum attacks the basket and uses his 10.1 RPG rebounding advantage over Bridges, he tilts the game. If he settles for jumpers at 33%, Charlotte can live with those misses and run in transition off long rebounds.',
+    },
+    {
+      title: 'Charlotte\'s bench minutes — can the Hornets survive without Ball on the floor?',
+      description:
+        'Charlotte\'s starting five has a +29.3 net rating. But when Ball sits, the offense drops dramatically — Tre Mann (5.7 PPG) doesn\'t create the same gravity or passing angles. Boston\'s bench (Pritchard at 17.0 PPG, Vucevic at 9.9 PPG) is significantly deeper. If Mazzulla staggers Brown and Pritchard to keep a primary scorer on the floor at all times, Boston can build a 6-8 point lead during Charlotte\'s bench-heavy stretches. Lee needs Ball to play 34+ minutes and for Miller and Bridges to carry more offensive load during Ball\'s rest.',
+    },
+    {
+      title: 'Rebounding and second chances — Charlotte\'s best path to extra possessions',
+      description:
+        'Charlotte ranks 1st in total rebounding percentage since January 1 (55.8%) and 2nd in offensive rebounding rate (37.6%). Moussa Diabate crashes the offensive glass on 93% of opportunities. Against a Boston team that ranks 29th in paint-scoring percentage (perimeter-dominant), Charlotte can create 3-5 extra possessions through offensive rebounds that compensate for their turnover issues. Queta (8.4 RPG, 1.3 BPG) is Boston\'s counter — if he boxes out Diabate effectively, Charlotte loses their best avenue for bonus possessions.',
+    },
+  ],
+  prediction: {
+    summary:
+      '<p>This game comes down to depth, rest, and execution. Charlotte\'s starting five is legitimately the best in the NBA by net rating — but they\'re traveling from Minneapolis, potentially without Grant Williams and Mark Williams, and their bench can\'t sustain the offense when Ball sits. Boston is fully healthy for the first time all season, at home, with the league\'s most ball-secure offense and a defense that has evolved into an active, turnover-forcing unit.</p><p>The Tatum factor is decisive. He missed Game 1 and Charlotte won by 29. He played Game 2 and put up 32/5/8. His shooting is inconsistent (33.3% from three), but his presence alone changes Boston\'s defensive geometry and rebounding — he\'s grabbing 10.1 boards per game, which helps limit Charlotte\'s transition chances. Brown continues his MVP-caliber stretch at 30.8 PPG over the last 10, and Charlotte has no defender who can consistently slow him. Charlotte keeps it competitive through their elite starters and offensive rebounding, but Boston\'s turnover advantage, bench depth, and home court produce a comfortable second-half cushion.</p>',
+    phases: [
+      {
+        title: 'First Quarter — Setting the Tone',
+        description:
+          'Charlotte opens pushing pace, trying to replicate the Game 1 formula that shredded Boston in transition. Ball finds Knueppel for an early corner three, but Boston\'s defense is more prepared with Tatum\'s length helping seal transition lanes. Brown responds with a mid-range pull-up and a step-back three. Queta contests two Diabate putback attempts, limiting Charlotte\'s offensive rebounding edge early. Both teams shoot well from three in the opening frame. Celtics lead 29-27 after one.',
+      },
+      {
+        title: 'Second Quarter — The Bench Gap Opens',
+        description:
+          'Charlotte\'s starters trade blows with Boston\'s starters through the first four minutes, but the rotation change exposes the depth disparity. Pritchard enters and scores 8 quick points — two pull-up threes and a driving layup — while Mann and the Charlotte reserves struggle to create rhythm. White picks Ball\'s pocket on a crossover, leading to a Brown transition dunk. Boston builds a 9-point halftime lead. Charlotte\'s turnover count reaches 9 by the half, compared to Boston\'s 5.',
+      },
+      {
+        title: 'Third Quarter — Charlotte\'s Push',
+        description:
+          'Lee dials up adjustments he knows from his time on Boston\'s staff. Charlotte\'s starters rip off a 14-5 run to open the half — Miller hits two contested threes, Ball finds Bridges cutting for a dunk, and Diabate cleans up a miss with a putback slam. The lead shrinks to 2. But Mazzulla counters by going to a small lineup with Tatum at the five, spreading Charlotte\'s drop coverage. Brown attacks the closeout for 8 third-quarter points. Boston restores a 6-point cushion heading into the fourth.',
+      },
+      {
+        title: 'Fourth Quarter — Execution Over Urgency',
+        description:
+          'Charlotte has the desperation (play-in implications) but Boston has the execution edge. Ball drills a stepback three to cut the lead to 3 with 3:30 left, but White answers with a driving floater. Tatum misses an open three (33.3% on the season), keeping Charlotte alive, but Brown takes over — attacking Bridges off the dribble for a tough mid-range bucket, then drawing a foul and hitting both free throws. Charlotte commits its 16th turnover with 1:12 left on a Ball-to-Knueppel miscommunication, and Boston closes it out from the line.',
+      },
+    ],
+    projectedScore: {
+      teamA: 106,
+      teamB: 112,
+      rationale:
+        'The turnover differential is the deciding factor. Charlotte\'s 15.5 turnovers per game against Boston\'s active defense projects to 15-17 giveaways, while Boston\'s league-best ball security (12.3 TO/game) limits Charlotte\'s transition opportunities. The bench depth gap — Pritchard\'s 17 PPG vs. Mann\'s 5.7 — produces a 6-8 point swing during rotation minutes. Charlotte\'s elite starters keep it within striking distance through offensive rebounding and three-point shooting, but Brown\'s 30+ point performance, Tatum\'s rebounding and playmaking (even at reduced shooting efficiency), and TD Garden home court are enough for Boston to take the rubber match.',
+    },
+  },
+  players: [
+    {
+      team: 'a',
+      name: 'LaMelo Ball',
+      stats: 'PG | 19.5 PPG, 4.8 RPG, 7.1 APG, 1.2 SPG',
+      meta: '6\'7" | +13.6 net pts per 100 possessions (5th in NBA)',
+      bio: 'Ball is Charlotte\'s offensive engine — his <strong>+13.6 net points per 100 possessions</strong> when on the floor ranks 5th in the NBA behind only Jokic, Doncic, SGA, and Cunningham. He was electric in the most recent game: <strong>35 points (13-22 FG, 7-14 from three) and 8 assists</strong> in a win at Minnesota. In Game 1 of this series, he had 18 points and Charlotte committed only 5 turnovers. In Game 2, he managed 19/4/3 but the team shot 27% from three. The matchup with Derrick White is the game within the game — White\'s 1.1 SPG and 1.3 BPG make him one of the league\'s best at disrupting playmakers. Ball needs to protect the ball and control tempo to keep Charlotte\'s starters in their dominant rhythm.',
+    },
+    {
+      team: 'a',
+      name: 'Kon Knueppel',
+      stats: 'SG | 18.8 PPG, 5.4 RPG, 3.4 APG | 48.1% FG',
+      meta: '#4 Overall Pick | Franchise Record: 261 Made Threes',
+      bio: 'The Rookie of the Year frontrunner has been historically efficient — his <strong>true shooting jumps to 70.3% when playing alongside Ball</strong>, and his 261 made threes shattered the Hornets\' franchise record. Knueppel thrives as a short-roller in pick-and-roll actions and as an off-ball mover who finds open space. Against Boston\'s switching defense, he\'ll face longer, more athletic closeouts than most opponents provide. In Game 1, he <strong>led all scorers with 20 points</strong>. Boston\'s challenge is containing his catch-and-shoot game without leaving Ball open on drive-and-kick sequences.',
+    },
+    {
+      team: 'a',
+      name: 'Brandon Miller',
+      stats: 'SF | 20.4 PPG, 5.0 RPG, 3.4 APG | 56.8% TS',
+      meta: 'Two-Way Wing | Co-Lead Scorer',
+      bio: 'Miller is Charlotte\'s most complete two-way player — <strong>20.4 PPG on 56.8% true shooting</strong> with the ability to guard the opponent\'s best perimeter player. He\'s been scorching recently: 52.3% from the field and 100% from the free throw line over his last 3-game stretch. He had <strong>18 points in the Game 1 blowout</strong> and will likely draw the Jaylen Brown assignment defensively — a massive task given Brown\'s 28.7 PPG and physical scoring style. If Miller can limit Brown to below 45% shooting while contributing 18+ on offense, Charlotte can compete.',
+    },
+    {
+      team: 'a',
+      name: 'Moussa Diabate',
+      stats: 'C | 8.1 PPG, 8.8 RPG, 1.9 APG, 1.0 BPG | 62.8% FG',
+      meta: 'Starting C | 93rd percentile offensive rebound crash rate',
+      bio: 'Diabate won\'t lead any scoring columns, but his <strong>offensive rebounding (93rd percentile crash rate)</strong> is Charlotte\'s best path to extra possessions against Boston\'s perimeter-dominant offense. Since the All-Star break: 7.5 PPG, 9.2 RPG, 2.6 APG with improved passing from the high post. He\'s the anchor of Charlotte\'s drop coverage scheme — and against a Boston team that ranks 29th in paint-scoring percentage, Diabate can focus on the glass rather than rim protection. The matchup with Queta (+14.4 net rating) is a physical battle that will determine whether Charlotte gets the 3-5 extra possessions they need to offset their turnover issues. <em>Note: ankle soreness listed April 3 — monitor status.</em>',
+    },
+    {
+      team: 'b',
+      name: 'Jaylen Brown',
+      stats: 'SF | 28.7 PPG, 7.0 RPG, 5.2 APG, 1.0 SPG',
+      meta: '4th in NBA Scoring | 30.8 PPG over last 10 games',
+      bio: 'Brown has been the Celtics\' undisputed alpha all season, carrying the franchise through Tatum\'s 60-game absence to a 2-seed. His <strong>28.7 PPG ranks 4th in the NBA</strong>, and he\'s elevated over the last 10 games to 30.8 PPG on improved efficiency (36.4% from three). He just reached 3,000 career defensive rebounds — a franchise milestone. In Game 1, he had 20/11 in a blowout loss where Boston\'s shooting cratered. He missed Game 2 (Achilles tendinitis). Tonight is his first game against Charlotte with Tatum beside him. Brown\'s combination of physical scoring, mid-range craft, and transition finishing gives Charlotte no clean defensive answer — Miller will compete, but Brown\'s size and strength advantage create constant pressure.',
+    },
+    {
+      team: 'b',
+      name: 'Jayson Tatum',
+      stats: 'PF | 21.5 PPG, 10.1 RPG, 5.2 APG, 1.4 SPG (14 GP)',
+      meta: 'Returned March 6 from Ruptured Achilles | 41.2% FG',
+      bio: 'Tatum\'s presence is the single biggest variable in this matchup. He <strong>missed Game 1 entirely</strong> — Charlotte won by 29. He <strong>returned for Game 2 and put up 32/5/8</strong> in a 15-point Boston win. The rust is real: 41.2% FG and 33.3% from three in 14 games since returning. But his <strong>10.1 rebounds and 5.2 assists</strong> per game show his playmaking and physical impact remain elite. Against Charlotte, his length disrupts transition lanes and his rebounding limits second-chance opportunities that Charlotte relies on. If he attacks the rim rather than settling for threes, he can be the difference.',
+    },
+    {
+      team: 'b',
+      name: 'Derrick White',
+      stats: 'PG | 16.7 PPG, 4.5 RPG, 5.5 APG | 1.1 SPG, 1.3 BPG',
+      meta: 'Two-Way Anchor | 90.0% FT | Elite Guard Defender',
+      bio: 'White is Boston\'s most complete two-way player and the primary defender against LaMelo Ball tonight. His <strong>1.1 steals and 1.3 blocks per game</strong> are rare for a guard and make him one of the league\'s best at disrupting ball-handlers. His shooting has dipped in the last 10 games (28.0% from three), but his 90% free throw shooting and 5.5 APG keep the offense running. In Game 1, <strong>White led Boston with 29 points</strong> despite the blowout loss. If he can force Ball into 4+ turnovers while contributing 15+ on offense, Boston controls the game\'s most important individual matchup.',
+    },
+    {
+      team: 'b',
+      name: 'Payton Pritchard',
+      stats: 'PG | 17.0 PPG, 4.0 RPG, 5.1 APG | 46.2% FG, 37.2% 3PT',
+      meta: 'Career-Best Season | Bench Spark or Starter',
+      bio: 'Pritchard is having the best season of his career — <strong>17.0 PPG on 46.2% FG and 37.2% from three</strong> — and represents Boston\'s biggest depth advantage. He started the first 48 games before moving to a bench role after the Vucevic trade, and he dropped 42 points on Cleveland in November. His low turnover rate (1.4/game) fits Boston\'s ball-security identity. When Charlotte\'s bench enters, Pritchard\'s scoring punch creates a mismatch against Mann that can swing the game by 6-8 points during rotation minutes. He\'s the player Charlotte\'s thin bench has no answer for.',
+    },
+  ],
+  trends: [
+    {
+      title: 'Scoring Patterns',
+      bullets: [
+        '<strong>Both teams are 8-2 in their last 10 games</strong> — Charlotte is averaging 117.9 PPG while allowing 107.5, and Boston is averaging 116.8 PPG while allowing 107.0. Both offenses are clicking at their highest levels of the season.',
+        '<strong>Charlotte is a dramatically better second-half team:</strong> 11-22 through December 31, then <strong>32-14 since January 1</strong> — the best record in the NBA over that span. Their offensive rating jumped from 115.1 overall to 119.8 since the new year (1st in NBA).',
+        '<strong>Boston\'s offensive ceiling is enormous:</strong> They\'ve scored 147 (vs. Miami), 133 (at Milwaukee), and 120 (vs. Golden State) in recent games. But the floor is low when shots don\'t fall — just 92 points vs. Minnesota on March 22.',
+        '<strong>Charlotte is on a 4-game win streak</strong> (Minnesota, Indiana, Phoenix, Brooklyn), while Boston has won 3 straight (Milwaukee, Toronto, and a close win over Atlanta). Both teams enter with momentum and confidence.',
+        '<strong>The season series scoring has been extreme:</strong> Charlotte won Game 1 by 29 points (118-89) and Boston won Game 2 by 15 points (114-99). Neither game was close — expect another decisive outcome driven by whichever team controls turnovers.',
+      ],
+    },
+    {
+      title: 'Matchup Dynamics',
+      bullets: [
+        '<strong>Three-point volume collision:</strong> Boston fires 41.8 threes per game (2nd in NBA) into Charlotte\'s defense that allows the <strong>fewest corner threes in the league</strong>. Charles Lee (former Celtics assistant) specifically designed his scheme to take away corner looks — directly targeting Boston\'s floor-spacing system.',
+        '<strong>Turnover differential is the decisive edge:</strong> Boston\'s 12.3 turnovers per game (1st) vs. Charlotte\'s 15.5 creates a <strong>3+ possession gap</strong> that compounds over 48 minutes. In Game 1, Charlotte flipped this (5 TO vs. Boston\'s 16) — the anomaly that produced a 29-point win.',
+        '<strong>Paint scoring is a non-factor:</strong> Boston ranks 29th in percentage of points from the paint, and Charlotte\'s offense is perimeter-oriented. This game will be decided by three-point shooting, turnovers, and free throws — not post-ups or rim attacks.',
+        '<strong>Offensive rebounding is Charlotte\'s equalizer:</strong> Since January 1, Charlotte ranks 2nd in offensive rebounding rate (37.6%). Diabate\'s 93rd-percentile crash rate against Boston\'s perimeter-heavy misses (long rebounds off three-point attempts) can generate 3-5 extra possessions that offset turnover losses.',
+      ],
+    },
+    {
+      title: 'Lineup & Rotation Trends',
+      bullets: [
+        '<strong>Charlotte\'s starting five (Ball/Knueppel/Miller/Bridges/Diabate) has a +29.3 net rating</strong> — the best of any high-usage lineup in the NBA. They\'re 26-5 when starting together. But when Kalkbrenner replaces Diabate, defensive rating balloons from 111.7 to 125.3.',
+        '<strong>Boston\'s Queta-anchored lineups carry a +14.4 net rating.</strong> The Portuguese center is arguably Boston\'s most irreplaceable player after Brown — his rim protection and rebounding anchor the defense. Career-high 27/17/3 vs. Philadelphia on March 1.',
+        '<strong>Pritchard\'s role flexibility is a weapon:</strong> He started 48 games early in the season (while Tatum was out), then shifted to a bench role post-trade deadline. His 17.0 PPG and 37.2% from three give Mazzulla the option to go small with Pritchard-White-Brown-Hauser-Tatum — a lineup Charlotte\'s drop coverage would struggle against.',
+        '<strong>Charlotte\'s bench is its Achilles\' heel:</strong> Mann (5.7 PPG), Kalkbrenner (8.5 PPG in spot starts), and the inconsistent Salaun (10.8 PPG since G-League recall) must survive against Pritchard, Vucevic, and Walsh. The 5-7 minute stretches when Ball rests are Charlotte\'s most vulnerable moments.',
+      ],
+    },
+    {
+      title: 'Form & Context',
+      bullets: [
+        '<strong>Travel and fatigue favor Boston:</strong> Charlotte played at Minnesota on April 5, then traveled to Boston for this April 7 game. One day of rest with a cross-country flight. Boston is at home with one day of rest after hosting Toronto on April 5.',
+        '<strong>Boston is fully healthy for the first time this season.</strong> Only the third time Mazzulla has had his entire roster available. Tatum (Achilles), Vucevic (finger), and Brown are all cleared. Charlotte is missing PJ Hall (ankle fracture, out indefinitely) and may be without Mark Williams (foot) and Grant Williams (knee management on road games).',
+        '<strong>Playoff stakes are asymmetric:</strong> Charlotte (8th seed) is fighting for play-in positioning — every win matters. Boston (2nd seed) has largely locked up their position (3.5 GB of Detroit with 4 to play) and may manage Tatum\'s minutes. But this is a nationally televised game (NBC/Peacock) with rubber-match pride on the line.',
+        '<strong>Charles Lee knows Boston\'s system intimately:</strong> The second-year Hornets coach was a Celtics assistant before taking the Charlotte job. He schemed the 29-point blowout at TD Garden in Game 1 — the question is whether Mazzulla has adjusted, especially with Tatum now changing the defensive equation.',
+        '<strong>Home-court history:</strong> Boston is 27-11 at TD Garden this season. Across the last 10 head-to-head meetings at TD Garden, Boston has won 8 and Charlotte 2 — but Charlotte\'s most recent visit was the 118-89 blowout.',
+      ],
+    },
+  ],
+  sources: [
+    {
+      heading: 'Charlotte Hornets Sources',
+      links: [
+        { label: 'ESPN: Hornets Team Page', url: 'https://www.espn.com/nba/team/_/name/cha/charlotte-hornets' },
+        { label: 'Basketball Reference: 2025-26 Hornets', url: 'https://www.basketball-reference.com/teams/CHO/2026.html' },
+        { label: 'The Ringer: Charlotte Hornets Are Buzzing', url: 'https://www.theringer.com/2026/03/12/nba/charlotte-hornets-offense-kon-knueppel-lamelo-ball-charles-lee' },
+        { label: 'NBA.com: 5 Reasons Behind Charlotte\'s Turnaround', url: 'https://www.nba.com/news/5-reasons-behind-charlottes-tremendous-turnaround' },
+        { label: 'SI: Kalkbrenner\'s Defensive Impact', url: 'https://www.si.com/nba/hornets/onsi/news/ryan-kalkbrenner-s-rookie-year-evolution-has-the-charlotte-hornets-defense-humming' },
+        { label: 'SI: Inside the Hornets\' League-Leading Lineup', url: 'https://www.si.com/nba/hornets/onsi/news/inside-the-numbers-of-the-charlotte-hornets-league-leading-five-man-lineup' },
+        { label: 'NBA.com: Knueppel Franchise Record for 3s', url: 'https://www.nba.com/news/charlottes-kon-knueppel-sets-hornets-franchise-record-for-3-pointers-in-a-season' },
+        { label: 'Hornets PR: Injury Report (April 7)', url: 'https://x.com/HornetsPR/status/2041267914880274899' },
+        { label: 'Fox Sports: Hornets Seek 5th Straight Win', url: 'https://www.foxsports.com/articles/nba/hornets-face-the-celtics-look-for-5th-straight-win' },
+        { label: 'Charlotte Today: Starting Five Dominating the NBA', url: 'https://nationaltoday.com/us/nc/charlotte/news/2026/04/05/charlotte-hornets-starting-five-dominating-the-nba/' },
+      ],
+    },
+    {
+      heading: 'Boston Celtics Sources',
+      links: [
+        { label: 'ESPN: Celtics Team Page', url: 'https://www.espn.com/nba/team/_/name/bos/boston-celtics' },
+        { label: 'ESPN: Jaylen Brown Player Page', url: 'https://www.espn.com/nba/player/_/id/3917376/jaylen-brown' },
+        { label: 'ESPN: Jayson Tatum Player Page', url: 'https://www.espn.com/nba/player/_/id/4065648/jayson-tatum' },
+        { label: 'ESPN: Derrick White Player Page', url: 'https://www.espn.com/nba/player/_/id/3078576/derrick-white' },
+        { label: 'ESPN: Payton Pritchard Player Page', url: 'https://www.espn.com/nba/player/_/id/4066354/payton-pritchard' },
+        { label: 'NBC Sports: Mazzulla COTY Case', url: 'https://www.nbcsports.com/nba/news/nba-2025-26-midseason-coach-of-the-year-joe-mazzulla-boston-celtics' },
+        { label: '98.5 The Sports Hub: Celtics Clean Injury Report', url: 'https://985thesportshub.com/2026/04/06/celtics-injury-report/' },
+        { label: 'CelticsBlog: Power of Staying Ready', url: 'https://www.celticsblog.com/articles/134025/the-2025-26-celtics-possess-the-power-of-staying-ready' },
+        { label: 'ESPN: Hornets 118, Celtics 89 Recap (Mar 4)', url: 'https://www.espn.com/nba/recap/_/gameId/401810749' },
+        { label: 'Basketball Reference: Celtics 114, Hornets 99 (Mar 29)', url: 'https://www.basketball-reference.com/boxscores/202603290CHO.html' },
+        { label: 'Yahoo Sports: 2026 NBA Playoff Picture', url: 'https://sports.yahoo.com/nba/article/2026-nba-playoff-picture-april-7-clinching-scenarios-and-stakes-for-postseason-contenders-173254110.html' },
+        { label: 'StatMuse: Celtics Ratings', url: 'https://www.statmuse.com/nba/ask/celtics-offensive-rating-defensive-rating-pace-2025-26' },
+      ],
+    },
+  ],
+  footerText: 'Hornets at Celtics — April 7, 2026 — TD Garden, Boston',
+}
+
+export default game
