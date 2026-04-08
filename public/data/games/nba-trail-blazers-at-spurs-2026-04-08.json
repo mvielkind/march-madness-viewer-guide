@@ -1,0 +1,350 @@
+{
+  "slug": "nba-trail-blazers-at-spurs-2026-04-08",
+  "title": "Trail Blazers at Spurs",
+  "eventTag": "NBA — Play-In Push on ESPN",
+  "date": "Wednesday, April 8, 2026 • 9:30 PM ET",
+  "round": "Regular Season",
+  "tipTime": "2026-04-08T21:30",
+  "venue": "Frost Bank Center, San Antonio, TX • ESPN / KUNP / FDSSW",
+  "extraInfo": "Game 3 of 3 — Season series tied 1-1. San Antonio won 115-102 on Nov. 26 (Fox: 37 pts, 8 ast). Portland won 115-110 on Jan. 3. Fox has averaged 28.0 PPG on 46.2% FG against Portland this season.",
+  "teams": [
+    {
+      "name": "Portland",
+      "mascot": "Trail Blazers",
+      "seed": "9",
+      "record": "40-39",
+      "colors": {
+        "primary": "#E03A3E",
+        "secondary": "#000000",
+        "name": "trail-blazers"
+      },
+      "className": "trail-blazers"
+    },
+    {
+      "name": "San Antonio",
+      "mascot": "Spurs",
+      "seed": "2",
+      "record": "60-19",
+      "colors": {
+        "primary": "#C4CED4",
+        "secondary": "#000000",
+        "name": "spurs"
+      },
+      "className": "spurs"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "stakes",
+      "label": "Matchup Breakdown"
+    },
+    {
+      "id": "styles",
+      "label": "Styles of Play"
+    },
+    {
+      "id": "keys",
+      "label": "Keys to the Game"
+    },
+    {
+      "id": "prediction",
+      "label": "Prediction"
+    },
+    {
+      "id": "players",
+      "label": "Players to Watch"
+    },
+    {
+      "id": "trends",
+      "label": "Trends"
+    },
+    {
+      "id": "sources",
+      "label": "Sources"
+    }
+  ],
+  "stakes": {
+    "callout": "A nationally televised rubber match with contrasting stakes. The <strong>Trail Blazers</strong> (40-39) are clinging to the 9th seed in a tight play-in race with the Clippers (40-38), and every game down the stretch carries postseason weight. Portland is 8-2 in its last 10 and riding Deni Avdija's All-Star breakout (24.0 PPG, 7.0 RPG, 6.7 APG) and Jrue Holiday's veteran steadiness. The <strong>Spurs</strong> (60-19) have clinched the 2-seed and home court through the second round, but Victor Wembanyama's MVP and DPOY chase adds urgency — he needs to play at least 20 minutes in one of San Antonio's final three games to remain eligible for individual awards. Wembanyama is listed day-to-day with a bruised rib, making his availability the game's biggest variable.",
+    "cards": [
+      {
+        "label": "Season Series Tied 1-1",
+        "value": "San Antonio won <strong>115-102 on Nov. 26</strong> with De'Aaron Fox exploding for 37 points and 8 assists. Portland answered with a <strong>115-110 win on Jan. 3</strong>. Fox has averaged 28.0 PPG on 46.2% FG and 41.7% from three in two games against Portland — the rubber match is his to dominate or Portland's to steal."
+      },
+      {
+        "label": "Portland's Play-In Fight",
+        "value": "At 40-39, the Blazers sit in the <strong>9th seed</strong> — one game ahead of Golden State for the final play-in spot, but one game behind the Clippers for 8th. They're 8-2 in their last 10 games, the hottest stretch of their season. A loss here drops them into a dangerous tie with the Warriors."
+      },
+      {
+        "label": "Wembanyama's MVP/DPOY Chase",
+        "value": "Wembanyama (24.8 PPG, 11.5 RPG, 3.1 BPG) is day-to-day with a bruised rib after a collision with Paul George on April 6. He must play <strong>at least 20 minutes in one of the Spurs' final three games</strong> to remain eligible for MVP, DPOY, and All-NBA. If he plays, expect managed minutes. If he sits, the Spurs' defensive identity shifts dramatically."
+      },
+      {
+        "label": "Spurs' Historic Season",
+        "value": "San Antonio's <strong>60-19 record</strong> is the franchise's best since 2016-17 and represents a 26-win improvement over last season's 34-48. Mitch Johnson has built a defense-first juggernaut around Wembanyama, with the 3rd-best defensive rating in the NBA (108.5)."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "Pace-Pushing, Avdija-Centric, Drop Coverage Defense",
+      "bullets": [
+        "<strong>Deni Avdija is the offensive engine:</strong> The first Israeli All-Star is averaging 24.0 PPG, 7.0 RPG, and 6.7 APG — one of just three players (with Jokic and Doncic) averaging 25/7/6. His 13.6 potential assists per game rank in the NBA's top 10, and his 60.5% true shooting represents a career-best leap. He creates out of pick-and-roll, isolation, and as a point-forward initiator.",
+        "<strong>Pace is the identity:</strong> Portland ranks <strong>3rd in the NBA in pace</strong>, pushing tempo off every defensive rebound. Interim HC Tiago Splitter's P.A.C.E. philosophy emphasizes transition opportunities and never letting the defense set. The Blazers are 3rd in offensive rebounding percentage and 4th in three-point attempts (42.3/game), creating volume through speed.",
+        "<strong>Jrue Holiday adds championship poise:</strong> Traded from Boston for Anfernee Simons in the offseason, Holiday is averaging 16.4 PPG and 6.2 APG while shooting <strong>39.0% from three</strong> — the best mark on the team. His recent form is scorching: 27 points (7 threes) vs. New Orleans, 30 vs. the Clippers.",
+        "<strong>Clingan anchors the drop defense:</strong> Donovan Clingan (12.1 PPG, 11.6 RPG, 1.7 BPG) is the 10th-ranked rim protector in the NBA. At 7'2\", 280 lbs, he deters drives and cleans the glass. Portland's defensive scheme funnels ball-handlers into Clingan's drop coverage — effective against most bigs, but a liability when the opposing center can shoot.",
+        "<strong>Weaknesses — turnovers and perimeter defense:</strong> Portland's 17.4 turnovers per game and 24th-ranked defensive rating (113.5) are persistent problems. They allow 118.1 PPG and opponents shoot freely from three. Against San Antonio's disciplined offense (13.5 TOV/game), the turnover gap could mean 4-6 extra Spurs possessions."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "Wembanyama-Anchored Defense, Fox-Driven Playmaking",
+      "bullets": [
+        "<strong>Wembanyama is the most impactful defender in basketball:</strong> His 3.1 blocks per game lead the NBA (11th all-time in block percentage). Opponents shoot <strong>50.8% in the paint with Wemby on the floor vs. 58.8% with him off</strong> and take 10+ fewer shots per game at the rim when he's present. The Spurs funnel drives into his help-side contest, allowing the most midrange attempts in the league while erasing everything at the rim.",
+        "<strong>De'Aaron Fox is the offensive catalyst:</strong> Fox (18.4 PPG, 6.1 APG, 48.8% FG) drives the Spurs' pick-and-roll attack. His speed and penetration collapse defenses, creating open looks for shooters and lob threats for Wembanyama. Fox has been especially lethal against Portland — <strong>28.0 PPG on 46.2% shooting in two games</strong> this season, including a 37-point eruption in November.",
+        "<strong>Stephon Castle has emerged as a two-way star:</strong> The sophomore guard (16.8 PPG, 5.2 RPG, 7.4 APG) posted a triple-double (17/13/10) against Philadelphia on April 6. At 6'6\", his size allows San Antonio to switch defensively while his playmaking (7.4 APG) keeps the offense flowing alongside Fox.",
+        "<strong>Elite offensive efficiency at scale:</strong> San Antonio's <strong>114.7 offensive rating ranks 7th</strong> in the NBA, powered by 48.3% shooting and 28.1 APG. Devin Vassell (14.0 PPG, 38.7% from three) spaces the floor, and Keldon Johnson (13.0 PPG, 52.0% FG) provides efficient scoring off the bench. The Spurs commit just 13.5 turnovers per game — one of the best marks in the league.",
+        "<strong>Weaknesses — Wembanyama's availability and three-point volume:</strong> Wemby's rib injury clouds everything. Without him, the Spurs' defensive identity collapses — his rim deterrence is irreplaceable. Additionally, San Antonio's three-point shooting (35.9%) is good but not elite, and Fox's recent slump (25.6% from three in last 10 games) limits floor spacing."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "Can Clingan's drop coverage survive the Fox-Wembanyama pick-and-roll?",
+      "description": "Portland's defensive scheme drops Clingan deep to protect the rim while wings chase over screens. Against most teams, this works — Clingan's 7'2\" frame deters drives. But against San Antonio, it's a mismatch waiting to happen. Wembanyama can pop for threes at 35.0% accuracy, pulling Clingan out of the paint and eliminating his rim protection. If Clingan stays back, Wemby hits the open three. If Clingan comes up, Fox attacks a clear lane to the rim. Portland's only counter is switching — but that puts smaller defenders on Wembanyama in the post. Splitter's defensive adjustment here is the most important coaching decision of the game."
+    },
+    {
+      "title": "Portland's 17.4 turnovers per game vs. San Antonio's 13.5 — the possession battle",
+      "description": "This is the game's most lopsided statistical edge. Portland commits 17.4 turnovers per game — San Antonio commits 13.5. That's a 4-possession gap every night, and against a team with a 114.7 offensive rating, those extra possessions translate to roughly 4-5 free points. Fox (1.2 SPG) and Castle (1.1 SPG) are active in the passing lanes, and Wembanyama's length deters cross-court passes. If Portland's turnover count reaches 18+, the Spurs' efficient offense will bury them. Portland needs to stay under 14 turnovers to have a chance."
+    },
+    {
+      "title": "De'Aaron Fox's 28.0 PPG against Portland — can Holiday contain his Portland-killer form?",
+      "description": "Fox has been Portland's nightmare this season: 37 points in November, a combined 28.0 PPG on 46.2% shooting and 41.7% from three in two meetings. But his recent form (15.3 PPG, 25.6% from three in last 10 games) suggests a slump. Jrue Holiday's elite perimeter defense — he was an All-Defensive selection in Milwaukee — is the ideal counter. If Holiday can funnel Fox into Clingan's drop and limit transition opportunities, Portland neutralizes San Antonio's most dangerous weapon against them. If Fox rediscovers his Portland form, the Blazers' play-in hopes take a major hit."
+    },
+    {
+      "title": "If Wembanyama sits (rib) — does Portland's upset window blow wide open?",
+      "description": "Wembanyama is day-to-day with a bruised rib. If he plays, Portland faces the NBA's most imposing defensive presence — opponents take 10+ fewer shots per game at the rim when he's on the floor. If he sits, the Spurs lose their defensive identity, rim protection, and 24.8 PPG of offense. Clingan suddenly becomes the best big on the floor, Portland's pace-pushing becomes harder to contain, and Avdija's drives to the basket face far less resistance. Portland's odds of an upset roughly double without Wembanyama. Expect Splitter to attack the paint aggressively if Wemby is out."
+    },
+    {
+      "title": "Can Portland's bench survive San Antonio's depth advantage?",
+      "description": "Portland's bench (Caleb Love at 10.8 PPG on 38.9% FG, Robert Williams III at 6.7/6.9, Matisse Thybulle for defense) is functional but thin — especially with Sharpe out for the season and Grant day-to-day. San Antonio counters with Dylan Harper (11.8 PPG, 50.8% FG as a rookie), Keldon Johnson (13.0 PPG, 52.0% FG), and Harrison Barnes (9.9 PPG, 38.9% from three). The Spurs' second unit outscores Portland's by a significant margin. The 5-7 minute stretches when Avdija and Holiday rest are Portland's most vulnerable moments."
+    }
+  ],
+  "prediction": {
+    "summary": "<p>This game hinges on Wembanyama's availability — but even if he plays limited minutes, San Antonio's system advantages are substantial. The Spurs' defense (3rd in the NBA, 108.5 DRTG) suffocates Portland's pace-pushing attack by limiting transition opportunities through elite ball security (13.5 TOV/game). Portland's 17.4 turnovers per game against Fox and Castle's active hands project to 16-18 giveaways, creating a 4-5 possession gap that San Antonio's efficient offense (114.7 ORTG, 7th) converts into a comfortable cushion.</p><p>Portland's path to competitiveness runs through Holiday's hot shooting (39.0% from three, 27 and 30-point outings in his last two home games), Avdija's playmaking, and Clingan dominating the glass. If they can limit turnovers to under 14 and push pace before San Antonio sets its half-court defense, the Blazers have the offensive firepower to keep it close. But Fox's history of destroying Portland (28.0 PPG this season) and the bench depth gap make this an uphill climb on the road. San Antonio's home record and defensive infrastructure carry them to the season-series win.</p>",
+    "phases": [
+      {
+        "title": "First Quarter — Portland Pushes Pace",
+        "description": "Portland comes out with play-in urgency, pushing transition off every defensive rebound. Henderson attacks early for a driving layup, and Holiday knocks down a pull-up three in transition. But Wembanyama settles in with a mid-range face-up jumper and a thunderous block on a Clingan hook shot, sending a message. Fox finds Vassell for an open corner three off a drive-and-kick. The Spurs' half-court defense begins to tighten. San Antonio leads 30-27 after one."
+      },
+      {
+        "title": "Second Quarter — The Depth Gap Opens",
+        "description": "Portland's bench enters and the offensive flow stalls. Caleb Love forces two contested threes that rim out, and the Blazers commit three turnovers in a four-minute stretch. San Antonio's Harper connects on a pull-up mid-range, and Keldon Johnson attacks the offensive glass for a putback dunk. Fox pushes pace off a Holiday turnover for an easy layup. Portland's turnover count reaches 10 by halftime. Spurs build a 62-53 lead at the break."
+      },
+      {
+        "title": "Third Quarter — Avdija Responds",
+        "description": "Splitter's halftime adjustments take hold. Avdija attacks Wembanyama off the dribble, drawing two fouls and getting to the line. Holiday continues his hot streak with two more threes from the wing. Portland rips off a 12-4 run to cut the lead to 1. But Wembanyama responds — a stepback three over Clingan, a chase-down block on Camara, and a transition slam off a Castle feed. San Antonio restores a 7-point cushion heading to the fourth, 92-85."
+      },
+      {
+        "title": "Fourth Quarter — Fox Closes the Door",
+        "description": "Portland's desperation produces runs but also turnovers. Henderson drives for a tough finish, and Camara hits a corner three to make it a 4-point game with 3:30 left. But Fox — who lives for these moments against Portland — isolates against Henderson and hits a tough pull-up floater. Avdija answers with a mid-range jumper to make it 108-104 with 1:45 left. Wembanyama blocks Holiday's driving attempt at the rim, and Fox sinks two free throws to seal it."
+      }
+    ],
+    "projectedScore": {
+      "teamA": 106,
+      "teamB": 114,
+      "rationale": "The turnover differential is decisive. Portland's 17.4 turnovers per game against San Antonio's active defense projects to 16-18 giveaways, while the Spurs' disciplined offense limits Portland to 10-12 steals. That 4-5 possession gap, combined with the bench depth advantage (Harper/Johnson/Barnes outscoring Love/Williams/Thybulle), produces a comfortable second-half cushion. Fox's Portland-killer tendencies (28.0 PPG this season) and Wembanyama's rim deterrence — even in limited minutes — suppress Portland's paint scoring and transition identity. Holiday and Avdija keep it competitive, but San Antonio's home court, defensive infrastructure, and superior depth control the fourth quarter."
+    }
+  },
+  "players": [
+    {
+      "team": "a",
+      "name": "Deni Avdija",
+      "stats": "SF | 24.0 PPG, 7.0 RPG, 6.7 APG, 0.8 SPG",
+      "meta": "First Israeli All-Star | 60.5% TS | Top-10 in Potential Assists",
+      "bio": "Avdija's breakout has been historic — he's one of <strong>three players averaging 25/7/6</strong> alongside Jokic and Doncic. His 13.6 potential assists per game rank in the NBA's top 10, and his 60.5% true shooting represents a massive leap from prior seasons. Against San Antonio, he faces his toughest test: Wembanyama's help-side rim protection eliminates the driving lanes Avdija thrives in, and his 31.5% three-point shooting means the Spurs can sag off and dare him to shoot. Avdija must use his playmaking to create for others when his own scoring is contested — finding Clingan on lobs over smaller defenders and Holiday on kick-outs when Wemby commits to help."
+    },
+    {
+      "team": "a",
+      "name": "Jrue Holiday",
+      "stats": "PG | 16.4 PPG, 4.5 RPG, 6.2 APG | 39.0% 3PT",
+      "meta": "Former All-Defensive Team | 27 pts (7 3s) vs. NOP, 30 vs. LAC recently",
+      "bio": "Holiday is playing the best basketball of Portland's season at exactly the right time. His <strong>39.0% three-point shooting</strong> leads the team, and he's scored 27 and 30 in his last two home games. Traded from Boston in the offseason for Anfernee Simons, Holiday brings championship experience and elite two-way play. His defensive assignment tonight is critical: <strong>De'Aaron Fox has averaged 28.0 PPG against Portland</strong> this season, including a 37-point eruption in November. Holiday's All-Defensive pedigree makes him the only Blazer capable of containing Fox's speed, but Fox's burst off the dribble tests even the best defenders."
+    },
+    {
+      "team": "a",
+      "name": "Donovan Clingan",
+      "stats": "C | 12.1 PPG, 11.6 RPG, 2.1 APG, 1.7 BPG",
+      "meta": "7'2\" Rim Protector | 10th in NBA Rim Protection | 51.9% FG",
+      "bio": "Clingan is Portland's defensive anchor — <strong>10th in the NBA in rim protection</strong> with 1.7 blocks per game and the size (7'2\", 280 lbs) to deter drives before they happen. His 11.6 rebounds per game are the backbone of Portland's transition offense. But tonight he faces his ultimate litmus test: Wembanyama. Clingan's drop coverage is designed to protect the paint, but Wemby's <strong>35.0% three-point shooting</strong> pulls him out of his comfort zone. If Clingan drops, Wemby pops for open threes. If Clingan hedges high, Fox attacks a wide-open lane. Clingan scored 18 points and grabbed 12 boards in the OT loss at Denver on April 7 — he'll need similar production on the glass to give Portland second chances."
+    },
+    {
+      "team": "a",
+      "name": "Scoot Henderson",
+      "stats": "PG | 14.2 PPG, 2.7 RPG, 3.8 APG | 41.8% FG, 35.7% 3PT",
+      "meta": "Sophomore Guard | 28 pts vs. IND (Season High) | 27 GP",
+      "bio": "Henderson's season has been disrupted by injuries (only 27 games), but when healthy he flashes the explosive scoring that made him the #3 pick. His <strong>28-point eruption against Indiana</strong> and 23 against Milwaukee show his ceiling. In Portland's current small lineup without Grant, Henderson starts alongside Holiday in the backcourt — a pairing that's won two straight. Against San Antonio, his speed can exploit transition opportunities, but Castle's size advantage (6'6\" vs. Henderson's 6'2\") is a concern on both ends. Henderson must pick his spots aggressively and avoid turnovers that feed San Antonio's transition game."
+    },
+    {
+      "team": "b",
+      "name": "Victor Wembanyama",
+      "stats": "C | 24.8 PPG, 11.5 RPG, 3.1 APG, 3.1 BPG",
+      "meta": "MVP & DPOY Candidate | Day-to-Day (Rib) | Must Play 20 Min for Award Eligibility",
+      "bio": "The most dominant two-way force in basketball is day-to-day with a bruised rib — and his availability changes everything about this game. If healthy, Wembanyama's numbers are staggering: <strong>3.1 blocks per game (leads NBA), opponents shoot 50.8% in the paint with him on vs. 58.8% off</strong>, and he scores 24.8 PPG on 51.0% shooting with range to 35.0% from three. He had back-to-back <strong>41-point games</strong> against Golden State on April 1-2 before the rib injury. His 9.21 block percentage ranks 11th all-time. Against Portland's drop coverage, he can pull Clingan to the perimeter and create mismatches everywhere. Even in limited minutes for award eligibility, his impact will be transformational."
+    },
+    {
+      "team": "b",
+      "name": "De'Aaron Fox",
+      "stats": "PG | 18.4 PPG, 3.7 RPG, 6.1 APG | 48.8% FG, 1.2 SPG",
+      "meta": "Portland Killer: 28.0 PPG in 2 Games vs. POR | $229M Extension",
+      "bio": "Fox has been <strong>Portland's worst nightmare</strong> this season: 37 points in November's blowout win, 28.0 PPG on 46.2% FG and 41.7% from three across two meetings. His speed and penetration are ideally suited to exploit Portland's drop coverage — Clingan sits back, and Fox attacks the open lane. However, his <strong>recent form is concerning: 15.3 PPG and 25.6% from three over his last 10 games</strong>. The question is which Fox shows up. Holiday's All-Defensive-caliber perimeter defense is the toughest assignment Fox has faced during this slump. If Fox's jumper stays cold, he must rely on his speed to create at the rim and in transition."
+    },
+    {
+      "team": "b",
+      "name": "Stephon Castle",
+      "stats": "PG | 16.8 PPG, 5.2 RPG, 7.4 APG | 47.3% FG, 1.1 SPG",
+      "meta": "Sophomore Breakout | Triple-Double vs. PHI (17/13/10) on April 6",
+      "bio": "Castle's emergence as a two-way star has been one of the season's best stories. His <strong>triple-double against Philadelphia (17 pts, 13 ast, 10 reb)</strong> on April 6 showcased the complete package — playmaking, rebounding, and defensive disruption from a 6'6\" guard. He's day-to-day with a fibula issue, but if he plays, his size creates problems for Portland's smaller backcourt. Castle's 7.4 APG makes him a secondary creator alongside Fox, and his defensive versatility allows San Antonio to switch across positions. Against Henderson, Castle's length and physicality should limit Portland's transition scoring."
+    },
+    {
+      "team": "b",
+      "name": "Devin Vassell",
+      "stats": "SG | 14.0 PPG, 4.0 RPG, 2.5 APG | 38.7% 3PT",
+      "meta": "Floor Spacer | 43.8% FG | Key Perimeter Defender",
+      "bio": "Vassell is San Antonio's most reliable floor spacer at <strong>38.7% from three</strong> — critical for keeping defenses honest when Wembanyama and Fox attack the paint. His catch-and-shoot game thrives on Fox's drive-and-kick sequences: when Fox collapses the defense, Vassell converts open corner threes at an elite rate. Defensively, he'll likely draw the Toumani Camara assignment, where his length can contest Camara's 37.1% three-point shooting. Vassell is the quiet connector — he won't dominate the box score, but his spacing and off-ball movement are essential to San Antonio's offensive ecosystem."
+    }
+  ],
+  "trends": [
+    {
+      "title": "Scoring Patterns",
+      "bullets": [
+        "<strong>Portland has scored 115+ in 6 of their last 10 games</strong> — their pace-pushing style generates volume, including a franchise three-point record (23 made) in the OT loss at Denver on April 7. But they've also been held under 105 twice in that span when turnovers spiked.",
+        "<strong>San Antonio is averaging 126.1 PPG in their last 10 games (9-1)</strong>, powered by Wembanyama's back-to-back 41-point performances against Golden State. Their 119.7 PPG for the season reflects elite offensive consistency across all four quarters.",
+        "<strong>Portland is a fast-starting team</strong> that pushes transition early, but their fourth-quarter execution has been inconsistent — they blew a late lead against Denver on April 7 and needed OT. San Antonio tends to build leads methodically and close with Fox-Wembanyama pick-and-roll.",
+        "<strong>Combined, these teams average 235.3 PPG</strong> — expect a high-scoring affair, especially if Portland pushes pace and San Antonio capitalizes on transition turnovers. The over/under in their two prior meetings averaged 221.5 total points."
+      ]
+    },
+    {
+      "title": "Matchup Dynamics",
+      "bullets": [
+        "<strong>The Fox-Wembanyama pick-and-roll vs. Clingan's drop coverage</strong> is the tactical centerpiece. Wemby's 35.0% from three pulls Clingan out of his comfort zone — if Clingan drops, Wemby pops for open threes. Fox averaged 28.0 PPG against Portland by exploiting exactly this coverage.",
+        "<strong>Portland's 42.3 three-point attempts per game (7th in NBA)</strong> collide with San Antonio's scheme that funnels shooters toward midrange. The Blazers' 34.3% accuracy from deep is below average, and the Spurs' length (Wemby, Castle, Champagnie) will contest looks that other teams leave open.",
+        "<strong>Turnover differential is the decisive edge:</strong> Portland's 17.4 TOV/game vs. San Antonio's 13.5 creates a <strong>4-possession gap</strong> that compounds over 48 minutes. Fox (1.2 SPG) and Castle (1.1 SPG) are active in passing lanes.",
+        "<strong>Paint scoring battle:</strong> Wembanyama's rim protection (opponents take 10+ fewer shots per game at the rim with him on the floor) directly counters Portland's Clingan-in-the-paint offense. Portland averages 46.0 RPG but must find scoring outside the paint against the NBA's most imposing rim protector.",
+        "<strong>Portland's offensive rebounding (3rd in OREB%)</strong> is their best path to extra possessions — Clingan's 11.6 RPG and the pace of Portland's misses (long three-point rebounds) can generate 3-5 second chances that offset turnover losses."
+      ]
+    },
+    {
+      "title": "Lineup & Rotation Trends",
+      "bullets": [
+        "<strong>Portland's current starting five:</strong> Henderson / Holiday / Camara / Avdija / Clingan — a smaller lineup used since Grant's calf injury. The Henderson-Holiday backcourt pairing has produced <strong>two straight wins</strong> and emphasizes speed and defensive versatility.",
+        "<strong>San Antonio's bench outscores Portland's significantly:</strong> Dylan Harper (11.8 PPG, 50.8% FG as a rookie), Keldon Johnson (13.0 PPG, 52.0% FG), and Harrison Barnes (9.9 PPG, 38.9% 3PT) vs. Portland's Caleb Love (10.8 PPG, 38.9% FG) and Robert Williams III (6.7 PPG). The Spurs have three reliable bench scorers; Portland has one.",
+        "<strong>Wembanyama's minutes management:</strong> Despite being the MVP frontrunner, Wemby plays just 29.2 MPG — lower than expected for a 60-win team's star. Johnson has managed his load carefully all season. If Wemby plays through the rib injury, expect 24-28 minutes max.",
+        "<strong>Portland without Grant:</strong> Jerami Grant (18.6 PPG, day-to-day with a calf injury) is a significant loss. His spacing (38.9% from three) and shot creation are hard to replace. If Grant sits, Portland leans harder on Avdija and Holiday for scoring, and Camara's minutes increase."
+      ]
+    },
+    {
+      "title": "Form & Context",
+      "bullets": [
+        "<strong>Portland lost in OT at Denver 137-132 on April 7</strong> — one day before this game. Back-to-back road games with a flight from Denver to San Antonio. Fatigue is a real concern, especially for Avdija (33.2 MPG) and Clingan (27.2 MPG) who played heavy minutes in OT.",
+        "<strong>San Antonio beat Philadelphia 115-102 on April 6</strong> and has two days of rest. The Spurs are <strong>9-1 in their last 10 games</strong> and have lost only once since March 20 (to Denver). Home court advantage at Frost Bank Center has been dominant — the Spurs' home record is among the best in the West.",
+        "<strong>Portland's 8-2 run in their last 10</strong> includes wins over New Orleans (118-106), LA Clippers, Indiana, and Milwaukee. The Blazers are playing their best basketball of the season at exactly the right time — but tonight's schedule spot (second of a back-to-back, on the road) is the worst of the stretch.",
+        "<strong>Injury watch:</strong> Portland — Shaedon Sharpe (calf, out), Damian Lillard (Achilles, out for season), Jerami Grant (calf, day-to-day), Vit Krejci (calf, day-to-day). San Antonio — Victor Wembanyama (rib, day-to-day), Stephon Castle (fibula, day-to-day), David Jones (ankle, out for season). If both Wemby and Castle sit, this becomes a very different game.",
+        "<strong>Splitter returns to San Antonio:</strong> Interim HC Tiago Splitter won a championship with the Spurs as a player in 2014. He's led Portland to a 40-37 record since replacing Chauncey Billups in October — this is a personal homecoming with playoff implications."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "heading": "Portland Trail Blazers Sources",
+      "links": [
+        {
+          "label": "ESPN: Trail Blazers Team Stats",
+          "url": "https://www.espn.com/nba/team/stats/_/name/por/portland-trail-blazers"
+        },
+        {
+          "label": "ESPN: Trail Blazers Team Page",
+          "url": "https://www.espn.com/nba/team/_/name/por/portland-trail-blazers"
+        },
+        {
+          "label": "Basketball Reference: 2025-26 Trail Blazers",
+          "url": "https://www.basketball-reference.com/teams/POR/2026.html"
+        },
+        {
+          "label": "Blazer's Edge: Sharpe Injury Report vs. Spurs",
+          "url": "https://www.blazersedge.com/trail-blazers-injury-report/111099/portland-trail-blazers-san-antonio-spurs-shaedon-sharpe-victor-wembanyama-nba-injury-report-news-vit-krejci"
+        },
+        {
+          "label": "Blazer's Edge: Power Rankings & Postseason Analysis",
+          "url": "https://www.blazersedge.com/trail-blazers-analysis/111042/portland-trail-blazers-nba-power-rankings-los-angeles-clippers-playoffs-denver-nuggets-donovan-clingan"
+        },
+        {
+          "label": "Blazer's Edge: Three-Point Record vs. Nuggets",
+          "url": "https://www.blazersedge.com/trail-blazers-analysis/111076/portland-trail-blazers-denver-nuggets-final-score-overtime-jokic-stats-camara-avdija-scoot-henderson"
+        },
+        {
+          "label": "SI: Blazers Revamped Offense",
+          "url": "https://www.si.com/nba/trailblazers/news/blazers-have-completely-revamped-offense-heading-into-new-season"
+        },
+        {
+          "label": "Rip City Radio: Injury Report April 8",
+          "url": "https://ripcityradio.iheart.com/content/2026-04-08-trail-blazers-vs-spurs-injury-report-april-8/"
+        },
+        {
+          "label": "OPB: Avdija Becomes First Israeli All-Star",
+          "url": "https://www.opb.org/article/2026/02/02/trail-blazers-deni-avdija-becomes-the-first-israeli-to-be-named-an-nba-all-star/"
+        },
+        {
+          "label": "FOX Sports: NBA Offensive Rating Rankings",
+          "url": "https://www.foxsports.com/articles/nba/2025-26-nba-offensive-rating-team-offense-rankings-and-efficiency-stats"
+        }
+      ]
+    },
+    {
+      "heading": "San Antonio Spurs Sources",
+      "links": [
+        {
+          "label": "ESPN: Spurs Team Stats",
+          "url": "https://www.espn.com/nba/team/stats/_/name/sa/san-antonio-spurs"
+        },
+        {
+          "label": "ESPN: De'Aaron Fox Player Page",
+          "url": "https://www.espn.com/nba/player/_/id/4066259/deaaron-fox"
+        },
+        {
+          "label": "Basketball Reference: 2025-26 Spurs",
+          "url": "https://www.basketball-reference.com/teams/SAS/2026.html"
+        },
+        {
+          "label": "TWSN: Wembanyama Injury Report & Award Eligibility",
+          "url": "https://twsn.net/2026/04/07/is-victor-wembanyama-out-for-the-regular-season-spurs-injury-report/"
+        },
+        {
+          "label": "Pounding the Rock: Numbers Behind Spurs' Success",
+          "url": "https://www.poundingtherock.com/spurs-analysis/89220/the-numbers-that-explain-the-spurs-success"
+        },
+        {
+          "label": "NBA.com: Mitch Johnson Named Spurs Coach",
+          "url": "https://www.nba.com/news/mitch-johnson-named-spurs-coach"
+        },
+        {
+          "label": "Pounding the Rock: The Real De'Aaron Fox",
+          "url": "https://www.poundingtherock.com/general/90447/the-spurs-are-starting-to-see-what-the-real-deaaron-fox-can-do"
+        },
+        {
+          "label": "FOX Sports: NBA Defensive Rating Rankings",
+          "url": "https://www.foxsports.com/articles/nba/2025-26-nba-defensive-rating-team-defense-rankings-and-efficiency-stats"
+        },
+        {
+          "label": "Fubo: Trail Blazers at Spurs — Where to Watch",
+          "url": "https://www.fubo.tv/news/nba/portland-trail-blazers-at-san-antonio-spurs-where-to-watch-stream-info-tv-channel-and-live-updates-april-08-2026/"
+        },
+        {
+          "label": "Rip City Radio: Game Time & TV Info",
+          "url": "https://ripcityradio.iheart.com/content/2026-04-08-trail-blazers-vs-spurs-time-tv-stream-april-8/"
+        }
+      ]
+    }
+  ],
+  "footerText": "Trail Blazers at Spurs — April 8, 2026 — Frost Bank Center, San Antonio"
+}

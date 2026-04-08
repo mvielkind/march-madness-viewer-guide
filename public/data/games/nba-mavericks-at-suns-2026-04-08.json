@@ -1,0 +1,347 @@
+{
+  "slug": "nba-mavericks-at-suns-2026-04-08",
+  "title": "Mavericks at Suns",
+  "eventTag": "NBA — Cooper Flagg Meets Phoenix's Playoff Desperation",
+  "date": "Wednesday, April 8, 2026 • 10:00 PM ET",
+  "round": "Regular Season",
+  "tipTime": "2026-04-08T22:00",
+  "venue": "Mortgage Matchup Center, Phoenix, AZ • KFAA / AZFamily / Suns+",
+  "extraInfo": "Dallas is 2-8 in last 10 with 7 players on the injury report (Lively, Irving out for season; Washington out; Gafford day-to-day). Phoenix (43-36) needs wins to secure playoff seeding with 3 games remaining. Suns lead the season series. Cooper Flagg has scored 51 and 45 points in back-to-back games.",
+  "teams": [
+    {
+      "name": "Dallas",
+      "mascot": "Mavericks",
+      "seed": "13",
+      "record": "25-54",
+      "colors": {
+        "primary": "#00538C",
+        "secondary": "#002B5E",
+        "name": "mavericks"
+      },
+      "className": "mavericks"
+    },
+    {
+      "name": "Phoenix",
+      "mascot": "Suns",
+      "seed": "7",
+      "record": "43-36",
+      "colors": {
+        "primary": "#1D1160",
+        "secondary": "#E56020",
+        "name": "suns"
+      },
+      "className": "suns"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "stakes",
+      "label": "Matchup Breakdown"
+    },
+    {
+      "id": "styles",
+      "label": "Styles of Play"
+    },
+    {
+      "id": "keys",
+      "label": "Keys to the Game"
+    },
+    {
+      "id": "prediction",
+      "label": "Prediction"
+    },
+    {
+      "id": "players",
+      "label": "Players to Watch"
+    },
+    {
+      "id": "trends",
+      "label": "Trends"
+    },
+    {
+      "id": "sources",
+      "label": "Sources"
+    }
+  ],
+  "stakes": {
+    "callout": "The <strong>Suns (43-36)</strong> are fighting for playoff seeding with three games left — every win matters for avoiding unfavorable play-in matchups. But they walk into this game having just been blown out by Houston 119-105 on April 7, and now face the most dangerous 25-54 team in the league. The <strong>Mavericks</strong> are a walking injury report — Kyrie Irving (ACL, season), Dereck Lively II (foot, season), P.J. Washington (elbow, out), Daniel Gafford (shoulder, day-to-day), and four more day-to-days — but Cooper Flagg just scored <strong>51 and 45 points in back-to-back games</strong>, making him the first NBA teenager with a 50-point game. Phoenix needs to show it can handle a back-to-back spotlight and close out a rebuilding team without being caught off guard by a generational rookie.",
+    "cards": [
+      {
+        "label": "Cooper Flagg's Rookie Explosion",
+        "value": "Flagg averaged <strong>30.4 PPG over his last 5 games</strong>, including 51 points (career high) against Orlando on April 3 and 45 points against the Lakers on April 5. He's the <strong>first NBA teenager ever with a 50-point game</strong> and is shooting 47.1% on the season as a 19-year-old #1 pick."
+      },
+      {
+        "label": "Phoenix's Playoff Stakes (43-36, 7th Seed)",
+        "value": "The Suns hold the <strong>7th seed</strong> with 3 games remaining and need wins to improve their play-in positioning. They're 4-6 in their last 10 and just lost to Houston 119-105 — a concerning dip at the worst time. A stumble against a depleted Mavericks team would be costly."
+      },
+      {
+        "label": "Dallas's Injury Crisis",
+        "value": "<strong>Seven players on the injury report</strong> including two season-ending absences (Irving, Lively), Washington (elbow, out), and four day-to-days. This is the second game of a road back-to-back for Dallas — they lost 103-116 at the Clippers on April 7 with Flagg scoring 25 points."
+      },
+      {
+        "label": "Booker on a 7-Game Heater",
+        "value": "Devin Booker has scored <strong>22+ points in 7 consecutive games</strong>, averaging 27.9 PPG with 6.3 APG and 3.1 RPG in that stretch. He scored 31 against the Rockets on April 7. Against Dallas's depleted perimeter — no Washington, likely no Gafford — he faces the weakest defensive resistance of that run."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "Flagg Carrying a Depleted Rebuild — Isolation Star Without Supporting Cast",
+      "bullets": [
+        "<strong>Cooper Flagg IS the offense:</strong> His 21.2 PPG season average has exploded to 30.4 PPG over the last 5 games. At 19 years old and 6'8\", he functions as a point-forward — attacking off isolation, PnR ballhandling, and pushing in transition. With Kyrie Irving (ACL) and Dereck Lively II (foot) gone for the season, Flagg's usage rate is at an all-time high for a 19-year-old.",
+        "<strong>Perimeter shooting is present but thin:</strong> Dallas shoots 34.1% as a team from three. Max Christie (39.9% 3PT, 12.1 PPG) is the best available shooter, with Klay Thompson (38.2% 3PT, 11.7 PPG) providing veteran spot-up value. Neither is a primary creator — they catch-and-shoot off Flagg's gravity.",
+        "<strong>The frontcourt vacancy is a game-defining liability:</strong> With Washington (elbow, out) and Gafford (shoulder, day-to-day), Marvin Bagley III is the likely starter at center (11.0 PPG, 7.1 RPG, only 0.8 BPG in 20 games). Bagley is an energy big but offers no rim protection — a crippling weakness against Mark Williams.",
+        "<strong>Turnovers are a chronic problem:</strong> Dallas averages 14.1 turnovers per game — fueling Phoenix's transition attack. A shorthanded team on a back-to-back will compound this problem. Every loose ball becomes a Suns fast-break opportunity."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "High-Volume Three-Point Attack, Booker on Fire — Ott's Overachieving Rebuild",
+      "bullets": [
+        "<strong>Phoenix is a three-point machine:</strong> The Suns launch <strong>40.9 three-point attempts per game (5th in NBA)</strong> and connect at 36.2%. Against Dallas's missing perimeter defenders, they'll generate open catch-and-shoot looks from all five positions. Grayson Allen (41.1% 3PT), Collin Gillespie (40.6% 3PT), and Royce O'Neale (40.6% 3PT) all shoot well above league average.",
+        "<strong>Booker operates at All-Star level:</strong> His 25.9 PPG season average (10th in NBA) has climbed to 27.9 PPG over the last 7 games. His pull-up midrange and paint attacks off the PnR with Williams are the system's primary actions. Against Dallas's depleted perimeter, he'll face the weakest collective defensive resistance of his hot streak.",
+        "<strong>Mark Williams is a highly efficient interior weapon:</strong> At .642 FG%, Williams is one of the NBA's most effective rim-runners. His PnR dives with Booker as ballhandler are virtually undefendable against a frontcourt without rim protection. He averages 8.0 RPG and will dominate the boards against Bagley.",
+        "<strong>Dillon Brooks sets the defensive tone:</strong> His 18 technical fouls and physical, all-consuming defensive style anchor Jordan Ott's \"Game 7 every night\" identity. Brooks will draw Cooper Flagg assignment — his physical aggression is designed to frustrate and foul-bait young stars. The battle between Flagg's explosiveness and Brooks' physicality is the game's most compelling individual contest.",
+        "<strong>Depth is a decisive weapon in this matchup:</strong> Grayson Allen (16.7 PPG off bench), Collin Gillespie (12.7 PPG off bench, recently moved from starter to reserve), and Jordan Goodwin (1.5 SPG) form a deep second unit that will completely outperform Dallas's injury-depleted reserves."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "Can Phoenix avoid a Flagg ambush after going 4-6 over the last 10 games?",
+      "description": "The Suns are inconsistent and just lost to Houston on April 7. Complacency against a 25-54 team on a back-to-back is a real trap — especially when that team's rookie has scored 51 and 45 points in consecutive games. Ott's 'Game 7 every night' culture needs to manifest immediately. If Phoenix's defense lapses early and Flagg finds his rhythm, Dallas can stay within striking distance far longer than the records suggest."
+    },
+    {
+      "title": "How much does Dallas's frontcourt vacancy allow Phoenix to dominate the paint?",
+      "description": "With Lively (season, foot), Washington (out, elbow), and likely Gafford (day-to-day, shoulder) absent, Marvin Bagley III would start at center. Mark Williams (.642 FG%, 8.0 RPG) will attack this vacancy relentlessly through PnR dives with Booker. If Williams scores 18+ and Phoenix dominates paint points, the game is effectively decided in the second quarter. Dallas's only counters are fouling (risky) and hoping Bagley's activity limits lobs."
+    },
+    {
+      "title": "Does Booker extend his 7-game hot streak (27.9 PPG) against the weakest defensive lineup of that run?",
+      "description": "Booker has scored 22+ in 7 straight. He now faces a Dallas team without Washington (their best wing defender), without Lively or Gafford at the rim, and with Christie/Thompson as primary challengers. This is the most exploitable defensive lineup he'll see in the final stretch. If Booker hits 30+ efficiently, Phoenix controls the game. If he has an off night, Dallas's Flagg-carried offense can keep it competitive."
+    },
+    {
+      "title": "Will Dillon Brooks's physicality contain Flagg or foul him into the bonus?",
+      "description": "Brooks (18 technical fouls, aggressive defensive style) vs. Flagg (82.3% FT shooter) is a high-stakes individual battle. If Brooks fouls Flagg into the bonus repeatedly, Dallas gains free points and Brooks loses minutes. If Brooks plays disciplined defense while maintaining aggression, he can make Flagg work for his shots without extending the game. At 19 years old on a back-to-back, Flagg's shot selection under physical pressure will be tested."
+    },
+    {
+      "title": "Can Phoenix close out clean with Suns' playoff positioning on the line?",
+      "description": "Phoenix is 4-6 in their last 10 — not the form of a team that locks up leads. Against a team playing its best basketball (Flagg's explosion is real), the Suns need to maintain defensive focus through 48 minutes. Phoenix has lost to Charlotte and Orlando in this stretch — teams well below the Mavericks in records. If the Suns' depth advantage plays out over four quarters, this should be controlled. But late-game execution has been inconsistent."
+    }
+  ],
+  "prediction": {
+    "summary": "<p>The matchup data is clear: <strong>Phoenix has every structural advantage</strong> — home court, healthy roster, superior depth, paint dominance with Williams vs. a frontcourt vacancy, and 40.9 three-point attempts per game against a team missing its best perimeter defenders. The Suns' 9.7 SPG will compound Dallas's 14.1 turnovers per game into fast-break points throughout the night.</p><p>The only countervailing force is <strong>Cooper Flagg</strong>. At 19 years old, fresh off 51 and 45-point performances, he is legitimately capable of dropping 35+ on any defensive scheme. Dillon Brooks will make his life physical, but Flagg's size (6'8\") and athleticism at the PF/SF position are difficult to contain. Booker will match Flagg's production — his 27.9 PPG hot streak continues against a depleted Dallas perimeter — and Phoenix's depth, three-point volume, and interior dominance seal a double-digit win. Dallas keeps it interesting for three quarters, but the second unit gap and Williams's paint dominance prove too much.</p>",
+    "phases": [
+      {
+        "title": "First Quarter — Flagg Erupts, Suns Stay Ahead",
+        "description": "Flagg comes out firing — on a 30.4 PPG run over his last 5 games, he immediately attacks Christie with isolation mid-ranges and drives to the rim. Phoenix answers through Booker's PnR with Williams — lob connections that Bagley cannot contest — and transition buckets off Dallas turnovers. The quarter stays within 5-7 points as Flagg's brilliance masks his team's structural disadvantages. Phoenix leads 30-24 entering the second."
+      },
+      {
+        "title": "Second Quarter — Phoenix's Depth Takes Control",
+        "description": "Jordan Ott deploys Allen and Gillespie off the bench and the mismatch becomes clear. Allen (41.1% 3PT) hits two corner threes on skip passes; Gillespie adds 8 points running pick-and-roll with Goodwin. Dallas's bench unit — undermanned on a back-to-back — cannot match Phoenix's second-unit scoring. Flagg is resting, and the Suns build a 15-point cushion entering halftime."
+      },
+      {
+        "title": "Third Quarter — Flagg Refuses to Quit",
+        "description": "Flagg returns and goes supernova in the third quarter — 16 points on pull-up midranges, drives, and a turnaround over Brooks that silences the crowd momentarily. He cuts the lead to 10 and Kidd calls timeout. But Booker responds with 9 third-quarter points of his own, including a step-back three, and Williams scores twice on Bagley's backside to push the margin back to 14. Phoenix leads 94-79 entering the fourth."
+      },
+      {
+        "title": "Fourth Quarter — Phoenix Controls, Flagg Gets His Numbers",
+        "description": "With the game out of reach, Ott rests Booker while Allen and Gillespie maintain the lead. Flagg finishes strong to reach 30+ — a stat-line that confirms his potential but not a competitive result. Brooks picks up a technical in the fourth quarter guarding Flagg. The final buzzer ends a comfortable Phoenix home win that keeps their play-in seeding on track."
+      }
+    ],
+    "projectedScore": {
+      "teamA": 101,
+      "teamB": 119,
+      "rationale": "Phoenix's structural advantages — home court, Mark Williams (.642 FG%) attacking Bagley's limited rim protection, 40.9 three-point attempts vs. a team missing its best perimeter defenders, 9.7 SPG converting Dallas's 14.1 turnovers into fast breaks, and a significantly deeper bench — compound over 48 minutes. Flagg scores 30-35 (his floor in current form) but cannot single-handedly overcome the frontcourt mismatch, the bench gap, and the Suns' shooting advantage. Booker scores 28+ on efficient shooting to extend his hot streak. Phoenix wins comfortably."
+    }
+  },
+  "players": [
+    {
+      "team": "a",
+      "name": "Cooper Flagg",
+      "stats": "SF | 21.2 PPG, 6.6 RPG, 4.5 APG",
+      "meta": "Rookie #1 Pick | 51 pts vs Orlando, 45 pts vs Lakers",
+      "bio": "Flagg is the <strong>most explosive individual performer in this game</strong> and the sole reason to watch Dallas in a lopsided matchup. At 19 years old, he became the <strong>first NBA teenager with a 50-point game</strong> on April 3 against Orlando, then followed it with 45 against the Lakers. His 30.4 PPG over the last 5 games are better than any rookie stretch in recent memory. At 6'8\" with guard skills, he'll be guarded by Dillon Brooks — whose physical style is designed to frustrate, but who cannot fully contain Flagg's combination of size, athleticism, and touch. Expect 28-35 points on a variety of pull-ups, drives, and midrange moves that foreshadow an elite future. The question is whether one player can keep Dallas competitive against a playoff-level Suns lineup."
+    },
+    {
+      "team": "a",
+      "name": "Klay Thompson",
+      "stats": "SG | 11.7 PPG, 2.1 RPG, 1.4 APG",
+      "meta": "38.2% 3PT | 68 games played",
+      "bio": "Thompson's 2025-26 season has been quietly productive but not at All-Star level — <strong>11.7 PPG on 38.2% from three</strong> shows he still has shooting value on catch-and-shoot opportunities, but his athletic decline is evident. In this game, he'll serve as both a corner threat off Flagg's creation and as a defensive assignment on Jalen Green or Booker. Against Booker's pull-up game, Thompson no longer has the lateral quickness to be a stopper. His value is purely offensive: if Flagg's gravity creates open three opportunities, Thompson remains a threat to knock them down."
+    },
+    {
+      "team": "a",
+      "name": "Max Christie",
+      "stats": "SG/SF | 12.1 PPG, 3.3 RPG, 2.0 APG",
+      "meta": "39.9% 3PT | 74 games | Likely Booker matchup",
+      "bio": "Christie (74 games, 39.9% 3PT) is quietly one of Dallas's most consistent players this season — <strong>double-digit scoring, above-average three-point shooting</strong>, and the athleticism to at least contest on the perimeter. He'll likely draw Devin Booker as his primary defensive assignment — a nightmare matchup given Booker's 27.9 PPG hot streak and ability to create off the dribble from all three levels. Christie is undersized and limited in isolation creation, but he provides spacing alongside Flagg and represents Dallas's best perimeter defender in this injury-depleted lineup."
+    },
+    {
+      "team": "a",
+      "name": "Marvin Bagley III",
+      "stats": "PF/C | 11.0 PPG, 7.1 RPG, 1.3 APG",
+      "meta": "60.7% FG | 20 games | Likely starting with Gafford out",
+      "bio": "With Gafford (shoulder), Lively (season), and Washington (elbow) all unavailable, <strong>Bagley III projects to start at center</strong> in this matchup. He's been productive when healthy (11.0 PPG, 7.1 RPG, 60.7% FG in 20 games) and brings energy as a rim-runner and offensive rebounder. But his 0.8 BPG is a significant liability against Mark Williams — Bagley cannot protect the rim against Williams's .642 FG% finishing. His value comes on offense: his energy and rebounding can generate second-chance points, and his PnR work with Flagg is legitimately effective. The problem is the other end of the floor."
+    },
+    {
+      "team": "b",
+      "name": "Devin Booker",
+      "stats": "SG | 25.9 PPG, 3.9 RPG, 6.0 APG",
+      "meta": "5x All-Star | 27.9 PPG over last 7 games",
+      "bio": "Booker is in the middle of one of his best sustained stretches — <strong>22+ points in 7 consecutive games</strong>, averaging 27.9 PPG with 6.3 APG and 3.1 RPG. His 31-point performance against the Rockets on April 7 was a signature game in a losing effort. Tonight he faces the weakest defensive lineup of his hot streak: no Washington (Dallas's best wing defender), no Lively or Gafford at the rim, and Christie/Thompson as primary challengers. Booker's <strong>pull-up midrange is unstoppable</strong> when the defense can't load up, and against Dallas's depleted defense, he'll operate freely. His 6.0 APG also means he'll find Williams on PnR dives repeatedly. Expect 30+ on efficient shooting."
+    },
+    {
+      "team": "b",
+      "name": "Mark Williams",
+      "stats": "C | 11.7 PPG, 8.0 RPG, 1.0 APG",
+      "meta": "64.2% FG | 59 games | Dominant vs. depleted DAL frontcourt",
+      "bio": "Williams' <strong>.642 FG%</strong> is the statistical signature of a center who excels at catching lob passes and finishing cleanly at the rim. In the PnR with Booker, he's the system's most efficient action — a lob threat that forces drop coverage (gifting Booker mid-range space) or switch coverage (creating size mismatches). Against Bagley III as the likely Dallas center, Williams has a massive physical advantage. He'll attack every possession in the paint, dominate the glass (8.0 RPG), and operate as the fulcrum of Phoenix's interior offense. A 15-20 point, 10+ rebound performance in this matchup is well within his range."
+    },
+    {
+      "team": "b",
+      "name": "Dillon Brooks",
+      "stats": "SF | 20.2 PPG, 3.6 RPG, 1.8 APG",
+      "meta": "18 technical fouls | 43.4% FG | Defensive Anchor",
+      "bio": "Brooks has <strong>18 technical fouls this season</strong> and plays with a physical aggression that defines Phoenix's defensive identity under Jordan Ott. He'll guard Cooper Flagg tonight — a marquee battle between the league's most physically menacing defender and the NBA's hottest teenage scorer. Brooks's strategy will be to make Flagg uncomfortable: body every drive, contest every pull-up, and use his hands to disrupt passes and dribbles. His 20.2 PPG adds offensive punch as a secondary scorer who attacks off cuts and midrange pull-ups. The X factor: Brooks is 3 games back from hand surgery and averaged only 12.3 PPG in that limited sample. If his hand isn't fully right, his offensive impact dips — but his defensive effort won't change."
+    },
+    {
+      "team": "b",
+      "name": "Grayson Allen",
+      "stats": "SG | 16.7 PPG, 3.0 RPG, 3.9 APG",
+      "meta": "41.1% 3PT | Off bench since All-Star break | Career-high 42 pts",
+      "bio": "Allen has been <strong>Phoenix's most consistent bench scorer</strong> since moving to the second unit after the All-Star break — averaging 17.2 PPG on 13 appearances with 2.8 RPG, 3.8 APG, and 1.1 SPG. His <strong>career-high 42 points on 10-of-15 three-point shooting</strong> against New Orleans earlier this season showed his ceiling. At 41.1% from three, he's Phoenix's most dangerous off-ball shooter and his PnR work with second-unit players opens the offense when Booker rests. Against Dallas's bench — depleted with multiple day-to-day players — Allen's second unit should completely outperform, extending any first-half lead into a comfortable second-half margin."
+    }
+  ],
+  "trends": [
+    {
+      "title": "Scoring Patterns",
+      "bullets": [
+        "<strong>Flagg's late-season explosion is historically rare:</strong> He scored <strong>51 points (April 3 vs Orlando)</strong> and <strong>45 points (April 5 vs Lakers)</strong> in back-to-back games, becoming the first NBA teenager with a 50-point game. His 30.4 PPG over the last 5 games is above any rookie's recent form. Despite Dallas going 1-4 in those 5 games, Flagg's individual ceiling is the story of the Mavericks' end-of-season stretch.",
+        "<strong>Booker has been on a sustained scoring tear:</strong> 22+ points in <strong>7 consecutive games</strong>, averaging 27.9 PPG with 6.3 APG and 3.1 RPG in that stretch. His 31-point performance in a loss to Houston on April 7 shows he's carrying Phoenix even in difficult games. His last 10-game line: 26.2 PPG on 45.9% FG, 36.8% 3PT, 88.2% FT.",
+        "<strong>Dallas is averaging 107.8 PPG in their last 10 games</strong> while surrendering 119.6 — a -11.8 scoring margin that reflects their injury crisis. They've lost 8 straight and are 2-8 over the last 10. Their scoring drops sharply when Flagg has an off quarter.",
+        "<strong>Phoenix lost to Houston 119-105 on April 7</strong> despite Booker's 31-point effort. The Rockets overcame a 21-point deficit to beat Phoenix at home — a worrying sign of the Suns' ability to sustain leads. They're 4-6 in the last 10, but their average point differential (+3.9) is positive despite the struggles."
+      ]
+    },
+    {
+      "title": "Matchup Dynamics",
+      "bullets": [
+        "<strong>Mark Williams vs. Dallas's frontcourt vacancy is the decisive structural edge:</strong> Williams (.642 FG%) will operate freely against Bagley III (0.8 BPG). With Lively, Washington, and Gafford all unavailable, there is no rim protector to challenge Williams's lob catches and finishes. Expect Phoenix to run Booker–Williams PnR repeatedly until Dallas finds a way to stop it — which they cannot.",
+        "<strong>Phoenix's three-point volume (40.9 attempts/game, 5th in NBA) vs. Dallas's depleted perimeter defense:</strong> Without Washington (best wing defender) and with multiple day-to-day rotations, Dallas cannot close out simultaneously on Allen (41.1%), Gillespie (40.6%), and O'Neale (40.6%). Open corner threes will be a constant theme in Phoenix's half-court offense.",
+        "<strong>Dallas's 14.1 turnovers per game will fuel Phoenix's transition attack:</strong> Phoenix's 9.7 SPG creates deflections and disruptions that convert directly into fast-break points. On a back-to-back with a depleted lineup, Dallas's ball security will be worse than average — potentially 16-18 turnovers. Every Mavericks giveaway becomes a Suns fast-break opportunity against an undersized Dallas transition defense.",
+        "<strong>Flagg vs. Brooks is the marquee individual contest:</strong> Flagg's 30.4 PPG in his last 5 games vs. Brooks's physical, tech-heavy defensive style creates a clash of generations. Brooks cannot stop Flagg (nobody can right now), but he can make shots harder and potentially draw favorable foul positioning. Flagg's 82.3% FT shooting means Brooks must be careful — each foul is a free Dallas possession."
+      ]
+    },
+    {
+      "title": "Lineup & Rotation Trends",
+      "bullets": [
+        "<strong>Dallas is playing with a depleted 7-man rotation at best:</strong> Seven players on the injury report. If Gafford, Marshall, B. Williams, and Martin are all unavailable, Kidd will run a short rotation — Flagg at maximum minutes, Christie and Thompson as the primary guards, Bagley and one backup center absorbing all frontcourt minutes. This is not a sustainable rotation against a playoff-caliber opponent.",
+        "<strong>Phoenix's second unit is a legitimate 5-point-per-game swing:</strong> Allen (16.7 PPG, 41.1% 3PT) and Gillespie (12.7 PPG, 40.6% 3PT) form a bench that would start for many playoff teams. When Booker rests, Phoenix's bench scoring doesn't crater — it shifts to a different creator/shooter combination. Against Dallas's reserve unit, this is a decisive depth advantage.",
+        "<strong>Jordan Goodwin earning the starting nod over Gillespie:</strong> Ott demoted Gillespie from the starting lineup recently, giving Goodwin the start at point guard alongside Booker. Goodwin (8.7 PPG, 1.5 SPG) is a defensive-first guard whose energy and steals rate align with Ott's identity. Gillespie (12.7 PPG) remains the more productive offensive player — expect him to lead bench scoring.",
+        "<strong>Dallas's best lineup requires all day-to-day players to be available:</strong> If Gafford plays, the Mavericks have functional rim protection. If Marshall plays, they have a secondary scorer (15.2 PPG, 51.0% FG). The day-to-day designations for a road back-to-back suggest limited availability, which would push Dallas's effective rotation down to 7-8 players."
+      ]
+    },
+    {
+      "title": "Form & Context",
+      "bullets": [
+        "<strong>This is the second game of a road back-to-back for Dallas</strong> (Clippers on April 7, Suns on April 8). Dallas lost 103-116 at the Clippers, with Flagg playing 34 minutes and scoring 25 points. Playing at Phoenix 24 hours later — against a better team in a playoff situation — with the same depleted lineup is a significant fatigue and depth challenge.",
+        "<strong>Phoenix is also on a back-to-back</strong> (hosted Rockets on April 7, hosts Mavericks on April 8), but the Suns are at home and have a full healthy roster except for Highsmith (day-to-day, knee). Home court and roster depth minimize the back-to-back impact for Phoenix relative to Dallas.",
+        "<strong>Phoenix needs wins for playoff seeding with 3 games remaining:</strong> At 43-36 and 7th in the West, the Suns are in play-in territory but could improve their bracket positioning with wins. A loss to a 25-54 team would be a damaging result both for seeding and for Jordan Ott's team's momentum entering the play-in.",
+        "<strong>Kyrie Irving confirmed out for the entire 2025-26 season (ACL):</strong> Irving tore his ACL on March 3 and will miss the full season — his first full season missed in a 15-year career. His absence removes Dallas's best playmaker and leaves Flagg with no co-star to ease his load. The Mavericks are playing for Flagg's development and draft positioning, not wins."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "heading": "Dallas Mavericks Sources",
+      "links": [
+        {
+          "label": "ESPN: Dallas Mavericks 2025-26 Team Stats",
+          "url": "https://www.espn.com/nba/team/stats/_/name/dal/dallas-mavericks"
+        },
+        {
+          "label": "Basketball Reference: 2025-26 Mavericks Roster & Stats",
+          "url": "https://www.basketball-reference.com/teams/DAL/2026.html"
+        },
+        {
+          "label": "Wikipedia: 2025-26 Dallas Mavericks Season",
+          "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Dallas_Mavericks_season"
+        },
+        {
+          "label": "Land of Basketball: 2025-26 Mavericks Player Stats",
+          "url": "https://www.landofbasketball.com/stats_by_team/2025_2026_mavericks_rs.htm"
+        },
+        {
+          "label": "Land of Basketball: Cooper Flagg Last 5 Games",
+          "url": "https://www.landofbasketball.com/nba_players_games/last_5/cooper_flagg_all.htm"
+        },
+        {
+          "label": "NBA.com: Kyrie Irving Out for Season",
+          "url": "https://www.nba.com/mavs/news/kyrie-irving-to-miss-remainder-of-2025-26-season-as-he-continues-acl-recovery"
+        },
+        {
+          "label": "Dallas Hoops Journal: Gafford Shoulder Injury Update",
+          "url": "https://dallashoopsjournal.com/p/daniel-gafford-injury-update-mavericks-timberwolves/"
+        },
+        {
+          "label": "ESPN: Mavericks Down to Seven Healthy Players",
+          "url": "https://www.espn.com/nba/story/_/id/44184364/down-seven-healthy-players-mavericks-fall-suns"
+        },
+        {
+          "label": "StatMuse: Cooper Flagg Season Stats",
+          "url": "https://www.statmuse.com/nba/player/cooper-flagg-30560"
+        },
+        {
+          "label": "ESPN: Mavericks Game Recap vs Lakers (Flagg 45 pts)",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401810995"
+        }
+      ]
+    },
+    {
+      "heading": "Phoenix Suns Sources",
+      "links": [
+        {
+          "label": "ESPN: Phoenix Suns 2025-26 Team Stats",
+          "url": "https://www.espn.com/nba/team/stats/_/name/phx/phoenix-suns"
+        },
+        {
+          "label": "Basketball Reference: 2025-26 Suns Roster & Stats",
+          "url": "https://www.basketball-reference.com/teams/PHO/2026.html"
+        },
+        {
+          "label": "Wikipedia: 2025-26 Phoenix Suns Season",
+          "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Phoenix_Suns_season"
+        },
+        {
+          "label": "Land of Basketball: 2025-26 Suns Player Stats",
+          "url": "https://www.landofbasketball.com/stats_by_team/2025_2026_suns_rs.htm"
+        },
+        {
+          "label": "Land of Basketball: Devin Booker Last 10 Games",
+          "url": "https://www.landofbasketball.com/nba_players_games/last_10/devin_booker_all.htm"
+        },
+        {
+          "label": "Land of Basketball: Suns Last 10 Games",
+          "url": "https://www.landofbasketball.com/nba_teams_games/last_10/suns_all.htm"
+        },
+        {
+          "label": "Fox Sports 1450: Mavericks vs Suns Injury Report April 8",
+          "url": "https://foxsports1450.iheart.com/content/2026-04-08-mavericks-vs-suns-injury-report-april-8/"
+        },
+        {
+          "label": "Mavs Moneyball: Mavericks vs Suns Preview April 8",
+          "url": "https://www.mavsmoneyball.com/mavericks-game-previews/52481/mavericks-vs-suns-preview-start-time-tv-stream-injury-report-how-to-watch"
+        },
+        {
+          "label": "NBA.com: Rockets vs Suns April 7 Box Score",
+          "url": "https://www.nba.com/game/hou-vs-phx-0022501157/box-score"
+        },
+        {
+          "label": "HoopsHype: Jalen Green on Trade to Phoenix",
+          "url": "https://eu.hoopshype.com/story/sports/nba/2026/04/07/jalen-green-on-trade-to-phoenix-im-happy-where-im-at/89504519007/"
+        }
+      ]
+    }
+  ],
+  "footerText": "Mavericks at Suns — April 8, 2026 — Mortgage Matchup Center, Phoenix"
+}
