@@ -462,6 +462,42 @@ a:hover { color: var(--howard); text-decoration: underline; }
   margin: 0;
 }
 
+/* ===== ROUND SELECTOR ===== */
+.round-selector {
+  display: flex;
+  justify-content: center;
+  gap: .5rem;
+  padding: .75rem 1.5rem 0;
+}
+.round-pill {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  padding: .35rem .9rem;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background .15s, color .15s, border-color .15s;
+}
+.round-pill:hover {
+  border-color: var(--text-dim);
+  color: var(--text-dim);
+}
+.round-pill--active {
+  background: var(--panel-color, var(--team-a-primary));
+  border-color: var(--panel-color, var(--team-a-primary));
+  color: #fff;
+}
+.round-pill--active:hover {
+  background: var(--panel-color, var(--team-a-primary));
+  border-color: var(--panel-color, var(--team-a-primary));
+  color: #fff;
+}
+
 /* ===== SECTIONS ===== */
 .guide-section {
   max-width: 700px;
@@ -935,6 +971,11 @@ footer {
   font-size: .6em;
   font-weight: 700;
   letter-spacing: .02em;
+}
+.home-game-rounds-count {
+  color: var(--text-muted);
+  font-size: .6em;
+  font-weight: 600;
 }
 .home-game-info {
   font-size: .75rem;

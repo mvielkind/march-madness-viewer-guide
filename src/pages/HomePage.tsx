@@ -13,7 +13,7 @@ type EventType = 'mens-basketball' | 'womens-basketball' | 'golf' | 'mlb' | 'nba
 function getEventType(game: ManifestEntry): EventType {
   if (game.slug.startsWith('mlb-')) return 'mlb'
   if (game.slug.startsWith('pga-')) return 'golf'
-  if (game.slug.startsWith('nba-')) return 'nba'
+  if (game.slug.startsWith('nba-') || game.eventTag.startsWith('NBA')) return 'nba'
   if (game.slug.startsWith('nwsl-')) return 'nwsl'
   if (game.slug.includes('womens')) return 'womens-basketball'
   return 'mens-basketball'
@@ -44,6 +44,9 @@ function GameCard({ game }: { game: ManifestEntry }) {
         <div className="home-game-matchup">
           <span style={{ color: game.tournament!.colors.primary }}>{game.tournament!.name}</span>
           <span className="home-game-round"> &bull; {game.round}</span>
+          {game.availableRounds && game.availableRounds.length > 1 && (
+            <span className="home-game-rounds-count"> &bull; {game.availableRounds.length} rounds</span>
+          )}
         </div>
       ) : (
         <div className="home-game-matchup">
@@ -75,8 +78,14 @@ export default function HomePage() {
   const today = getToday()
 
   const { todayGroups, futureGroups } = useMemo(() => {
+    const d = new Date()
+    d.setDate(d.getDate() + 7)
+    const cutoff = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
     const todayGames = manifest.filter((g) => g.tipTime.startsWith(today))
-    const futureGames = manifest.filter((g) => g.tipTime.slice(0, 10) > today)
+    const futureGames = manifest.filter((g) => {
+      const date = g.tipTime.slice(0, 10)
+      return date > today && date <= cutoff
+    })
     return {
       todayGroups: groupByCategory(todayGames),
       futureGroups: groupByCategory(futureGames),

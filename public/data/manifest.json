@@ -1377,29 +1377,29 @@
     ]
   },
   {
-    "slug": "pga-houston-open-preview-2026",
-    "title": "Texas Children's Houston Open — 2026 Tournament Preview",
-    "eventTag": "PGA Tour • FedExCup • Masters Tune-Up",
-    "date": "Thursday–Sunday, March 26–29, 2026",
-    "round": "Tournament Preview",
-    "tipTime": "2026-03-26T15:00",
-    "venue": "Memorial Park Golf Course, Houston, TX • Golf Channel / NBC",
+    "slug": "pga-houston-open-2026",
+    "title": "Texas Children's Houston Open — Final Round",
+    "eventTag": "PGA Tour • Final Round • Sunday, March 29",
+    "date": "Sunday, March 29, 2026",
+    "round": "Final Round",
+    "tipTime": "2026-03-29T13:00",
+    "venue": "Memorial Park Golf Course • Par 70 • 7,475 yards • Golf Channel 1-3 PM / NBC 3-6 PM ET",
     "format": "tournament",
     "teams": [
       {
-        "name": "Favorites",
-        "mascot": "Top Contenders",
-        "seed": "World Top 50",
+        "name": "Woodland",
+        "mascot": "54-Hole Leader",
+        "seed": "-18",
         "colors": {
           "primary": "#004225"
         }
       },
       {
-        "name": "Dark Horses",
-        "mascot": "Sleepers & Value",
-        "seed": "Course Fit",
+        "name": "Hojgaard",
+        "mascot": "The Challenger",
+        "seed": "-17",
         "colors": {
-          "primary": "#1C3A5F"
+          "primary": "#C8102E"
         }
       }
     ],
@@ -1408,41 +1408,14 @@
       "colors": {
         "primary": "#004225"
       }
-    }
-  },
-  {
-    "slug": "pga-houston-open-round-1-2026",
-    "title": "Texas Children's Houston Open — Round 1 Recap",
-    "eventTag": "PGA Tour • Round 1 • Thursday, March 26",
-    "date": "Thursday, March 26, 2026",
-    "round": "Round 1",
-    "tipTime": "2026-03-26T15:00",
-    "venue": "Memorial Park Golf Course • Par 70 • 7,475 yards • Golf Channel 3-7 PM ET",
-    "format": "tournament",
-    "teams": [
-      {
-        "name": "Leaders",
-        "mascot": "Round 1 Leaders",
-        "seed": "Low Scores",
-        "colors": {
-          "primary": "#004225"
-        }
-      },
-      {
-        "name": "The Field",
-        "mascot": "Chasers",
-        "seed": "In Pursuit",
-        "colors": {
-          "primary": "#1C3A5F"
-        }
-      }
-    ],
-    "tournament": {
-      "name": "Texas Children's Houston Open",
-      "colors": {
-        "primary": "#004225"
-      }
-    }
+    },
+    "availableRounds": [
+      "preview",
+      "round-1",
+      "round-2",
+      "round-3",
+      "round-4"
+    ]
   },
   {
     "slug": "texas-vs-purdue-2026",
@@ -1553,40 +1526,6 @@
     ]
   },
   {
-    "slug": "pga-houston-open-round-2-2026",
-    "title": "Texas Children's Houston Open — Round 2 Recap",
-    "eventTag": "PGA Tour • Round 2 • Friday, March 27",
-    "date": "Friday, March 27, 2026",
-    "round": "Round 2",
-    "tipTime": "2026-03-27T15:00",
-    "venue": "Memorial Park Golf Course • Par 70 • 7,475 yards • Golf Channel 3-7 PM ET",
-    "format": "tournament",
-    "teams": [
-      {
-        "name": "Leaders",
-        "mascot": "After 36 Holes",
-        "seed": "Making the Cut",
-        "colors": {
-          "primary": "#004225"
-        }
-      },
-      {
-        "name": "Cut Line",
-        "mascot": "Weekend or Home",
-        "seed": "-2 to make weekend",
-        "colors": {
-          "primary": "#1C3A5F"
-        }
-      }
-    ],
-    "tournament": {
-      "name": "Texas Children's Houston Open",
-      "colors": {
-        "primary": "#004225"
-      }
-    }
-  },
-  {
     "slug": "st-johns-vs-duke-2026",
     "title": "St. John's vs Duke — Sweet 16 Viewing Guide",
     "eventTag": "NCAA Tournament • Sweet 16 • Washington, D.C.",
@@ -1693,74 +1632,6 @@
         }
       }
     ]
-  },
-  {
-    "slug": "pga-houston-open-round-3-2026",
-    "title": "Texas Children's Houston Open — Round 3 Recap",
-    "eventTag": "PGA Tour • Round 3 • Saturday, March 28",
-    "date": "Saturday, March 28, 2026",
-    "round": "Round 3",
-    "tipTime": "2026-03-28T13:00",
-    "venue": "Memorial Park Golf Course • Par 70 • 7,475 yards • Golf Channel 1-3 PM / NBC 3-6 PM ET",
-    "format": "tournament",
-    "teams": [
-      {
-        "name": "Woodland",
-        "mascot": "54-Hole Leader",
-        "seed": "-18",
-        "colors": {
-          "primary": "#004225"
-        }
-      },
-      {
-        "name": "Hojgaard",
-        "mascot": "The Challenger",
-        "seed": "-17",
-        "colors": {
-          "primary": "#C8102E"
-        }
-      }
-    ],
-    "tournament": {
-      "name": "Texas Children's Houston Open",
-      "colors": {
-        "primary": "#004225"
-      }
-    }
-  },
-  {
-    "slug": "pga-houston-open-round-4-2026",
-    "title": "Texas Children's Houston Open — Final Round",
-    "eventTag": "PGA Tour • Final Round • Sunday, March 29",
-    "date": "Sunday, March 29, 2026",
-    "round": "Final Round",
-    "tipTime": "2026-03-29T13:00",
-    "venue": "Memorial Park Golf Course • Par 70 • 7,475 yards • Golf Channel 1-3 PM / NBC 3-6 PM ET",
-    "format": "tournament",
-    "teams": [
-      {
-        "name": "Woodland",
-        "mascot": "54-Hole Leader",
-        "seed": "-18",
-        "colors": {
-          "primary": "#004225"
-        }
-      },
-      {
-        "name": "Hojgaard",
-        "mascot": "The Challenger",
-        "seed": "-17",
-        "colors": {
-          "primary": "#C8102E"
-        }
-      }
-    ],
-    "tournament": {
-      "name": "Texas Children's Houston Open",
-      "colors": {
-        "primary": "#004225"
-      }
-    }
   },
   {
     "slug": "tennessee-vs-michigan-2026",
@@ -1952,7 +1823,7 @@
     ]
   },
   {
-    "slug": "pga-valero-texas-open-round-1-2026",
+    "slug": "pga-valero-texas-open-2026",
     "title": "Valero Texas Open — Round 1 Preview",
     "eventTag": "PGA Tour • Round 1 • Thursday, April 2",
     "date": "Thursday, April 2, 2026",
@@ -1983,41 +1854,48 @@
       "colors": {
         "primary": "#D52B1E"
       }
-    }
+    },
+    "availableRounds": [
+      "preview",
+      "round-1"
+    ]
   },
   {
-    "slug": "pga-valero-texas-open-preview-2026",
-    "title": "Valero Texas Open — 2026 Tournament Preview",
-    "eventTag": "PGA Tour • FedExCup • Last Chance for Augusta",
-    "date": "Thursday–Sunday, April 2–5, 2026",
-    "round": "Tournament Preview",
-    "tipTime": "2026-04-02T16:00",
-    "venue": "TPC San Antonio (Oaks Course), San Antonio, TX • Golf Channel / NBC",
+    "slug": "pga-the-masters-2026",
+    "title": "The Masters — Tournament Preview",
+    "eventTag": "PGA Tour • Major Championship • April 9-12",
+    "date": "Thursday–Sunday, April 9–12, 2026",
+    "round": "Preview",
+    "tipTime": "2026-04-09T15:00",
+    "venue": "Augusta National Golf Club • Par 72 • 7,565 yards • ESPN/CBS",
     "format": "tournament",
     "teams": [
       {
-        "name": "Favorites",
-        "mascot": "Top Contenders",
-        "seed": "World Top 20",
+        "name": "Contenders",
+        "mascot": "Top Favorites",
+        "seed": "Low Odds",
         "colors": {
-          "primary": "#D52B1E"
+          "primary": "#006747"
         }
       },
       {
-        "name": "Dark Horses",
-        "mascot": "Sleepers & Value",
-        "seed": "Course Fit",
+        "name": "The Field",
+        "mascot": "Chasers",
+        "seed": "In Pursuit",
         "colors": {
           "primary": "#1C3A5F"
         }
       }
     ],
     "tournament": {
-      "name": "Valero Texas Open",
+      "name": "The Masters",
       "colors": {
-        "primary": "#D52B1E"
+        "primary": "#006747"
       }
-    }
+    },
+    "availableRounds": [
+      "preview"
+    ]
   },
   {
     "slug": "mlb-braves-at-diamondbacks-2026-04-02",

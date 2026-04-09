@@ -7,8 +7,8 @@ function getToday(): string {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
 }
 
-function sportForSlug(slug: string): string | null {
-  if (slug.startsWith('nba-')) return 'NBA'
+function sportForSlug(slug: string, eventTag?: string): string | null {
+  if (slug.startsWith('nba-') || eventTag?.startsWith('NBA')) return 'NBA'
   if (slug.startsWith('mlb-')) return 'MLB'
   if (slug.startsWith('nwsl-')) return 'NWSL'
   if (slug.startsWith('pga-')) return 'PGA Tour'
@@ -25,13 +25,19 @@ export default function ScoreBanner() {
 
   const todayGames = useMemo(() => {
     const today = getToday()
-    return games.filter((g) => g.tipTime.slice(0, 10) >= today)
+    const d = new Date()
+    d.setDate(d.getDate() + 7)
+    const cutoff = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+    return games.filter((g) => {
+      const date = g.tipTime.slice(0, 10)
+      return date >= today && date <= cutoff
+    })
   }, [games])
 
   const availableSports = useMemo(() => {
     const seen = new Set<string>()
     for (const g of todayGames) {
-      const s = sportForSlug(g.slug)
+      const s = sportForSlug(g.slug, g.eventTag)
       if (s) seen.add(s)
     }
     return ['All Sports', ...seen]
@@ -39,7 +45,7 @@ export default function ScoreBanner() {
 
   const filteredGames = useMemo(() => {
     if (selectedSport === 'All Sports') return todayGames
-    return todayGames.filter((g) => sportForSlug(g.slug) === selectedSport)
+    return todayGames.filter((g) => sportForSlug(g.slug, g.eventTag) === selectedSport)
   }, [todayGames, selectedSport])
 
   const closestSlug = useMemo(() => {

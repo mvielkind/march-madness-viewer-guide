@@ -19,4 +19,5 @@ export interface ManifestEntry {
     name: string
     colors: { primary: string }
   }
+  availableRounds?: string[]
 }

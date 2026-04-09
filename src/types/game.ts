@@ -105,6 +105,27 @@ export interface TrendCategory {
   bullets: string[]
 }
 
+export interface RoundContent {
+  roundLabel: string
+  date: string
+  tipTime: string
+  extraInfo: string
+  eventTag: string
+  stakes: {
+    callout: string
+    cards: StakeCard[]
+  }
+  styles: StyleOfPlay[]
+  keys: KeyToGame[]
+  prediction: Prediction
+  tournamentPrediction?: TournamentPrediction
+  players: Player[]
+  trends?: TrendCategory[]
+  funFacts?: FunFact[]
+  sources: SourceGroup[]
+  footerText: string
+}
+
 export interface GameData {
   slug: string
   title: string
@@ -132,4 +153,5 @@ export interface GameData {
   history?: HistorySection
   sources: SourceGroup[]
   footerText: string
+  rounds?: Record<string, RoundContent>
 }

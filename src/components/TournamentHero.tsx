@@ -1,7 +1,7 @@
-import type { CSSProperties } from 'react'
+import type { CSSProperties, ReactNode } from 'react'
 import type { GameData } from '../types/game.ts'
 
-export default function TournamentHero({ game }: { game: GameData }) {
+export default function TournamentHero({ game, roundSelector }: { game: GameData; roundSelector?: ReactNode }) {
   const t = game.tournament!
   return (
     <header className="masthead masthead--tournament"
@@ -25,6 +25,8 @@ export default function TournamentHero({ game }: { game: GameData }) {
         <div className="masthead-extra"
              dangerouslySetInnerHTML={{ __html: game.extraInfo }} />
       )}
+
+      {roundSelector}
 
       <div className="masthead-funnel" />
     </header>
