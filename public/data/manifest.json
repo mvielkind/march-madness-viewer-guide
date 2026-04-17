@@ -2355,5 +2355,59 @@
         }
       }
     ]
+  },
+  {
+    "slug": "nba-hornets-at-magic-2026-04-17",
+    "title": "Hornets at Magic",
+    "eventTag": "NBA — Play-In Tournament • East 8 Seed",
+    "date": "Friday, April 17, 2026 • 7:30 PM ET",
+    "round": "Play-In Tournament",
+    "tipTime": "2026-04-17T19:30",
+    "venue": "Kia Center, Orlando, FL",
+    "teams": [
+      {
+        "name": "Charlotte",
+        "mascot": "Hornets",
+        "seed": "9",
+        "colors": {
+          "primary": "#1D1160"
+        }
+      },
+      {
+        "name": "Orlando",
+        "mascot": "Magic",
+        "seed": "8",
+        "colors": {
+          "primary": "#0077C0"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "nba-warriors-at-suns-2026-04-17",
+    "title": "Warriors at Suns",
+    "eventTag": "NBA — Play-In Tournament • West 8 Seed",
+    "date": "Friday, April 17, 2026 • 10:00 PM ET",
+    "round": "Play-In Tournament",
+    "tipTime": "2026-04-17T22:00",
+    "venue": "Mortgage Matchup Center, Phoenix, AZ",
+    "teams": [
+      {
+        "name": "Golden State",
+        "mascot": "Warriors",
+        "seed": "10",
+        "colors": {
+          "primary": "#1D428A"
+        }
+      },
+      {
+        "name": "Phoenix",
+        "mascot": "Suns",
+        "seed": "7",
+        "colors": {
+          "primary": "#E56020"
+        }
+      }
+    ]
   }
 ]

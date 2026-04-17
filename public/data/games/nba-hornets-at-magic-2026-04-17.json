@@ -1,0 +1,333 @@
+{
+  "slug": "nba-hornets-at-magic-2026-04-17",
+  "title": "Hornets at Magic",
+  "eventTag": "NBA — Play-In Tournament • East 8 Seed",
+  "date": "Friday, April 17, 2026 • 7:30 PM ET",
+  "round": "Play-In Tournament",
+  "tipTime": "2026-04-17T19:30",
+  "venue": "Kia Center, Orlando, FL • Prime Video (exclusive)",
+  "extraInfo": "Winner advances to face Detroit in Round 1 as the East's 8 seed. Loser is eliminated. Charlotte won the regular season series 3-1. Charlotte defeated Miami 127-126 in OT on April 14 (LaMelo 30/5/10, Bridges 28/9 + buzzer block). Orlando lost to Philadelphia 109-97 on April 15.",
+  "teams": [
+    {
+      "name": "Charlotte",
+      "mascot": "Hornets",
+      "seed": "9",
+      "record": "44-38",
+      "colors": {
+        "primary": "#1D1160",
+        "secondary": "#00788C",
+        "name": "hornets"
+      },
+      "className": "hornets"
+    },
+    {
+      "name": "Orlando",
+      "mascot": "Magic",
+      "seed": "8",
+      "record": "44-38",
+      "colors": {
+        "primary": "#0077C0",
+        "secondary": "#C4CED4",
+        "name": "magic"
+      },
+      "className": "magic"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "stakes",
+      "label": "Matchup Breakdown"
+    },
+    {
+      "id": "styles",
+      "label": "Styles of Play"
+    },
+    {
+      "id": "keys",
+      "label": "Keys to the Game"
+    },
+    {
+      "id": "prediction",
+      "label": "Prediction"
+    },
+    {
+      "id": "players",
+      "label": "Players to Watch"
+    },
+    {
+      "id": "trends",
+      "label": "Trends"
+    },
+    {
+      "id": "sources",
+      "label": "Sources"
+    }
+  ],
+  "stakes": {
+    "callout": "This is the most consequential game either franchise has played since 2016. The <strong>Charlotte Hornets</strong> — riding an adrenaline high after Miles Bridges' buzzer-block sealed a 127-126 OT thriller over Miami three nights ago — travel to Orlando needing one more win to reach the playoffs for the first time in a decade. The <strong>Orlando Magic</strong> held the 8 seed all season, only to drop a gut-punch 109-97 loss to Philadelphia in the play-in opener, and must now protect their home floor against a Charlotte team that went <strong>3-1 against them in the regular season</strong>. Winner faces Detroit in Round 1. Loser watches the playoffs from home.",
+    "cards": [
+      {
+        "label": "Charlotte's Regular Season Edge",
+        "value": "The Hornets went <strong>3-1 against Orlando in the 2025-26 regular season</strong> — the first postseason matchup between the franchises since 2009-10. Charlotte has clearly had Orlando's number this year, though the Magic are at home with playoff desperation."
+      },
+      {
+        "label": "Charlotte's Momentum Entering This Game",
+        "value": "<strong>LaMelo Ball: 30 pts/10 ast</strong> and Miles Bridges' dramatic buzzer-block in OT vs. Miami on April 14. Charlotte has won the play-in opener and carries the emotional momentum of their first postseason win since 2016 — in front of 19,698 fans (franchise attendance record)."
+      },
+      {
+        "label": "Orlando's Back Against the Wall",
+        "value": "The Magic <strong>lost 109-97 to Philadelphia</strong> at home on April 15 — a team they were favored to beat. They must now win a must-win game in the same building two nights later. Historically, teams forced into the second play-in game after losing at home have faced a psychological uphill battle."
+      },
+      {
+        "label": "Both Teams Nearly Identical Records",
+        "value": "Charlotte finished 9th (44-38) and Orlando 8th (44-38) — <strong>essentially mirror-image regular seasons</strong>. Both qualify for the play-in on record, making this a true 50-50 matchup on paper where home court and recent form become decisive."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "Transition-Happy, Three-Point Machine, Driven by LaMelo's Playmaking",
+      "bullets": [
+        "<strong>LaMelo Ball is the offensive engine and the difference-maker:</strong> His 30-point, 10-assist performance vs. Miami illustrated exactly what Charlotte's offense looks like at its peak — a free-flowing attack built on Ball's court vision, pull-up three-point threat, and ability to make the right read out of every pick-and-roll. His +13.6 net points per 100 possessions on the floor ranks among the elite in the NBA.",
+        "<strong>Three-point shooting is the identity:</strong> The Hornets shoot 37.3% from three (top 5 in NBA) on ~26.8 attempts per game. Kon Knueppel set the franchise record with 261 made threes this season and is Ball's most dangerous off-ball weapon. Brandon Miller adds a third capable three-point threat. Charlotte wins games by raining threes.",
+        "<strong>Elite starting five, real depth concerns:</strong> Ball / Knueppel / Miller / Bridges / Diabate (if healthy) carry a historic +29.3 net rating when on the floor together. The bench featuring Tre Mann (5.7 PPG) is a liability — when Ball rests, Charlotte's offense drops significantly.",
+        "<strong>Miles Bridges is the X-factor:</strong> His 28 points and nine rebounds against Miami, capped by the momentum-swinging buzzer block, showed Bridges at his best — physical, relentless, and clutch. He attacks the glass in transition and provides a secondary creation option when Ball is pressured.",
+        "<strong>Turnover vulnerability:</strong> Charlotte commits 15.5 turnovers per game. Against an Orlando defense built on length, discipline, and forcing mistakes, this is the most exploitable weakness on Charlotte's roster."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "Physical Defense, Half-Court Control, Playoff-Tested Unit",
+      "bullets": [
+        "<strong>Defense is Orlando's identity:</strong> The Magic have been one of the elite defensive teams in the East all season — long, physical, and disciplined. Their scheme funnels opponents into difficult mid-range situations, contests at the rim with Carter Jr. and Isaac, and forces opponents into low-efficiency possessions.",
+        "<strong>Paolo Banchero is the offensive anchor:</strong> Banchero's combination of size, shot creation, and playmaking gives Orlando a genuine go-to option in half-court sets. He can score through contact, operate from the elbow, and generate for teammates. His effectiveness against Charlotte's switching defense determines Orlando's offensive ceiling tonight.",
+        "<strong>Franz Wagner provides the two-way complement:</strong> Wagner is versatile enough to guard multiple positions and score in catch-and-shoot as well as off the dribble. He pairs well with Banchero in two-man actions and gives Orlando a secondary creator if the primary option is taken away.",
+        "<strong>Home court is a genuine advantage:</strong> The Magic played well at Kia Center all season and the crowd will be energized after the Philly loss — expect a difficult environment for Charlotte. Orlando has the experience advantage of having already played a playoff-intensity game two days ago.",
+        "<strong>Offensive consistency has been the question mark:</strong> The 109-97 loss to Philadelphia revealed that when Orlando's defense isn't dominant, their half-court offense can bog down. Against Charlotte's three-point-oriented attack, Orlando must score at a higher rate than they did against Philly."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "Can Charlotte's three-point shooting attack Orlando's disciplined perimeter defense?",
+      "description": "Charlotte's offense lives and dies on the three-pointer — 37.3% on ~27 attempts per game, with Knueppel (franchise-record 261 made threes) and Miller as the primary threats. Orlando's defense has been elite at contesting perimeter looks all season, featuring long, active wing defenders who don't give up clean looks. If Charlotte can generate open catch-and-shoot threes through Ball's pick-and-roll gravity and off-ball movement, they can score efficiently enough to win. If Orlando's length turns three-point opportunities into contested pump-fakes and turnovers, Charlotte's offense stagnates."
+    },
+    {
+      "title": "LaMelo Ball vs. Orlando's length — can he impose his playmaking at the same level as the Miami game?",
+      "description": "Ball orchestrated 30 points and 10 assists in a hostile, overtime environment three nights ago. Now he faces a different challenge: Orlando's defense features longer, more physical guards than Miami and a disciplined scheme designed to funnel ball-handlers into traffic. Ball's ability to control tempo — running pick-and-rolls with Diabate or Bridges, creating pull-up threes when the defense goes under, and distributing before defenses rotate — is the single most important determinant of Charlotte's offensive efficiency tonight."
+    },
+    {
+      "title": "Will Moussa Diabate play, and does Orlando expose Charlotte's interior?",
+      "description": "Diabate is questionable with left hip soreness (ESPN injury report, April 17). If he can't go, Charlotte's elite starting five loses its best offensive rebounder (93rd percentile crash rate) and an important connector in pick-and-roll actions. His replacement — likely Ryan Kalkbrenner — has more rim-protection value but less offensive rebounding and short-roll passing ability. Orlando's defense changes with a less mobile center on the floor. Charlotte needs Diabate healthy: when he sits and Kalkbrenner starts, their defensive rating balloons from 111.7 to 125.3 per prior research."
+    },
+    {
+      "title": "Can Orlando's offense generate enough against Charlotte's switching and transition defense?",
+      "description": "The Magic mustered only 97 points against Philadelphia — a team without the defensive athleticism of the Hornets at their best. Charlotte has been one of the better defensive rebounding teams in the NBA since January (1st in defensive rebounding %) which limits Orlando's second-chance opportunities. For Orlando to win, Banchero likely needs 25+ points and Wagner needs to be a consistent secondary option. If the Magic's half-court execution is as labored as it was vs. Philadelphia, Charlotte's three-point attack is likely too much to overcome."
+    },
+    {
+      "title": "Home court and emotional reset vs. Charlotte's momentum — which psychological edge wins out?",
+      "description": "Charlotte enters on a genuine emotional high — their first postseason win in a decade, a franchise attendance record, a buzzer block heard around the fanbase. But they're the road team at Kia Center, which will be loud and desperate after the Philly loss. Orlando has played one game in the last two days, Charlotte has too, but the mental energy of having just survived OT could cut either way — electric or physically draining. The team that executes their defensive assignments most consistently in a hostile environment typically wins these do-or-die games."
+    }
+  ],
+  "prediction": {
+    "summary": "<p>This game turns on two variables: LaMelo Ball's ability to replicate his Miami performance against a more disciplined defense, and whether Moussa Diabate is healthy enough to play his full role. Charlotte's 3-1 regular season edge over Orlando is meaningful, and the Hornets enter with momentum, confidence, and a proven clutch performance from three days ago. But Orlando at home — back against the wall, in front of a desperate crowd — is a different opponent than a regular season Magic team playing with nothing at stake.</p><p>The stylistic edge belongs to Charlotte: their three-point shooting volume and efficiency, Ball's playmaking, and the depth of their starting five are better suited for a one-game playoff environment than Orlando's half-court-dependent offense. But the Magic's defensive length is the one system that can make Charlotte's shooters uncomfortable. This game likely comes down to a 4th quarter possession — exactly where Bridges' block ended the Miami game. Charlotte's momentum, Ball's form, and the regular season series all tilt the needle toward the Hornets.</p>",
+    "phases": [
+      {
+        "title": "First Quarter — Charlotte Pushes Pace, Orlando Sets Tone",
+        "description": "Charlotte opens trying to run in transition — their tempo preference — while Orlando's defense gets set early. Ball probes Orlando's drop coverage on pick-and-rolls, hitting Knueppel for a corner three on the first possession. Banchero responds with an elbow jumper over a close-out. Orlando plays physical in the half court, slowing Charlotte's rhythm. The crowd is electric after the Philly loss. Kia Center makes this a genuine road environment. Both teams are around 25-26 after one."
+      },
+      {
+        "title": "Second Quarter — Charlotte's Bench vs. Orlando's Rotations",
+        "description": "When Ball rests, Charlotte's offense slows. Tre Mann doesn't replicate Ball's gravity and Orlando's defense tightens. But Orlando's bench offense is equally inconsistent. Isaac provides interior presence but limited scoring. This quarter likely decides halftime margin — whichever team's second unit is more productive takes a 4-6 point lead into the break. Charlotte's starting five returns late in the half and closes the gap with a Ball-to-Miller three-pointer."
+      },
+      {
+        "title": "Third Quarter — Charlotte's Starting Five Takes Over",
+        "description": "The Hornets' best basketball comes when Ball, Knueppel, Miller, Bridges, and Diabate play together. If Diabate is healthy, this unit posts the +29.3 net rating that makes them the best high-usage lineup in the NBA. Charlotte goes on a 10-3 run midway through the third, Ball hitting a pull-up three after a Banchero turnover that Charlotte converts in transition. Orlando responds through Banchero's post-up game and Wagner's cutting action. Both teams trade blows heading into the final 12 minutes."
+      },
+      {
+        "title": "Fourth Quarter — Clutch Execution, One Key Possession",
+        "description": "This game was decided by a buzzer block three nights ago, and there's no reason to expect a different level of drama here. Ball controls tempo, finding Knueppel on back-cuts and Miller on kick-outs. Bridges provides the physical edge and transition finishing. Banchero gets his — he's too good not to — but Charlotte's three-point shooting volume creates a pace problem for Orlando's defense to contain. A final-possession scenario is entirely possible."
+      }
+    ],
+    "projectedScore": {
+      "teamA": 112,
+      "teamB": 107,
+      "rationale": "Charlotte's 3-1 regular season record against Orlando, LaMelo Ball's current form (30/5/10 vs. Miami), and the Hornets' three-point shooting volume provide a narrow but consistent edge. Orlando's home crowd and playoff experience are genuine factors, but their offense mustered only 97 against Philadelphia — not enough against Charlotte's transition attack. Banchero keeps it competitive, but Charlotte's starting five net rating and Ball's clutch performance history in this stretch close it out."
+    }
+  },
+  "players": [
+    {
+      "team": "a",
+      "name": "LaMelo Ball",
+      "stats": "PG | 20.1 PPG, 4.8 RPG, 7.1 APG, 1.2 SPG | 40.7% FG, 36.8% 3PT",
+      "meta": "6'7\" | 30 pts / 10 ast vs Miami in OT Play-In win",
+      "bio": "Ball is the reason Charlotte is here. His <strong>30 points and 10 assists against Miami</strong> — including the go-ahead layup with 4.7 seconds left in overtime — was a master class in high-leverage playmaking. His +13.6 net points per 100 possessions when on the floor places him among the elite offensive engines in the NBA. Tonight he faces a different challenge: Orlando's longer, more disciplined defense that doesn't give up the same transition opportunities as Miami. Ball's pick-and-roll reads with Diabate (if healthy) and his pull-up three-point threat off early ball screens are Charlotte's two primary offensive weapons. <em>Note: The NBA reviewed a play involving Bam Adebayo but confirmed Ball will NOT be suspended — he is cleared to play.</em>"
+    },
+    {
+      "team": "a",
+      "name": "Miles Bridges",
+      "stats": "PF | 17.1 PPG, 5.8 RPG, 3.2 APG | 46.0% FG, 33.3% 3PT",
+      "meta": "28 pts / 9 reb + buzzer block to seal Miami OT win",
+      "bio": "Bridges delivered one of the most dramatic moments in recent Hornets history three nights ago — a <strong>block on Davion Mitchell's potential winning layup at the buzzer</strong> in overtime against Miami, preserving Charlotte's 127-126 win. Beyond the iconic play, he put up <strong>28 points and 9 rebounds</strong>, showing why he's the physical backbone of Charlotte's starting five. His transition finishing, mid-range game, and rebounding in traffic complement Ball's finesse perfectly. Against an Orlando team that's already played a high-intensity game this week, Bridges' physicality and energy could be a difference-maker in the fourth quarter."
+    },
+    {
+      "team": "a",
+      "name": "Kon Knueppel",
+      "stats": "SG | 18.5 PPG, 5.3 RPG, 3.4 APG | 47.5% FG, 42.5% 3PT",
+      "meta": "Franchise Record for Made Threes | Rookie of the Year Candidate",
+      "bio": "Knueppel set the <strong>Charlotte Hornets franchise record with 261 made three-pointers</strong> this season — a remarkable achievement for a rookie. His true shooting jumps to 70.3% when playing alongside Ball, as Ball's gravity creates clean catch-and-shoot looks that Knueppel converts at an elite rate. Against Orlando's perimeter defense, he's the shooter the Magic must account for on every off-ball movement. If Orlando's defense cheats toward Ball's drive lanes, Knueppel's corner and above-the-break threes become open. The 3-point battle between Knueppel's volume and Orlando's defensive discipline may be the most important statistical contest of the night."
+    },
+    {
+      "team": "a",
+      "name": "Moussa Diabate",
+      "stats": "C | 7.9 PPG, 8.7 RPG, 1.9 APG | 63.1% FG, 1.0 BPG",
+      "meta": "QUESTIONABLE — Left hip soreness (ESPN, April 17)",
+      "bio": "Diabate is Charlotte's biggest injury question mark entering tonight. He is <strong>officially listed as questionable with left hip soreness</strong> (ESPN injury report, April 17). His absence would be significant: Diabate is the pick-and-roll connector in Charlotte's elite starting five, and his <strong>93rd-percentile offensive rebounding crash rate</strong> creates second-chance opportunities that the bench cannot replicate. When Diabate sits and Kalkbrenner enters, Charlotte's defensive rating historically balloons. His mobility on the hip soreness, and whether he can play his full 25-30 minutes, is the most important pre-game question for Charlotte's coaching staff."
+    },
+    {
+      "team": "b",
+      "name": "Paolo Banchero",
+      "stats": "PF | 22.2 PPG, 8.4 RPG, 5.2 APG | 45.9% FG, 30.5% 3PT",
+      "meta": "Orlando's Offensive Anchor | Must Deliver in Must-Win",
+      "bio": "Everything Orlando runs offensively flows through Banchero. His combination of size (6'10\"), shot creation at the elbow and in the post, and passing vision makes him a genuine do-it-all offensive threat that Charlotte must account for with every defensive possession. The Magic lost to Philadelphia despite having home court — Banchero needs a performance befitting a franchise cornerstone to prevent elimination. <strong>Against Charlotte's switching defense</strong> (which gave Ball and Bridges freedom to attack in the regular season series), Banchero has the physical tools to create advantages in post-ups and mid-range pull-ups. A 25+ point night is likely required for Orlando to advance."
+    },
+    {
+      "team": "b",
+      "name": "Franz Wagner",
+      "stats": "SF | 20.6 PPG, 5.2 RPG, 3.3 APG | 48.1% FG, 34.5% 3PT",
+      "meta": "Secondary Creator | Versatile Matchup Piece",
+      "bio": "Wagner is Orlando's most versatile player — capable of scoring off the dribble, hitting catch-and-shoot threes, operating as a secondary playmaker, and defending Charlotte's wings (Miller, Knueppel). Against a Charlotte team that went 3-1 in the regular season series, Wagner's two-way impact will be central to whether the Magic can neutralize Charlotte's three-point attack while generating enough offense in a half-court game. If Wagner can be an 18-20 point contributor alongside Banchero's leading role, Orlando has the offensive firepower to match Charlotte's three-point shooting. If he's quiet — as he may have been in the Philly loss — Orlando's offense relies too heavily on Banchero alone."
+    },
+    {
+      "team": "b",
+      "name": "Jalen Suggs",
+      "stats": "PG | 13.8 PPG, 3.9 RPG, 5.5 APG | 43.5% FG, 33.9% 3PT, 1.8 SPG",
+      "meta": "LaMelo Matchup Assignment | Energy Defender",
+      "bio": "Suggs draws what is arguably the night's most important defensive assignment: guarding LaMelo Ball. Suggs is one of the more physical and disruptive guards in the East — he competes off-ball, forces turnovers with active hands, and brings defensive energy that matches the playoff stakes. But Ball's 6'7\" frame and handle give him advantages in isolation and ball-screen reads that few guards can match. <strong>If Suggs can bother Ball into 5+ turnovers while contributing 12-15 on offense</strong>, he swings the game in Orlando's favor. If Ball attacks Suggs' on-ball defense and creates ball-screen advantages, Charlotte's offense runs freely."
+    },
+    {
+      "team": "b",
+      "name": "Wendell Carter Jr.",
+      "stats": "C | 11.8 PPG, 7.4 RPG, 2.0 APG | 51.2% FG, 0.6 BPG",
+      "meta": "Rim Protector | Rebounding Battle vs. Diabate",
+      "bio": "Carter Jr. is Orlando's interior counter to whatever Charlotte puts at the five. His rim protection and rebounding on both ends limit Charlotte's putback opportunities — the exact area where Diabate thrives (93rd-percentile offensive rebounding crash rate). If Diabate is limited by his hip soreness, Carter Jr.'s defensive rebounding becomes less challenged, and Orlando can control the glass. On offense, Carter Jr. operates as a pick-and-roll finisher and post touch for Banchero's drive-and-kick sequences. His <strong>rebounding battle against Diabate/Kalkbrenner will determine Charlotte's second-chance points</strong> — potentially the swing factor in a game this close."
+    }
+  ],
+  "trends": [
+    {
+      "title": "Scoring Patterns",
+      "bullets": [
+        "<strong>Charlotte has scored in multiple gears:</strong> 127 in OT vs. Miami, averaging ~117 PPG over their last 10 games, with explosive quarters possible when Ball and the starters run together. The 37-point third quarter vs. Miami showed their ceiling.",
+        "<strong>Orlando's recent offensive floor is concerning:</strong> A 97-point showing vs. Philadelphia in a home play-in game — a team they should be competitive with — raises questions about their half-court execution under pressure. If that's their output vs. Philly's defense, Charlotte's athletic switching puts more stress on their offense.",
+        "<strong>Both teams in this play-in have been within 10 points in the 4th quarter in every game this week</strong> — the Miami OT finish and the Philly loss suggest neither team has blown anyone out when stakes are at their highest.",
+        "<strong>Charlotte is a dramatically improved second-half-of-season team:</strong> They went from a 4-14 start to 44-38 — one of the best turnarounds in the NBA. They're comfortable in pressure situations after surviving the regular season gauntlet."
+      ]
+    },
+    {
+      "title": "Matchup Dynamics",
+      "bullets": [
+        "<strong>Charlotte's 3-point shooting volume vs. Orlando's defensive discipline</strong> is the central stylistic tension. The Hornets fire ~27 threes per game at 37.3% — Orlando's elite defense will be tested to stay connected across 40 minutes of movement and ball screens.",
+        "<strong>Ball's pick-and-roll vs. Orlando's coverage scheme</strong> is the engine matchup. Whether Orlando plays drop, switch, or hedge on Ball's actions directly determines Charlotte's shot quality. Against Miami, Ball got into the paint on repeat — Orlando's length with Carter Jr. and Isaac makes that harder.",
+        "<strong>Turnover battle is Charlotte's exposed flank:</strong> The Hornets commit 15.5 turnovers per game. Orlando's physical, length-oriented defense is designed to force exactly these mistakes. If Charlotte's turnover count exceeds 16, Orlando gets the extra possessions to compensate for a lower shooting efficiency.",
+        "<strong>Paint scoring and rebounding:</strong> Banchero needs interior opportunities to be effective. Charlotte's scheme under Charles Lee has been one of the better systems at limiting paint points since January. Carter Jr. vs. Diabate (if healthy) on the glass determines second-chance equity — potentially 3-5 extra possessions for the winner."
+      ]
+    },
+    {
+      "title": "Lineup & Rotation Trends",
+      "bullets": [
+        "<strong>Charlotte's starting five (Ball/Knueppel/Miller/Bridges/Diabate) carries a +29.3 net rating</strong> — the best high-usage lineup in the NBA this season. They are 26-5 when starting together. The health of Diabate is essential to keeping this unit intact.",
+        "<strong>If Diabate is out, Kalkbrenner likely starts.</strong> Historically this has meant a defensive rating that balloons from 111.7 to 125.3 — a significant swing in a one-game playoff scenario. Kalkbrenner provides rim protection but less offensive rebounding and short-roll passing.",
+        "<strong>Orlando's rotations include Jonathan Isaac</strong> as a shot-blocking presence off the bench — 7'1\" of length that changes shot selection when he enters. If Ball probes the lane in pick-and-roll, Isaac alters the degree of difficulty significantly.",
+        "<strong>Bench depth is shallow for both teams in a play-in context.</strong> Charlotte's Tre Mann vs. Orlando's Cole Anthony off the bench is likely a wash — neither team has a bench scorer who dramatically tilts the rotation advantage."
+      ]
+    },
+    {
+      "title": "Form & Context",
+      "bullets": [
+        "<strong>Charlotte's injury picture is largely clean:</strong> LaMelo Ball is confirmed active (not suspended per NBA review). Miles Bridges, Brandon Miller, Coby White, and Tre Mann have no designations. <strong>Moussa Diabate is the only notable uncertainty</strong> — questionable with left hip soreness per ESPN April 17 report.",
+        "<strong>Orlando's injury picture appears clean</strong> as well: ESPN's Magic injury page shows 'No Data Available' — no players are listed with designations. Banchero, Wagner, Suggs, Carter Jr., Isaac, and Anthony are all expected to be available.",
+        "<strong>Both teams confirm all significant contributors available</strong> per reporting from WBTV on April 16. The game will be decided on the floor, not the injury report.",
+        "<strong>Schedule context:</strong> Charlotte played April 14 (3 days ago). Orlando played April 15 (2 days ago). Neither team is on a back-to-back. Orlando has the marginal rest edge. Charlotte has the momentum edge — arguably more valuable in a one-game playoff.",
+        "<strong>This is Charlotte's first postseason win since 2016</strong> and their first franchise appearance at this stage of the play-in. For Orlando, this is a must-win at home after an embarrassing loss to a team they expected to beat."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "heading": "Charlotte Hornets Sources",
+      "links": [
+        {
+          "label": "Fox Carolina: Hornets Visit Orlando in Play-In Final Stage",
+          "url": "https://www.foxcarolina.com/2026/04/16/charlotte-hornets-visit-orlando-magic-final-stage-sofi-nba-play-in-tournament/"
+        },
+        {
+          "label": "WBTV: Hornets Set for Do-or-Die Game with Magic",
+          "url": "https://www.wbtv.com/2026/04/16/hornets-set-do-or-die-game-with-playoffs-line-heres-who-they-play/"
+        },
+        {
+          "label": "CBS Sports: Charlotte 127, Miami 126 OT — Play-In Recap",
+          "url": "https://www.cbssports.com/nba/gametracker/recap/NBA_20260414_MIA@CHA/"
+        },
+        {
+          "label": "ESPN: Hornets Injury Report (April 17)",
+          "url": "https://www.espn.com/nba/team/injuries/_/name/cha/charlotte-hornets"
+        },
+        {
+          "label": "ESPN: NBA Injuries (Diabate Questionable — Hip)",
+          "url": "https://www.espn.com/nba/injuries"
+        },
+        {
+          "label": "ESPN: Charlotte Hornets Team Page",
+          "url": "https://www.espn.com/nba/team/_/name/cha/charlotte-hornets"
+        },
+        {
+          "label": "Basketball Reference: 2025-26 Charlotte Hornets",
+          "url": "https://www.basketball-reference.com/teams/CHO/2026.html"
+        },
+        {
+          "label": "NBA.com: Play-In Tournament Game Page",
+          "url": "https://www.nba.com/game/cha-vs-orl-0052500201"
+        }
+      ]
+    },
+    {
+      "heading": "Orlando Magic Sources",
+      "links": [
+        {
+          "label": "ESPN: Orlando Magic Injury Report (April 17 — No Designations)",
+          "url": "https://www.espn.com/nba/team/injuries/_/name/orl/orlando-magic"
+        },
+        {
+          "label": "ESPN: Orlando Magic Team Page",
+          "url": "https://www.espn.com/nba/team/_/name/orl/orlando-magic"
+        },
+        {
+          "label": "Basketball Reference: 2025-26 Orlando Magic",
+          "url": "https://www.basketball-reference.com/teams/ORL/2026.html"
+        },
+        {
+          "label": "Fox Carolina: Play-In Preview (Season Series 3-1)",
+          "url": "https://www.foxcarolina.com/2026/04/16/charlotte-hornets-visit-orlando-magic-final-stage-sofi-nba-play-in-tournament/"
+        },
+        {
+          "label": "ESPN: Paolo Banchero Player Page",
+          "url": "https://www.espn.com/nba/player/_/id/4432175/paolo-banchero"
+        },
+        {
+          "label": "ESPN: Franz Wagner Player Page",
+          "url": "https://www.espn.com/nba/player/_/id/4432822/franz-wagner"
+        },
+        {
+          "label": "ESPN: Jalen Suggs Player Page",
+          "url": "https://www.espn.com/nba/player/_/id/4432580/jalen-suggs"
+        },
+        {
+          "label": "NBA.com: Play-In Tournament Game Page",
+          "url": "https://www.nba.com/game/cha-vs-orl-0052500201"
+        }
+      ]
+    }
+  ],
+  "footerText": "Hornets at Magic — April 17, 2026 — Kia Center, Orlando — NBA Play-In Tournament"
+}

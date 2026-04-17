@@ -1,0 +1,269 @@
+{
+  "slug": "nba-warriors-at-suns-2026-04-17",
+  "title": "Warriors at Suns",
+  "eventTag": "NBA — Play-In Tournament • West 8 Seed",
+  "date": "Friday, April 17, 2026 • 10:00 PM ET",
+  "round": "Play-In Tournament",
+  "tipTime": "2026-04-17T22:00",
+  "venue": "Mortgage Matchup Center, Phoenix, AZ • Prime Video (exclusive)",
+  "extraInfo": "Winner advances to face Oklahoma City as the West's 8 seed. Loser is eliminated. Warriors won 3 of 4 regular season meetings, including the last two. Golden State beat the Clippers 126-121 on April 15 (Curry 35 on a minutes cap). Phoenix lost 114-110 at home to Portland on April 14 (Avdija 41).",
+  "teams": [
+    {
+      "name": "Golden State",
+      "mascot": "Warriors",
+      "seed": "10",
+      "record": "37-45",
+      "colors": {
+        "primary": "#1D428A",
+        "secondary": "#FFC72C",
+        "name": "warriors"
+      },
+      "className": "warriors"
+    },
+    {
+      "name": "Phoenix",
+      "mascot": "Suns",
+      "seed": "7",
+      "record": "45-37",
+      "colors": {
+        "primary": "#E56020",
+        "secondary": "#1D1160",
+        "name": "suns"
+      },
+      "className": "suns"
+    }
+  ],
+  "tabs": [
+    { "id": "stakes", "label": "Matchup Breakdown" },
+    { "id": "styles", "label": "Styles of Play" },
+    { "id": "keys", "label": "Keys to the Game" },
+    { "id": "prediction", "label": "Prediction" },
+    { "id": "players", "label": "Players to Watch" },
+    { "id": "trends", "label": "Trends" },
+    { "id": "sources", "label": "Sources" }
+  ],
+  "stakes": {
+    "callout": "One game for the 8 seed. The <strong>Phoenix Suns</strong> went 45-37 in Jordan Ott's first season — a legitimate Coach of the Year turnaround after trading Kevin Durant and buying out Bradley Beal last summer — but dropped their first play-in game 114-110 at home to Portland, putting everything on tonight. The <strong>Golden State Warriors</strong> limped in at 37-45 without Jimmy Butler (torn ACL) and Moses Moody (patellar tendon), then rode a 35-point Stephen Curry performance on a minutes cap to beat the Clippers two nights ago. Golden State won 3 of 4 in the regular season series, including the last two meetings. Winner plays Oklahoma City in Round 1. Loser goes home.",
+    "cards": [
+      {
+        "label": "Warriors Own the Season Series",
+        "value": "Golden State went <strong>3-1 against Phoenix in 2025-26</strong> and won the last two head-to-heads, most notably a <strong>119-116 Dec. 20 win</strong> where Curry posted 28 and 10 rebounds to outduel Booker's 38. Kerr's switching coverage has consistently frustrated Phoenix's Booker-centric offense."
+      },
+      {
+        "label": "Curry on a Minutes Watch",
+        "value": "Curry missed <strong>27 straight games</strong> (Feb 3 - Apr 2) with patellofemoral pain syndrome, then returned for the season's final stretch. Kerr said post-Clippers: <em>\"Those guys are not going to play 40 minutes\"</em> — expect ~34-36 for Curry after logging 36 vs. LAC on April 15."
+      },
+      {
+        "label": "Phoenix's Questionable Frontcourt",
+        "value": "<strong>Mark Williams (foot) and Grayson Allen (hamstring) are both questionable.</strong> Williams played just 5 second-half minutes in Tuesday's loss to Portland; Allen has missed the last two. If both sit, Phoenix loses its starting center AND its best bench shooter in a single-elimination game."
+      },
+      {
+        "label": "Play-In Stakes Couldn't Be Higher",
+        "value": "Winner is the <strong>8 seed in the West</strong> and faces #1 Oklahoma City in Round 1. Loser's season ends tonight. Phoenix is playing at home. Golden State is the road team coming off a win. No back-to-back pressure — both teams had two days off."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "Curry-Led Movement Offense + Draymond's Defensive Anchoring",
+      "bullets": [
+        "<strong>Offense flows through Curry and Draymond's short-roll passing.</strong> Curry averages 26.6 PPG on 39.3% from three; without Butler (ACL, out) and Moody (patellar, out), the secondary creation burden falls to Podziemski (13.8 PPG) and Porzingis (16.1 PPG as a trade-deadline stretch-5, questionable with an ankle).",
+        "<strong>Three-point volume is the identity:</strong> 44.1 3PA per game at 35.6%. In the four meetings with Phoenix this year, Curry was held to just 34.4% from three — the Suns' active-hands perimeter defense is his most frustrating matchup in the conference.",
+        "<strong>Turnover problem is the biggest flaw:</strong> 15.0 TO per game — 2nd-worst in the NBA. Against a Phoenix defense that <em>leads the league in steals at 9.52 per game</em>, this is the single most dangerous number on the matchup card.",
+        "<strong>Preferred closing lineup is Draymond + Horford up front</strong>, with Payton/Podziemski on-ball defenders around Curry. Kerr has publicly committed to the Green-Horford tandem for crunch-time defense — switchable, rebounding-stable, and with Horford's spacing as insurance.",
+        "<strong>Kerr's playoff pedigree is the X-factor:</strong> 104-48 career playoff record, 4 championships, highest postseason winning percentage among coaches with 25+ games. Ott has zero playoff film against him."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "Booker-Centric Half-Court Offense + League-Best Takeaway Defense",
+      "bullets": [
+        "<strong>Devin Booker is the half-court engine:</strong> 26.1 PPG on 45.6% FG, 6.0 APG — he's averaged <em>30.6 PPG in the last 5 vs. Golden State</em>. Phoenix runs clean 2-man action with Booker and lets him cook from the elbow and mid-post.",
+        "<strong>Defense is the real identity:</strong> 112.9 defensive rating, <strong>league-leader in steals (9.52/G) and 2nd in points off turnovers (22.2/G)</strong>. Brooks and Allen are aggressive on-ball; O'Neale and Gillespie play elite team defense on rotations.",
+        "<strong>Spacing is better than it looks on paper:</strong> Collin Gillespie (40.1% 3PT), Royce O'Neale (40.8% 3PT), and Grayson Allen (34.9% 3PT) are legitimate threats. Dillon Brooks (20.2 PPG) is the physical enforcer and secondary scorer.",
+        "<strong>First-year coach Jordan Ott has simplified the system</strong> after the chaotic Durant-Beal-Booker experiment. Phoenix went 45-37, won Western Conference Coach of the Month for January (11-5), and has real Coach of the Year momentum. But this is Ott's first playoff-stakes game.",
+        "<strong>Frontcourt health is fragile:</strong> Mark Williams (64.4% FG, rim-protection anchor) is questionable with a foot issue. Ighodaro and Maluach are the backups — neither replaces Williams' rim protection, which is Phoenix's one non-perimeter defensive strength."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "Can Golden State protect the ball against a Phoenix defense built to force turnovers?",
+      "description": "The single most important stylistic clash: <strong>Warriors 15.0 TO per game (2nd-worst)</strong> vs. <strong>Suns 9.52 steals per game (1st)</strong>. Phoenix scored 22.2 points per game off turnovers this season — 2nd in the NBA. If Golden State hits 16+ giveaways, Phoenix gets an extra 6-8 transition points that effectively replaces their inability to create clean rim offense. Draymond's passing discipline out of short-roll and Curry's handling against pressure are the two variables that matter most."
+    },
+    {
+      "title": "Curry vs. Phoenix's perimeter defense — can he shoot them out of the building?",
+      "description": "Phoenix held Curry to <strong>34.4% from three across the four regular season meetings</strong>, well below his 39.3% season mark. Brooks, Allen, and O'Neale use their length to deny Curry's rhythm and force him into the mid-range. Curry still averaged 28 PPG in those games, but the shooting pressure on him was higher than anywhere else. Without Butler, Curry needs to hit 5+ threes. Tonight's specific test: does Ott switch, blitz, or play drop on Curry ball screens?"
+    },
+    {
+      "title": "The questionable bigs — who has their starting center?",
+      "description": "Both frontcourts are fragile. <strong>Kristaps Porzingis (ankle) and Mark Williams (foot) are both questionable.</strong> If both play, it's a stretch-5 vs. lob-threat duel. If Williams sits, Phoenix has no rim protection against a Warriors offense that already struggles in the paint. If Porzingis sits, Golden State goes to Draymond-at-the-5 + Horford, losing their secondary scorer. <em>Mixed availability heavily favors whichever team has its big active.</em>"
+    },
+    {
+      "title": "Draymond Green on Booker — can he slow down Phoenix's engine?",
+      "description": "Kerr has committed to the Draymond-Horford closing pairing, which likely means <strong>Draymond defending Booker full-time in the fourth quarter</strong>. Draymond's genius is denying rhythm — bumping, switching early, taking away first options. Booker's 30.6 PPG average vs. GSW came against lesser defensive assignments. In crunch time, Draymond draws the ball. If Booker has to beat Green 1-on-1 for 20+ points in the second half, he's walking into Kerr's defensive genius."
+    },
+    {
+      "title": "Which Jalen Green shows up — the 35-point volume scorer or the 31% three-point shooter?",
+      "description": "Jalen Green scored 35 on 39 minutes in Tuesday's loss to Portland — a peak outlier game for him. His season averages (17.8 PPG, 31.3% 3PT) tell a different story. Against Golden State's defense, where Podziemski and Payton will pressure him and force tough shots, he's historically inefficient. If Ott gives him another 35+ minute runway and Green shoots 13-of-30 instead of 13-of-22, Phoenix's offense bogs down. Podziemski's job: make Green feel every pass and shot."
+    }
+  ],
+  "prediction": {
+    "summary": "<p>The matchup numbers tilt Golden State. The Warriors went 3-1 in the regular season series, including the last two meetings, and have won by playing Kerr's switch-everything defense that specifically disrupts Booker's rhythm. Curry's 34.4% three-point mark against Phoenix is a real concern, but his 35-point effort vs. the Clippers showed he's physically ready for a one-game playoff. Draymond on Booker in the fourth quarter is the matchup Ott has no real answer for.</p><p>Phoenix's edges: the league's best takeaway defense against Golden State's league-worst turnover profile, home court, and Booker's last-five vs. Warriors scoring line (30.6 PPG). If Williams plays, the frontcourt is solid enough to force Golden State into all-perimeter offense. But Ott is a first-year coach against Kerr's 104-48 playoff record, and the Warriors' roster — even diminished without Butler — has more big-moment equity. Expect a close game decided in the final 3 minutes, with Curry making 2-3 shots the Suns can't replicate at the other end.</p>",
+    "phases": [
+      {
+        "title": "First Quarter — Phoenix Sets the Tempo",
+        "description": "The Suns slow the game into Booker half-court sets. He opens with 10-12 quick points as Draymond tests straight-up coverage. Curry answers with an off-ball-movement three over a switch, but Phoenix's perimeter pressure on him is visible immediately. Williams (if active) battles Horford inside. Suns up 27-25 after one — a typical Phoenix opening where their crowd and defense establish the game's tone."
+      },
+      {
+        "title": "Second Quarter — Bench Units Swing the Game",
+        "description": "Without Butler, Golden State needs Podziemski, Seth Curry, and Payton to produce when Curry sits. Phoenix's bench — Gillespie plus O'Neale — is the more dangerous unit, especially with Gillespie's 40.1% three-point shooting. Suns extend to a 6-point lead before Curry returns with 4 minutes left and trims it back. Halftime: Phoenix 57, Warriors 54."
+      },
+      {
+        "title": "Third Quarter — Kerr's Defensive Adjustment",
+        "description": "Kerr switches Draymond onto Booker for full possessions, hides Horford on Brooks, and forces Jalen Green to beat them. Booker cools off briefly. Curry hits back-to-back threes — including one over a switched Ighodaro or Maluach — to give the Warriors their first second-half lead. Phoenix's offense bogs into Booker ISOs that don't generate easy looks. End of 3rd: GSW 82, PHX 80."
+      },
+      {
+        "title": "Fourth Quarter — Curry vs. Booker with the Season on the Line",
+        "description": "Exactly what everyone tuned in for. Booker isolates against switches to attack mismatches; Curry runs off staggers with Horford-Draymond. Turnovers are the decisive variable — if Golden State hits 16+ TOs, Phoenix's transition points cover the gap. If Draymond is clean with his short-roll passing, the Warriors get the stops and the shots. A late Curry three over Brooks is the dagger. The Suns' late-game answer relies on Booker being perfect."
+      }
+    ],
+    "projectedScore": {
+      "teamA": 112,
+      "teamB": 108,
+      "rationale": "Golden State's 3-1 regular season series win, Kerr's switching defense that specifically troubles Booker, and Curry's fresh 35-point performance vs. the Clippers all tilt this toward the Warriors. Phoenix has the home crowd, the turnover-forcing defense, and the questionable bigs matchup as real edges — but Draymond on Booker in the fourth quarter is a matchup Ott has no proven counter for. Curry goes for ~32 points and hits the shot of the night."
+    }
+  },
+  "players": [
+    {
+      "team": "a",
+      "name": "Stephen Curry",
+      "stats": "PG | 26.6 PPG, 3.6 RPG, 4.7 APG | 46.8% FG, 39.3% 3PT, 92.3% FT",
+      "meta": "6'2\" | 35 pts vs LAC (Apr 15) on a minutes cap | No formal restriction tonight",
+      "bio": "Curry dropped <strong>35 points on the Clippers two nights ago</strong> on 36 minutes, silencing concerns about his conditioning after the 27-game knee absence. He has <strong>no formal minutes restriction tonight</strong>, though Kerr warned: <em>\"Those guys, they're not going to play 40.\"</em> Expect ~34-36 with the bulk in the 4th. Phoenix held him to <strong>34.4% from three across the four meetings</strong> this year — by far his toughest shooting matchup in the conference. The Suns' active perimeter hands (Brooks, Allen, O'Neale) force him into the mid-range. Curry's counter is off-ball screen action with Horford and Draymond, where he can get cleaner looks than on-ball pick-and-roll. If he hits 5+ threes, Golden State wins."
+    },
+    {
+      "team": "a",
+      "name": "Draymond Green",
+      "stats": "PF | 8.4 PPG, 5.5 RPG, 5.5 APG | 41.8% FG, 32.6% 3PT",
+      "meta": "Defensive Anchor | Will Draw the Booker Assignment in Crunch Time",
+      "bio": "Draymond's playoff value isn't in the box score — it's in <strong>defending Booker in the 4th quarter</strong> and quarterbacking the defense from the middle. Kerr has publicly committed to the Draymond-Horford closing pair, which means Green is the primary Booker assignment down the stretch. His reads out of short-roll are the offensive counter to Phoenix's trapping coverage on Curry — if Ott blitzes Curry, Draymond has to make the right pass every time. <em>Emotional game-within-the-game</em>: he and Brooks have history. If Brooks runs his mouth, Draymond usually counters by getting Curry better looks off pins. Played 35 vs. LAC; expect another 32-36 tonight."
+    },
+    {
+      "team": "a",
+      "name": "Brandin Podziemski",
+      "stats": "SG | 13.8 PPG, 5.1 RPG, 3.7 APG | 45.5% FG, 37.1% 3PT",
+      "meta": "Played 41 minutes vs. LAC | Key Two-Way Role in Butler's Absence",
+      "bio": "Podziemski logged <strong>41 minutes against the Clippers</strong> — more than anyone on the Warriors — and will likely be asked to do the same tonight. Without Butler (ACL) and Moody (patellar), he's the only healthy secondary creator who can also defend. His primary defensive assignment: <strong>Jalen Green</strong>, who scored 35 on 39 minutes vs. Portland but shot just 31.3% from three all season. Podziemski has to make Green work for everything. On offense, he's Curry's release valve when double-teams come — his 37.1% from three and willingness to take any shot create the spacing Golden State lost when Butler went down."
+    },
+    {
+      "team": "a",
+      "name": "Kristaps Porzingis",
+      "stats": "C | 16.1 PPG, 5.3 RPG, 2.3 APG | 43.3% FG, 31.1% 3PT",
+      "meta": "QUESTIONABLE — Right ankle soreness | 15 games as a Warrior after trade deadline",
+      "bio": "Porzingis is <strong>questionable with right ankle soreness</strong> — he played through it against the Clippers (20 pts, 5 reb, 5 ast) and is expected to be a game-time decision. He's the critical stretch-5 who pulls Mark Williams (if active) out of drop coverage, and his 15-game Warriors sample (16.1 PPG) has been vital without Butler. If he can't go, Kerr goes to a Draymond-Horford-at-the-5 lineup that loses secondary scoring but gains some perimeter defense. The Porzingis-Williams duel — if both play — is the most important matchup within the matchup. Porzingis' 3-point gravity is Golden State's answer to Phoenix's interior defense."
+    },
+    {
+      "team": "b",
+      "name": "Devin Booker",
+      "stats": "SG | 26.1 PPG, 3.9 RPG, 6.0 APG | 45.6% FG, 33.0% 3PT, 87.3% FT",
+      "meta": "30.6 PPG in last 5 vs Warriors | Phoenix's Half-Court Engine",
+      "bio": "Booker has <strong>averaged 30.6 PPG in the last five meetings with Golden State</strong> — his most productive matchup against any conference team. Phoenix's offense is functionally a Booker-centric system, with Gillespie and O'Neale spacing around his elbow-to-mid-post isolation work. The challenge tonight: <strong>Draymond Green is the crunch-time assignment</strong>. Booker is used to drop coverage allowing him pull-up mid-range looks; Kerr will either switch or have Draymond jump screens, forcing Booker to give it up. If he gets 32+ on efficient shooting, Phoenix wins. If Draymond gets him to 22 on 25 shots, they don't."
+    },
+    {
+      "team": "b",
+      "name": "Dillon Brooks",
+      "stats": "SF | 20.2 PPG, 3.6 RPG, 1.8 APG | 43.5% FG, 34.4% 3PT",
+      "meta": "Acquired in Durant Trade | Primary Curry Defender",
+      "bio": "Brooks came to Phoenix in the <strong>Kevin Durant trade</strong> last summer (along with Jalen Green and a draft package) and has thrived as a physical on-ball wing. He's the primary Curry defender and one of the league's most agitating perimeter players. Historically, <strong>Curry has feasted on Brooks</strong> in pick-and-roll switches — the matchup that ties Ott's hands when he wants to hide Brooks on a lesser shooter. His emotional game is an X-factor: against Draymond Green, there's real potential for technical fouls. Phoenix needs him disciplined, physical with Curry, and hitting 2+ threes of his own."
+    },
+    {
+      "team": "b",
+      "name": "Jalen Green",
+      "stats": "SG | 17.8 PPG, 3.6 RPG, 2.8 APG | 42.2% FG, 31.3% 3PT",
+      "meta": "35 pts vs Portland on 39 minutes | Outlier performance or new baseline?",
+      "bio": "Green dropped <strong>35 points on 39 minutes</strong> in Tuesday's loss to Portland — his best scoring night of the season. But his season averages (17.8 PPG, 31.3% 3PT) tell a different story: he's a high-volume shooter with inefficient shot selection. The question is which version shows up against Golden State's defense, where Podziemski and Payton will pressure every shot. His <strong>poor history in postseason-intensity games</strong> (13-for-42 in last year's Rockets playoff run, -36 net) is a warning flag. If Ott rides him for another 35+ minutes and he shoots 13-of-30, Phoenix's offense stalls. He needs to play under control and hit his catch-and-shoot looks."
+    },
+    {
+      "team": "b",
+      "name": "Mark Williams",
+      "stats": "C | 11.7 PPG, 8.0 RPG, 1.0 APG | 64.4% FG",
+      "meta": "QUESTIONABLE — Left foot soreness | 5 second-half minutes vs. Portland",
+      "bio": "Williams is <strong>questionable with left foot soreness</strong> and played only <strong>5 second-half minutes</strong> in Tuesday's loss to Portland — a massive concern for Phoenix. He's the team's only true rim protector at 64.4% FG finishing, and his absence forces Ighodaro or Maluach into heavy minutes. Neither replaces his interior defense. If Porzingis plays for Golden State and Williams doesn't, Phoenix has no answer for the Curry-Porzingis pick-and-pop — their drop coverage relies on Williams closing out on the roll. This is <em>the single biggest availability question on either side</em>, and Phoenix's path to winning narrows considerably if he can't go 25+ minutes."
+    }
+  ],
+  "trends": [
+    {
+      "title": "Scoring Patterns",
+      "bullets": [
+        "<strong>Warriors finished 3-7 in their final 10 games</strong> (113.1 PPG for / 118.8 against) — the slump largely tied to Curry's 27-game knee absence. With Curry back, they scored 126 vs. the Clippers in the play-in.",
+        "<strong>Suns finished 6-4 in their final 10 games</strong> (111.3 for / 110.2 against) — steadier but unspectacular. They peaked at 131-105 vs. Memphis on March 30.",
+        "<strong>Both teams are 3rd-quarter-oriented.</strong> Kerr's halftime adjustments have been a signature all season; Ott runs a similar script with Booker isolation coming out of the break.",
+        "<strong>Clutch scoring:</strong> Curry and Booker both rank top-25 in NBA clutch points this season. Expect a <em>sub-5-point game entering the final 2 minutes</em>."
+      ]
+    },
+    {
+      "title": "Matchup Dynamics",
+      "bullets": [
+        "<strong>Warriors won 3 of 4 regular season meetings, including the last two.</strong> Kerr's switching defense has consistently troubled Booker's isolation game; Draymond as a crunch-time Booker defender is the central wrinkle.",
+        "<strong>The turnover battle is the defining statistical clash:</strong> Golden State 15.0 TO/G (29th) vs. Phoenix 9.52 steals/G (1st) and 22.2 points off turnovers (2nd). Phoenix's defensive engine runs on forcing exactly what Golden State gives up.",
+        "<strong>Three-point shooting:</strong> Warriors 44.1 3PA at 35.6%, Suns 40.8 at 36.1%. Phoenix held Curry to 34.4% from three in the four regular season meetings — his worst mark against any conference team.",
+        "<strong>Paint scoring and rim protection</strong> tilt to whichever team has its big active. Both Williams (PHX) and Porzingis (GSW) are questionable. If Williams sits, Phoenix has no rim protection. If Porzingis sits, Golden State loses its stretch-5 spacing."
+      ]
+    },
+    {
+      "title": "Lineup & Rotation Trends",
+      "bullets": [
+        "<strong>Warriors' preferred closing lineup: Curry / Podziemski / Payton / Draymond / Horford.</strong> Kerr has publicly committed to the Draymond-Horford big pairing for defensive purposes — Horford's 3-point shooting provides spacing insurance.",
+        "<strong>Warriors played an 8-man rotation vs. LAC:</strong> Curry 36, Podziemski 41, Draymond 35, Porzingis, Horford, Payton, Melton, Seth Curry. Expect similar tightness tonight with Butler and Moody out for the season.",
+        "<strong>Suns' best lineup is Booker / Gillespie / Brooks / O'Neale / Williams</strong> — shooting-heavy (Gillespie 40.1%, O'Neale 40.8%) with a real rim protector. If Williams sits, it all breaks down.",
+        "<strong>Both benches are shallow in a one-game playoff.</strong> Phoenix's Gillespie (12.7 PPG, 40.1% 3PT) is the best bench player on the floor; Golden State's Payton brings defense and Seth Curry brings shooting."
+      ]
+    },
+    {
+      "title": "Form & Context",
+      "bullets": [
+        "<strong>Warriors OUT:</strong> Jimmy Butler (torn ACL, Jan 19, season), Moses Moody (torn patellar tendon, season), Quinten Post (right foot). <strong>Questionable:</strong> Kristaps Porzingis (right ankle).",
+        "<strong>Suns questionable:</strong> Mark Williams (left foot) and Grayson Allen (left hamstring strain — missed last two games before Portland). Both are <em>game-time decisions</em>; their availability significantly shapes rotations.",
+        "<strong>Stephen Curry has no formal minutes restriction</strong> per Kerr, but played 36 vs. LAC and is on a 2-day turnaround. Kerr confirmed: <em>\"Not 40 minutes.\"</em> Expect 34-36 with heavy 4th-quarter usage.",
+        "<strong>Rest edge is marginal:</strong> Warriors played April 15, Suns April 14. Phoenix has one extra day. Podziemski (41), Draymond (35), Jalen Green (39), and Booker all played heavy minutes in their play-in openers — fatigue is a real factor.",
+        "<strong>Coaching contrast:</strong> Kerr (4 rings, 104-48 playoff record) vs. Jordan Ott (first-year coach, first playoff-stakes game ever). This is Ott's biggest test as a head coach."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "heading": "Golden State Warriors Sources",
+      "links": [
+        { "label": "Press Democrat: Warriors vs. Suns Play-In Preview", "url": "https://www.pressdemocrat.com/2026/04/16/golden-state-warriors-phoenix-suns-preview-nba-play-in-tournament/" },
+        { "label": "Warriors.com: Gameday Preview", "url": "https://warriors.com/news/gameday-preview-20260417" },
+        { "label": "NBC Sports Bay Area: Kerr on Curry Minutes Restriction", "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steve-kerr-steph-curry-nba-play-in-minutes-limit/1931403/" },
+        { "label": "SF Standard: 5 Thoughts on Warriors-Suns Play-In", "url": "https://sfstandard.com/2026/04/17/warriors-suns-play-in-elimination-game-preview-2026/" },
+        { "label": "iHeart Sports Bay Area: April 17 Injury Report", "url": "https://iheartsportsbayarea.iheart.com/content/2026-04-17-warriors-vs-suns-nba-play-in-tournament-injury-report-april-17/" },
+        { "label": "NBA.com: Jimmy Butler ACL Surgery", "url": "https://www.nba.com/news/warriors-star-jimmy-butler-undergoes-right-knee-surgery-to-repair-acl" },
+        { "label": "NBA.com: Kerr Reaches 600 Wins", "url": "https://www.nba.com/warriors/news/head-coach-steve-kerr-reaches-historic-600-win-milestone-2026" },
+        { "label": "Basketball Reference: 2025-26 Warriors", "url": "https://www.basketball-reference.com/teams/GSW/2026.html" },
+        { "label": "ESPN: Warriors Team Page", "url": "https://www.espn.com/nba/team/_/name/gs/golden-state-warriors" },
+        { "label": "Wikipedia: 2025-26 Warriors Season", "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Golden_State_Warriors_season" }
+      ]
+    },
+    {
+      "heading": "Phoenix Suns Sources",
+      "links": [
+        { "label": "NBA.com Suns: Play-In Game Preview", "url": "https://www.nba.com/suns/news/4-17-2026-suns-vs-warriors-play-in-tournament-game-preview" },
+        { "label": "Arizona Sports: Warriors Play-In How to Watch", "url": "https://arizonasports.com/nba/phoenix-suns/warriors-play-in/3617974/" },
+        { "label": "Bright Side of the Sun: Matchup History Analysis", "url": "https://www.brightsideofthesun.com/suns-schedule/102682/play-in-elimination-game-warriors-vs-suns-stephen-curry-matchup-history-analysis" },
+        { "label": "Yahoo Sports: Williams & Allen Questionable", "url": "https://sports.yahoo.com/articles/suns-injury-2-players-questionable-011457426.html" },
+        { "label": "Heavy.com: Jalen Green Injury Status", "url": "https://heavy.com/sports/nba/phoenix-suns/jalen-green-injury-status-warriors-game/" },
+        { "label": "ClutchPoints: Ott Coach of Year Case", "url": "https://clutchpoints.com/nba/phoenix-suns/suns-jordan-ott-2025-26-nba-coach-year" },
+        { "label": "Wikipedia: Jordan Ott", "url": "https://en.wikipedia.org/wiki/Jordan_Ott" },
+        { "label": "Sportico: Durant-to-Houston Trade", "url": "https://www.sportico.com/leagues/basketball/2025/kevin-durant-trade-phoenix-suns-houston-rockets-1234857521/" },
+        { "label": "Basketball Reference: 2025-26 Suns", "url": "https://www.basketball-reference.com/teams/PHO/2026.html" },
+        { "label": "ESPN: Phoenix Suns Team Page", "url": "https://www.espn.com/nba/team/_/name/phx/phoenix-suns" },
+        { "label": "Wikipedia: 2025-26 Suns Season", "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Phoenix_Suns_season" }
+      ]
+    }
+  ],
+  "footerText": "Warriors at Suns — April 17, 2026 — Mortgage Matchup Center, Phoenix — NBA Play-In Tournament"
+}
