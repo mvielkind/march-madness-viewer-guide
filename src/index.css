@@ -857,6 +857,38 @@ footer {
   margin-bottom: 2.5rem;
 }
 
+/* -- Sport filter dropdown -- */
+.home-sport-filter {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: .6rem;
+  margin-bottom: 1.75rem;
+}
+.home-sport-filter-label {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  color: var(--text-dim);
+}
+.home-sport-select {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .85rem;
+  font-weight: 600;
+  color: inherit;
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: .4rem .6rem;
+  cursor: pointer;
+}
+.home-sport-select:focus {
+  outline: none;
+  border-color: var(--accent, #c8102e);
+}
+
 /* -- Today's Events section -- */
 .home-today {
   margin-bottom: 3rem;
