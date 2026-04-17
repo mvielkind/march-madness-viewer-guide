@@ -1,40 +1,52 @@
 import { Link, useParams } from 'react-router-dom'
 import { useRef, useState, useEffect, useCallback, useMemo } from 'react'
-import { games } from '../data/games/index.ts'
-
-const sports = ['All Sports', "Men's Basketball", "Women's Basketball", 'PGA Tour'] as const
+import { useManifest } from '../hooks/useManifest.ts'
 
 function getToday(): string {
   const d = new Date()
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
 }
 
-function isPga(slug: string): boolean {
-  return slug.startsWith('pga-')
-}
-
-function isWomens(slug: string): boolean {
-  return slug.includes('womens')
+function sportForSlug(slug: string, eventTag?: string): string | null {
+  if (slug.startsWith('nba-') || eventTag?.startsWith('NBA')) return 'NBA'
+  if (slug.startsWith('mlb-')) return 'MLB'
+  if (slug.startsWith('nwsl-')) return 'NWSL'
+  if (slug.startsWith('pga-')) return 'PGA Tour'
+  return null
 }
 
 export default function ScoreBanner() {
+  const games = useManifest()
   const { slug } = useParams<{ slug: string }>()
   const gamesRef = useRef<HTMLDivElement>(null)
   const [canScrollLeft, setCanScrollLeft] = useState(false)
   const [canScrollRight, setCanScrollRight] = useState(false)
   const [selectedSport, setSelectedSport] = useState<string>('All Sports')
 
-  const filteredGames = useMemo(() => {
+  const todayGames = useMemo(() => {
     const today = getToday()
+    const d = new Date()
+    d.setDate(d.getDate() + 7)
+    const cutoff = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
     return games.filter((g) => {
-      const dateStr = g.tipTime.slice(0, 10)
-      if (dateStr < today) return false
-      if (selectedSport === 'PGA Tour') return isPga(g.slug)
-      if (selectedSport === "Men's Basketball") return !isPga(g.slug) && !isWomens(g.slug)
-      if (selectedSport === "Women's Basketball") return isWomens(g.slug)
-      return true
+      const date = g.tipTime.slice(0, 10)
+      return date >= today && date <= cutoff
     })
-  }, [selectedSport])
+  }, [games])
+
+  const availableSports = useMemo(() => {
+    const seen = new Set<string>()
+    for (const g of todayGames) {
+      const s = sportForSlug(g.slug, g.eventTag)
+      if (s) seen.add(s)
+    }
+    return ['All Sports', ...seen]
+  }, [todayGames])
+
+  const filteredGames = useMemo(() => {
+    if (selectedSport === 'All Sports') return todayGames
+    return todayGames.filter((g) => sportForSlug(g.slug, g.eventTag) === selectedSport)
+  }, [todayGames, selectedSport])
 
   const closestSlug = useMemo(() => {
     if (filteredGames.length === 0) return null
@@ -106,7 +118,7 @@ export default function ScoreBanner() {
           value={selectedSport}
           onChange={(e) => setSelectedSport(e.target.value)}
         >
-          {sports.map((s) => (
+          {availableSports.map((s) => (
             <option key={s} value={s}>
               {s}
             </option>
@@ -124,7 +136,7 @@ export default function ScoreBanner() {
           )}
           <div className="banner-games" ref={gamesRef}>
             {filteredGames.map((game) => {
-              const pga = isPga(game.slug)
+              const pga = game.slug.startsWith('pga-')
               const active = slug === game.slug
               const now = !slug && game.slug === closestSlug
 

@@ -1,0 +1,682 @@
+{
+  "slug": "pga-the-masters-2026",
+  "title": "The Masters — Tournament Preview",
+  "eventTag": "PGA Tour • Major Championship • April 9-12",
+  "date": "Thursday–Sunday, April 9–12, 2026",
+  "round": "Preview",
+  "tipTime": "2026-04-09T15:00",
+  "venue": "Augusta National Golf Club • Par 72 • 7,565 yards • ESPN/CBS",
+  "extraInfo": "<strong>$21M purse</strong> • 91-player field • Defending champion: Rory McIlroy • Firm & fast conditions forecast • First Masters without Tiger Woods or Phil Mickelson since 1994",
+  "format": "tournament",
+  "tournament": {
+    "name": "The Masters",
+    "courseName": "Augusta National Golf Club • Augusta, GA",
+    "colors": {
+      "primary": "#006747",
+      "secondary": "#FFC72C",
+      "name": "the-masters"
+    }
+  },
+  "teams": [
+    {
+      "name": "Contenders",
+      "mascot": "Top Favorites",
+      "seed": "Low Odds",
+      "record": "Scheffler +550, DeChambeau +1000, Rahm +1000",
+      "colors": {
+        "primary": "#006747",
+        "secondary": "#FFC72C",
+        "name": "contenders"
+      },
+      "className": "contenders"
+    },
+    {
+      "name": "The Field",
+      "mascot": "Chasers",
+      "seed": "In Pursuit",
+      "record": "91 players • Cut after R2 (low 50 & ties)",
+      "colors": {
+        "primary": "#1C3A5F",
+        "secondary": "#FFFFFF",
+        "name": "field"
+      },
+      "className": "field"
+    }
+  ],
+  "tabs": [
+    { "id": "stakes", "label": "The Stakes" },
+    { "id": "styles", "label": "Styles of Play" },
+    { "id": "keys", "label": "Keys to the Game" },
+    { "id": "prediction", "label": "Prediction" },
+    { "id": "players", "label": "Players to Watch" },
+    { "id": "facts", "label": "Fun Facts" },
+    { "id": "history", "label": "History" },
+    { "id": "sources", "label": "Sources" }
+  ],
+  "stakes": {
+    "callout": "The 90th Masters Tournament arrives with <strong>the most wide-open field in recent memory</strong>. Defending champion Rory McIlroy returns to Augusta National nursing a back injury and winless in 2026, while World No. 1 Scottie Scheffler — the +550 favorite seeking a third green jacket — has seen his trademark iron play drop to <strong>82nd on Tour in SG: Approach</strong> after ranking 1st for three straight years. Meanwhile, LIV Golf's <strong>Bryson DeChambeau and Jon Rahm</strong> arrive on absolute heaters, with back-to-back LIV wins and a recent playoff between them. Ludvig Aberg brings <strong>three consecutive top-5 finishes</strong> and the 2nd-best strokes gained average at Augusta in the field. With Tiger Woods and Phil Mickelson both absent for the first time since 1994, a new chapter of Masters history begins Thursday on bone-dry, firm-and-fast Augusta National.",
+    "cards": [
+      {
+        "label": "The Wide-Open Major",
+        "value": "Analysts call this <strong>\"the most wide-open Masters in recent memory\"</strong> with 10-12 legitimate contenders instead of the typical 5-6. The defending champion has a back injury. The World No. 1 hasn't cracked a top-10 in three starts. Two LIV stars are surging. A 26-year-old Swede has the best current form in golf. Expect chaos, not coronation."
+      },
+      {
+        "label": "McIlroy Defends the Grand Slam",
+        "value": "Rory McIlroy completed the <strong>career Grand Slam</strong> with his 2025 playoff victory over Justin Rose — just the sixth man in history to win all four majors. Now he seeks to become the first back-to-back Masters champion since <strong>Tiger Woods (2001-02)</strong>. Only Nicklaus (1965-66) and Faldo (1989-90) have also repeated. McIlroy's back injury and winless 2026 are concerns, but he's a different player at Augusta now — the existential weight is gone."
+      },
+      {
+        "label": "Scheffler's Third Green Jacket",
+        "value": "Scottie Scheffler won in 2022 and 2024, finished 4th in 2025 — <strong>never outside the top 20 at Augusta</strong>. His SG per round at Augusta (+2.965) is the best in the field by a mile. A third win would tie <strong>Phil Mickelson, Gary Player, Sam Snead, and Nick Faldo</strong>. But he just had his second son (Remy, born March 27), hasn't played in a month, and his approach play has cratered to 82nd on Tour."
+      },
+      {
+        "label": "No Tiger. No Phil. First Time Since 1994.",
+        "value": "Tiger Woods stepped away from competitive golf following his <strong>March 27 DUI arrest</strong> near his Jupiter Island home. Phil Mickelson also won't compete. It's the <strong>first Masters without either since 1994</strong> — the year before Tiger's amateur debut. Combined, they own 8 of the 89 green jackets. Their absence marks a generational shift at Augusta National."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "The Precision Ball-Striker: Elite Iron Play + Course Knowledge",
+      "bullets": [
+        "<strong>SG: Approach is the single most predictive stat at Augusta National.</strong> Five of the last seven Masters champions ranked top 5 in the field that week in SG: Approach. Every winner since 2010 entered ranked in the top 100 in approach on Tour, and most were top 44. Augusta's tiered bentgrass greens demand landing the ball in the correct quadrant — missing the wrong shelf means three-putting or worse. The greens are the defense, and only elite iron play neutralizes them.",
+        "<strong>Course experience is more predictive at Augusta than almost any other major venue.</strong> In 2025, all 10 players inside the top 10 had a prior top-10 at the Masters. Scottie Scheffler (+2.965 SG/round over 20 rounds), Ludvig Aberg (+2.876 over 8 rounds), Collin Morikawa (+2.065), and Xander Schauffele (+1.795) have the strongest Augusta-specific track records. Players who know where to miss — and more importantly where <em>not</em> to miss — gain 1-2 strokes per round over debutants.",
+        "<strong>Bogey avoidance on the back nine separates contenders from pretenders.</strong> Augusta's back nine — particularly Amen Corner (11-12-13) — can cascade. One bad swing at the par-3 12th (Golden Bell) can lead to double bogey, which leads to an aggressive play at 13 that leads to water. The winners here make one mistake and recover; the losers make one mistake and spiral.",
+        "<strong>This profile fits: Scheffler, Rahm, Aberg, Schauffele, Fitzpatrick, Morikawa.</strong> Scheffler's Augusta SG is historically dominant even with his 2026 approach dip. Rahm won here in 2023 and is 1st on LIV in SG: Approach. Aberg ranks 1st in SG at this course with three straight top-5s. Schauffele has five Augusta top-10s. Fitzpatrick leads the entire Tour in SG: Tee-to-Green."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "The Power-and-Touch Bomber: Overpower the Par 5s, Scramble the Rest",
+      "bullets": [
+        "<strong>Augusta's four par 5s (holes 2, 8, 13, 15) are all reachable in two for long hitters.</strong> Elite players effectively play Augusta as a par 68, birdieing all four par 5s as baseline. Masters winners typically play par 5s at 8-to-12 under for the week. Bombers who can reach every par 5 in two have a structural 4-stroke advantage over shorter hitters who must lay up. Every Masters winner since 2016 (except Danny Willett) ranked in the top 100 in driving distance.",
+        "<strong>Augusta's fairways are the widest in major championship golf.</strong> The penalty for missing fairways at Augusta is the lowest among all major venues. This means bombers can swing freely without fear — the course rewards aggression off the tee. Bryson DeChambeau, who averages 320+ yards, can hit driver everywhere and turn par 4s into wedge approaches.",
+        "<strong>When approach shots miss, Augusta demands creative short-game artistry.</strong> SG: Around the Green correlates strongly with Masters success — 13 straight winners (and 14 of 16) ranked top 55 in SG: ATG in their winning season. Augusta's shaved runoffs, elevation changes, and lightning-fast greens mean standard bump-and-runs don't work. You need imagination — the Bubba Watson pine-straw hook, the Phil Mickelson flop over the bunker.",
+        "<strong>This profile fits: DeChambeau, Fleetwood, Cameron Young, Bhatia.</strong> DeChambeau has top-6 finishes in each of the last two Masters, gaining strokes on the greens both times — his power + improved touch combination is peaking. Fleetwood leads the Tour in SG: ATG (+0.900) — the best short game on the planet at a course that demands it. Cameron Young won The Players with elite length. Bhatia's fearless aggression and left-handed draw shape are built for Augusta's doglegs."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "SG: Approach is everything — and the favorite's approach play has cratered.",
+      "description": "Five of seven recent Masters winners ranked top 5 in the field in SG: Approach that week. Every winner since 2010 entered Augusta in the top 100 on Tour. <strong>Scottie Scheffler — who led the PGA Tour in approach for three consecutive years — ranks just 82nd in 2026.</strong> His +0.080 SG: Approach is barely above average. Meanwhile, Ludvig Aberg (3rd in weighted SG: T2G over 24 rounds), Matt Fitzpatrick (1st in SG: T2G on Tour), and Jon Rahm (1st on LIV in approach) are all peaking in the stat that matters most. The wide-open nature of this Masters traces directly to Scheffler's approach dip."
+    },
+    {
+      "title": "Firm and fast conditions will make Augusta's greens a nightmare — and a differentiator.",
+      "description": "Augusta has been <strong>bone-dry for two months</strong>. No rain is forecast for any of the four tournament days. Temperatures climb from the upper 70s Thursday to 84°F Sunday. The greens will be firm, fast, and unforgiving — balls will release off slopes rather than checking. Three-putt avoidance becomes a survival skill. Xander Schauffele specifically flagged this: <strong>\"Avoiding three-putts will decide the tournament.\"</strong> Players who can land irons in the correct quadrant and control speed on downhill putts will separate from those chasing spin on rock-hard surfaces."
+    },
+    {
+      "title": "The LIV form question: Rahm and DeChambeau are surging, but does it translate?",
+      "description": "Jon Rahm hasn't finished worse than T-5 in five LIV events. Bryson DeChambeau won back-to-back LIV tournaments, including a <strong>playoff over Rahm</strong> in South Africa. But Rahm's post-LIV major record is mixed: T-45 (2024 Masters), T-14 (2025 Masters), plus a missed cut. DeChambeau's Augusta trajectory is better — T-6 and T-5 the last two years — suggesting real improvement. Ten LIV players are in the 91-man field. If either Rahm or DeChambeau wins, it becomes the story of the 2026 major season and reignites the LIV-PGA debate."
+    },
+    {
+      "title": "Par-5 scoring is the birdie engine — and it's a bombers' paradise.",
+      "description": "Augusta's four par 5s are the primary separation points. Contenders play them at <strong>8-to-12 under for the week</strong>. Holes 13 (Azalea, 510 yards) and 15 (Firethorn, 550 yards) are the most scorable, with Rae's Creek guarding both — the risk-reward decision on whether to go for the green in two at 13 and 15 has decided more Masters than any other strategic choice. DeChambeau can reach all four in two comfortably; Aberg and Scheffler can reach three of four. Shorter hitters like Fitzpatrick and Fleetwood must make up strokes elsewhere."
+    },
+    {
+      "title": "The 17th hole is 10 yards longer — and it matters more than you think.",
+      "description": "Augusta National lengthened the <strong>17th hole (Nandina) from 440 to 450 yards</strong> for 2026 — the only course change this year. On paper, 10 yards is nothing. In practice, it means mid-irons instead of short irons into one of Augusta's most demanding greens, with the famous Eisenhower Tree stump area affecting approach angles. On Sunday with the tournament on the line, that extra 10 yards could be the difference between birdie and bogey. The 17th played as the 7th-hardest hole in 2025."
+    }
+  ],
+  "prediction": {
+    "summary": "The wide-open nature of this Masters creates genuine uncertainty, but Augusta National has a way of rewarding the players who know it best. Scheffler's +2.965 SG/round at Augusta over 20 rounds is historically dominant, and even with his approach dip, he tends to find another gear here. Aberg's three consecutive top-5s and second-best Augusta SG make him the most dangerous challenger.",
+    "phases": [
+      {
+        "title": "Thursday/Friday — Firm and Fast Survival",
+        "description": "Dry, warm conditions make Augusta's greens a precision test. Par-5 scoring separates the bombers from the field early. Aberg and DeChambeau post early low numbers. Scheffler shakes off rust with a steady 69. McIlroy's back holds up but his putter is inconsistent. The projected cut line of +3 to +4 catches several debutants."
+      },
+      {
+        "title": "Saturday — Moving Day Charges",
+        "description": "With temperatures in the low 80s, the greens firm further. Aberg's ball-striking keeps him near the top. Rahm fires a vintage 65 to climb the leaderboard. Scheffler's Augusta instincts kick in — he gains strokes on approach despite his season-long struggles. The final group for Sunday takes shape."
+      },
+      {
+        "title": "Sunday — Amen Corner Decides Everything",
+        "description": "At 84°F with no wind, the back nine becomes the ultimate test. Amen Corner claims victims. The par-5 13th and 15th provide birdie opportunities for the bold. Scheffler's course mastery — knowing exactly where to miss on every green — proves the decisive edge down the stretch."
+      }
+    ],
+    "projectedScore": {
+      "teamA": -12,
+      "teamB": -10,
+      "rationale": "Firm and fast conditions suggest a winning score in the -10 to -13 range, consistent with Matsuyama's -10 (2021), Scheffler's -10 (2022) and -11 (2024), Rahm's -12 (2023), and McIlroy's -11 (2025). Johnson's -20 in 2020 was an anomaly in November conditions."
+    }
+  },
+  "tournamentPrediction": {
+    "summary": "This is the most wide-open Masters in a decade, but Augusta National has a way of rewarding the players who know it best. <strong>Scottie Scheffler's +2.965 strokes gained per round at Augusta over 20 rounds is the most dominant course-specific performance in the field</strong> — nearly a full stroke better than anyone else. His approach play has cratered to 82nd on Tour, but Augusta's wide fairways minimize the penalty, and his putting has improved to 17th (gained strokes in 12 straight starts). He just became a father for the second time, which provides the mental clarity that preceded his 2024 Masters win (when son Bennett was born the week before). The biggest threat is <strong>Ludvig Aberg</strong>, who brings three consecutive top-5 finishes and the 2nd-best Augusta SG (+2.876/round). <strong>Bryson DeChambeau</strong> arrives on a back-to-back LIV win streak with top-6 finishes in each of the last two Masters — his par-5 dominance is a structural advantage. <strong>Jon Rahm</strong> won here in 2023 and is in his best form since joining LIV. The firm, fast conditions favor ball-strikers who can control trajectory and speed — and that's exactly what separates the contenders from the field.",
+    "phases": [
+      {
+        "title": "Thursday/Friday — Precision Under Pressure",
+        "description": "Bone-dry Augusta with temperatures in the upper 70s to low 80s makes the greens firm and fast from the opening tee shot. Par-5 scoring separates immediately — DeChambeau reaches all four in two and posts -5 in Round 1. Aberg's elite tee-to-green game produces a 67. Scheffler shakes off the rust with a methodical 69, finding Augusta-specific form that hasn't shown elsewhere in 2026. McIlroy's back limits his practice but he navigates Thursday at -2. The cut falls at +3 to +4, catching several debutants and past champions playing on reputation."
+      },
+      {
+        "title": "Saturday — Moving Day Reshuffles the Board",
+        "description": "Temperatures push into the 80s and the greens become glass. Rahm fires a vintage Saturday 65 — the kind of round that won him the 2023 Masters — to climb into the top 3. Aberg's ball-striking keeps him atop the leaderboard. Scheffler's Augusta instincts kick in fully: his approach play, mediocre all season, sharpens on greens he's studied for 20 rounds. He gains +1.5 strokes on approach Saturday alone. The final group shapes up as a three-way battle."
+      },
+      {
+        "title": "Sunday — Amen Corner and the Closing Stretch",
+        "description": "At 84°F with calm winds, the back nine becomes the ultimate mental test. Amen Corner claims a contender — the 12th's swirling wind sends someone into Rae's Creek. Scheffler's course mastery proves decisive: he knows exactly where to miss on every green, which shelves to use, which pin positions allow aggression. He birdies 13 and 15 (par 5s) while avoiding the mistakes that cost others. A steady par at the 450-yard 17th (newly lengthened) and a two-putt par at 18 seal it."
+      }
+    ],
+    "projectedWinner": {
+      "name": "Scottie Scheffler",
+      "score": "-12 (276)",
+      "rationale": "Augusta-specific performance transcends season form. His +2.965 SG/round here over 20 rounds is historically dominant — he's never finished outside the top 20 at Augusta. Recent fatherhood provided the mental reset that preceded his 2024 win. Putting improvement (17th, gained strokes in 12 straight starts) offsets the approach dip. Firm, fast conditions reward his trajectory control and green-reading ability built over 20 rounds of Augusta experience. The wide-open field actually helps him — fewer elite contenders playing their best means his baseline Augusta performance is enough."
+    }
+  },
+  "players": [
+    {
+      "team": "a",
+      "name": "Scottie Scheffler",
+      "stats": "SG at Augusta: +2.965/round (1st in field, 20 rounds) • SG: Putting +0.547 (17th on Tour) • SG: Approach +0.080 (82nd)",
+      "meta": "Age 29 • World #1 • +550 favorite • 2-time Masters champion (2022, 2024)",
+      "bio": "The <strong>most dominant Augusta performer in the field by a wide margin</strong>. Scheffler has <strong>never finished outside the top 20</strong> at the Masters — winning in 2022 and 2024, finishing 4th in 2025, and T-5 in 2023. His +2.965 strokes gained per round at Augusta over 20 rounds is nearly a full stroke better than anyone else. But the 2026 version of Scheffler has question marks: his SG: Approach has plummeted to <strong>82nd on Tour</strong> after leading for three straight years. He hasn't played in nearly a month after the birth of his second son, <strong>Remy</strong>, on March 27. His last three starts were T-24, T-22, and outside the top 10. The counterargument? The same thing happened in 2024 — son Bennett was born Masters week, and Scheffler won the green jacket anyway. Augusta has a way of activating his best golf when the rest of the season can't."
+    },
+    {
+      "team": "a",
+      "name": "Ludvig Aberg",
+      "stats": "SG at Augusta: +2.876/round (2nd in field) • 3rd in SG: T2G (last 24 rounds) • 3 straight top-5s entering",
+      "meta": "Age 26 • Swedish • World #5 • +1400 • Solo 2nd (2024), Solo 7th (2025)",
+      "bio": "The <strong>hottest player in professional golf</strong> enters his third Masters with three consecutive top-5 finishes — Bay Hill, The Players, and T5 at the Valero Texas Open last week. His Augusta numbers are staggering: <strong>+2.876 SG per round</strong> over 8 rounds, 2nd only to Scheffler. He finished <strong>solo 2nd in his 2024 debut</strong> — pushed Scheffler the entire final round — and followed with solo 7th in 2025. The 26-year-old Swede from Eslöv studied at <strong>Texas Tech</strong>, where he went from unknown to PGA Tour star in 18 months. His elite ball-striking (3rd in weighted SG: Tee-to-Green) is the exact skill set Augusta rewards. If he wins, he becomes <strong>Sweden's first male major champion</strong>. The question isn't whether he'll contend — it's whether he can close."
+    },
+    {
+      "team": "a",
+      "name": "Bryson DeChambeau",
+      "stats": "Back-to-back LIV wins (Singapore, South Africa) • T-6 (2024 Masters), T-5 (2025) • Gained strokes on greens both years",
+      "meta": "Age 32 • LIV Golf (Crushers GC) • +1000 • 2-time major champion",
+      "bio": "The most <strong>dangerous LIV golfer at Augusta</strong>. DeChambeau won back-to-back LIV events in March, including a <strong>playoff victory over Jon Rahm</strong> in South Africa, and arrives riding the hottest streak of anyone in the top 5 of the odds board. His Augusta trajectory tells the real story: <strong>T-6 in 2024, T-5 in 2025</strong> — gaining strokes on the greens both times, a sign his course management is maturing. At 320+ yards off the tee, he reaches all four par 5s in two comfortably, creating a <strong>structural birdie advantage</strong> over shorter hitters. The <strong>2020 U.S. Open and 2025 U.S. Open champion</strong> is also deeply motivated — McIlroy's psychological edge over him in the 2025 Masters stung. This is the best version of DeChambeau at exactly the right time."
+    },
+    {
+      "team": "a",
+      "name": "Jon Rahm",
+      "stats": "Won 2023 Masters • No worse than T-5 in last 5 LIV events • 1st on LIV in SG: Approach",
+      "meta": "Age 31 • Spanish • LIV Golf (Legion XIII) • +1000 • 2-time major champion",
+      "bio": "The <strong>2023 Masters champion</strong> arrives in his best form since joining LIV Golf — one win, three runner-up finishes, and no finish worse than T-5 in his last five LIV events. Rahm ranks <strong>1st on LIV in SG: Approach</strong>, which aligns perfectly with Augusta's most predictive stat. His post-LIV major record has been inconsistent (T-45 in 2024, T-14 in 2025 at Augusta), but the talent has never been in question. The Spaniard from <strong>Arizona State</strong> would join Seve Ballesteros, Jose Maria Olazabal, and Sergio Garcia as Spanish Masters champions. His elite iron play, power, and competitive fire make him the <strong>most complete golfer in the field</strong> when all cylinders are firing."
+    },
+    {
+      "team": "a",
+      "name": "Rory McIlroy",
+      "stats": "Defending champion • Completed career Grand Slam (2025) • Winless in 2026 • Back injury concern",
+      "meta": "Age 37 • Northern Irish • World #2 • +1100 • 5-time major champion",
+      "bio": "Returns to Augusta as <strong>defending champion</strong> after last year's dramatic playoff victory over Justin Rose completed the <strong>career Grand Slam</strong> — just the sixth man in history to win all four majors. The 2025 triumph ended an 11-year, 16-attempt wait at Augusta that had defined his career. Now the quest shifts: can he become the first <strong>back-to-back Masters champion since Tiger Woods (2001-02)</strong>? Only Nicklaus and Faldo have also repeated. The concerns are real — McIlroy withdrew from the Arnold Palmer Invitational with a <strong>back injury</strong> and is winless in 2026. But the existential weight is gone. He chose the Champions Dinner menu. He knows what it takes to win here. At his best, his iron play and power are perfectly suited to Augusta."
+    },
+    {
+      "team": "a",
+      "name": "Xander Schauffele",
+      "stats": "5 Masters top-10s • SG at Augusta: +1.795/round (5th in field) • SG: Approach +0.662 (14th on Tour)",
+      "meta": "Age 32 • World #3 • +1500 • 2-time major champion (2024 PGA, 2024 Open)",
+      "bio": "The <strong>most consistent Augusta performer</strong> who hasn't yet won here — five top-10 finishes, including T-3 in 2021 and T-8 in 2025. Schauffele's SG at Augusta (+1.795/round) ranks 5th in the field. After breaking through with <strong>two major wins in 2024</strong> (PGA Championship and Open Championship), the \"best player without a major\" label is gone and a new one has arrived: <strong>career Grand Slam contender</strong>. He needs the Masters and U.S. Open to complete the set. His recent form is strong — T-7 or better in 3 of his last 4 starts, including solo 3rd at The Players. He specifically flagged firm, fast conditions: <strong>\"Avoiding three-putts will decide the tournament.\"</strong> His putting precision on Augusta's glass-like greens could be the X-factor."
+    },
+    {
+      "team": "a",
+      "name": "Matt Fitzpatrick",
+      "stats": "1st on Tour in SG: Tee-to-Green • Won Valspar, 2nd at Players • 10 cuts in 11 Masters appearances",
+      "meta": "Age 31 • English • World #12 • +2350 • 2022 U.S. Open champion",
+      "bio": "Playing the <strong>best golf of his career</strong> at exactly the right time. Fitzpatrick leads the entire PGA Tour in SG: Tee-to-Green — the broadest measure of ball-striking excellence — after winning the Valspar Championship and finishing 2nd at The Players. His approach to Augusta is meticulous: <strong>10 cuts in 11 appearances</strong> shows he knows the course, even without a top-5 finish. The <strong>2022 U.S. Open champion</strong> from Sheffield, England averages 305 yards off the tee and ranks 4th in driving accuracy — enough length for Augusta's par 5s with elite precision elsewhere. The one weakness: <strong>putting</strong>. He ranks 96th in SG: Putting and converts just 52-54% of 5-10 foot putts. But he won Valspar ranking 42nd in putting — proof his ball-striking can overcome cold streaks on the greens."
+    },
+    {
+      "team": "a",
+      "name": "Akshay Bhatia",
+      "stats": "SG: Total 6th (1.646) • SG: Approach 8th (0.792) • SG: Putting 10th (0.730) • Won Arnold Palmer Invitational",
+      "meta": "Age 24 • World #19 • Left-handed • 3-time PGA Tour winner • DARK HORSE",
+      "bio": "The <strong>most dangerous dark horse in the field</strong>. The 24-year-old left-hander won the Arnold Palmer Invitational in March and ranks in the <strong>top 10 in three critical strokes gained categories</strong> — total (6th), approach (8th), and putting (10th). That combination is rare and historically predictive at Augusta. His left-handed draw naturally works right-to-left off the tee, which fits Augusta's dogleg-left holes perfectly — <strong>three previous left-handed winners</strong> (Mickelson, Watson, Weir) confirm the advantage. Bhatia turned pro at 17, skipping college entirely, and has won three times before his 25th birthday. He's fearless — the kind of player who goes for par 5s in two when others lay up, and who thrives under the pressure that causes others to tighten. At +8000, he may be the best value in the field."
+    }
+  ],
+  "funFacts": [
+    {
+      "emoji": "🏆",
+      "title": "The Rory Slam",
+      "body": "Rory McIlroy's 2025 Masters victory made him just the <strong>sixth man in history</strong> to complete the career Grand Slam, joining Gene Sarazen, Ben Hogan, Gary Player, Jack Nicklaus, and Tiger Woods. He waited 11 years and 16 attempts at Augusta to do it."
+    },
+    {
+      "emoji": "🐯",
+      "title": "No Tiger, No Phil",
+      "body": "For the <strong>first time since 1994</strong>, neither Tiger Woods nor Phil Mickelson will compete at the Masters. Combined, they own 8 green jackets. Tiger is seeking treatment after his March 27 DUI arrest; Phil declined his invitation."
+    },
+    {
+      "emoji": "🧀",
+      "title": "$1.50 Pimento Cheese",
+      "body": "Augusta National's famous <strong>pimento cheese sandwich</strong> still costs $1.50 — unchanged for decades while the purse has grown to $21 million. The sandwich features three cheeses, diced pimentos, and mayonnaise on white bread."
+    },
+    {
+      "emoji": "📏",
+      "title": "10 Extra Yards",
+      "body": "The only 2026 course change: the <strong>17th hole (Nandina) was lengthened from 440 to 450 yards</strong>. The front of the tee box was reduced by 12 yards and repositioned. Augusta National has lengthened the course by over 500 yards since 2000."
+    },
+    {
+      "emoji": "🎭",
+      "title": "Par 3 Curse",
+      "body": "<strong>No winner of the Wednesday Par 3 Contest has ever won the Masters in the same year.</strong> The tradition, held on Augusta's 9-hole par-3 course, features players using family members as caddies. Smart players intentionally avoid winning it."
+    },
+    {
+      "emoji": "🌸",
+      "title": "Every Hole Has a Flower Name",
+      "body": "Augusta's holes are named after <strong>trees and flowers</strong> planted on the grounds: Tea Olive (1), Pink Dogwood (2), Flowering Peach (3), Flowering Crab Apple (4), Magnolia (5), Juniper (6), Pampas (7), Yellow Jasmine (8), Carolina Cherry (9), Camellia (10), White Dogwood (11), Golden Bell (12), Azalea (13), Chinese Fir (14), Firethorn (15), Redbud (16), Nandina (17), Holly (18)."
+    },
+    {
+      "emoji": "🇸🇪",
+      "title": "Swedish Pioneer",
+      "body": "If Ludvig Aberg wins, he'd become <strong>Sweden's first male major champion</strong>. Annika Sorenstam won 10 women's majors, but no Swedish man has claimed one of golf's four biggest prizes. Aberg finished 2nd in his 2024 Masters debut."
+    },
+    {
+      "emoji": "🎓",
+      "title": "Gotterup's Journey",
+      "body": "Masters debutant <strong>Chris Gotterup</strong> was a walk-on for the Rutgers football team before switching to golf. He's now a two-time PGA Tour winner in 2026 (Phoenix Open, Sony Open) and the highest-ranked professional making his Augusta debut."
+    },
+    {
+      "emoji": "🌡️",
+      "title": "Bone-Dry Augusta",
+      "body": "Augusta has been <strong>dry for two months</strong> heading into the tournament. Zero percent chance of rain on Sunday with temperatures reaching 84°F. The firm, fast conditions could make this the <strong>toughest putting test since the 2007 Masters</strong> when no one broke 67 on the weekend."
+    },
+    {
+      "emoji": "🏌️",
+      "title": "Scheffler's Perfect Record",
+      "body": "Scottie Scheffler has <strong>never finished outside the top 20 at the Masters</strong> in any appearance. His SG per round at Augusta (+2.965) over 20 rounds is the best of any active player — nearly a full stroke better than Ludvig Aberg in second."
+    },
+    {
+      "emoji": "🇹🇭",
+      "title": "Thailand's First",
+      "body": "Amateur <strong>Fifa Laopakdee</strong> makes history as Thailand's first amateur to compete in the Masters. He won the Asia-Pacific Amateur in Dubai with birdies on 17, 18, and all three playoff holes — coming from six shots back in the final round."
+    },
+    {
+      "emoji": "🍽️",
+      "title": "Champions Dinner",
+      "body": "As defending champion, <strong>Rory McIlroy chose the menu</strong> for Tuesday's Champions Dinner — a tradition started by Ben Hogan in 1952. Only past champions and select Augusta officials attend. The dinner is held in the Trophy Room of the clubhouse."
+    }
+  ],
+  "sources": [
+    {
+      "heading": "Tournament & Course Coverage",
+      "links": [
+        {
+          "label": "PGA Tour — First Look: Masters Tournament",
+          "url": "https://www.pgatour.com/article/news/the-first-look/2026/04/06/the-masters-augusta-national-facts-storylines-2026-major-how-to-watch-rory-mcilroy-scottie-scheffler-preview"
+        },
+        {
+          "label": "ESPN — Top Masters Storylines",
+          "url": "https://www.espn.com/golf/story/_/id/48412522/top-storylines-scottie-scheffler-bryson-dechambeau-masters-2026"
+        },
+        {
+          "label": "The Fried Egg — Augusta First Impressions",
+          "url": "https://www.thefriedegg.com/articles/2026-masters-first-impressions-augusta-national"
+        },
+        {
+          "label": "Golf Monthly — Weather Forecast",
+          "url": "https://www.golfmonthly.com/news/the-masters-2026-weather-forecast"
+        },
+        {
+          "label": "CBS Sports — TV Schedule & Streaming",
+          "url": "https://www.cbssports.com/golf/news/masters-2026-tv-schedule-coverage-streaming/"
+        },
+        {
+          "label": "Golf News Net — SG Rankings at Augusta (2021-2025)",
+          "url": "https://thegolfnewsnet.com/golfnewsnetteam/2026/04/06/2026-masters-tournament-strokes-gained-rankings-at-augusta-national-2021-2025-141891/"
+        }
+      ]
+    },
+    {
+      "heading": "Odds, Picks & Field Analysis",
+      "links": [
+        {
+          "label": "Yahoo Sports — Masters Odds & Picks Guide",
+          "url": "https://sports.yahoo.com/articles/2026-masters-guide-odds-picks-132900654.html"
+        },
+        {
+          "label": "NBC Sports — Betting Analysis (91-Player Field)",
+          "url": "https://www.nbcsports.com/golf/pga-tour/news/2026-masters-odds-and-prediction-seeking-value-in-the-field-of-91-golfers"
+        },
+        {
+          "label": "CBS Sports — Expert Picks & Predictions",
+          "url": "https://www.cbssports.com/golf/news/masters-2026-picks-odds-expert-predictions-favorites-to-win/"
+        },
+        {
+          "label": "SI — Dark Horse Picks & Sleepers",
+          "url": "https://www.si.com/betting/2026-masters-dark-horse-picks-sleepers-long-shot-predictions"
+        },
+        {
+          "label": "Golf Monthly — Masters Debutants",
+          "url": "https://www.golfmonthly.com/news/meet-the-masters-rookies-taking-on-augusta-for-the-first-time-in-2026"
+        },
+        {
+          "label": "Sky Sports — McIlroy Title Defence",
+          "url": "https://www.skysports.com/golf/news/12176/13528935/the-masters-2026-rory-mcilroy-relaxed-ahead-of-title-defence-and-sets-new-goals-after-grand-slam-glory-at-augusta"
+        }
+      ]
+    }
+  ],
+  "footerText": "The Masters 2026 • Tournament Preview • April 9-12 • Augusta National Golf Club • Par 72, 7,565 yards • ESPN (R1-R2) / CBS (R3-R4)",
+  "history": {
+    "callout": "The Masters Tournament is <strong>golf's most prestigious event</strong>, first played in 1934 when Bobby Jones and Clifford Roberts turned a former nursery in Augusta, Georgia into the sport's cathedral. The Green Jacket, the Champions Dinner, Magnolia Lane, Amen Corner — no tournament in any sport is more steeped in tradition. <strong>Jack Nicklaus holds the record with six victories</strong>, followed by Tiger Woods with five. Augusta National rewards elite ball-strikers with course knowledge, and past champions return year after year to compete on ground they know intimately. Recent winners have all been elite iron players — SG: Approach is the single most predictive stat here.",
+    "subsections": [
+      {
+        "title": "The Modern Masters Era: 2015-Present",
+        "type": "timeline",
+        "content": "The last decade of Masters golf has produced historic moments, career-defining victories, and the rise of a new generation of champions.",
+        "timeline": [
+          {
+            "date": "2015",
+            "text": "Jordan Spieth dominates wire-to-wire at -18, leading after every round. At 21, he joins Tiger Woods and Seve Ballesteros as the only players to lead every round. Wins by four strokes."
+          },
+          {
+            "date": "2016",
+            "text": "Spieth leads by 5 with 9 holes to play — then makes a quadruple-bogey 7 on the 12th hole, dumping two balls into Rae's Creek. Danny Willett wins at -5. One of the greatest collapses in major championship history."
+          },
+          {
+            "date": "2019",
+            "text": "Tiger Woods completes one of sport's greatest comebacks, winning his 5th Masters and 15th major at age 43 — 11 years after his last major, through surgeries, scandal, and personal battles. The roar at 18 reverberates around the world."
+          },
+          {
+            "date": "2020",
+            "text": "Dustin Johnson shoots -20 (268) in the COVID-delayed November Masters — the lowest 72-hole score in tournament history. He wins by five strokes in conditions unlike any April Masters."
+          },
+          {
+            "date": "2021",
+            "text": "Hideki Matsuyama becomes the first Japanese man to win a major championship. His caddie bows to the course after the final putt, creating one of the most emotional images in Masters history."
+          },
+          {
+            "date": "2022",
+            "text": "Scottie Scheffler wins his first major in his first Masters appearance as World No. 1. He cries after the final putt and admits he 'almost couldn't tee off' due to nerves. Dominance at Augusta begins."
+          },
+          {
+            "date": "2023",
+            "text": "Jon Rahm fires a 65 on Sunday — highlighted by an eagle chip-in at the 8th — to storm from behind and win at -12. The Spaniard joins Seve Ballesteros, José María Olazábal, and Sergio García as Spanish Masters champions."
+          },
+          {
+            "date": "2024",
+            "text": "Scheffler wins his second Masters at -11 despite the birth of his first son Bennett earlier in the week. He proves Augusta is his playground — his SG per round at the course is the best of any active player."
+          },
+          {
+            "date": "2025",
+            "text": "Rory McIlroy defeats Justin Rose in a dramatic playoff to complete the career Grand Slam — just the sixth man in history. After 11 years and 16 attempts, the monkey is finally off his back."
+          }
+        ]
+      },
+      {
+        "title": "The Icons of Augusta",
+        "type": "card",
+        "content": "<strong>Jack Nicklaus</strong> holds the all-time record with 6 green jackets, including the legendary 1986 victory at age 46 — a back-nine charge for the ages. <strong>Tiger Woods</strong> owns 5, from the 1997 coronation (winning by 12 strokes at age 21) to the 2019 comeback that transcended sports. <strong>Arnold Palmer</strong> won 4 times (1958-64), popularizing both the tournament and televised golf. <strong>Gene Sarazen's</strong> 1935 albatross on the 15th hole — 'The Shot Heard Round the World' — put Augusta on the map. <strong>Larry Mize's</strong> impossible 45-yard chip-in at 11 in 1987. <strong>Bubba Watson's</strong> miraculous hook from the pine straw in the 2012 playoff. <strong>Phil Mickelson's</strong> emotional first major in 2004, leaping into his caddie's arms at 18. Augusta National doesn't just host golf — it creates moments that define careers and inspire generations."
+      }
+    ]
+  },
+  "rounds": {
+    "preview": {
+      "roundLabel": "Tournament Preview",
+      "date": "Thursday–Sunday, April 9–12, 2026",
+      "tipTime": "2026-04-09T15:00",
+      "extraInfo": "<strong>$21M purse</strong> • Par 72, 7,565 yards • Defending champion: Rory McIlroy • 91-player field • Firm & fast conditions • First Masters without Tiger or Phil since 1994",
+      "eventTag": "PGA Tour • Major Championship • The Masters",
+      "stakes": {
+        "callout": "The 90th Masters Tournament arrives with <strong>the most wide-open field in recent memory</strong>. Defending champion Rory McIlroy returns to Augusta National nursing a back injury and winless in 2026, while World No. 1 Scottie Scheffler — the +550 favorite seeking a third green jacket — has seen his trademark iron play drop to <strong>82nd on Tour in SG: Approach</strong> after ranking 1st for three straight years. Meanwhile, LIV Golf's <strong>Bryson DeChambeau and Jon Rahm</strong> arrive on absolute heaters, with back-to-back LIV wins and a recent playoff between them. Ludvig Aberg brings <strong>three consecutive top-5 finishes</strong> and the 2nd-best strokes gained average at Augusta in the field. With Tiger Woods and Phil Mickelson both absent for the first time since 1994, a new chapter of Masters history begins Thursday on bone-dry, firm-and-fast Augusta National.",
+        "cards": [
+          {
+            "label": "The Wide-Open Major",
+            "value": "Analysts call this <strong>\"the most wide-open Masters in recent memory\"</strong> with 10-12 legitimate contenders instead of the typical 5-6. The defending champion has a back injury. The World No. 1 hasn't cracked a top-10 in three starts. Two LIV stars are surging. A 26-year-old Swede has the best current form in golf. Expect chaos, not coronation."
+          },
+          {
+            "label": "McIlroy Defends the Grand Slam",
+            "value": "Rory McIlroy completed the <strong>career Grand Slam</strong> with his 2025 playoff victory over Justin Rose — just the sixth man in history to win all four majors. Now he seeks to become the first back-to-back Masters champion since <strong>Tiger Woods (2001-02)</strong>. Only Nicklaus (1965-66) and Faldo (1989-90) have also repeated. McIlroy's back injury and winless 2026 are concerns, but he's a different player at Augusta now — the existential weight is gone."
+          },
+          {
+            "label": "Scheffler's Third Green Jacket",
+            "value": "Scottie Scheffler won in 2022 and 2024, finished 4th in 2025 — <strong>never outside the top 20 at Augusta</strong>. His SG per round at Augusta (+2.965) is the best in the field by a mile. A third win would tie <strong>Phil Mickelson, Gary Player, Sam Snead, and Nick Faldo</strong>. But he just had his second son (Remy, born March 27), hasn't played in a month, and his approach play has cratered to 82nd on Tour."
+          },
+          {
+            "label": "No Tiger. No Phil. First Time Since 1994.",
+            "value": "Tiger Woods stepped away from competitive golf following his <strong>March 27 DUI arrest</strong> near his Jupiter Island home. Phil Mickelson also won't compete. It's the <strong>first Masters without either since 1994</strong> — the year before Tiger's amateur debut. Combined, they own 8 of the 89 green jackets. Their absence marks a generational shift at Augusta National."
+          }
+        ]
+      },
+      "styles": [
+        {
+          "team": "a",
+          "title": "The Precision Ball-Striker: Elite Iron Play + Course Knowledge",
+          "bullets": [
+            "<strong>SG: Approach is the single most predictive stat at Augusta National.</strong> Five of the last seven Masters champions ranked top 5 in the field that week in SG: Approach. Every winner since 2010 entered ranked in the top 100 in approach on Tour, and most were top 44. Augusta's tiered bentgrass greens demand landing the ball in the correct quadrant — missing the wrong shelf means three-putting or worse. The greens are the defense, and only elite iron play neutralizes them.",
+            "<strong>Course experience is more predictive at Augusta than almost any other major venue.</strong> In 2025, all 10 players inside the top 10 had a prior top-10 at the Masters. Scottie Scheffler (+2.965 SG/round over 20 rounds), Ludvig Aberg (+2.876 over 8 rounds), Collin Morikawa (+2.065), and Xander Schauffele (+1.795) have the strongest Augusta-specific track records. Players who know where to miss — and more importantly where <em>not</em> to miss — gain 1-2 strokes per round over debutants.",
+            "<strong>Bogey avoidance on the back nine separates contenders from pretenders.</strong> Augusta's back nine — particularly Amen Corner (11-12-13) — can cascade. One bad swing at the par-3 12th (Golden Bell) can lead to double bogey, which leads to an aggressive play at 13 that leads to water. The winners here make one mistake and recover; the losers make one mistake and spiral.",
+            "<strong>This profile fits: Scheffler, Rahm, Aberg, Schauffele, Fitzpatrick, Morikawa.</strong> Scheffler's Augusta SG is historically dominant even with his 2026 approach dip. Rahm won here in 2023 and is 1st on LIV in SG: Approach. Aberg ranks 1st in SG at this course with three straight top-5s. Schauffele has five Augusta top-10s. Fitzpatrick leads the entire Tour in SG: Tee-to-Green."
+          ]
+        },
+        {
+          "team": "b",
+          "title": "The Power-and-Touch Bomber: Overpower the Par 5s, Scramble the Rest",
+          "bullets": [
+            "<strong>Augusta's four par 5s (holes 2, 8, 13, 15) are all reachable in two for long hitters.</strong> Elite players effectively play Augusta as a par 68, birdieing all four par 5s as baseline. Masters winners typically play par 5s at 8-to-12 under for the week. Bombers who can reach every par 5 in two have a structural 4-stroke advantage over shorter hitters who must lay up. Every Masters winner since 2016 (except Danny Willett) ranked in the top 100 in driving distance.",
+            "<strong>Augusta's fairways are the widest in major championship golf.</strong> The penalty for missing fairways at Augusta is the lowest among all major venues. This means bombers can swing freely without fear — the course rewards aggression off the tee. Bryson DeChambeau, who averages 320+ yards, can hit driver everywhere and turn par 4s into wedge approaches.",
+            "<strong>When approach shots miss, Augusta demands creative short-game artistry.</strong> SG: Around the Green correlates strongly with Masters success — 13 straight winners (and 14 of 16) ranked top 55 in SG: ATG in their winning season. Augusta's shaved runoffs, elevation changes, and lightning-fast greens mean standard bump-and-runs don't work. You need imagination — the Bubba Watson pine-straw hook, the Phil Mickelson flop over the bunker.",
+            "<strong>This profile fits: DeChambeau, Fleetwood, Cameron Young, Bhatia.</strong> DeChambeau has top-6 finishes in each of the last two Masters, gaining strokes on the greens both times — his power + improved touch combination is peaking. Fleetwood leads the Tour in SG: ATG (+0.900) — the best short game on the planet at a course that demands it. Cameron Young won The Players with elite length. Bhatia's fearless aggression and left-handed draw shape are built for Augusta's doglegs."
+          ]
+        }
+      ],
+      "keys": [
+        {
+          "title": "SG: Approach is everything — and the favorite's approach play has cratered.",
+          "description": "Five of seven recent Masters winners ranked top 5 in the field in SG: Approach that week. Every winner since 2010 entered Augusta in the top 100 on Tour. <strong>Scottie Scheffler — who led the PGA Tour in approach for three consecutive years — ranks just 82nd in 2026.</strong> His +0.080 SG: Approach is barely above average. Meanwhile, Ludvig Aberg (3rd in weighted SG: T2G over 24 rounds), Matt Fitzpatrick (1st in SG: T2G on Tour), and Jon Rahm (1st on LIV in approach) are all peaking in the stat that matters most. The wide-open nature of this Masters traces directly to Scheffler's approach dip."
+        },
+        {
+          "title": "Firm and fast conditions will make Augusta's greens a nightmare — and a differentiator.",
+          "description": "Augusta has been <strong>bone-dry for two months</strong>. No rain is forecast for any of the four tournament days. Temperatures climb from the upper 70s Thursday to 84°F Sunday. The greens will be firm, fast, and unforgiving — balls will release off slopes rather than checking. Three-putt avoidance becomes a survival skill. Xander Schauffele specifically flagged this: <strong>\"Avoiding three-putts will decide the tournament.\"</strong> Players who can land irons in the correct quadrant and control speed on downhill putts will separate from those chasing spin on rock-hard surfaces."
+        },
+        {
+          "title": "The LIV form question: Rahm and DeChambeau are surging, but does it translate?",
+          "description": "Jon Rahm hasn't finished worse than T-5 in five LIV events. Bryson DeChambeau won back-to-back LIV tournaments, including a <strong>playoff over Rahm</strong> in South Africa. But Rahm's post-LIV major record is mixed: T-45 (2024 Masters), T-14 (2025 Masters), plus a missed cut. DeChambeau's Augusta trajectory is better — T-6 and T-5 the last two years — suggesting real improvement. Ten LIV players are in the 91-man field. If either Rahm or DeChambeau wins, it becomes the story of the 2026 major season and reignites the LIV-PGA debate."
+        },
+        {
+          "title": "Par-5 scoring is the birdie engine — and it's a bombers' paradise.",
+          "description": "Augusta's four par 5s are the primary separation points. Contenders play them at <strong>8-to-12 under for the week</strong>. Holes 13 (Azalea, 510 yards) and 15 (Firethorn, 550 yards) are the most scorable, with Rae's Creek guarding both — the risk-reward decision on whether to go for the green in two at 13 and 15 has decided more Masters than any other strategic choice. DeChambeau can reach all four in two comfortably; Aberg and Scheffler can reach three of four. Shorter hitters like Fitzpatrick and Fleetwood must make up strokes elsewhere."
+        },
+        {
+          "title": "The 17th hole is 10 yards longer — and it matters more than you think.",
+          "description": "Augusta National lengthened the <strong>17th hole (Nandina) from 440 to 450 yards</strong> for 2026 — the only course change this year. On paper, 10 yards is nothing. In practice, it means mid-irons instead of short irons into one of Augusta's most demanding greens, with the famous Eisenhower Tree stump area affecting approach angles. On Sunday with the tournament on the line, that extra 10 yards could be the difference between birdie and bogey. The 17th played as the 7th-hardest hole in 2025."
+        }
+      ],
+      "prediction": {
+        "summary": "The wide-open nature of this Masters creates genuine uncertainty, but Augusta National has a way of rewarding the players who know it best. Scheffler's +2.965 SG/round at Augusta over 20 rounds is historically dominant, and even with his approach dip, he tends to find another gear here.",
+        "phases": [
+          {
+            "title": "Thursday/Friday — Precision Under Pressure",
+            "description": "Bone-dry conditions make Augusta's greens firm and fast. Par-5 scoring separates bombers from the field. Aberg and DeChambeau post low numbers. Scheffler shakes off rust with a methodical 69."
+          },
+          {
+            "title": "Saturday — Moving Day",
+            "description": "Temperatures push into the 80s. Rahm fires a vintage Saturday 65 to climb the board. Scheffler's Augusta instincts sharpen. The final group for Sunday takes shape."
+          },
+          {
+            "title": "Sunday — Amen Corner Decides",
+            "description": "At 84°F with calm winds, the back nine is the ultimate test. Scheffler's course mastery — knowing every shelf and every miss — proves decisive through Amen Corner and the closing stretch."
+          }
+        ],
+        "projectedScore": {
+          "teamA": -12,
+          "teamB": -10,
+          "rationale": "Firm conditions suggest -10 to -13 range, consistent with recent April Masters: Matsuyama -10 (2021), Scheffler -10 (2022) and -11 (2024), Rahm -12 (2023), McIlroy -11 (2025)."
+        }
+      },
+      "tournamentPrediction": {
+        "summary": "This is the most wide-open Masters in a decade, but Augusta National has a way of rewarding the players who know it best. <strong>Scottie Scheffler's +2.965 strokes gained per round at Augusta over 20 rounds is the most dominant course-specific performance in the field</strong> — nearly a full stroke better than anyone else. His approach play has cratered to 82nd on Tour, but Augusta's wide fairways minimize the penalty, and his putting has improved to 17th (gained strokes in 12 straight starts). He just became a father for the second time, which provided the mental reset that preceded his 2024 Masters win. The biggest threat is <strong>Ludvig Aberg</strong>, who brings three consecutive top-5 finishes and the 2nd-best Augusta SG (+2.876/round). <strong>Bryson DeChambeau</strong> arrives on a back-to-back LIV win streak with top-6 finishes in each of the last two Masters. <strong>Jon Rahm</strong> won here in 2023 and is in his best form since joining LIV. The firm, fast conditions favor ball-strikers who can control trajectory and speed.",
+        "phases": [
+          {
+            "title": "Thursday/Friday — Precision Under Pressure",
+            "description": "Bone-dry Augusta with temperatures in the upper 70s to low 80s makes the greens firm and fast. Par-5 scoring separates immediately — DeChambeau reaches all four in two and posts -5 in Round 1. Aberg's elite tee-to-green game produces a 67. Scheffler shakes off the rust with a methodical 69, finding Augusta-specific form that hasn't shown elsewhere in 2026. McIlroy's back limits his practice but he navigates Thursday at -2. The cut falls at +3 to +4, catching several debutants and past champions."
+          },
+          {
+            "title": "Saturday — Moving Day Reshuffles the Board",
+            "description": "Temperatures push into the 80s and the greens become glass. Rahm fires a vintage Saturday 65 — the kind of round that won him the 2023 Masters — to climb into the top 3. Aberg's ball-striking keeps him atop the leaderboard. Scheffler's Augusta instincts fully activate: his approach play, mediocre all season, sharpens on greens he's studied for 20 rounds. The final group shapes up as a three-way battle."
+          },
+          {
+            "title": "Sunday — Amen Corner and the Closing Stretch",
+            "description": "At 84°F with calm winds, the back nine becomes the ultimate mental test. Amen Corner claims a contender — the 12th's swirling wind sends someone into Rae's Creek. Scheffler's course mastery proves decisive: he knows exactly where to miss on every green. He birdies 13 and 15 while avoiding the mistakes that cost others. A steady par at the newly lengthened 450-yard 17th and a two-putt par at 18 seal it."
+          }
+        ],
+        "projectedWinner": {
+          "name": "Scottie Scheffler",
+          "score": "-12 (276)",
+          "rationale": "Augusta-specific performance transcends season form. His +2.965 SG/round here over 20 rounds is historically dominant — he's never finished outside the top 20 at Augusta. Recent fatherhood provided the mental reset that preceded his 2024 win. Putting improvement (17th, gained strokes in 12 straight starts) offsets the approach dip. Firm conditions reward trajectory control and green-reading built over 20 rounds. The wide-open field helps — fewer elite contenders at their best means his Augusta baseline is enough."
+        }
+      },
+      "players": [
+        {
+          "team": "a",
+          "name": "Scottie Scheffler",
+          "stats": "SG at Augusta: +2.965/round (1st in field, 20 rounds) • SG: Putting +0.547 (17th on Tour) • SG: Approach +0.080 (82nd)",
+          "meta": "Age 29 • World #1 • +550 favorite • 2-time Masters champion (2022, 2024)",
+          "bio": "The <strong>most dominant Augusta performer in the field by a wide margin</strong>. Scheffler has <strong>never finished outside the top 20</strong> at the Masters — winning in 2022 and 2024, finishing 4th in 2025, and T-5 in 2023. His +2.965 strokes gained per round at Augusta over 20 rounds is nearly a full stroke better than anyone else. But the 2026 version of Scheffler has question marks: his SG: Approach has plummeted to <strong>82nd on Tour</strong> after leading for three straight years. He hasn't played in nearly a month after the birth of his second son, <strong>Remy</strong>, on March 27. His last three starts were T-24, T-22, and outside the top 10. The counterargument? The same thing happened in 2024 — son Bennett was born Masters week, and Scheffler won the green jacket anyway. Augusta has a way of activating his best golf when the rest of the season can't."
+        },
+        {
+          "team": "a",
+          "name": "Ludvig Aberg",
+          "stats": "SG at Augusta: +2.876/round (2nd in field) • 3rd in SG: T2G (last 24 rounds) • 3 straight top-5s entering",
+          "meta": "Age 26 • Swedish • World #5 • +1400 • Solo 2nd (2024), Solo 7th (2025)",
+          "bio": "The <strong>hottest player in professional golf</strong> enters his third Masters with three consecutive top-5 finishes — Bay Hill, The Players, and T5 at the Valero Texas Open last week. His Augusta numbers are staggering: <strong>+2.876 SG per round</strong> over 8 rounds, 2nd only to Scheffler. He finished <strong>solo 2nd in his 2024 debut</strong> — pushed Scheffler the entire final round — and followed with solo 7th in 2025. The 26-year-old Swede from Eslöv studied at <strong>Texas Tech</strong>, where he went from unknown to PGA Tour star in 18 months. His elite ball-striking (3rd in weighted SG: Tee-to-Green) is the exact skill set Augusta rewards. If he wins, he becomes <strong>Sweden's first male major champion</strong>."
+        },
+        {
+          "team": "a",
+          "name": "Bryson DeChambeau",
+          "stats": "Back-to-back LIV wins (Singapore, South Africa) • T-6 (2024 Masters), T-5 (2025) • Gained strokes on greens both years",
+          "meta": "Age 32 • LIV Golf (Crushers GC) • +1000 • 2-time major champion",
+          "bio": "The most <strong>dangerous LIV golfer at Augusta</strong>. DeChambeau won back-to-back LIV events in March, including a <strong>playoff victory over Jon Rahm</strong> in South Africa, and arrives riding the hottest streak of anyone in the top 5 of the odds board. His Augusta trajectory is the story: <strong>T-6 in 2024, T-5 in 2025</strong> — gaining strokes on the greens both times. At 320+ yards off the tee, he reaches all four par 5s in two, creating a <strong>structural birdie advantage</strong> over shorter hitters. The <strong>2020 and 2025 U.S. Open champion</strong> is deeply motivated — McIlroy's psychological edge over him in the 2025 Masters stung. This is the best version of DeChambeau at exactly the right time."
+        },
+        {
+          "team": "a",
+          "name": "Jon Rahm",
+          "stats": "Won 2023 Masters • No worse than T-5 in last 5 LIV events • 1st on LIV in SG: Approach",
+          "meta": "Age 31 • Spanish • LIV Golf (Legion XIII) • +1000 • 2-time major champion",
+          "bio": "The <strong>2023 Masters champion</strong> arrives in his best form since joining LIV Golf — one win, three runner-up finishes, and no finish worse than T-5 in his last five LIV events. Rahm ranks <strong>1st on LIV in SG: Approach</strong>, aligning perfectly with Augusta's most predictive stat. His post-LIV major record has been inconsistent (T-45 in 2024, T-14 in 2025), but the talent has never been in question. The Spaniard from <strong>Arizona State</strong> would join Seve Ballesteros, Olazabal, and Garcia as Spanish Masters champions. His elite iron play, power, and competitive fire make him the <strong>most complete golfer in the field</strong> when firing on all cylinders."
+        },
+        {
+          "team": "a",
+          "name": "Rory McIlroy",
+          "stats": "Defending champion • Completed career Grand Slam (2025) • Winless in 2026 • Back injury concern",
+          "meta": "Age 37 • Northern Irish • World #2 • +1100 • 5-time major champion",
+          "bio": "Returns to Augusta as <strong>defending champion</strong> after last year's dramatic playoff victory over Justin Rose completed the <strong>career Grand Slam</strong> — just the sixth man in history to win all four majors. Now the quest shifts: can he become the first <strong>back-to-back Masters champion since Tiger Woods (2001-02)</strong>? Only Nicklaus and Faldo have also repeated. The concerns are real — McIlroy withdrew from the Arnold Palmer Invitational with a <strong>back injury</strong> and is winless in 2026. But the existential weight is gone. He chose the Champions Dinner menu. He knows what it takes to win here."
+        },
+        {
+          "team": "a",
+          "name": "Xander Schauffele",
+          "stats": "5 Masters top-10s • SG at Augusta: +1.795/round (5th in field) • SG: Approach +0.662 (14th on Tour)",
+          "meta": "Age 32 • World #3 • +1500 • 2-time major champion (2024 PGA, 2024 Open)",
+          "bio": "The <strong>most consistent Augusta performer</strong> who hasn't yet won here — five top-10 finishes, including T-3 in 2021 and T-8 in 2025. After breaking through with <strong>two major wins in 2024</strong>, the \"best without a major\" label is gone and a new one has arrived: <strong>career Grand Slam contender</strong>. He needs the Masters and U.S. Open to complete the set. Recent form is strong — T-7 or better in 3 of last 4 starts, including solo 3rd at The Players. He specifically flagged firm conditions: <strong>\"Avoiding three-putts will decide the tournament.\"</strong>"
+        },
+        {
+          "team": "a",
+          "name": "Matt Fitzpatrick",
+          "stats": "1st on Tour in SG: Tee-to-Green • Won Valspar, 2nd at Players • 10 cuts in 11 Masters appearances",
+          "meta": "Age 31 • English • World #12 • +2350 • 2022 U.S. Open champion",
+          "bio": "Playing the <strong>best golf of his career</strong> at exactly the right time. Fitzpatrick leads the entire PGA Tour in SG: Tee-to-Green after winning the Valspar Championship and finishing 2nd at The Players. His approach to Augusta is meticulous: <strong>10 cuts in 11 appearances</strong> shows deep course knowledge. The <strong>2022 U.S. Open champion</strong> from Sheffield averages 305 yards off the tee with 4th-ranked driving accuracy — enough length for Augusta's par 5s with elite precision elsewhere. The one weakness: <strong>putting (96th in SG: Putting)</strong>. But he won Valspar ranking 42nd in putting — proof his ball-striking can overcome cold streaks on the greens."
+        },
+        {
+          "team": "a",
+          "name": "Akshay Bhatia",
+          "stats": "SG: Total 6th (1.646) • SG: Approach 8th (0.792) • SG: Putting 10th (0.730) • Won Arnold Palmer Invitational",
+          "meta": "Age 24 • World #19 • Left-handed • 3-time PGA Tour winner • DARK HORSE",
+          "bio": "The <strong>most dangerous dark horse in the field</strong>. The 24-year-old left-hander won the Arnold Palmer Invitational in March and ranks in the <strong>top 10 in three critical strokes gained categories</strong> — total (6th), approach (8th), and putting (10th). That combination is rare and historically predictive at Augusta. His left-handed draw naturally works right-to-left, which fits Augusta's dogleg-left holes — <strong>three previous left-handed winners</strong> (Mickelson, Watson, Weir) confirm the advantage. Bhatia turned pro at 17, skipping college entirely. At +8000, he may be the best value in the field."
+        }
+      ],
+      "funFacts": [
+        {
+          "emoji": "🏆",
+          "title": "The Rory Slam",
+          "body": "Rory McIlroy's 2025 Masters victory made him just the <strong>sixth man in history</strong> to complete the career Grand Slam, joining Gene Sarazen, Ben Hogan, Gary Player, Jack Nicklaus, and Tiger Woods. He waited 11 years and 16 attempts at Augusta to do it."
+        },
+        {
+          "emoji": "🐯",
+          "title": "No Tiger, No Phil",
+          "body": "For the <strong>first time since 1994</strong>, neither Tiger Woods nor Phil Mickelson will compete at the Masters. Combined, they own 8 green jackets. Tiger is seeking treatment after his March 27 DUI arrest; Phil declined his invitation."
+        },
+        {
+          "emoji": "🧀",
+          "title": "$1.50 Pimento Cheese",
+          "body": "Augusta National's famous <strong>pimento cheese sandwich</strong> still costs $1.50 — unchanged for decades while the purse has grown to $21 million. Three cheeses, diced pimentos, and mayonnaise on white bread."
+        },
+        {
+          "emoji": "📏",
+          "title": "10 Extra Yards",
+          "body": "The only 2026 course change: the <strong>17th hole (Nandina) was lengthened from 440 to 450 yards</strong>. Augusta National has lengthened the course by over 500 yards since 2000."
+        },
+        {
+          "emoji": "🎭",
+          "title": "Par 3 Curse",
+          "body": "<strong>No winner of the Wednesday Par 3 Contest has ever won the Masters in the same year.</strong> Players use family members as caddies. Smart players intentionally avoid winning it."
+        },
+        {
+          "emoji": "🌸",
+          "title": "Every Hole Has a Flower Name",
+          "body": "Augusta's 18 holes are named after <strong>trees and flowers</strong>: Tea Olive, Pink Dogwood, Flowering Peach, Flowering Crab Apple, Magnolia, Juniper, Pampas, Yellow Jasmine, Carolina Cherry, Camellia, White Dogwood, Golden Bell, Azalea, Chinese Fir, Firethorn, Redbud, Nandina, Holly."
+        },
+        {
+          "emoji": "🇸🇪",
+          "title": "Swedish Pioneer",
+          "body": "If Ludvig Aberg wins, he'd become <strong>Sweden's first male major champion</strong>. Annika Sorenstam won 10 women's majors, but no Swedish man has claimed one of golf's four biggest prizes."
+        },
+        {
+          "emoji": "🎓",
+          "title": "Gotterup's Journey",
+          "body": "Masters debutant <strong>Chris Gotterup</strong> was a walk-on for the Rutgers football team before switching to golf. Now a two-time 2026 PGA Tour winner and the highest-ranked professional making his Augusta debut."
+        },
+        {
+          "emoji": "🌡️",
+          "title": "Bone-Dry Augusta",
+          "body": "Augusta has been <strong>dry for two months</strong>. Zero percent chance of rain on Sunday at 84°F. Firm, fast conditions could make this the <strong>toughest putting test in years</strong>."
+        },
+        {
+          "emoji": "🏌️",
+          "title": "Scheffler's Perfect Record",
+          "body": "Scottie Scheffler has <strong>never finished outside the top 20</strong> at the Masters in any appearance. His +2.965 SG per round at Augusta over 20 rounds is the best of any active player."
+        },
+        {
+          "emoji": "🇹🇭",
+          "title": "Thailand's First",
+          "body": "Amateur <strong>Fifa Laopakdee</strong> makes history as Thailand's first amateur at the Masters. He won the Asia-Pacific Amateur in Dubai, coming from six shots back with birdies on 17, 18, and all three playoff holes."
+        },
+        {
+          "emoji": "🍽️",
+          "title": "Champions Dinner",
+          "body": "As defending champion, <strong>Rory McIlroy chose the menu</strong> for Tuesday's Champions Dinner — a tradition since 1952. Only past champions and select Augusta officials attend, in the Trophy Room of the clubhouse."
+        }
+      ],
+      "sources": [
+        {
+          "heading": "Tournament & Course Coverage",
+          "links": [
+            {
+              "label": "PGA Tour — First Look: Masters Tournament",
+              "url": "https://www.pgatour.com/article/news/the-first-look/2026/04/06/the-masters-augusta-national-facts-storylines-2026-major-how-to-watch-rory-mcilroy-scottie-scheffler-preview"
+            },
+            {
+              "label": "ESPN — Top Masters Storylines",
+              "url": "https://www.espn.com/golf/story/_/id/48412522/top-storylines-scottie-scheffler-bryson-dechambeau-masters-2026"
+            },
+            {
+              "label": "The Fried Egg — Augusta First Impressions",
+              "url": "https://www.thefriedegg.com/articles/2026-masters-first-impressions-augusta-national"
+            },
+            {
+              "label": "Golf News Net — SG Rankings at Augusta",
+              "url": "https://thegolfnewsnet.com/golfnewsnetteam/2026/04/06/2026-masters-tournament-strokes-gained-rankings-at-augusta-national-2021-2025-141891/"
+            }
+          ]
+        },
+        {
+          "heading": "Odds, Picks & Field Analysis",
+          "links": [
+            {
+              "label": "Yahoo Sports — Masters Odds & Picks Guide",
+              "url": "https://sports.yahoo.com/articles/2026-masters-guide-odds-picks-132900654.html"
+            },
+            {
+              "label": "NBC Sports — Betting Analysis",
+              "url": "https://www.nbcsports.com/golf/pga-tour/news/2026-masters-odds-and-prediction-seeking-value-in-the-field-of-91-golfers"
+            },
+            {
+              "label": "CBS Sports — Expert Picks & Predictions",
+              "url": "https://www.cbssports.com/golf/news/masters-2026-picks-odds-expert-predictions-favorites-to-win/"
+            },
+            {
+              "label": "Sky Sports — McIlroy Title Defence",
+              "url": "https://www.skysports.com/golf/news/12176/13528935/the-masters-2026-rory-mcilroy-relaxed-ahead-of-title-defence-and-sets-new-goals-after-grand-slam-glory-at-augusta"
+            }
+          ]
+        }
+      ],
+      "footerText": "The Masters 2026 • Tournament Preview • April 9-12 • Augusta National Golf Club • Par 72, 7,565 yards • ESPN (R1-R2) / CBS (R3-R4)"
+    }
+  }
+}

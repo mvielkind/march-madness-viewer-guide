@@ -1,4 +1,4 @@
-import type { CSSProperties } from 'react'
+import type { CSSProperties, ReactNode } from 'react'
 import type { GameData } from '../types/game.ts'
 import Hero from './Hero.tsx'
 import TournamentHero from './TournamentHero.tsx'
@@ -23,7 +23,7 @@ function hexToRgb(hex: string): string {
   return `${r},${g},${b}`
 }
 
-export default function GameGuide({ game }: { game: GameData }) {
+export default function GameGuide({ game, roundSelector }: { game: GameData; roundSelector?: ReactNode }) {
   const isTournament = game.format === 'tournament'
   const teamA = game.teams[0]
   const teamB = game.teams[1]
@@ -37,7 +37,7 @@ export default function GameGuide({ game }: { game: GameData }) {
 
   return (
     <div style={cssVars}>
-      {isTournament ? <TournamentHero game={game} /> : <Hero game={game} />}
+      {isTournament ? <TournamentHero game={game} roundSelector={roundSelector} /> : <Hero game={game} />}
 
       <section className="guide-section guide-stakes">
         <h2>{isTournament ? 'The Stakes' : 'Why This Game Matters'}</h2>

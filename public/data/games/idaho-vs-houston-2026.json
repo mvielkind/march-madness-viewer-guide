@@ -1,0 +1,426 @@
+{
+  "slug": "idaho-vs-houston-2026",
+  "title": "Idaho vs Houston — First Round Viewing Guide",
+  "eventTag": "NCAA Tournament • First Round • Oklahoma City, OK",
+  "date": "Thursday, March 19, 2026",
+  "round": "First Round",
+  "tipTime": "2026-03-19T21:55",
+  "venue": "Paycom Center, Oklahoma City, Oklahoma",
+  "extraInfo": "Winner faces <strong>#7 Saint Mary's or #10 Texas A&M</strong> on Saturday",
+  "teams": [
+    {
+      "name": "Idaho",
+      "mascot": "Vandals",
+      "seed": "#15 Seed",
+      "record": "21-14 • Big Sky Champs",
+      "colors": {
+        "primary": "#B5A36A",
+        "secondary": "#000000",
+        "name": "idaho"
+      },
+      "className": "idaho"
+    },
+    {
+      "name": "Houston",
+      "mascot": "Cougars",
+      "seed": "#2 Seed",
+      "record": "28-6 • Big 12 At-Large",
+      "colors": {
+        "primary": "#C8102E",
+        "secondary": "#FFFFFF",
+        "name": "houston"
+      },
+      "className": "houston"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "stakes",
+      "label": "The Stakes"
+    },
+    {
+      "id": "styles",
+      "label": "Styles of Play"
+    },
+    {
+      "id": "keys",
+      "label": "Keys to the Game"
+    },
+    {
+      "id": "prediction",
+      "label": "Prediction"
+    },
+    {
+      "id": "players",
+      "label": "Players to Watch"
+    },
+    {
+      "id": "facts",
+      "label": "Fun Facts"
+    },
+    {
+      "id": "history",
+      "label": "History"
+    },
+    {
+      "id": "sources",
+      "label": "Sources"
+    }
+  ],
+  "stakes": {
+    "callout": "A program returning to the NCAA Tournament for the <strong>first time in 36 years</strong> — the lowest seed to ever win the Big Sky Tournament — against a team that <strong>lost the national championship game by two points last year</strong> and has a 70-year-old Hall of Fame finalist coach still chasing his first title. Idaho shoots threes and prays. Houston's defense eats three-point shooters alive. Something has to give.",
+    "cards": [
+      {
+        "label": "For Idaho",
+        "value": "They haven't been here since <strong>1990 — 36 years</strong>. The first 7-seed to ever win the Big Sky Tournament. Legendary coach Don Monson died in October 2025; his son's team was beaten by Idaho in the semis. Five players are from Idaho — all state champions. They call this \"Starch Madness\" and they're here to prove potatoes aren't the only thing Idaho grows."
+      },
+      {
+        "label": "For Houston",
+        "value": "Lost the national championship game <strong>65-63 to Florida</strong> last year. Kelvin Sampson is 70 years old, a Hall of Fame finalist, and has 800+ wins — but no title. He rebuilt this program from the ashes of a show-cause penalty at Indiana. Chris Cenac Jr. is a potential No. 1 NBA Draft pick. This roster is built to finish the job."
+      },
+      {
+        "label": "The Matchup Problem",
+        "value": "Idaho lives and dies by the three — <strong>38.6% in wins, 29.2% in losses</strong>. Houston allows just <strong>32.1% from three</strong> and has the national Defensive Player of the Year in JoJo Tugler. Idaho's entire offensive identity runs directly into Houston's greatest strength. It's a buzzsaw matchup."
+      },
+      {
+        "label": "The Emotional Edge",
+        "value": "Idaho is playing for a state, for a dead coaching legend, and for the five homegrown kids who chose to stay. Houston is playing for a 70-year-old coach's legacy, for redemption from a two-point championship loss, and for the Phi Slama Jama ghosts who never got their title either. <strong>Both teams carry weight.</strong>"
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "Three-Point Dependent Balanced Scoring",
+      "bullets": [
+        "<strong>Live by the three, die by the three:</strong> Idaho attempts threes at the <strong>35th-highest rate nationally</strong>, makes 11.4 per game (15th nationally), and set a school record with 312 made triples. Six players shoot 36%+ from deep. In wins they shoot 38.6% from three; in losses, 29.2%. There is no stronger predictor of Idaho's fate.",
+        "<strong>Four-headed scoring attack:</strong> <strong>Four players average 12+ PPG</strong> — Rasmussen (13.9), Mitchell (13.7), Johnson (12.4), Brickner (12.1). You can't just take away one guy. This is the most balanced scoring attack Houston has faced from a 15-seed.",
+        "<strong>Elite defensive rebounding:</strong> <strong>Top 5 nationally at ~76% defensive rebound rate.</strong> Seven players average 3.3-5.2 rebounds. They won't give Houston second chances easily, which matters because the Cougars average 12.8 offensive rebounds per game.",
+        "<strong>Score 78.7 PPG (108th nationally):</strong> Idaho can put up points in bunches when the threes are falling. They scored double digits in three of four Big Sky Tournament games.",
+        "<strong>Weakness:</strong> KenPom 144th. NET 142. They're a mid-major that can shoot but has <strong>no Plan B when the threes aren't falling</strong>. Against Houston's defense, which is specifically built to kill perimeter shooters, Idaho needs the game of their lives."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "Suffocating Defense, Emerging Offense",
+      "bullets": [
+        "<strong>Defense defines everything:</strong> KenPom adjusted defensive efficiency: <strong>No. 7 nationally (93.0)</strong>. Allow just <strong>62.9 PPG (2nd nationally)</strong>. Opponents shoot 40.0% FG and 32.1% from three. This isn't a team that beats you — it's a team that doesn't let you score.",
+        "<strong>JoJo Tugler anchors the paint:</strong> The <strong>6-8, 230-pound junior with a 7-6 wingspan</strong> leads the country in Defensive BPM (7.5) and Defensive Rating (87.0). Back-to-back Big 12 Defensive Player of the Year. Won the Lefty Driesell Award. 77 blocks. He erases shots and changes everything near the rim.",
+        "<strong>Offensive evolution:</strong> KenPom adjusted offensive efficiency: <strong>top 10-14 nationally</strong>. Only Houston, Michigan, and Duke are top-10 in BOTH adjusted offense and defense. Flemings (16.4 PPG) and Sharp (15.3 PPG) give them elite perimeter scoring.",
+        "<strong>Physical rebounding:</strong> <strong>12.8 offensive rebounds per game</strong> — a Sampson hallmark. They punish teams on the glass and create second-chance points that demoralize opponents.",
+        "<strong>Vulnerability:</strong> Lost the Big 12 championship to Arizona 79-74. Lost the national championship game by two last year. The talent is undeniable, but Houston has shown they can be beaten in big moments. The question is whether a 15-seed can exploit that."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "Can Idaho make threes against the best perimeter defense in America?",
+      "description": "This is the whole game. Idaho shoots 38.6% from three in wins and 29.2% in losses. Houston holds opponents to 32.1% from three. If Idaho's six 36%+ shooters can somehow get clean looks and knock them down against Houston's closeouts, the game stays competitive. If Houston's defense does what it does — forces contested shots, runs shooters off the line — Idaho has no secondary plan. The three-point line is the entire battlefield."
+    },
+    {
+      "title": "The rebounding war decides second-chance points.",
+      "description": "Idaho is elite at defensive rebounding (top 5 nationally, 76% rate). Houston averages 12.8 offensive rebounds per game — Sampson's teams crash the boards relentlessly. Something has to give. If Idaho can hold their own on the glass and deny Houston extra possessions, they keep the game close. If Houston's physicality overwhelms Idaho's smaller lineup, the Cougars will grind out easy points that the Vandals can't match."
+    },
+    {
+      "title": "JoJo Tugler vs. Idaho's interior game.",
+      "description": "Tugler's 7-6 wingspan and 77 blocks make driving the lane terrifying. Idaho is a perimeter team that doesn't generate much at the rim — but when the threes aren't falling, they need to attack inside. Brody Rowbury at 6-11 is Idaho's biggest body, but Tugler is a different animal. If Idaho can avoid having their shots altered or blocked, they open up the floor. If Tugler controls the paint, Idaho has nowhere to go."
+    },
+    {
+      "title": "Idaho's four-headed attack vs. Houston's defensive focus.",
+      "description": "Most 15-seeds have one guy you can key on. Idaho has four players at 12+ PPG — Rasmussen, Mitchell, Johnson, and Brickner. Houston can't just shadow one scorer. But Sampson's defense is built on systems, not matchups. The question is whether Idaho's balance forces Houston to respect all four shooters, or whether the Cougars' defensive structure renders the balance irrelevant."
+    },
+    {
+      "title": "The 36-year drought, the dead coach, and what it means to play for something.",
+      "description": "Idaho hasn't been here since 1990. Don Monson died in October. Five Idaho kids are playing for their home state. The entire Big Sky Tournament was called \"Starch Madness.\" This team has the narrative fuel that 15-seed upsets are built on. Houston has their own weight — a two-point championship loss, a 70-year-old coach's legacy. But never underestimate a team that believes this is their moment."
+    }
+  ],
+  "prediction": {
+    "summary": "This is a buzzsaw matchup for Idaho. The Vandals live and die by the three — 38.6% in wins, 29.2% in losses — and Houston's defense is specifically built to kill perimeter shooters (opponents shoot 32.1% from deep). JoJo Tugler's 7-6 wingspan and 77 blocks will alter shots even when Idaho does get clean looks, and Chris Cenac Jr.'s 7-4 wingspan alongside Tugler creates a frontcourt that makes the paint a no-fly zone. Idaho's elite defensive rebounding (top 5 nationally) is their best chance to stay competitive — if they can deny Houston second chances, they limit the damage. But Houston averages 12.8 offensive rebounds per game, and the physical mismatch will show up on the glass eventually. The emotional fuel is real — 36 years, a dead coaching legend, five homegrown Idaho kids — but Houston lost the national championship by 2 points last year. Kelvin Sampson's team is not in a merciful mood.",
+    "phases": [
+      {
+        "title": "Opening 10 Minutes",
+        "description": "Idaho comes out with nothing to lose and the adrenaline of a 36-year drought. Brickner hits an early three (42.2% shooter), Mitchell drives and finishes, and Idaho hangs within 5. Houston's defense is locked in but the Vandals' four-headed attack forces the Cougars to guard all four shooters. It's 18-14 Houston."
+      },
+      {
+        "title": "Mid-First Half to Halftime",
+        "description": "Houston's defense tightens the screws. Tugler blocks two shots at the rim and his presence deters three more drives. Idaho's threes start rimming out — they go 2-for-9 from deep over a 7-minute stretch. Flemings scores 10 first-half points, and Sharp hits two threes of his own. Houston leads 34-22 at halftime as Idaho shoots 28% from three."
+      },
+      {
+        "title": "Early Second Half",
+        "description": "Idaho makes one last push. Rasmussen hits back-to-back threes, Johnson scores on a fast break, and the deficit shrinks to 8. The Oklahoma City crowd, mostly neutral fans who love an underdog, gets loud. But Houston answers immediately — Cenac throws down a dunk, Tugler blocks a Brickner three-point attempt at the top of his release, and Flemings hits a step-back jumper. The run is over."
+      },
+      {
+        "title": "Final 12 Minutes",
+        "description": "Houston's physicality on the boards takes over. They grab 6 offensive rebounds in the final 12 minutes and convert them into easy putbacks and free throws. Idaho's defensive rebounding — their calling card all season — finally cracks against Houston's relentless crashing. The lead grows to 20. Idaho's five homegrown kids play to the final buzzer, and the bench stands to applaud them. The 36-year wait was worth it, even if the ending was inevitable."
+      }
+    ],
+    "projectedScore": {
+      "teamA": 57,
+      "teamB": 76,
+      "rationale": "Houston's suffocating perimeter defense shuts down Idaho's three-point-dependent attack, and the rebounding mismatch proves decisive. Idaho keeps it close for a half before the Cougars' talent and physicality take over."
+    }
+  },
+  "players": [
+    {
+      "team": "a",
+      "name": "Jackson Rasmussen",
+      "stats": "13.9 PPG • 4.7 RPG • Big Sky Freshman of the Year",
+      "meta": "F • 6-7 • Freshman • Meridian, Idaho",
+      "bio": "From Meridian, Idaho. <strong>No. 1 prospect in the state, No. 52 PF nationally.</strong> Led Owyhee HS to state championships in 2022 and 2024 (5A Tournament MVP). One of five Idaho kids on the roster — all state champs. \"My top goal since day one was winning a Big Sky championship.\" He did it as a freshman."
+    },
+    {
+      "team": "a",
+      "name": "Kolton Mitchell",
+      "stats": "13.7 PPG • 3.9 APG • 58 pts in Big Sky Tournament",
+      "meta": "G • 6-1 • From Coeur d'Alene, Idaho",
+      "bio": "All-time leading scorer at Lake City HS (1,462 points). Led Lake City to first-ever undefeated state title in 2023. Originally signed with Idaho State; a finger injury required surgery after 10 games. Transferred to Idaho. <strong>Scored 58 points across the Big Sky Tournament</strong> including 26 in the semis against Don Monson's son's team. \"When that final buzzer sounded, it didn't even feel real.\""
+    },
+    {
+      "team": "a",
+      "name": "Isaiah Brickner",
+      "stats": "12.1 PPG • 42.2% 3PT • Big Sky Top Reserve Award",
+      "meta": "G • 6-4 • San Diego → Marist → Idaho",
+      "bio": "From San Diego (Saint Augustine HS → Sunrise Christian Academy → Marist → Idaho). Came alive when it mattered most: <strong>23 points and 10 rebounds in the Big Sky championship game</strong> — his first career double-double, in the biggest game of his life. Shoots 42.2% from three."
+    },
+    {
+      "team": "a",
+      "name": "Biko Johnson",
+      "stats": "12.4 PPG • D-II to D-I Transfer",
+      "meta": "G • 6-3 • Carson, CA • Fort Lewis College → Idaho",
+      "bio": "From Carson, California. Transfer from <strong>Division II Fort Lewis College</strong> (First Team All-RMAC, 16.3 PPG). Idaho's closer in tight games. Dropped 19 points in the quarterfinal vs. Montana State. Proof that the D-II-to-D-I pipeline is real."
+    },
+    {
+      "team": "b",
+      "name": "Kingston Flemings",
+      "stats": "16.4 PPG • 5.3 APG • .392 3PT",
+      "meta": "G • Freshman • Bob Cousy Award Finalist • First Houston Freshman All-American",
+      "bio": "The <strong>first freshman in Houston history to earn All-America honors</strong> (Sporting News Second Team). Set the Houston freshman single-game record with <strong>42 points at Texas Tech</strong> and the single-season record with 510 points. Unanimous All-Big 12 First Team. He's a freshman playing like a senior."
+    },
+    {
+      "team": "b",
+      "name": "JoJo Tugler",
+      "stats": "8.4 PPG • 77 BLK • 7.5 Defensive BPM (No. 1 nationally)",
+      "meta": "F • 6-8, 230 • Junior • Back-to-Back Big 12 DPOY • Lefty Driesell Award",
+      "bio": "<strong>7-6 wingspan.</strong> Back-to-back Big 12 Defensive Player of the Year. Won the Lefty Driesell Award as the nation's top defensive player. <strong>Leads the country in Defensive BPM (7.5) and Defensive Rating (87.0).</strong> Had a career-high 20 points and 10 rebounds in the Big 12 championship game. Idaho's three-point shooters will feel his presence even on the perimeter."
+    },
+    {
+      "team": "b",
+      "name": "Emanuel Sharp",
+      "stats": "15.3 PPG • .371 3PT • .892 FT • Houston Career 3PT Record",
+      "meta": "G • Senior • 100+ Career Victories",
+      "bio": "Set the <strong>Houston all-time career three-point record (277)</strong>, passing Marcus Sasser. Hit a career-high 8 threes (27 points) vs. Utah. 7th player in program history to reach 100 career victories. The veteran sharpshooter who's been waiting for this his whole career."
+    },
+    {
+      "team": "b",
+      "name": "Chris Cenac Jr.",
+      "stats": "9.5 PPG • 7.5 RPG • .493 FG",
+      "meta": "C • 6-11, 240 • Freshman • McDonald's All-American • Potential No. 1 NBA Pick",
+      "bio": "<strong>Houston's highest-ranked recruit ever</strong> (No. 7 ESPN 100, No. 1 center). McDonald's All-American. Projected <strong>potential No. 1 pick in the 2026 NBA Draft</strong>. Had 17 points and a career-high 14 rebounds vs. Kansas. The 7-4 wingspan next to Tugler's 7-6 wingspan makes Houston's paint a no-fly zone."
+    }
+  ],
+  "funFacts": [
+    {
+      "emoji": "🥔",
+      "title": "Starch Madness",
+      "body": "The Big Sky Tournament in Boise is nicknamed <strong>\"Starch Madness\"</strong> — a play on March Madness honoring Idaho's potato industry. Idaho won it. As a 7-seed. The lowest seed to ever win the Big Sky Tournament. Potato power is real."
+    },
+    {
+      "emoji": "💀",
+      "title": "The Ghost of Don Monson",
+      "body": "Legendary coach <strong>Don Monson</strong> (100-41 at Idaho, Sweet Sixteen in 1982) <strong>died October 2, 2025, at 92</strong> — months before this run. His son Dan Monson coaches Eastern Washington — <strong>the team Idaho beat in the Big Sky Tournament semifinals</strong>. The symmetry is haunting."
+    },
+    {
+      "emoji": "😤",
+      "title": "Houston Lost the Title Game by Two Points",
+      "body": "Last year Houston went 35-5, earned a No. 1 seed, and <strong>lost the national championship game to Florida 65-63</strong>. Two points from glory. Kelvin Sampson is 70 years old. This is not a team interested in moral victories."
+    },
+    {
+      "emoji": "🏠",
+      "title": "Five Idaho Kids, Five State Champs",
+      "body": "<strong>Five players on this roster are from Idaho</strong> — the most since 1971-72. All five won state championships in high school. Coach Pribble built this team by recruiting in-state talent that other programs overlooked. These kids are playing for their home state."
+    },
+    {
+      "emoji": "🛡️",
+      "title": "Tugler's Wingspan Is Longer Than Most People Are Tall",
+      "body": "JoJo Tugler has a <strong>7-foot-6 wingspan</strong>. Chris Cenac Jr. has a <strong>7-foot-4 wingspan</strong>. Together they form a frontcourt with 15 feet of combined wingspan. Idaho's guards are going to feel like they're shooting into a forest."
+    },
+    {
+      "emoji": "🏚️",
+      "title": "Why Are They Called the \"Vandals\"?",
+      "body": "The nickname originated in <strong>1917</strong> when a student newspaper writer described the basketball team's ferocious defensive play, saying they <strong>\"vandalized\" opponents</strong>. Idaho is the only school in the country with the Vandals nickname."
+    },
+    {
+      "emoji": "🕵️",
+      "title": "Deep Throat Went to Idaho",
+      "body": "<strong>Mark Felt (\"Deep Throat\")</strong> — the FBI Deputy Director who was the key Watergate informant — graduated from the University of Idaho. So did <strong>Sarah Palin</strong> (Governor of Alaska, 2008 VP nominee) and <strong>Dan O'Brien</strong> (1996 Olympic decathlon gold medalist)."
+    },
+    {
+      "emoji": "🔥",
+      "title": "Sampson's Redemption Arc",
+      "body": "Kelvin Sampson was <strong>forced to resign from Indiana in 2008</strong> after NCAA violations and received a <strong>5-year show-cause penalty</strong>. He spent years as an NBA assistant before Houston hired him in 2014. Since then: <strong>800+ wins, 8 straight tournaments, a Final Four, and a championship game</strong>. The Hall of Fame finalist who rebuilt everything from nothing."
+    },
+    {
+      "emoji": "🏀",
+      "title": "Phi Slama Jama",
+      "body": "Houston's basketball DNA traces to <strong>Phi Slama Jama</strong> — the early 1980s teams featuring <strong>Hakeem Olajuwon and Clyde Drexler</strong> that reached three consecutive Final Fours (1982-84). They lost the 1983 title to NC State on Lorenzo Charles' legendary last-second dunk. Sampson is trying to finish what Guy Lewis started."
+    },
+    {
+      "emoji": "📏",
+      "title": "36 Years Between Tournament Appearances",
+      "body": "Idaho's last NCAA Tournament appearance was in <strong>1990</strong>. To put that in perspective: the Berlin Wall had just fallen, the internet didn't exist yet, and most of the current players' parents were in high school. <strong>36 years</strong> is the longest drought broken by any team in this tournament."
+    },
+    {
+      "emoji": "🏟️",
+      "title": "Houston Could Play at Home in the Sweet 16",
+      "body": "The Sweet 16 and Elite Eight games in Houston's bracket are at <strong>Toyota Center in Houston</strong> — potentially giving the Cougars a de facto home-court advantage in the later rounds. Get past Idaho and they could be playing in front of their own fans."
+    },
+    {
+      "emoji": "✊",
+      "title": "Sampson's Father Drove Out the KKK",
+      "body": "Kelvin Sampson is a member of the <strong>Lumbee Native American tribe</strong>. His father was among <strong>500 Lumbee who drove the KKK out of Maxton, NC, in the \"Battle of Hayes Pond\"</strong> in 1958. Sampson carries that fighting spirit into every game he coaches."
+    }
+  ],
+  "history": {
+    "callout": "Houston has <strong>8 consecutive tournament appearances, a championship game loss last year, and the 5th-ranked KenPom team in America</strong>. Idaho hasn't been to the tournament in <strong>36 years</strong> and won the Big Sky as the lowest seed in tournament history. The Vandals shoot threes at an elite rate but Houston's defense is specifically designed to kill perimeter shooting. This is David vs. Goliath — but David has a very specific slingshot, and Goliath knows exactly how to dodge it.",
+    "subsections": [
+      {
+        "title": "Idaho's 36-Year Journey Back",
+        "type": "timeline",
+        "content": "",
+        "timeline": [
+          {
+            "date": "1982",
+            "text": "Don Monson's Idaho team goes <strong>27-3, ranked No. 6 in the AP Poll</strong>. Beats Iowa in the Round of 32 on a last-second shot. Reaches the Sweet Sixteen. The golden era of Vandals basketball."
+          },
+          {
+            "date": "1990",
+            "text": "Idaho's <strong>last NCAA Tournament appearance</strong>. They wouldn't be back for 36 years."
+          },
+          {
+            "date": "2023",
+            "text": "Alex Pribble takes over a program averaging 7 wins per season. Goes <strong>11 → 14 → 21 wins</strong> in three years."
+          },
+          {
+            "date": "Oct 2025",
+            "text": "<strong>Don Monson dies at 92.</strong> The coaching offices in ICCU Arena are named after him. His legacy looms over the season."
+          },
+          {
+            "date": "Mar 2026",
+            "text": "As the <strong>first 7-seed to ever win the Big Sky Tournament</strong>, Idaho wins four games in five days — three by double digits — beating the 2nd, 3rd, and 4th seeds. They're back."
+          }
+        ]
+      },
+      {
+        "title": "Houston's Championship Quest",
+        "type": "card",
+        "content": "<p>Houston's championship drought is one of the most agonizing in college basketball. <strong>Phi Slama Jama</strong> — with Hakeem Olajuwon and Clyde Drexler — reached three consecutive Final Fours (1982-84) but lost the 1983 title on Lorenzo Charles' last-second dunk and the 1984 title to Georgetown. Then the program fell into irrelevance for decades.</p><p style=\"margin-top:.5rem;\">Enter Kelvin Sampson in 2014, carrying the baggage of a show-cause penalty from Indiana. He rebuilt Houston into a powerhouse: <strong>Final Four in 2021, championship game in 2025</strong> — where they lost to Florida 65-63. Two points from completing the redemption arc. Now 70 years old and a Hall of Fame finalist, Sampson has one more run with a roster that includes a potential No. 1 NBA Draft pick (Cenac) and the first freshman All-American in program history (Flemings).</p>"
+      },
+      {
+        "title": "The 15-vs-2 Upset History",
+        "type": "card",
+        "content": "<p>Since seeding began in 1985, <strong>15-seeds have beaten 2-seeds 10 times</strong> — roughly once every four years. The most famous: UMBC over Virginia in 2018 (first-ever 16-over-1), Fairleigh Dickinson over Purdue in 2023, and Saint Peter's magical run in 2022. It happens more often than you'd think.</p><p style=\"margin-top:.5rem;\">Idaho's profile has upset ingredients: balanced scoring (four players at 12+ PPG), elite three-point shooting volume, and the emotional fuel of a 36-year drought and a dead coaching legend. But Houston's defense is specifically built to take away the three — holding opponents to 32.1% — which is Idaho's entire identity. For the Vandals to pull this off, they'd need to shoot lights-out against the best perimeter defense in the country. It's possible. It's just not probable.</p>"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "heading": "Idaho",
+      "links": [
+        {
+          "label": "GoVandals — Vandals Secure #15 Seed",
+          "url": "https://govandals.com/news/2026/3/15/mens-basketball-vandals-secure-15-seed-draw-2-houston-in-march-madness-first-round.aspx"
+        },
+        {
+          "label": "BasketUnderReview — Previewing Idaho",
+          "url": "https://www.basketunderreview.com/ticket-punched-previewing-the-idaho-vandals-for-the-2026-ncaa-tournament/"
+        },
+        {
+          "label": "ESPN — Idaho Tops Montana for Big Sky Title",
+          "url": "https://www.espn.com/mens-college-basketball/story/_/id/48181273/idaho-tops-montana-big-sky-title-1st-ncaa-bid-1990"
+        },
+        {
+          "label": "SI — Cal Grad Pribble Coaches Idaho to First Bid Since 1990",
+          "url": "https://www.si.com/college/cal/basketball/cal-grad-alex-pribble-coaches-idaho-to-first-ncaa-bid-since-1990-01kkgd5gcemp"
+        },
+        {
+          "label": "Spokesman-Review — Idaho Players from the Gem State",
+          "url": "https://www.spokesman.com/stories/2026/mar/17/idaho-mens-basketball-has-struck-gold-on-the-court/"
+        },
+        {
+          "label": "Spokesman-Review — Don Monson Dies at 92",
+          "url": "https://www.spokesman.com/stories/2025/oct/02/legendary-idaho-basketball-coach-don-monson-dies-a/"
+        },
+        {
+          "label": "Busting Brackets — Potato Power! Idaho Vandals",
+          "url": "https://bustingbrackets.com/potato-power-the-idaho-vandals-are-an-easy-team-to-root-for-this-march-basketball"
+        },
+        {
+          "label": "Sports Reference — 2025-26 Idaho Stats",
+          "url": "https://www.sports-reference.com/cbb/schools/idaho/men/2026.html"
+        },
+        {
+          "label": "Wikipedia — University of Idaho",
+          "url": "https://en.wikipedia.org/wiki/University_of_Idaho"
+        },
+        {
+          "label": "KMVT — Idaho Returns to Tournament",
+          "url": "https://www.kmvt.com/2026/03/15/idaho-vandals-return-ncaa-tournament-first-time-36-years/"
+        }
+      ]
+    },
+    {
+      "heading": "Houston",
+      "links": [
+        {
+          "label": "UH Athletics — No. 2 Seed",
+          "url": "https://uhcougars.com/news/2026/3/15/mens-basketball-5-5-mens-basketball-tabbed-as-2-seed-in-ncaa-tournament"
+        },
+        {
+          "label": "Sports Reference — 2025-26 Houston Stats",
+          "url": "https://www.sports-reference.com/cbb/schools/houston/men/2026.html"
+        },
+        {
+          "label": "SI — Houston Two-Way KenPom Dominance",
+          "url": "https://www.si.com/college/houston/basketball/houston-cougars-two-way-dominance-has-them-in-rare-kenpom-company"
+        },
+        {
+          "label": "Yahoo Sports — Why Houston Will Win the Tournament",
+          "url": "https://sports.yahoo.com/articles/why-houston-basketball-win-2026-162442582.html"
+        },
+        {
+          "label": "SI — Chris Cenac Could Be No. 1 Pick",
+          "url": "https://www.si.com/college/houston/basketball/houston-cougars-freshman-chris-cenac-could-be-no-1-pick-2026-nba-draft"
+        },
+        {
+          "label": "UH Athletics — Flemings All-America",
+          "url": "https://uhcougars.com/news/2026/3/10/mens-basketball-kingston-flemings-named-to-the-sporting-news-all-america-second-team"
+        },
+        {
+          "label": "SI — JoJo Tugler's Impact",
+          "url": "https://www.si.com/college/houston/basketball/how-jojo-tugler-s-impact-has-grown-for-the-houston-cougars"
+        },
+        {
+          "label": "UH Athletics — Sampson Hall of Fame Finalist",
+          "url": "https://uhcougars.com/news/2026/2/11/mens-basketball-coach-kelvin-sampson-named-finalist-for-naismith-basketball-hall-of-fame"
+        },
+        {
+          "label": "CBS Sports — Sampson Redemption Arc",
+          "url": "https://www.cbssports.com/college-basketball/news/how-kelvin-sampson-repaired-his-career-at-houston-and-resurrected-the-cougars-who-are-back-in-the-final-four/"
+        },
+        {
+          "label": "Wikipedia — Phi Slama Jama",
+          "url": "https://en.wikipedia.org/wiki/Phi_Slama_Jama"
+        },
+        {
+          "label": "SI — Houston NCAA Tournament History",
+          "url": "https://www.si.com/college/houston/basketball/an-in-depth-look-at-the-houston-cougars-recent-ncaa-tournament-history"
+        },
+        {
+          "label": "CBS Sports — Sampson Lumbee Tribe",
+          "url": "https://www.cbssports.com/college-basketball/news/houstons-kelvin-sampson-is-carrying-the-banner-for-his-lumbee-tribe-in-quest-for-federal-recognition/"
+        }
+      ]
+    }
+  ],
+  "footerText": "Casual Fan Viewing Guide • Idaho vs Houston • NCAA First Round • March 19, 2026"
+}

@@ -1,0 +1,355 @@
+{
+  "slug": "timberwolves-at-magic-2026-04-08",
+  "title": "Timberwolves at Magic",
+  "eventTag": "NBA — Playoff Push",
+  "date": "Wednesday, April 8, 2026 • 7:00 PM ET",
+  "round": "Regular Season",
+  "tipTime": "2026-04-08T19:00",
+  "venue": "Kia Center, Orlando, FL • FDSN / FDSFL / Fubo",
+  "extraInfo": "Game 2 of 2 — Orlando won Game 1 119-92 on March 7 in Minneapolis. Bane had 30, Banchero 25/15. Edwards scored 34 but Minnesota shot 35.7% overall.",
+  "teams": [
+    {
+      "name": "Minnesota",
+      "mascot": "Timberwolves",
+      "seed": "6",
+      "record": "47-32",
+      "colors": {
+        "primary": "#0C2340",
+        "secondary": "#236192",
+        "name": "timberwolves"
+      },
+      "className": "timberwolves"
+    },
+    {
+      "name": "Orlando",
+      "mascot": "Magic",
+      "seed": "8",
+      "record": "43-36",
+      "colors": {
+        "primary": "#0077C0",
+        "secondary": "#000000",
+        "name": "magic"
+      },
+      "className": "magic"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "stakes",
+      "label": "Matchup Breakdown"
+    },
+    {
+      "id": "styles",
+      "label": "Styles of Play"
+    },
+    {
+      "id": "keys",
+      "label": "Keys to the Game"
+    },
+    {
+      "id": "prediction",
+      "label": "Prediction"
+    },
+    {
+      "id": "players",
+      "label": "Players to Watch"
+    },
+    {
+      "id": "trends",
+      "label": "Trends"
+    },
+    {
+      "id": "sources",
+      "label": "Sources"
+    }
+  ],
+  "stakes": {
+    "callout": "A high-stakes clash at the Kia Center with contrasting motivations. The <strong>Magic</strong> are fighting for playoff survival — tied at 43-36 with Charlotte and Philadelphia for the 8th seed and half a game behind Toronto for 7th. Orlando has won 4 straight and is 7-3 in their last 10, riding the best clutch record in the NBA (27 clutch wins, tied 1st). The <strong>Timberwolves</strong> have clinched the playoffs but are locked into the 6th seed with a loss tonight and limping into the postseason — 6-9 in their last 15, with Edwards hobbled by knee pain and McDaniels out. Orlando blew Minnesota out 119-92 in their first meeting on March 7, and the Magic's transition attack, home court, and desperation give them the edge in the season finale between these teams.",
+    "cards": [
+      {
+        "label": "Orlando's Playoff Survival",
+        "value": "The Magic are <strong>tied at 43-36 with Charlotte and Philadelphia</strong> for the 8th seed and half a game behind Toronto (43-35) for 7th. Every game is a must-win with three teams breathing down their neck in the play-in race."
+      },
+      {
+        "label": "Game 1 Was a Blowout",
+        "value": "Orlando won <strong>119-92 on March 7 in Minneapolis</strong>. Bane scored 30, Banchero had 25/15, and Minnesota shot just 35.7% from the field. Starters DiVincenzo and McDaniels were a combined <strong>0-for-15</strong>."
+      },
+      {
+        "label": "Minnesota's Health Crisis",
+        "value": "Edwards is <strong>day-to-day with right knee patellofemoral pain</strong> and has been hobbled for weeks. McDaniels is <strong>out with a knee injury</strong>. The Wolves are 6-9 in their last 15 and struggling to generate consistent offense without their full roster."
+      },
+      {
+        "label": "Orlando's Clutch Dominance",
+        "value": "The Magic have <strong>27 clutch wins (tied for 1st in the NBA with Detroit)</strong>, rank 1st in second-chance points in clutch situations, and are top-5 in clutch win percentage. If this game is close late, Orlando has the experience edge."
+      }
+    ]
+  },
+  "styles": [
+    {
+      "team": "a",
+      "title": "Star-Driven PnR Offense, Gobert-Anchored Rim Protection",
+      "bullets": [
+        "<strong>The Edwards-Gobert pick-and-roll is everything:</strong> Minnesota's offense revolves around Anthony Edwards (28.9 PPG) attacking off ball screens with Rudy Gobert rolling to the rim. When Edwards is on the floor, the team's offensive rating spikes to <strong>130.5</strong> — without him, it drops to 116.3 (+13.8 differential). That on/off gap defines Minnesota's ceiling and floor tonight.",
+        "<strong>Elite shooting efficiency — when healthy:</strong> The Timberwolves rank <strong>1st in effective field goal percentage (58.8%) and true shooting percentage (62.3%)</strong>. Edwards has been scorching at 50.4% FG and 50% from three (29/58) in his recent stretch, with DiVincenzo providing catch-and-shoot spacing. But the team has shot just 44.2% over their last 10 games as injuries have disrupted rhythm.",
+        "<strong>Julius Randle is the secondary engine:</strong> Randle (23.4 PPG, 7.5 RPG, 5.7 APG) handles creation duties when Edwards rests or is doubled. He's a better three-point shooter than Banchero but was limited to 14 points in the March 7 loss. Minnesota needs him to be aggressive tonight.",
+        "<strong>Gobert anchors everything defensively:</strong> The Wolves play drop coverage in the pick-and-roll, with Gobert (1.6 BPG, 11.5 RPG — NBA leader with 872 total rebounds) protecting the rim and controlling the glass. The team averages <strong>6.6 BPG and 9.2 SPG</strong>, but without McDaniels' perimeter defense, the scheme is more vulnerable on the wing.",
+        "<strong>The health question looms over everything:</strong> Minnesota is 6-9 in their last 15 games. Edwards' knee has limited his explosiveness, McDaniels is out, and the bench depth behind Naz Reid (13.7 PPG, 6.2 RPG) is thin. The Wolves' 118.1 offensive rating (7th in NBA) reflects full-strength production — not the current reality."
+      ]
+    },
+    {
+      "team": "b",
+      "title": "Transition-Fueled Attack, Size-Based Defensive Scheme",
+      "bullets": [
+        "<strong>Transition offense is the identity:</strong> Orlando ranks <strong>6th in transition possessions (23.8/game) and 4th in transition efficiency (1.214 PPP)</strong>, generating roughly 20.6 fast-break points per game (2nd in NBA earlier this season). The Magic generate runouts off turnovers, defensive rebounds, and Suggs' 1.9 steals per game. Against a Minnesota team turning it over at the highest rate in the NBA in clutch time, this is Orlando's primary weapon.",
+        "<strong>Banchero and Bane form a potent 1-2 punch:</strong> Paolo Banchero (22.3 PPG, 8.4 RPG, 5.1 APG) initiates the half-court offense as the primary ball-handler and post creator. Desmond Bane (20.5 PPG, 48.5% FG, <strong>39.4% from three</strong>, 90.9% FT) is the perimeter shooting threat Orlando's offense needs. Together they accounted for 55 points in the March 7 blowout.",
+        "<strong>Depth and versatility on offense:</strong> Suggs (13.7 PPG, 5.6 APG), Franz Wagner (20.5 PPG when healthy), and Tristan da Silva (10.0 PPG) give Orlando multiple scoring avenues. The Magic don't rely on three-point shooting (34.2%, 26th in NBA) — they win with paint scoring, second-chance points, and transition buckets.",
+        "<strong>The defense uses collective size, not individual rim protectors:</strong> Orlando's defensive scheme limits opponents to just <strong>26.2 field goal attempts per game at the rim (7th fewest in NBA)</strong>. They've finished top-3 in defensive rating in back-to-back seasons, led the NBA in blocks last year, and rank 2nd in defensive turnovers generated. The scheme works through length and positioning rather than one anchor.",
+        "<strong>Transition defense is the vulnerability:</strong> The Magic allow <strong>23.0 transition possessions per game (7th most) and 1.07 PPP in transition (4th most)</strong>. If Minnesota can get out and run — especially off Gobert's defensive rebounds — they can exploit the one area where Orlando's defense breaks down."
+      ]
+    }
+  ],
+  "keys": [
+    {
+      "title": "Edwards' health determines Minnesota's ceiling — and the game's outcome",
+      "description": "The on/off numbers tell the story: Minnesota's offensive rating is 130.5 with Edwards on the floor and 116.3 without him — a 13.8-point swing per 100 possessions. Edwards is day-to-day with right knee patellofemoral pain and has been visibly limited in recent games. If he plays at full capacity, his pull-up shooting (50.4% FG, 50% from three recently) can neutralize Orlando's size defense by scoring off the Edwards-Gobert pick-and-roll without needing Gobert to finish at the rim. If he's limited or sits, Minnesota loses their offensive engine and their only answer for Banchero-Bane on the other end. Orlando's defensive scheme — which held Minnesota to 35.7% shooting in Game 1 — becomes suffocating without Edwards' gravity."
+    },
+    {
+      "title": "Orlando's transition attack vs. Gobert's rebounding — who controls the tempo?",
+      "description": "This is the game's central tactical tension. Orlando ranks 4th in transition efficiency (1.214 PPP) and generates fast breaks off turnovers and defensive boards. Minnesota's turnover issues in clutch time (1.8 per game, most in the NBA) directly feed Orlando's most dangerous weapon. But Gobert leads the NBA in total rebounds (872, 11.5 RPG) and his defensive rebounding limits opponent fast-break opportunities. If Gobert controls the glass and Minnesota avoids live-ball turnovers, they can keep the pace around 100 possessions and play to their half-court strengths. If Orlando forces turnovers through Suggs' pressure (1.9 SPG) and gets out in transition, the Magic can generate the easy baskets that powered their 119-92 Game 1 win."
+    },
+    {
+      "title": "Can Gobert's paint dominance crack Orlando's rim-denial scheme?",
+      "description": "Gobert dominates the paint on both ends — vertical spacing, lobs, putbacks on offense and 1.6 BPG as a rim deterrent on defense. But Orlando's defense is specifically built to prevent paint scoring, allowing only 26.2 FGA per game at the rim (7th fewest in NBA) through collective size rather than individual shot-blocking. This is a schematic clash: Gobert's presence demands the ball go inside, but Orlando's positioning makes it difficult to get the ball there. If Minnesota can feed Gobert in the paint through Edwards' penetration and kick, they exploit Orlando's one defensive weakness — individual rim protection. If Orlando's scheme holds and forces mid-range and perimeter shots, Minnesota's offense becomes one-dimensional."
+    },
+    {
+      "title": "The clutch factor — Orlando's pedigree vs. Minnesota's turnover problem",
+      "description": "If this game reaches crunch time, Orlando holds a significant edge. The Magic have 27 clutch wins (tied for 1st with Detroit), rank 1st in second-chance points in clutch situations, and are top-5 in clutch win percentage. Minnesota has Edwards — whose 53% FG in clutch situations is historically elite — but the team turns it over at the highest rate in the NBA in clutch time (1.8 per game, 21.8 per 48 minutes). In a close game, Orlando's ability to crash the offensive glass and convert second chances against a Minnesota team prone to late-game turnovers tilts the balance. The Magic's desperation (fighting for a playoff spot) adds urgency that the clinched-and-limping Wolves may lack."
+    },
+    {
+      "title": "Minnesota's rebounding advantage — enough to offset everything else?",
+      "description": "The Timberwolves' clearest edge is on the glass. Gobert leads the NBA in total rebounds, and Minnesota averages 45.4 RPG. Extra possessions from offensive rebounds and limiting Orlando's second chances could compensate for the shooting inconsistency and health issues. But Orlando counters with their own offensive rebounding effort — they rank 1st in second-chance points in clutch situations. If Minnesota can win the rebounding battle by 8+ boards, they generate enough extra possessions to stay in the game even if their shooting is below par. If Orlando neutralizes the glass, Minnesota has no fallback plan."
+    }
+  ],
+  "prediction": {
+    "summary": "<p>Orlando's transition attack is the difference-maker. Minnesota's depleted roster — Edwards hobbled, McDaniels out, the team 6-9 in their last 15 — can't generate the consistent half-court offense needed to keep pace with a Magic team firing on all cylinders. Banchero and Bane dominate the first meeting with 55 combined points, and Orlando's defensive scheme held Minnesota to 35.7% shooting in that Game 1 blowout.</p><p>Gobert's rebounding keeps Minnesota within striking distance through three quarters, and Naz Reid provides scoring punch off the bench. But Orlando's transition game — fueled by Suggs' ball pressure and Minnesota's turnover tendencies — creates the separation. The Magic's clutch pedigree (27 wins, tied 1st in NBA) seals it in the fourth quarter when Minnesota's turnover issues in crunch time (worst in the NBA) hand Orlando extra possessions at the worst possible time. The Kia Center crowd, desperate for a playoff spot, provides the home-court energy that pushes Orlando over the top.</p>",
+    "phases": [
+      {
+        "title": "First Quarter — Feeling Out",
+        "description": "Orlando comes out pushing pace, trying to establish their transition game early. Suggs picks up a steal on Minnesota's second possession and finds Banchero for a transition dunk. Edwards responds with a pull-up three off the pick-and-roll, showing he can score even with the knee issue. Gobert cleans up two offensive rebounds, keeping Minnesota close. Bane hits a catch-and-shoot three as the Magic take a 28-25 lead after one — Orlando's transition opportunities (4 fast-break points) offset by Gobert's dominance on the glass."
+      },
+      {
+        "title": "Second Quarter — Orlando's Transition Takes Over",
+        "description": "Minnesota's bench rotation exposes their depth issues without McDaniels. Orlando's defense forces three turnovers in a four-minute stretch, converting each into transition points — Suggs to Banchero on the break, Bane pulling up in transition, and Wagner finishing a 2-on-1. The Magic build a 12-point lead. Naz Reid steadies Minnesota with 8 second-quarter points, and Gobert's putback cuts the halftime deficit to 8. Orlando leads 58-50, with 14 fast-break points to Minnesota's 4."
+      },
+      {
+        "title": "Third Quarter — Minnesota's Push",
+        "description": "Edwards comes out aggressive, attacking off the pick-and-roll for two straight baskets and finding Gobert for a lob that cuts the lead to 4. Randle hits a step-back three. The Kia Center gets quiet as Minnesota closes within 2. But Banchero answers — posting up Randle for a physical bucket, then finding Bane on a skip pass for a corner three. Orlando's defense tightens, holding Minnesota to 2-for-8 over the final four minutes of the quarter. Magic lead 84-78 heading into the fourth."
+      },
+      {
+        "title": "Fourth Quarter — Clutch Magic",
+        "description": "Minnesota stays within striking distance behind Edwards' scoring, cutting the lead to 3 with 4:30 left. But Orlando's clutch DNA shows. Banchero draws a foul on Randle and converts both free throws. Edwards misses a contested pull-up — the knee limiting his lift — and Suggs pushes in transition for an easy layup. Minnesota commits two turnovers in the final two minutes, both converted by Orlando. Bane ices it with free throws (90.9% FT shooter), and the Magic secure a 9-point win that keeps their playoff hopes alive."
+      }
+    ],
+    "projectedScore": {
+      "teamA": 105,
+      "teamB": 114,
+      "rationale": "Orlando's transition efficiency (1.214 PPP, 4th in NBA) exploits Minnesota's turnover tendencies and depleted wing depth without McDaniels. The Magic's size-based defense held Minnesota to 35.7% shooting in Game 1, and with Edwards limited by knee pain, that scheme should be similarly effective. Gobert's rebounding (11.5 RPG) keeps Minnesota competitive and limits Orlando's fast-break opportunities off the glass, but it can't compensate for the turnover-driven transition points. Banchero and Bane combine for 45+ again, Orlando's clutch experience (27 wins, 1st in second-chance clutch points) closes the game, and the Magic's desperate motivation outweighs Minnesota's postseason-locked-in complacency."
+    }
+  },
+  "players": [
+    {
+      "team": "b",
+      "name": "Paolo Banchero",
+      "stats": "PF | 22.3 PPG, 8.4 RPG, 5.1 APG | 45.9% FG",
+      "meta": "6'10\" | Primary Creator | 25 pts, 15 reb in Game 1",
+      "bio": "Banchero is Orlando's offensive engine — a 6'10\" point-forward who initiates the half-court offense from the mid-post, the elbow, and in pick-and-roll. He <strong>dominated the first meeting with 25 points and 15 rebounds</strong> against Minnesota, using his size advantage to overpower the Wolves' interior defense. Tonight he draws Julius Randle, who gave up that big Game 1 line. Banchero's 30.9% three-point shooting is his one limitation — he's not a floor spacer — but his physical paint scoring and playmaking (5.1 APG) make him the most important player on the floor if Edwards is limited. His ability to draw fouls and create for Bane in drive-and-kick sequences is Orlando's half-court identity."
+    },
+    {
+      "team": "b",
+      "name": "Desmond Bane",
+      "stats": "SG | 20.5 PPG, 4.2 RPG, 4.1 APG | 48.5% FG, 39.4% 3PT, 90.9% FT",
+      "meta": "Premier Perimeter Shooter | 30 pts in Game 1",
+      "bio": "Bane was the best player on the floor in Game 1 — <strong>30 points on elite efficiency</strong> — and his shooting is the perimeter threat that unlocks Orlando's offense. At 39.4% from three and 90.9% from the line, he's one of the NBA's most complete shooters. While Orlando as a team shoots just 34.2% from three (26th), Bane single-handedly provides the spacing that prevents defenses from loading up on Banchero. His off-ball movement and catch-and-shoot ability make him dangerous even when the defense focuses elsewhere. If Edwards is limited defensively by his knee, the Bane-Edwards matchup becomes a major mismatch in Orlando's favor."
+    },
+    {
+      "team": "b",
+      "name": "Jalen Suggs",
+      "stats": "PG | 13.7 PPG, 5.6 APG, 1.9 SPG",
+      "meta": "Defensive Catalyst | Transition Igniter",
+      "bio": "Suggs is the spark plug for Orlando's transition game. His <strong>1.9 steals per game</strong> generate the live-ball turnovers that fuel the Magic's 4th-ranked transition offense (1.214 PPP). He matches up with Donte DiVincenzo tonight — and DiVincenzo was <strong>0-for-his-shots in the March 7 loss</strong>, suggesting Suggs' length and pressure can neutralize Minnesota's secondary perimeter shooter. If Suggs can force 2-3 turnovers from DiVincenzo and the Minnesota ball-handlers, each one becomes a potential fast-break bucket that extends Orlando's lead. His 5.6 assists also keep the half-court offense moving when Banchero draws doubles."
+    },
+    {
+      "team": "a",
+      "name": "Anthony Edwards",
+      "stats": "SG | 28.9 PPG, 5.0 RPG, 3.7 APG",
+      "meta": "Day-to-Day (Right Knee) | 34 pts in Game 1",
+      "bio": "Edwards is the best player in this matchup when healthy — his <strong>28.9 PPG and 50.4% FG in his recent stretch</strong> make him nearly unguardable in the pick-and-roll. He scored 34 in Game 1 (13/14 FT) despite Minnesota's blowout loss, showing he can produce even against Orlando's size. But the <strong>right knee patellofemoral pain</strong> is the wild card: his on/off numbers (+13.8 ORTG differential) prove Minnesota is a different team when he's diminished. His clutch shooting (53% FG in clutch situations) gives Minnesota their best chance if the game stays close, but the knee may limit his explosiveness on drives and his ability to elevate on pull-up jumpers."
+    },
+    {
+      "team": "a",
+      "name": "Rudy Gobert",
+      "stats": "C | 10.9 PPG, 11.5 RPG, 1.6 BPG | 68.5% FG",
+      "meta": "NBA Rebounding Leader (872 total) | Defensive Anchor",
+      "bio": "Gobert is Minnesota's most reliable player right now — his <strong>11.5 RPG (NBA leader with 872 total rebounds)</strong> and 1.6 BPG anchor both ends. His rim protection and rebounding are the Wolves' primary edge in this matchup. On offense, his vertical spacing in the Edwards-Gobert pick-and-roll demands attention at the rim, but Orlando's scheme — which limits opponents to 26.2 FGA at the rim (7th fewest) — is designed to neutralize exactly this kind of player. If Wendell Carter Jr. sits (questionable, neck), Gobert's paint dominance grows significantly. His defensive rebounding also limits Orlando's transition opportunities, directly countering the Magic's biggest weapon."
+    },
+    {
+      "team": "a",
+      "name": "Julius Randle",
+      "stats": "PF | 23.4 PPG, 7.5 RPG, 5.7 APG",
+      "meta": "Secondary Creator | 14 pts in Game 1",
+      "bio": "Randle is Minnesota's second scoring option and primary playmaker when Edwards rests — but he was <strong>limited to 14 points and 9 rebounds in the March 7 loss</strong> while Banchero dominated with 25/15. Tonight's matchup with Banchero is the game's key forward battle. Both are 6'8\"-6'9\" power forwards who create from the mid-post, but Banchero is more physical inside while Randle is the better three-point shooter. Randle needs to be more aggressive than Game 1 — attacking Banchero off the dribble, hitting threes to pull Orlando's defense out of the paint, and facilitating for Gobert on the interior. If Edwards is limited, Randle must be the 25+ point scorer Minnesota needs."
+    },
+    {
+      "team": "a",
+      "name": "Naz Reid",
+      "stats": "C | 13.7 PPG, 6.2 RPG",
+      "meta": "Key Bench Scorer | Minnesota's Depth Lifeline",
+      "bio": "With McDaniels out and Edwards limited, Reid is Minnesota's most important bench player. His <strong>13.7 PPG and 6.2 RPG</strong> provide scoring punch in reserve minutes when the Wolves' starters rest. Reid can stretch the floor with his shooting touch and provides a capable frontcourt option alongside Gobert. Against Orlando's size, his ability to hit mid-range jumpers and three-pointers draws the Magic's big defenders away from the paint — opening driving lanes for Minnesota's guards. The bench minutes where Reid is the primary scorer will determine whether Minnesota stays competitive or falls behind by double digits."
+    },
+    {
+      "team": "b",
+      "name": "Franz Wagner",
+      "stats": "SF | 20.5 PPG (when healthy)",
+      "meta": "6'10\" Two-Way Wing | Versatile Scorer",
+      "bio": "Wagner gives Orlando a third 20-PPG scorer when healthy and provides the <strong>6'10\" wing length</strong> that makes the Magic's defensive scheme work. His size allows him to guard multiple positions and contest shots without fouling. On offense, he's a versatile scorer who can attack in transition, operate in the mid-post, and finish at the rim. Against Minnesota's depleted wing rotation (no McDaniels), Wagner's ability to attack mismatches becomes even more valuable. His minutes may be managed, but when he's on the floor, he's the connective tissue between Banchero's creation and Bane's shooting."
+    }
+  ],
+  "trends": [
+    {
+      "title": "Scoring Patterns",
+      "bullets": [
+        "<strong>Orlando is surging:</strong> The Magic are averaging 115.2 PPG over their last 10 games with a <strong>+10.2 point differential</strong>, winning 7 of 10 including a current 4-game win streak. Their most recent win — 123-107 over Detroit — showed their offense firing on all cylinders.",
+        "<strong>Minnesota is slumping:</strong> The Timberwolves have averaged just 110.9 PPG over their last 10 on 44.2% shooting — <strong>well below their season average</strong>. They've lost 4 of their last 5 and are 6-9 in their last 15 as injuries have disrupted their offensive rhythm.",
+        "<strong>The first meeting wasn't close:</strong> Orlando won 119-92 on March 7 in Minneapolis — a <strong>27-point blowout</strong>. The Magic shot efficiently while holding Minnesota to 35.7% from the field. The Wolves' starters DiVincenzo and McDaniels were a combined 0-for-15.",
+        "<strong>Orlando's offensive rating (116.5, 10th in NBA) vs. Minnesota's (118.1, 7th)</strong> suggests competitive scoring, but Minnesota's recent form (44.2% FG) and health issues mean their full-strength numbers overstate their current production."
+      ]
+    },
+    {
+      "title": "Matchup Dynamics",
+      "bullets": [
+        "<strong>Transition vs. rebounding is the core tension:</strong> Orlando ranks 4th in transition efficiency (1.214 PPP) and generates fast breaks off turnovers. Minnesota's Gobert leads the NBA in rebounds (872) and limits transition opportunities off missed shots. The battle between Orlando's runout game and Gobert's glass control determines the game's pace.",
+        "<strong>Paint scoring clash:</strong> Gobert's interior presence (68.5% FG, 1.6 BPG) runs directly into Orlando's rim-denial scheme that allows only 26.2 FGA at the rim per game (7th fewest). Orlando doesn't block shots individually — they prevent the attempts from happening through positioning and size.",
+        "<strong>Three-point gap:</strong> Minnesota is elite from deep (58.8% eFG%, Edwards at 50% from three recently) while Orlando shoots just 34.2% (26th in NBA). But Bane at 39.4% provides a reliable perimeter weapon, and Orlando's transition game generates easy looks that don't require three-point accuracy.",
+        "<strong>Clutch time is Orlando's domain:</strong> The Magic have 27 clutch wins (tied 1st). Minnesota turns it over at the NBA's highest rate in clutch time (1.8/game). If the game is close in the fourth, Orlando's experience and ball security give them the advantage."
+      ]
+    },
+    {
+      "title": "Injury & Availability",
+      "bullets": [
+        "<strong>Minnesota is depleted:</strong> Anthony Edwards is <strong>day-to-day with right knee patellofemoral pain</strong> and has been visibly limited. Jaden McDaniels is <strong>out with a knee injury</strong>. The Wolves' defensive identity takes a major hit without McDaniels' wing defense, and their offense depends entirely on Edwards' health.",
+        "<strong>Orlando has depth concerns too:</strong> Jonathan Isaac (knee) and Jalen Howard (ankle) are <strong>out</strong>. Wendell Carter Jr. (neck) and Jarace Cain (calf) are <strong>questionable</strong>. If Carter sits, Orlando loses their starting center and Gobert's rim dominance grows.",
+        "<strong>Naz Reid (13.7 PPG, 6.2 RPG) becomes critical</strong> as Minnesota's key bench player in a shortened rotation. Orlando's Suggs/Bane/Wagner/Banchero core has been healthy and in rhythm during their 4-game win streak."
+      ]
+    },
+    {
+      "title": "Situational Context",
+      "bullets": [
+        "<strong>Motivation is asymmetric:</strong> Orlando is fighting for its playoff life in a four-team logjam for the 7th and 8th seeds. Minnesota has clinched the 6th seed and may not have full urgency — especially with Edwards' health in mind ahead of the playoffs.",
+        "<strong>Home court matters:</strong> Orlando is playing at the Kia Center where the crowd will bring playoff-level energy. The Magic's recent form (4-game win streak, 7-3 in last 10) suggests they're playing their best basketball at the right time.",
+        "<strong>Coaching matchup:</strong> Chris Finch (3rd in Coach of the Year voting) must manage Edwards' minutes and find lineups with depleted personnel. Jamahl Mosley (also a COTY finalist) has built a defense that uses size and scheme over individual talent — his emphasis on 'winning plays' and '50-50 balls' has produced the NBA's best clutch record."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "heading": "Minnesota Timberwolves Sources",
+      "links": [
+        {
+          "label": "Basketball Reference: Timberwolves 2025-26",
+          "url": "https://www.basketball-reference.com/teams/MIN/2026.html"
+        },
+        {
+          "label": "CraftedNBA: Minnesota",
+          "url": "https://craftednba.com/teams/minnesota"
+        },
+        {
+          "label": "SI: Edwards & McDaniels Injury Updates",
+          "url": "https://www.si.com/nba/timberwolves/onsi/minnesota-timberwolves-news/whats-the-latest-anthony-edwards-jaden-mcdaniels-injuries"
+        },
+        {
+          "label": "Canis Hoopus: Clutch Time Analysis",
+          "url": "https://www.canishoopus.com/2025/3/4/24374658/minnesota-timberwolves-nba-analysis-clutch-time"
+        },
+        {
+          "label": "Zone Coverage: Timberwolves Efficient Offense",
+          "url": "https://zonecoverage.com/2025/timberwolves/the-timberwolves-efficient-offense-is-forcing-a-change-in-team-identity/"
+        },
+        {
+          "label": "Valley News Live: Timberwolves Ailing",
+          "url": "https://www.valleynewslive.com/2026/04/07/timberwolves-ailing-without-stars-anthony-edwards-jaden-mcdaniels-regular-season-comes-close/"
+        },
+        {
+          "label": "ESPN: Hornets 122-108 Timberwolves (Apr 5)",
+          "url": "https://www.espn.com/nba/recap/_/gameId/401810992"
+        }
+      ]
+    },
+    {
+      "heading": "Orlando Magic Sources",
+      "links": [
+        {
+          "label": "Basketball Reference: Magic 2025-26",
+          "url": "https://www.basketball-reference.com/teams/ORL/2026.html"
+        },
+        {
+          "label": "SI: Orlando's One Last Magic Trick",
+          "url": "https://www.si.com/nba/magic/onsi/news/orlando-s-one-last-magic-trick-before-playoffs-01knmww2mpb4"
+        },
+        {
+          "label": "Orlando Magic Daily: Clutch Performance",
+          "url": "https://orlandomagicdaily.com/clutch-factor-will-decide-orlando-magics-playoff-fate"
+        },
+        {
+          "label": "Orlando Magic Daily: Rim Protection",
+          "url": "https://orlandomagicdaily.com/posts/orlando-magics-only-defensive-weakness-lack-of-rim-protection"
+        },
+        {
+          "label": "Orlando Magic Daily: Transition Offense",
+          "url": "https://orlandomagicdaily.com/orlando-magic-fixed-biggest-weakness-leaning-biggest-strength"
+        },
+        {
+          "label": "957 WDAE: Game Info",
+          "url": "https://957wdae.iheart.com/content/2026-04-08-timberwolves-vs-magic-time-tv-stream-april-8/"
+        },
+        {
+          "label": "957 WDAE: Injury Report",
+          "url": "https://957wdae.iheart.com/content/2026-04-08-timberwolves-vs-magic-injury-report-april-8/"
+        }
+      ]
+    },
+    {
+      "heading": "General Sources",
+      "links": [
+        {
+          "label": "NBA.com: 2026 Playoffs Standings",
+          "url": "https://www.nba.com/news/2026-nba-playoffs-standings-and-bracket-updates"
+        },
+        {
+          "label": "NBA.com: Transition Stats",
+          "url": "https://www.nba.com/stats/teams/transition"
+        },
+        {
+          "label": "NBA.com: Clutch Traditional",
+          "url": "https://www.nba.com/stats/teams/clutch-traditional"
+        },
+        {
+          "label": "Basketball Reference: 2025-26 NBA Team Ratings",
+          "url": "https://www.basketball-reference.com/leagues/NBA_2026_ratings.html"
+        },
+        {
+          "label": "ESPN: Magic 119-92 Timberwolves (March 7)",
+          "url": "https://www.espn.com/nba/game/_/gameId/401810770/magic-timberwolves"
+        },
+        {
+          "label": "CBS Sports: 2026 NBA Playoff Picture",
+          "url": "https://www.cbssports.com/nba/news/2026-nba-playoff-picture-standings-tiebreakers/"
+        },
+        {
+          "label": "Yahoo Sports: April 8 Clinching Scenarios",
+          "url": "https://sports.yahoo.com/nba/article/2026-nba-playoff-picture-april-8-clinching-scenarios-and-stakes-for-postseason-contenders-173254778.html"
+        }
+      ]
+    }
+  ],
+  "footerText": "Timberwolves at Magic — April 8, 2026 — Kia Center, Orlando"
+}

@@ -23,6 +23,18 @@ body {
 a { color: var(--howard); text-decoration: none; }
 a:hover { color: var(--howard); text-decoration: underline; }
 
+/* ===== LOADING SPINNER ===== */
+.loading-spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40vh;
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: 1rem;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+}
+
 /* ===== SCORE BANNER ===== */
 .score-banner {
   position: sticky;
@@ -450,6 +462,42 @@ a:hover { color: var(--howard); text-decoration: underline; }
   margin: 0;
 }
 
+/* ===== ROUND SELECTOR ===== */
+.round-selector {
+  display: flex;
+  justify-content: center;
+  gap: .5rem;
+  padding: .75rem 1.5rem 0;
+}
+.round-pill {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  padding: .35rem .9rem;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background .15s, color .15s, border-color .15s;
+}
+.round-pill:hover {
+  border-color: var(--text-dim);
+  color: var(--text-dim);
+}
+.round-pill--active {
+  background: var(--panel-color, var(--team-a-primary));
+  border-color: var(--panel-color, var(--team-a-primary));
+  color: #fff;
+}
+.round-pill--active:hover {
+  background: var(--panel-color, var(--team-a-primary));
+  border-color: var(--panel-color, var(--team-a-primary));
+  color: #fff;
+}
+
 /* ===== SECTIONS ===== */
 .guide-section {
   max-width: 700px;
@@ -809,6 +857,38 @@ footer {
   margin-bottom: 2.5rem;
 }
 
+/* -- Sport filter dropdown -- */
+.home-sport-filter {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: .6rem;
+  margin-bottom: 1.75rem;
+}
+.home-sport-filter-label {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  color: var(--text-dim);
+}
+.home-sport-select {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: .85rem;
+  font-weight: 600;
+  color: inherit;
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: .4rem .6rem;
+  cursor: pointer;
+}
+.home-sport-select:focus {
+  outline: none;
+  border-color: var(--accent, #c8102e);
+}
+
 /* -- Today's Events section -- */
 .home-today {
   margin-bottom: 3rem;
@@ -923,6 +1003,11 @@ footer {
   font-size: .6em;
   font-weight: 700;
   letter-spacing: .02em;
+}
+.home-game-rounds-count {
+  color: var(--text-muted);
+  font-size: .6em;
+  font-weight: 600;
 }
 .home-game-info {
   font-size: .75rem;
